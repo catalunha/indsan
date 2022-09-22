@@ -24,10 +24,11 @@ void app() async {
   var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
   fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | IAB');
 
-  for (var mun in list) {
-    for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
+  for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
+    for (var mun in list) {
       // for (var year in [2015]) {
-      double? iab = await indIAB.calculate(mun.munCode, year, fileOpen);
+      double? iab = await indIAB.calculate(mun.munCode, year, null);
+      // double? iab = await indIAB.calculate(mun.munCode, year, fileOpen);
       print('${mun.munName} | ${mun.munCode} | $year | ${iab ?? "?"}');
       fileOpen
           .writeln('${mun.munName} | ${mun.munCode} | $year | ${iab ?? "?"}');
