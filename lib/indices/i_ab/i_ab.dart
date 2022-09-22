@@ -1,12 +1,13 @@
 // ignore_for_file: non_constant_identifier_names
+import 'dart:io';
 import 'dart:math';
 
 import 'package:indsan/indices/i_ab/i_ab_data.dart';
 
 class IndIAB {
   final IndIABData _iabData = IndIABData();
-  Future<double?> calculate(String munCode, int year) async {
-    if (await _iabData.existData(munCode, year)) {
+  Future<double?> calculate(String munCode, int year, IOSink? logs) async {
+    if (await _iabData.existData(munCode, year, logs)) {
       return indIAB();
     } else {
       return null;

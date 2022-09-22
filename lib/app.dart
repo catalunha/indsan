@@ -1,3 +1,5 @@
+import 'dart:io';
+
 import 'package:indsan/ind_store.dart';
 import 'package:indsan/indices/i_ab/i_ab.dart';
 import 'package:isar/isar.dart';
@@ -16,13 +18,28 @@ void app() async {
 
   IndIAB indIAB = IndIAB();
   List<MunModel> list = await isar.munModels.where().findAll();
+
+  var pathFileName = 'lib/calcs/iab.txt';
+  if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
+  var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
+  fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | IAB');
+
   for (var mun in list) {
-    // for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
-    for (var year in [2020]) {
-      double? iab = await indIAB.calculate(mun.munCode, year);
-      print('Mun.:${mun.munCode} Ano:$year. IAB: ${iab ?? "?"}');
+    for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
+      // for (var year in [2015]) {
+      double? iab = await indIAB.calculate(mun.munCode, year, fileOpen);
+      print('${mun.munName} | ${mun.munCode} | $year | ${iab ?? "?"}');
+      fileOpen
+          .writeln('${mun.munName} | ${mun.munCode} | $year | ${iab ?? "?"}');
     }
   }
+  fileOpen.close();
 
+  // +++ teste unitario
+  // String munCode = '3100302';
+  // int year = 2020;
+  // double? iab = await indIAB.calculate(munCode, year);
+  // print('Mun.:${munCode} Ano:$year. IAB: ${iab ?? "?"}');
+  // --- teste unitario
   isar.close();
 }
