@@ -25,7 +25,9 @@ class IndStore {
   Future<void> updateANA({bool update = false}) async {
     if (update) {
       print('Removendo todos os dados da collection ANA');
-      await _isar.aNAModels.clear();
+      await _isar.writeTxn(() async {
+        await _isar.aNAModels.clear();
+      });
     }
     int count = await _isar.aNAModels.count();
     if (count == 0) {
@@ -50,7 +52,9 @@ class IndStore {
   Future<void> updateMUN({bool update = false}) async {
     if (update) {
       print('Removendo todos os dados da collection MUN');
-      await _isar.munModels.clear();
+      await _isar.writeTxn(() async {
+        await _isar.munModels.clear();
+      });
     }
     int count = await _isar.munModels.count();
     if (count == 0) {
@@ -75,7 +79,9 @@ class IndStore {
   Future<void> updatePOP({bool update = false}) async {
     if (update) {
       print('Removendo todos os dados da collection POP');
-      await _isar.popModels.clear();
+      await _isar.writeTxn(() async {
+        await _isar.popModels.clear();
+      });
     }
     int count = await _isar.popModels.count();
     if (count == 0) {
@@ -100,7 +106,9 @@ class IndStore {
   Future<void> updateSNIS({bool update = false}) async {
     if (update) {
       print('Removendo todos os dados da collection SNIS');
-      await _isar.sNISModels.clear();
+      await _isar.writeTxn(() async {
+        await _isar.sNISModels.clear();
+      });
     }
     int count = await _isar.sNISModels.count();
     if (count == 0) {
@@ -125,7 +133,9 @@ class IndStore {
   Future<void> updateT({bool update = false}) async {
     if (update) {
       print('Removendo todos os dados da collection T');
-      await _isar.tModels.clear();
+      await _isar.writeTxn(() async {
+        await _isar.tModels.clear();
+      });
     }
     int count = await _isar.tModels.count();
     if (count == 0) {
