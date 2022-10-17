@@ -24,105 +24,158 @@ class IndIABData {
 
     ANAModel? anaModel =
         await isar.aNAModels.filter().munCodeEqualTo(munCode).findFirst();
+
     // print('+++ Analisando falta de dados');
+
+    List<String> varstoCalcICA = ['IN023_AE'];
+    List<String> varstoCalcIQA = [
+      'QD006',
+      'QD007',
+      'QD008',
+      'QD009',
+      'QD019',
+      'QD020',
+      'QD026',
+      'QD027',
+      'QD028',
+    ];
+    List<String> varstoCalcISA = [
+      'AG012',
+      'POP',
+      'IN022_AE',
+      'IN049_AE',
+      'IN049_5',
+      'T',
+      'font',
+    ];
+    List<String> varstoCalcs = [...varstoCalcISA];
+
     List<String> faltaDados = [];
     if (snisModel != null) {
-      if (snisModel.AG012 != null) {
-        AG012 = snisModel.AG012!;
-      } else {
-        faltaDados.add('snisModel.AG012');
-        result = false;
-      }
-      if (snisModel.IN022_AE != null) {
-        IN022_AE = snisModel.IN022_AE!;
-      } else {
-        faltaDados.add('snisModel.IN022_AE');
-        result = false;
-      }
-      if (snisModel.IN023_AE != null) {
-        IN023_AE = snisModel.IN023_AE!;
-      } else {
-        faltaDados.add('snisModel.IN022_AE');
-        result = false;
-      }
-      if (snisModel.IN049_AE != null) {
-        if (snisModel.IN049_AE! > 0) {
-          IN049_AE = snisModel.IN049_AE!;
+      if (varstoCalcs.contains('AG012')) {
+        if (snisModel.AG012 != null) {
+          AG012 = snisModel.AG012!;
         } else {
-          // IN049_AE = 15.21;
-          // IN049_AE = 15.4566;
-          // throw Exception('IN049_AE precisa de média');
-          // faltaDados.add('IN049_AE precisa de média');
-          // result = false;
-          List<SNISModel> snisModelList =
-              await isar.sNISModels.filter().munCodeEqualTo(munCode).findAll();
-          double IN049_AE_Sum = 0;
-          int IN049_AE_Length = 0;
-          for (var element in snisModelList) {
-            if (element.IN049_AE != null) {
-              IN049_AE_Sum = IN049_AE_Sum + element.IN049_AE!;
-              IN049_AE_Length++;
-            }
-          }
-          IN049_AE = IN049_AE_Sum / IN049_AE_Length;
+          faltaDados.add('snisModel.AG012');
+          result = false;
         }
-      } else {
-        faltaDados.add('snisModel.IN049_AE');
-        result = false;
       }
-      if (snisModel.QD006 != null) {
-        QD006 = snisModel.QD006!;
-      } else {
-        faltaDados.add('snisModel.QD006');
-        result = false;
+      if (varstoCalcs.contains('IN022_AE')) {
+        if (snisModel.IN022_AE != null) {
+          IN022_AE = snisModel.IN022_AE!;
+        } else {
+          faltaDados.add('snisModel.IN022_AE');
+          result = false;
+        }
       }
-      if (snisModel.QD007 != null) {
-        QD007 = snisModel.QD007!;
-      } else {
-        faltaDados.add('snisModel.QD007');
-        result = false;
+      if (varstoCalcs.contains('IN023_AE')) {
+        if (snisModel.IN023_AE != null) {
+          IN023_AE = snisModel.IN023_AE!;
+        } else {
+          faltaDados.add('snisModel.IN022_AE');
+          result = false;
+        }
       }
-      if (snisModel.QD008 != null) {
-        QD008 = snisModel.QD008!;
-      } else {
-        faltaDados.add('snisModel.QD008');
-        result = false;
+      if (varstoCalcs.contains('IN049_AE')) {
+        if (snisModel.IN049_AE != null) {
+          if (snisModel.IN049_AE! > 0) {
+            IN049_AE = snisModel.IN049_AE!;
+          } else {
+            // IN049_AE = 15.21;
+            // IN049_AE = 15.4566;
+            // throw Exception('IN049_AE precisa de média');
+            // faltaDados.add('IN049_AE precisa de média');
+            // result = false;
+            List<SNISModel> snisModelList = await isar.sNISModels
+                .filter()
+                .munCodeEqualTo(munCode)
+                .findAll();
+            double IN049_AE_Sum = 0;
+            int IN049_AE_Length = 0;
+            for (var element in snisModelList) {
+              if (element.IN049_AE != null) {
+                IN049_AE_Sum = IN049_AE_Sum + element.IN049_AE!;
+                IN049_AE_Length++;
+              }
+            }
+            IN049_AE = IN049_AE_Sum / IN049_AE_Length;
+          }
+        } else {
+          faltaDados.add('snisModel.IN049_AE');
+          result = false;
+        }
       }
-      if (snisModel.QD009 != null) {
-        QD009 = snisModel.QD009!;
-      } else {
-        faltaDados.add('snisModel.QD009');
-        result = false;
+      if (varstoCalcs.contains('QD006')) {
+        if (snisModel.QD006 != null) {
+          QD006 = snisModel.QD006!;
+        } else {
+          faltaDados.add('snisModel.QD006');
+          result = false;
+        }
       }
-      if (snisModel.QD026 != null) {
-        QD026 = snisModel.QD026!;
-      } else {
-        faltaDados.add('snisModel.QD026');
-        result = false;
+      if (varstoCalcs.contains('QD007')) {
+        if (snisModel.QD007 != null) {
+          QD007 = snisModel.QD007!;
+        } else {
+          faltaDados.add('snisModel.QD007');
+          result = false;
+        }
       }
-      if (snisModel.QD019 != null) {
-        QD019 = snisModel.QD019!;
-      } else {
-        faltaDados.add('snisModel.QD019');
-        result = false;
+      if (varstoCalcs.contains('QD008')) {
+        if (snisModel.QD008 != null) {
+          QD008 = snisModel.QD008!;
+        } else {
+          faltaDados.add('snisModel.QD008');
+          result = false;
+        }
       }
-      if (snisModel.QD020 != null) {
-        QD020 = snisModel.QD020!;
-      } else {
-        faltaDados.add('snisModel.QD020');
-        result = false;
+      if (varstoCalcs.contains('QD009')) {
+        if (snisModel.QD009 != null) {
+          QD009 = snisModel.QD009!;
+        } else {
+          faltaDados.add('snisModel.QD009');
+          result = false;
+        }
       }
-      if (snisModel.QD027 != null) {
-        QD027 = snisModel.QD027!;
-      } else {
-        faltaDados.add('snisModel.QD027');
-        result = false;
+      if (varstoCalcs.contains('QD026')) {
+        if (snisModel.QD026 != null) {
+          QD026 = snisModel.QD026!;
+        } else {
+          faltaDados.add('snisModel.QD026');
+          result = false;
+        }
       }
-      if (snisModel.QD028 != null) {
-        QD028 = snisModel.QD028!;
-      } else {
-        faltaDados.add('snisModel.QD028');
-        result = false;
+      if (varstoCalcs.contains('QD019')) {
+        if (snisModel.QD019 != null) {
+          QD019 = snisModel.QD019!;
+        } else {
+          faltaDados.add('snisModel.QD019');
+          result = false;
+        }
+      }
+      if (varstoCalcs.contains('QD020')) {
+        if (snisModel.QD020 != null) {
+          QD020 = snisModel.QD020!;
+        } else {
+          faltaDados.add('snisModel.QD020');
+          result = false;
+        }
+      }
+      if (varstoCalcs.contains('QD027')) {
+        if (snisModel.QD027 != null) {
+          QD027 = snisModel.QD027!;
+        } else {
+          faltaDados.add('snisModel.QD027');
+          result = false;
+        }
+      }
+      if (varstoCalcs.contains('QD028')) {
+        if (snisModel.QD028 != null) {
+          QD028 = snisModel.QD028!;
+        } else {
+          faltaDados.add('snisModel.QD028');
+          result = false;
+        }
       }
     } else {
       faltaDados.add('snisModel');
@@ -130,113 +183,119 @@ class IndIABData {
     }
 
     if (popModel != null) {
-      if (year == 2015) {
-        if (popModel.y2015 != null) {
-          POP = popModel.y2015!;
+      if (varstoCalcs.contains('POP')) {
+        if (year == 2015) {
+          if (popModel.y2015 != null) {
+            POP = popModel.y2015!;
+          } else {
+            faltaDados.add('popModel.y2015');
+            result = false;
+          }
+        } else if (year == 2016) {
+          if (popModel.y2016 != null) {
+            POP = popModel.y2016!;
+          } else {
+            faltaDados.add('popModel.y2016');
+            result = false;
+          }
+        } else if (year == 2017) {
+          if (popModel.y2017 != null) {
+            POP = popModel.y2017!;
+          } else {
+            faltaDados.add('popModel.y2017');
+            result = false;
+          }
+        } else if (year == 2018) {
+          if (popModel.y2018 != null) {
+            POP = popModel.y2018!;
+          } else {
+            faltaDados.add('popModel.y2018');
+            result = false;
+          }
+        } else if (year == 2019) {
+          if (popModel.y2019 != null) {
+            POP = popModel.y2019!;
+          } else {
+            faltaDados.add('popModel.y2019');
+            result = false;
+          }
+        } else if (year == 2020) {
+          if (popModel.y2020 != null) {
+            POP = popModel.y2020!;
+          } else {
+            faltaDados.add('popModel.y2020');
+            result = false;
+          }
         } else {
-          faltaDados.add('popModel.y2015');
+          faltaDados.add('popModel.y????'); //Ano fora da faixa de dados
           result = false;
         }
-      } else if (year == 2016) {
-        if (popModel.y2016 != null) {
-          POP = popModel.y2016!;
-        } else {
-          faltaDados.add('popModel.y2016');
-          result = false;
-        }
-      } else if (year == 2017) {
-        if (popModel.y2017 != null) {
-          POP = popModel.y2017!;
-        } else {
-          faltaDados.add('popModel.y2017');
-          result = false;
-        }
-      } else if (year == 2018) {
-        if (popModel.y2018 != null) {
-          POP = popModel.y2018!;
-        } else {
-          faltaDados.add('popModel.y2018');
-          result = false;
-        }
-      } else if (year == 2019) {
-        if (popModel.y2019 != null) {
-          POP = popModel.y2019!;
-        } else {
-          faltaDados.add('popModel.y2019');
-          result = false;
-        }
-      } else if (year == 2020) {
-        if (popModel.y2020 != null) {
-          POP = popModel.y2020!;
-        } else {
-          faltaDados.add('popModel.y2020');
-          result = false;
-        }
-      } else {
-        faltaDados.add('popModel.y????'); //Ano fora da faixa de dados
-        result = false;
       }
     } else {
       faltaDados.add('popModel');
       result = false;
     }
     if (tModel != null) {
-      if (year == 2015) {
-        if (tModel.y2015 != null) {
-          T = tModel.y2015!;
+      if (varstoCalcs.contains('T')) {
+        if (year == 2015) {
+          if (tModel.y2015 != null) {
+            T = tModel.y2015!;
+          } else {
+            faltaDados.add('tModel.y2015');
+            result = false;
+          }
+        } else if (year == 2016) {
+          if (tModel.y2016 != null) {
+            T = tModel.y2016!;
+          } else {
+            faltaDados.add('tModel.y2016');
+            result = false;
+          }
+        } else if (year == 2017) {
+          if (tModel.y2017 != null) {
+            T = tModel.y2017!;
+          } else {
+            faltaDados.add('tModel.y2017');
+            result = false;
+          }
+        } else if (year == 2018) {
+          if (tModel.y2018 != null) {
+            T = tModel.y2018!;
+          } else {
+            faltaDados.add('tModel.y2018');
+            result = false;
+          }
+        } else if (year == 2019) {
+          if (tModel.y2019 != null) {
+            T = tModel.y2019!;
+          } else {
+            faltaDados.add('tModel.y2019');
+            result = false;
+          }
+        } else if (year == 2020) {
+          if (tModel.y2020 != null) {
+            T = tModel.y2020!;
+          } else {
+            faltaDados.add('tModel.y2020');
+            result = false;
+          }
         } else {
-          faltaDados.add('tModel.y2015');
+          faltaDados.add('tModel.y????'); //Ano fora da faixa de dados
           result = false;
         }
-      } else if (year == 2016) {
-        if (tModel.y2016 != null) {
-          T = tModel.y2016!;
-        } else {
-          faltaDados.add('tModel.y2016');
-          result = false;
-        }
-      } else if (year == 2017) {
-        if (tModel.y2017 != null) {
-          T = tModel.y2017!;
-        } else {
-          faltaDados.add('tModel.y2017');
-          result = false;
-        }
-      } else if (year == 2018) {
-        if (tModel.y2018 != null) {
-          T = tModel.y2018!;
-        } else {
-          faltaDados.add('tModel.y2018');
-          result = false;
-        }
-      } else if (year == 2019) {
-        if (tModel.y2019 != null) {
-          T = tModel.y2019!;
-        } else {
-          faltaDados.add('tModel.y2019');
-          result = false;
-        }
-      } else if (year == 2020) {
-        if (tModel.y2020 != null) {
-          T = tModel.y2020!;
-        } else {
-          faltaDados.add('tModel.y2020');
-          result = false;
-        }
-      } else {
-        faltaDados.add('tModel.y????'); //Ano fora da faixa de dados
-        result = false;
       }
     } else {
       faltaDados.add('tModel');
       result = false;
     }
     if (anaModel != null) {
-      if (anaModel.font != null) {
-        font = anaModel.font!;
-      } else {
-        faltaDados.add('anaModel.font');
-        result = false;
+      if (varstoCalcs.contains('font')) {
+        if (anaModel.font != null) {
+          font = anaModel.font!;
+        } else {
+          faltaDados.add('anaModel.font');
+          result = false;
+        }
       }
     } else {
       faltaDados.add('anaModel');

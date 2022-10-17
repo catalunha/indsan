@@ -8,7 +8,10 @@ class IndIAB {
   final IndIABData _iabData = IndIABData();
   Future<double?> calculate(String munCode, int year, IOSink? logs) async {
     if (await _iabData.existData(munCode, year, logs)) {
-      return indIAB();
+      return indISA();
+      // return indIQA();
+      // return indICA();
+      // return indIAB();
     } else {
       return null;
     }
@@ -31,7 +34,7 @@ class IndIAB {
     return K * (NAA / NAR) * 100;
   }
 
-  num indISA() {
+  double indISA() {
     double part1 = _iabData.AG012;
     double part2a = 0.365;
     double part2b = _iabData.POP * _iabData.IN022_AE;

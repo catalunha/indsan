@@ -1,1352 +1,1330 @@
-MunicipioNome | MunicipioCodigo | Ano | IAB
-Abre Campo | 3100302 | 2015 | 60.9
-Erros | 3100302 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+MunicipioNome | MunicipioCodigo | Ano | ISA
+Abre Campo | 3100302 | 2015 | 3.0
+Erros | 3100302 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Abre Campo | 3100302 | 2016 | ?
-Abre Campo | 3100302 | 2017 | 60.9
-Abre Campo | 3100302 | 2018 | 65.74915885067738
-Abre Campo | 3100302 | 2019 | 66.68591156162773
-Abre Campo | 3100302 | 2020 | 66.64801077825328
-Aguanil | 3100807 | 2015 | 40.2339563031193
-Aguanil | 3100807 | 2016 | 69.87994350282486
-Aguanil | 3100807 | 2017 | 72.91159420289854
-Aguanil | 3100807 | 2018 | 73.14492753623188
-Aguanil | 3100807 | 2019 | 73.14492753623188
-Aguanil | 3100807 | 2020 | 72.87826086956521
-Águas Formosas | 3100906 | 2015 | 61.90389560545
-Erros | 3100906 | 2016 | [snisModel.QD019, snisModel.QD020, snisModel.QD028]
-Águas Formosas | 3100906 | 2016 | ?
-Águas Formosas | 3100906 | 2017 | 62.59490898104087
-Águas Formosas | 3100906 | 2018 | 64.05053345427844
-Erros | 3100906 | 2019 | [snisModel.QD020]
-Águas Formosas | 3100906 | 2019 | ?
-Águas Formosas | 3100906 | 2020 | 68.48769350852088
-Águas Vermelhas | 3101003 | 2015 | 44.41779221098728
-Águas Vermelhas | 3101003 | 2016 | 42.82381546954065
-Águas Vermelhas | 3101003 | 2017 | 43.42844944140041
-Águas Vermelhas | 3101003 | 2018 | 45.43040845029995
-Águas Vermelhas | 3101003 | 2019 | 50.58465481339099
-Águas Vermelhas | 3101003 | 2020 | 52.363269512823564
-Aiuruoca | 3101201 | 2015 | 40.03174603174603
-Aiuruoca | 3101201 | 2016 | 37.92222222222222
-Aiuruoca | 3101201 | 2017 | 44.47037037037037
-Aiuruoca | 3101201 | 2018 | 66.7
-Aiuruoca | 3101201 | 2019 | 66.86666666666666
-Aiuruoca | 3101201 | 2020 | 66.66666666666667
-Albertina | 3101409 | 2015 | 65.56022282445046
-Albertina | 3101409 | 2016 | 65.8317374284854
-Albertina | 3101409 | 2017 | 66.48012646793136
-Albertina | 3101409 | 2018 | 67.02800361336948
-Albertina | 3101409 | 2019 | 66.86669677807889
-Albertina | 3101409 | 2020 | 67.23288166214996
-Alfredo Vasconcelos | 3101631 | 2015 | 64.91920657958394
-Alfredo Vasconcelos | 3101631 | 2016 | 67.53235581622677
-Alfredo Vasconcelos | 3101631 | 2017 | 66.24477244772449
-Alfredo Vasconcelos | 3101631 | 2018 | 75.08990825688073
-Alfredo Vasconcelos | 3101631 | 2019 | 70.7776758409786
-Alfredo Vasconcelos | 3101631 | 2020 | 68.1991452991453
-Erros | 3102050 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Abre Campo | 3100302 | 2017 | 3.0
+Abre Campo | 3100302 | 2018 | 0.0
+Abre Campo | 3100302 | 2019 | 0.0
+Abre Campo | 3100302 | 2020 | 0.0
+Aguanil | 3100807 | 2015 | 0.0
+Aguanil | 3100807 | 2016 | 0.0
+Aguanil | 3100807 | 2017 | 0.0
+Aguanil | 3100807 | 2018 | 0.0
+Aguanil | 3100807 | 2019 | 0.0
+Aguanil | 3100807 | 2020 | 0.0
+Águas Formosas | 3100906 | 2015 | 0.0
+Águas Formosas | 3100906 | 2016 | 0.0
+Águas Formosas | 3100906 | 2017 | 0.0
+Águas Formosas | 3100906 | 2018 | 0.0
+Águas Formosas | 3100906 | 2019 | 0.0
+Águas Formosas | 3100906 | 2020 | 0.0
+Águas Vermelhas | 3101003 | 2015 | 0.0
+Águas Vermelhas | 3101003 | 2016 | 0.0
+Águas Vermelhas | 3101003 | 2017 | 0.0
+Águas Vermelhas | 3101003 | 2018 | 0.0
+Águas Vermelhas | 3101003 | 2019 | 0.0
+Águas Vermelhas | 3101003 | 2020 | 0.0
+Aiuruoca | 3101201 | 2015 | 2.0
+Aiuruoca | 3101201 | 2016 | 2.0
+Aiuruoca | 3101201 | 2017 | 2.0
+Aiuruoca | 3101201 | 2018 | 2.0
+Aiuruoca | 3101201 | 2019 | 2.0
+Aiuruoca | 3101201 | 2020 | 0.0
+Albertina | 3101409 | 2015 | 0.0
+Albertina | 3101409 | 2016 | 0.0
+Albertina | 3101409 | 2017 | 0.0
+Albertina | 3101409 | 2018 | 0.0
+Albertina | 3101409 | 2019 | 0.0
+Albertina | 3101409 | 2020 | 0.0
+Alfredo Vasconcelos | 3101631 | 2015 | 0.0
+Alfredo Vasconcelos | 3101631 | 2016 | 0.0
+Alfredo Vasconcelos | 3101631 | 2017 | 0.0
+Alfredo Vasconcelos | 3101631 | 2018 | 0.0
+Alfredo Vasconcelos | 3101631 | 2019 | 0.0
+Alfredo Vasconcelos | 3101631 | 2020 | 0.0
+Erros | 3102050 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Alto Caparaó | 3102050 | 2015 | ?
 Erros | 3102050 | 2016 | [snisModel.IN049_AE]
 Alto Caparaó | 3102050 | 2016 | ?
-Erros | 3102050 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3102050 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Alto Caparaó | 3102050 | 2017 | ?
-Alto Caparaó | 3102050 | 2018 | 58.15701091519731
-Alto Caparaó | 3102050 | 2019 | 47.71256583897667
-Alto Caparaó | 3102050 | 2020 | 49.377577125658384
-Amparo do Serra | 3102506 | 2015 | 101.47764876632802
-Amparo do Serra | 3102506 | 2016 | 101.44251207729468
-Amparo do Serra | 3102506 | 2017 | 112.10528905289054
-Amparo do Serra | 3102506 | 2018 | 113.90825688073396
-Amparo do Serra | 3102506 | 2019 | 115.93272171253822
-Amparo do Serra | 3102506 | 2020 | 105.76923076923076
-Andrelândia | 3102803 | 2015 | 68.76233435270132
-Andrelândia | 3102803 | 2016 | 66.86124474990454
-Andrelândia | 3102803 | 2017 | 65.83782416192282
-Andrelândia | 3102803 | 2018 | 66.63964582580411
-Andrelândia | 3102803 | 2019 | 66.2337242685236
-Andrelândia | 3102803 | 2020 | 66.5432064717779
-Aricanduva | 3104452 | 2015 | 63.34979423868313
-Aricanduva | 3104452 | 2016 | 65.98189300411524
-Aricanduva | 3104452 | 2017 | 61.94382716049383
-Aricanduva | 3104452 | 2018 | 41.153573956121726
-Aricanduva | 3104452 | 2019 | 48.56521739130435
-Aricanduva | 3104452 | 2020 | 66.36666666666666
-Arinos | 3104502 | 2015 | 65.79348438128436
-Arinos | 3104502 | 2016 | 64.22626001550789
-Arinos | 3104502 | 2017 | 63.055844400489775
-Arinos | 3104502 | 2018 | 63.37099892588615
-Arinos | 3104502 | 2019 | 62.03859649122807
-Arinos | 3104502 | 2020 | 62.13268019594122
-Ataléia | 3104700 | 2015 | 48.73322399157075
-Erros | 3104700 | 2016 | [snisModel.QD019]
-Ataléia | 3104700 | 2016 | ?
-Ataléia | 3104700 | 2017 | 52.42797743162026
-Ataléia | 3104700 | 2018 | 51.22181795908367
-Ataléia | 3104700 | 2019 | 42.96285769528229
-Ataléia | 3104700 | 2020 | 51.451199760738035
-Bandeira | 3105202 | 2015 | 47.565539452495976
-Erros | 3105202 | 2016 | [snisModel.QD019, snisModel.QD020, snisModel.QD028]
-Bandeira | 3105202 | 2016 | ?
-Bandeira | 3105202 | 2017 | 56.03236744759556
-Bandeira | 3105202 | 2018 | 42.97492807233868
-Bandeira | 3105202 | 2019 | 42.78258362168396
-Bandeira | 3105202 | 2020 | 63.24894514767933
-Bandeira do Sul | 3105301 | 2015 | 48.81578316861336
-Bandeira do Sul | 3105301 | 2016 | 50.8298592392932
-Bandeira do Sul | 3105301 | 2017 | 52.16798739306618
-Bandeira do Sul | 3105301 | 2018 | 52.9712189278227
-Bandeira do Sul | 3105301 | 2019 | 59.56001796945193
-Bandeira do Sul | 3105301 | 2020 | 60.19810874704492
-Bertópolis | 3106606 | 2015 | 50.33563218390805
-Bertópolis | 3106606 | 2016 | 49.702298850574714
-Bertópolis | 3106606 | 2017 | 50.510442917143955
-Bertópolis | 3106606 | 2018 | 47.98273092369478
-Bertópolis | 3106606 | 2019 | 39.851875378100424
-Bertópolis | 3106606 | 2020 | 50.265136096632745
-Erros | 3106804 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Alto Caparaó | 3102050 | 2018 | 0.0
+Alto Caparaó | 3102050 | 2019 | 0.0
+Alto Caparaó | 3102050 | 2020 | 0.0
+Amparo do Serra | 3102506 | 2015 | 2.0
+Amparo do Serra | 3102506 | 2016 | 2.0
+Amparo do Serra | 3102506 | 2017 | 2.0
+Amparo do Serra | 3102506 | 2018 | 2.0
+Amparo do Serra | 3102506 | 2019 | 0.0
+Amparo do Serra | 3102506 | 2020 | 0.0
+Andrelândia | 3102803 | 2015 | 3.0
+Andrelândia | 3102803 | 2016 | 3.0
+Andrelândia | 3102803 | 2017 | 3.0
+Andrelândia | 3102803 | 2018 | 3.0
+Andrelândia | 3102803 | 2019 | 0.0
+Andrelândia | 3102803 | 2020 | 0.0
+Aricanduva | 3104452 | 2015 | 0.0
+Aricanduva | 3104452 | 2016 | 0.0
+Aricanduva | 3104452 | 2017 | 0.0
+Aricanduva | 3104452 | 2018 | 0.0
+Aricanduva | 3104452 | 2019 | 0.0
+Aricanduva | 3104452 | 2020 | 0.0
+Arinos | 3104502 | 2015 | 3.0
+Arinos | 3104502 | 2016 | 3.0
+Arinos | 3104502 | 2017 | 3.0
+Arinos | 3104502 | 2018 | 0.0
+Arinos | 3104502 | 2019 | 0.0
+Arinos | 3104502 | 2020 | 0.0
+Ataléia | 3104700 | 2015 | 3.0
+Ataléia | 3104700 | 2016 | 3.0
+Ataléia | 3104700 | 2017 | 3.0
+Ataléia | 3104700 | 2018 | 3.0
+Ataléia | 3104700 | 2019 | 0.0
+Ataléia | 3104700 | 2020 | 0.0
+Bandeira | 3105202 | 2015 | 3.0
+Bandeira | 3105202 | 2016 | 3.0
+Bandeira | 3105202 | 2017 | 3.0
+Bandeira | 3105202 | 2018 | 3.0
+Bandeira | 3105202 | 2019 | 0.0
+Bandeira | 3105202 | 2020 | 0.0
+Bandeira do Sul | 3105301 | 2015 | 0.0
+Bandeira do Sul | 3105301 | 2016 | 0.0
+Bandeira do Sul | 3105301 | 2017 | 0.0
+Bandeira do Sul | 3105301 | 2018 | 0.0
+Bandeira do Sul | 3105301 | 2019 | 0.0
+Bandeira do Sul | 3105301 | 2020 | 0.0
+Bertópolis | 3106606 | 2015 | 3.0
+Bertópolis | 3106606 | 2016 | 3.0
+Bertópolis | 3106606 | 2017 | 0.0
+Bertópolis | 3106606 | 2018 | 0.0
+Bertópolis | 3106606 | 2019 | 0.0
+Bertópolis | 3106606 | 2020 | 0.0
+Erros | 3106804 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Bias Fortes | 3106804 | 2015 | ?
-Erros | 3106804 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3106804 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Bias Fortes | 3106804 | 2016 | ?
-Erros | 3106804 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3106804 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Bias Fortes | 3106804 | 2017 | ?
-Bias Fortes | 3106804 | 2018 | 64.95238095238095
-Bias Fortes | 3106804 | 2019 | 66.66666666666667
-Bias Fortes | 3106804 | 2020 | 64.28571428571428
-Erros | 3107208 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Bias Fortes | 3106804 | 2018 | 2.0
+Bias Fortes | 3106804 | 2019 | 0.0
+Bias Fortes | 3106804 | 2020 | 0.0
+Erros | 3107208 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Bocaina de Minas | 3107208 | 2015 | ?
-Erros | 3107208 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3107208 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Bocaina de Minas | 3107208 | 2016 | ?
-Erros | 3107208 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3107208 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Bocaina de Minas | 3107208 | 2017 | ?
-Erros | 3107208 | 2018 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3107208 | 2018 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Bocaina de Minas | 3107208 | 2018 | ?
-Erros | 3107208 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3107208 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Bocaina de Minas | 3107208 | 2019 | ?
-Bocaina de Minas | 3107208 | 2020 | 31.07037037037037
-Bom Jesus da Penha | 3107604 | 2015 | 88.37920489296637
-Bom Jesus da Penha | 3107604 | 2016 | 87.3931623931624
-Bom Jesus da Penha | 3107604 | 2017 | 76.73758865248227
-Bom Jesus da Penha | 3107604 | 2018 | 66.66666666666667
-Bom Jesus da Penha | 3107604 | 2019 | 66.78073394495414
-Bom Jesus da Penha | 3107604 | 2020 | 66.36666666666666
-Bom Repouso | 3107901 | 2015 | 68.06792685071214
-Bom Repouso | 3107901 | 2016 | 69.35177304964539
-Bom Repouso | 3107901 | 2017 | 69.98078067356896
-Bom Repouso | 3107901 | 2018 | 69.17464686707714
-Bom Repouso | 3107901 | 2019 | 64.37609336052572
-Bom Repouso | 3107901 | 2020 | 66.28155467720686
-Bonito de Minas | 3108255 | 2015 | 60.01838235294118
-Bonito de Minas | 3108255 | 2016 | 59.865196078431374
-Bonito de Minas | 3108255 | 2017 | 55.85106382978723
-Bonito de Minas | 3108255 | 2018 | 60.005156537753216
-Bonito de Minas | 3108255 | 2019 | 59.13608562691132
-Bonito de Minas | 3108255 | 2020 | 59.2062271062271
-Borda da Mata | 3108305 | 2015 | 64.40193092465411
-Borda da Mata | 3108305 | 2016 | 64.58971193415637
-Borda da Mata | 3108305 | 2017 | 68.15029511715257
-Borda da Mata | 3108305 | 2018 | 68.12673992673992
-Borda da Mata | 3108305 | 2019 | 65.51950091427342
-Borda da Mata | 3108305 | 2020 | 63.9611491454942
-Botelhos | 3108404 | 2015 | 68.56358881512774
-Botelhos | 3108404 | 2016 | 68.09943160571386
-Botelhos | 3108404 | 2017 | 66.02725335711807
-Botelhos | 3108404 | 2018 | 67.09777377557657
-Botelhos | 3108404 | 2019 | 66.25313610652249
-Botelhos | 3108404 | 2020 | 66.21615301829566
-Botumirim | 3108503 | 2015 | 71.19806763285025
-Botumirim | 3108503 | 2016 | 62.10512820512821
-Botumirim | 3108503 | 2017 | 34.2107508850382
-Botumirim | 3108503 | 2018 | 39.735170865552504
-Botumirim | 3108503 | 2019 | 39.500775193798454
-Botumirim | 3108503 | 2020 | 59.14855072463768
-Cachoeira da Prata | 3109600 | 2015 | 49.37301587301587
-Cachoeira da Prata | 3109600 | 2016 | 47.67301587301588
-Cachoeira da Prata | 3109600 | 2017 | 49.1063492063492
-Cachoeira da Prata | 3109600 | 2018 | 61.77777777777778
-Cachoeira da Prata | 3109600 | 2019 | 53.03333333333333
-Cachoeira da Prata | 3109600 | 2020 | 53.13333333333333
-Cachoeira de Minas | 3109709 | 2015 | 68.64232804232803
-Cachoeira de Minas | 3109709 | 2016 | 69.78373871201636
-Cachoeira de Minas | 3109709 | 2017 | 66.18089990817263
-Cachoeira de Minas | 3109709 | 2018 | 67.7180769463067
-Cachoeira de Minas | 3109709 | 2019 | 68.29259520866442
-Cachoeira de Minas | 3109709 | 2020 | 69.37408073214577
-Caiana | 3110103 | 2015 | 74.46156394963553
-Caiana | 3110103 | 2016 | 62.79909706546275
-Caiana | 3110103 | 2017 | 52.95724847315976
-Caiana | 3110103 | 2018 | 50.61921644811397
-Caiana | 3110103 | 2019 | 59.193301687763714
-Caiana | 3110103 | 2020 | 61.9449575600633
-Caldas | 3110301 | 2015 | 68.59761035213491
-Caldas | 3110301 | 2016 | 63.7218544451517
-Caldas | 3110301 | 2017 | 67.16637791012452
-Caldas | 3110301 | 2018 | 67.7192660173427
-Caldas | 3110301 | 2019 | 67.26360677083333
-Caldas | 3110301 | 2020 | 67.5194929932294
-Camacho | 3110400 | 2015 | 59.68807339449541
-Camacho | 3110400 | 2016 | 58.31192660550459
-Camacho | 3110400 | 2017 | 72.93647394718057
-Camacho | 3110400 | 2018 | 61.73700305810397
-Camacho | 3110400 | 2019 | 54.159021406727824
-Camacho | 3110400 | 2020 | 53.44932844932845
-Cambuquira | 3110707 | 2015 | 62.436963128619766
-Cambuquira | 3110707 | 2016 | 64.88316831683169
-Cambuquira | 3110707 | 2017 | 64.47692204165405
-Cambuquira | 3110707 | 2018 | 62.94313686578024
-Cambuquira | 3110707 | 2019 | 62.78430193720775
-Cambuquira | 3110707 | 2020 | 62.77610221282026
-Campanha | 3110905 | 2015 | 64.93196248196249
-Campanha | 3110905 | 2016 | 64.47917393833625
-Campanha | 3110905 | 2017 | 64.47724937619257
-Campanha | 3110905 | 2018 | 66.39784438144098
-Campanha | 3110905 | 2019 | 66.07823483467847
-Campanha | 3110905 | 2020 | 67.21666666666665
-Campina Verde | 3111101 | 2015 | 65.7651344590369
-Campina Verde | 3111101 | 2016 | 65.9042289435487
-Campina Verde | 3111101 | 2017 | 65.42707834264928
-Campina Verde | 3111101 | 2018 | 64.86589524969548
-Campina Verde | 3111101 | 2019 | 65.80141061024226
-Campina Verde | 3111101 | 2020 | 66.10544759228908
-Campo do Meio | 3111309 | 2015 | 66.11296296296297
-Campo do Meio | 3111309 | 2016 | 66.38738738738739
-Campo do Meio | 3111309 | 2017 | 66.44414414414415
-Campo do Meio | 3111309 | 2018 | 65.96858638743456
-Campo do Meio | 3111309 | 2019 | 65.94571670907548
-Campo do Meio | 3111309 | 2020 | 61.482838283828386
-Campo Florido | 3111408 | 2015 | 66.3
-Campo Florido | 3111408 | 2016 | 65.93333333333334
-Campo Florido | 3111408 | 2017 | 66.22988505747126
-Campo Florido | 3111408 | 2018 | 65.74423407917384
-Campo Florido | 3111408 | 2019 | 66.23270223752151
-Campo Florido | 3111408 | 2020 | 67.19518900343643
-Canaã | 3111705 | 2015 | 84.99177552007741
-Canaã | 3111705 | 2016 | 77.68650217706822
-Canaã | 3111705 | 2017 | 89.88416512630931
-Canaã | 3111705 | 2018 | 95.25382262996942
-Canaã | 3111705 | 2019 | 94.15902140672783
-Canaã | 3111705 | 2020 | 91.17826617826618
-Cana Verde | 3111903 | 2015 | 74.24189312723344
-Cana Verde | 3111903 | 2016 | 72.53268719118206
-Cana Verde | 3111903 | 2017 | 73.94214876033057
-Cana Verde | 3111903 | 2018 | 72.04159077109897
-Cana Verde | 3111903 | 2019 | 73.38816199376947
-Cana Verde | 3111903 | 2020 | 73.96720702465383
-Caparaó | 3112109 | 2015 | 51.382796792047905
-Caparaó | 3112109 | 2016 | 58.764721517458014
-Caparaó | 3112109 | 2017 | 67.26779533483823
-Caparaó | 3112109 | 2018 | 60.69478304489591
-Caparaó | 3112109 | 2019 | 60.243219666931004
-Caparaó | 3112109 | 2020 | 59.329287235375176
-Capetinga | 3112406 | 2015 | 69.95181483429774
-Capetinga | 3112406 | 2016 | 69.35564024390244
-Capetinga | 3112406 | 2017 | 66.42221337579618
-Capetinga | 3112406 | 2018 | 67.09452572292054
-Capetinga | 3112406 | 2019 | 66.78602590320382
-Capetinga | 3112406 | 2020 | 66.91301833394857
-Erros | 3112505 | 2015 | [snisModel.QD019, snisModel.QD020, snisModel.QD028]
-Capim Branco | 3112505 | 2015 | ?
-Erros | 3112505 | 2016 | [snisModel.QD019, snisModel.QD020, snisModel.QD028]
-Capim Branco | 3112505 | 2016 | ?
-Erros | 3112505 | 2017 | [snisModel.QD019, snisModel.QD020, snisModel.QD028]
-Capim Branco | 3112505 | 2017 | ?
-Capim Branco | 3112505 | 2018 | 40.64059651736
-Capim Branco | 3112505 | 2019 | 41.91618071131048
-Capim Branco | 3112505 | 2020 | 43.97105951260329
-Caputira | 3112901 | 2015 | 54.099025824832275
-Caputira | 3112901 | 2016 | 58.261727258782024
-Caputira | 3112901 | 2017 | 54.69399477806788
-Caputira | 3112901 | 2018 | 54.28121617319325
-Caputira | 3112901 | 2019 | 55.266723397357964
-Caputira | 3112901 | 2020 | 56.13496015117903
-Erros | 3113107 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Bocaina de Minas | 3107208 | 2020 | 0.0
+Bom Jesus da Penha | 3107604 | 2015 | 0.0
+Bom Jesus da Penha | 3107604 | 2016 | 0.0
+Bom Jesus da Penha | 3107604 | 2017 | 0.0
+Bom Jesus da Penha | 3107604 | 2018 | 0.0
+Bom Jesus da Penha | 3107604 | 2019 | 0.0
+Bom Jesus da Penha | 3107604 | 2020 | 0.0
+Bom Repouso | 3107901 | 2015 | 3.0
+Bom Repouso | 3107901 | 2016 | 3.0
+Bom Repouso | 3107901 | 2017 | 3.0
+Bom Repouso | 3107901 | 2018 | 0.0
+Bom Repouso | 3107901 | 2019 | 0.0
+Bom Repouso | 3107901 | 2020 | 0.0
+Bonito de Minas | 3108255 | 2015 | 0.0
+Bonito de Minas | 3108255 | 2016 | 0.0
+Bonito de Minas | 3108255 | 2017 | 0.0
+Bonito de Minas | 3108255 | 2018 | 0.0
+Bonito de Minas | 3108255 | 2019 | 0.0
+Bonito de Minas | 3108255 | 2020 | 0.0
+Borda da Mata | 3108305 | 2015 | 0.0
+Borda da Mata | 3108305 | 2016 | 0.0
+Borda da Mata | 3108305 | 2017 | 0.0
+Borda da Mata | 3108305 | 2018 | 0.0
+Borda da Mata | 3108305 | 2019 | 0.0
+Borda da Mata | 3108305 | 2020 | 0.0
+Botelhos | 3108404 | 2015 | 3.0
+Botelhos | 3108404 | 2016 | 3.0
+Botelhos | 3108404 | 2017 | 3.0
+Botelhos | 3108404 | 2018 | 3.0
+Botelhos | 3108404 | 2019 | 0.0
+Botelhos | 3108404 | 2020 | 0.0
+Botumirim | 3108503 | 2015 | 2.0
+Botumirim | 3108503 | 2016 | 2.0
+Botumirim | 3108503 | 2017 | 2.0
+Botumirim | 3108503 | 2018 | 2.0
+Botumirim | 3108503 | 2019 | 0.0
+Botumirim | 3108503 | 2020 | 0.0
+Cachoeira da Prata | 3109600 | 2015 | 2.0
+Cachoeira da Prata | 3109600 | 2016 | 2.0
+Cachoeira da Prata | 3109600 | 2017 | 2.0
+Cachoeira da Prata | 3109600 | 2018 | 2.0
+Cachoeira da Prata | 3109600 | 2019 | 0.0
+Cachoeira da Prata | 3109600 | 2020 | 0.0
+Cachoeira de Minas | 3109709 | 2015 | 0.0
+Cachoeira de Minas | 3109709 | 2016 | 0.0
+Cachoeira de Minas | 3109709 | 2017 | 0.0
+Cachoeira de Minas | 3109709 | 2018 | 0.0
+Cachoeira de Minas | 3109709 | 2019 | 0.0
+Cachoeira de Minas | 3109709 | 2020 | 0.0
+Caiana | 3110103 | 2015 | 0.0
+Caiana | 3110103 | 2016 | 0.0
+Caiana | 3110103 | 2017 | 0.0
+Caiana | 3110103 | 2018 | 0.0
+Caiana | 3110103 | 2019 | 0.0
+Caiana | 3110103 | 2020 | 0.0
+Caldas | 3110301 | 2015 | 0.0
+Caldas | 3110301 | 2016 | 0.0
+Caldas | 3110301 | 2017 | 0.0
+Caldas | 3110301 | 2018 | 0.0
+Caldas | 3110301 | 2019 | 0.0
+Caldas | 3110301 | 2020 | 0.0
+Camacho | 3110400 | 2015 | 2.0
+Camacho | 3110400 | 2016 | 2.0
+Camacho | 3110400 | 2017 | 2.0
+Camacho | 3110400 | 2018 | 2.0
+Camacho | 3110400 | 2019 | 0.0
+Camacho | 3110400 | 2020 | 0.0
+Cambuquira | 3110707 | 2015 | 5.0
+Cambuquira | 3110707 | 2016 | 5.0
+Cambuquira | 3110707 | 2017 | 5.0
+Cambuquira | 3110707 | 2018 | 0.0
+Cambuquira | 3110707 | 2019 | 0.0
+Cambuquira | 3110707 | 2020 | 0.0
+Campanha | 3110905 | 2015 | 0.0
+Campanha | 3110905 | 2016 | 0.0
+Campanha | 3110905 | 2017 | 0.0
+Campanha | 3110905 | 2018 | 0.0
+Campanha | 3110905 | 2019 | 0.0
+Campanha | 3110905 | 2020 | 0.0
+Campina Verde | 3111101 | 2015 | 5.0
+Campina Verde | 3111101 | 2016 | 5.0
+Campina Verde | 3111101 | 2017 | 0.0
+Campina Verde | 3111101 | 2018 | 0.0
+Campina Verde | 3111101 | 2019 | 0.0
+Campina Verde | 3111101 | 2020 | 0.0
+Campo do Meio | 3111309 | 2015 | 2.0
+Campo do Meio | 3111309 | 2016 | 2.0
+Campo do Meio | 3111309 | 2017 | 2.0
+Campo do Meio | 3111309 | 2018 | 0.0
+Campo do Meio | 3111309 | 2019 | 0.0
+Campo do Meio | 3111309 | 2020 | 0.0
+Campo Florido | 3111408 | 2015 | 0.0
+Campo Florido | 3111408 | 2016 | 0.0
+Campo Florido | 3111408 | 2017 | 0.0
+Campo Florido | 3111408 | 2018 | 0.0
+Campo Florido | 3111408 | 2019 | 0.0
+Campo Florido | 3111408 | 2020 | 0.0
+Canaã | 3111705 | 2015 | 2.0
+Canaã | 3111705 | 2016 | 2.0
+Canaã | 3111705 | 2017 | 2.0
+Canaã | 3111705 | 2018 | 2.0
+Canaã | 3111705 | 2019 | 0.0
+Canaã | 3111705 | 2020 | 0.0
+Cana Verde | 3111903 | 2015 | 5.0
+Cana Verde | 3111903 | 2016 | 5.0
+Cana Verde | 3111903 | 2017 | 5.0
+Cana Verde | 3111903 | 2018 | 5.0
+Cana Verde | 3111903 | 2019 | 5.0
+Cana Verde | 3111903 | 2020 | 5.0
+Caparaó | 3112109 | 2015 | 0.0
+Caparaó | 3112109 | 2016 | 0.0
+Caparaó | 3112109 | 2017 | 0.0
+Caparaó | 3112109 | 2018 | 0.0
+Caparaó | 3112109 | 2019 | 0.0
+Caparaó | 3112109 | 2020 | 0.0
+Capetinga | 3112406 | 2015 | 3.0
+Capetinga | 3112406 | 2016 | 3.0
+Capetinga | 3112406 | 2017 | 3.0
+Capetinga | 3112406 | 2018 | 3.0
+Capetinga | 3112406 | 2019 | 3.0
+Capetinga | 3112406 | 2020 | 3.0
+Capim Branco | 3112505 | 2015 | 0.0
+Capim Branco | 3112505 | 2016 | 0.0
+Capim Branco | 3112505 | 2017 | 0.0
+Capim Branco | 3112505 | 2018 | 0.0
+Capim Branco | 3112505 | 2019 | 0.0
+Capim Branco | 3112505 | 2020 | 0.0
+Caputira | 3112901 | 2015 | 0.0
+Caputira | 3112901 | 2016 | 0.0
+Caputira | 3112901 | 2017 | 0.0
+Caputira | 3112901 | 2018 | 0.0
+Caputira | 3112901 | 2019 | 0.0
+Caputira | 3112901 | 2020 | 0.0
+Erros | 3113107 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Caranaíba | 3113107 | 2015 | ?
-Caranaíba | 3113107 | 2016 | 33.9
-Caranaíba | 3113107 | 2017 | 45.11111111111111
-Caranaíba | 3113107 | 2018 | 56.08888888888888
-Caranaíba | 3113107 | 2019 | 34.21052631578947
-Caranaíba | 3113107 | 2020 | 34.21052631578947
-Careaçu | 3113602 | 2015 | 74.62460998121375
-Careaçu | 3113602 | 2016 | 72.05305197619892
-Careaçu | 3113602 | 2017 | 71.24379267535691
-Careaçu | 3113602 | 2018 | 69.86436781609196
-Careaçu | 3113602 | 2019 | 70.1906090190609
-Careaçu | 3113602 | 2020 | 68.27175295186196
-Carlos Chagas | 3113701 | 2015 | 49.047646783155926
-Carlos Chagas | 3113701 | 2016 | 60.07295690936106
-Carlos Chagas | 3113701 | 2017 | 59.78579486697377
-Carlos Chagas | 3113701 | 2018 | 54.03460677625994
-Carlos Chagas | 3113701 | 2019 | 46.476171352074964
-Carlos Chagas | 3113701 | 2020 | 50.14500939151706
-Carmo da Cachoeira | 3113909 | 2015 | 66.6733446245665
-Carmo da Cachoeira | 3113909 | 2016 | 63.43538803989555
-Carmo da Cachoeira | 3113909 | 2017 | 68.73302461613453
-Carmo da Cachoeira | 3113909 | 2018 | 72.29375788420549
-Carmo da Cachoeira | 3113909 | 2019 | 68.8528892385698
-Carmo da Cachoeira | 3113909 | 2020 | 68.48464044099224
-Carmo de Minas | 3114105 | 2015 | 64.83497870692993
-Carmo de Minas | 3114105 | 2016 | 66.59538066723695
-Carmo de Minas | 3114105 | 2017 | 66.6049971033993
-Carmo de Minas | 3114105 | 2018 | 66.48394370577715
-Carmo de Minas | 3114105 | 2019 | 66.18725670969064
-Carmo de Minas | 3114105 | 2020 | 66.543728443124
-Carneirinho | 3114550 | 2015 | 59.6996699669967
-Carneirinho | 3114550 | 2016 | 57.635223861531585
-Carneirinho | 3114550 | 2017 | 57.60664946976211
-Carneirinho | 3114550 | 2018 | 58.40275049115913
-Carneirinho | 3114550 | 2019 | 60.51203155818541
-Carneirinho | 3114550 | 2020 | 62.36601307189542
-Erros | 3114600 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Caranaíba | 3113107 | 2016 | 2.0
+Caranaíba | 3113107 | 2017 | 2.0
+Caranaíba | 3113107 | 2018 | 2.0
+Caranaíba | 3113107 | 2019 | 0.0
+Caranaíba | 3113107 | 2020 | 0.0
+Careaçu | 3113602 | 2015 | 0.0
+Careaçu | 3113602 | 2016 | 0.0
+Careaçu | 3113602 | 2017 | 0.0
+Careaçu | 3113602 | 2018 | 0.0
+Careaçu | 3113602 | 2019 | 0.0
+Careaçu | 3113602 | 2020 | 0.0
+Carlos Chagas | 3113701 | 2015 | 3.0
+Carlos Chagas | 3113701 | 2016 | 3.0
+Carlos Chagas | 3113701 | 2017 | 3.0
+Carlos Chagas | 3113701 | 2018 | 3.0
+Carlos Chagas | 3113701 | 2019 | 0.0
+Carlos Chagas | 3113701 | 2020 | 0.0
+Carmo da Cachoeira | 3113909 | 2015 | 0.0
+Carmo da Cachoeira | 3113909 | 2016 | 3.0
+Carmo da Cachoeira | 3113909 | 2017 | 0.0
+Carmo da Cachoeira | 3113909 | 2018 | 0.0
+Carmo da Cachoeira | 3113909 | 2019 | 0.0
+Carmo da Cachoeira | 3113909 | 2020 | 0.0
+Carmo de Minas | 3114105 | 2015 | 0.0
+Carmo de Minas | 3114105 | 2016 | 0.0
+Carmo de Minas | 3114105 | 2017 | 0.0
+Carmo de Minas | 3114105 | 2018 | 0.0
+Carmo de Minas | 3114105 | 2019 | 0.0
+Carmo de Minas | 3114105 | 2020 | 0.0
+Carneirinho | 3114550 | 2015 | 0.0
+Carneirinho | 3114550 | 2016 | 0.0
+Carneirinho | 3114550 | 2017 | 0.0
+Carneirinho | 3114550 | 2018 | 0.0
+Carneirinho | 3114550 | 2019 | 0.0
+Carneirinho | 3114550 | 2020 | 0.0
+Erros | 3114600 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Carrancas | 3114600 | 2015 | ?
-Carrancas | 3114600 | 2016 | 34.333333333333336
-Erros | 3114600 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Carrancas | 3114600 | 2016 | 3.0
+Erros | 3114600 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Carrancas | 3114600 | 2017 | ?
-Erros | 3114600 | 2018 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3114600 | 2018 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Carrancas | 3114600 | 2018 | ?
-Erros | 3114600 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3114600 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Carrancas | 3114600 | 2019 | ?
-Carrancas | 3114600 | 2020 | 33.233333333333334
-Carvalhópolis | 3114709 | 2015 | 68.64404008438818
-Carvalhópolis | 3114709 | 2016 | 70.1828215398309
-Carvalhópolis | 3114709 | 2017 | 69.62475660639778
-Carvalhópolis | 3114709 | 2018 | 70.84019341190692
-Carvalhópolis | 3114709 | 2019 | 70.29673740435976
-Carvalhópolis | 3114709 | 2020 | 70.53094669848846
-Carvalhos | 3114808 | 2015 | 76.76181533646321
-Carvalhos | 3114808 | 2016 | 74.86232401348404
-Carvalhos | 3114808 | 2017 | 72.78499594484997
-Carvalhos | 3114808 | 2018 | 72.98416569879984
-Carvalhos | 3114808 | 2019 | 66.33574406380279
-Carvalhos | 3114808 | 2020 | 66.2815485996705
-Cascalho Rico | 3115003 | 2015 | 67.29458394879369
-Cascalho Rico | 3115003 | 2016 | 66.51479521849892
-Cascalho Rico | 3115003 | 2017 | 56.2503671071953
-Cascalho Rico | 3115003 | 2018 | 57.064220183486235
-Cascalho Rico | 3115003 | 2019 | 57.48960244648318
-Cascalho Rico | 3115003 | 2020 | 56.95531135531136
-Conceição da Barra de Minas | 3115201 | 2015 | 66.08746177370031
-Conceição da Barra de Minas | 3115201 | 2016 | 64.36666666666666
-Conceição da Barra de Minas | 3115201 | 2017 | 64.43084370677731
-Conceição da Barra de Minas | 3115201 | 2018 | 65.59480122324159
-Conceição da Barra de Minas | 3115201 | 2019 | 64.45840978593272
-Conceição da Barra de Minas | 3115201 | 2020 | 66.0013431013431
-Cedro do Abaeté | 3115607 | 2015 | 62.369626639757826
-Cedro do Abaeté | 3115607 | 2016 | 62.26516853932585
-Cedro do Abaeté | 3115607 | 2017 | 59.95855855855856
-Cedro do Abaeté | 3115607 | 2018 | 59.675918177591825
-Cedro do Abaeté | 3115607 | 2019 | 58.99182389937107
-Cedro do Abaeté | 3115607 | 2020 | 62.44007744433688
-Chiador | 3116209 | 2015 | 52.07142857142858
-Chiador | 3116209 | 2016 | 52.17142857142857
-Chiador | 3116209 | 2017 | 52.271428571428565
-Chiador | 3116209 | 2018 | 52.91637426900584
-Chiador | 3116209 | 2019 | 53.08304093567251
-Chiador | 3116209 | 2020 | 66.83450292397661
-Claraval | 3116407 | 2015 | 66.66666666666667
-Claraval | 3116407 | 2016 | 55.81623931623932
-Claraval | 3116407 | 2017 | 66.33333333333333
-Claraval | 3116407 | 2018 | 66.60000000000001
-Claraval | 3116407 | 2019 | 66.36666666666666
-Claraval | 3116407 | 2020 | 66.66666666666667
-Claro dos Poções | 3116506 | 2015 | 71.42264995523725
-Claro dos Poções | 3116506 | 2016 | 70.79272615194945
-Claro dos Poções | 3116506 | 2017 | 68.00569105691058
-Claro dos Poções | 3116506 | 2018 | 70.04189602446483
-Claro dos Poções | 3116506 | 2019 | 67.80030581039755
-Claro dos Poções | 3116506 | 2020 | 70.18022598870057
-Comercinho | 3117009 | 2015 | 49.984026203073824
-Comercinho | 3117009 | 2016 | 45.30627114233672
-Comercinho | 3117009 | 2017 | 40.839922402836315
-Comercinho | 3117009 | 2018 | 48.135179610676296
-Comercinho | 3117009 | 2019 | 41.596003418129236
-Comercinho | 3117009 | 2020 | 54.06606606606607
-Conceição das Pedras | 3117207 | 2015 | 67.66666666666667
-Conceição das Pedras | 3117207 | 2016 | 67.60000000000001
-Conceição das Pedras | 3117207 | 2017 | 66.56666666666666
-Conceição das Pedras | 3117207 | 2018 | 63.56666666666666
-Conceição das Pedras | 3117207 | 2019 | 52.455555555555556
-Conceição das Pedras | 3117207 | 2020 | 61.111111111111114
-Conceição do Rio Verde | 3117702 | 2015 | 65.35467613943247
-Conceição do Rio Verde | 3117702 | 2016 | 66.22814561446371
-Conceição do Rio Verde | 3117702 | 2017 | 65.39814271749755
-Conceição do Rio Verde | 3117702 | 2018 | 68.67531325201229
-Conceição do Rio Verde | 3117702 | 2019 | 66.74083274744162
-Conceição do Rio Verde | 3117702 | 2020 | 69.4916486497944
-Cônego Marinho | 3117836 | 2015 | 64.58715596330275
-Cônego Marinho | 3117836 | 2016 | 64.86238532110092
-Cônego Marinho | 3117836 | 2017 | 56.879432624113484
-Cônego Marinho | 3117836 | 2018 | 60.76452599388379
-Cônego Marinho | 3117836 | 2019 | 59.93333333333334
-Cônego Marinho | 3117836 | 2020 | 60.41709401709401
-Congonhal | 3117900 | 2015 | 74.28921441534872
-Congonhal | 3117900 | 2016 | 73.57322354376335
-Congonhal | 3117900 | 2017 | 73.68195950831524
-Congonhal | 3117900 | 2018 | 73.44350989264484
-Congonhal | 3117900 | 2019 | 71.20696018982336
-Congonhal | 3117900 | 2020 | 69.94237148672643
-Cordislândia | 3119005 | 2015 | 73.21167842811678
-Cordislândia | 3119005 | 2016 | 75.8398352456605
-Cordislândia | 3119005 | 2017 | 76.25421245421246
-Cordislândia | 3119005 | 2018 | 76.75354342358337
-Cordislândia | 3119005 | 2019 | 76.70281051677244
-Cordislândia | 3119005 | 2020 | 75.75107764983761
-Coronel Murta | 3119500 | 2015 | 49.78190265019534
-Erros | 3119500 | 2016 | [snisModel.QD028]
-Coronel Murta | 3119500 | 2016 | ?
-Erros | 3119500 | 2017 | [snisModel.QD028]
-Coronel Murta | 3119500 | 2017 | ?
-Erros | 3119500 | 2018 | [snisModel.QD028]
-Coronel Murta | 3119500 | 2018 | ?
-Erros | 3119500 | 2019 | [snisModel.QD028]
-Coronel Murta | 3119500 | 2019 | ?
-Erros | 3119500 | 2020 | [snisModel.QD028]
-Coronel Murta | 3119500 | 2020 | ?
-Córrego Danta | 3119807 | 2015 | 50.1084249084249
-Córrego Danta | 3119807 | 2016 | 47.66220735785953
-Córrego Danta | 3119807 | 2017 | 47.528942115768466
-Córrego Danta | 3119807 | 2018 | 56.02618013321749
-Córrego Danta | 3119807 | 2019 | 53.8635280441732
-Córrego Danta | 3119807 | 2020 | 65.94523881652024
-Erros | 3119906 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Carrancas | 3114600 | 2020 | 0.0
+Carvalhópolis | 3114709 | 2015 | 0.0
+Carvalhópolis | 3114709 | 2016 | 0.0
+Carvalhópolis | 3114709 | 2017 | 0.0
+Carvalhópolis | 3114709 | 2018 | 0.0
+Carvalhópolis | 3114709 | 2019 | 0.0
+Carvalhópolis | 3114709 | 2020 | 0.0
+Carvalhos | 3114808 | 2015 | 3.0
+Carvalhos | 3114808 | 2016 | 3.0
+Carvalhos | 3114808 | 2017 | 3.0
+Carvalhos | 3114808 | 2018 | 3.0
+Carvalhos | 3114808 | 2019 | 0.0
+Carvalhos | 3114808 | 2020 | 0.0
+Cascalho Rico | 3115003 | 2015 | 0.0
+Cascalho Rico | 3115003 | 2016 | 0.0
+Cascalho Rico | 3115003 | 2017 | 0.0
+Cascalho Rico | 3115003 | 2018 | 0.0
+Cascalho Rico | 3115003 | 2019 | 0.0
+Cascalho Rico | 3115003 | 2020 | 0.0
+Conceição da Barra de Minas | 3115201 | 2015 | 2.0
+Conceição da Barra de Minas | 3115201 | 2016 | 2.0
+Conceição da Barra de Minas | 3115201 | 2017 | 2.0
+Conceição da Barra de Minas | 3115201 | 2018 | 2.0
+Conceição da Barra de Minas | 3115201 | 2019 | 0.0
+Conceição da Barra de Minas | 3115201 | 2020 | 0.0
+Cedro do Abaeté | 3115607 | 2015 | 3.0
+Cedro do Abaeté | 3115607 | 2016 | 3.0
+Cedro do Abaeté | 3115607 | 2017 | 3.0
+Cedro do Abaeté | 3115607 | 2018 | 3.0
+Cedro do Abaeté | 3115607 | 2019 | 3.0
+Cedro do Abaeté | 3115607 | 2020 | 0.0
+Chiador | 3116209 | 2015 | 2.0
+Chiador | 3116209 | 2016 | 2.0
+Chiador | 3116209 | 2017 | 2.0
+Chiador | 3116209 | 2018 | 2.0
+Chiador | 3116209 | 2019 | 2.0
+Chiador | 3116209 | 2020 | 2.0
+Claraval | 3116407 | 2015 | 0.0
+Claraval | 3116407 | 2016 | 0.0
+Claraval | 3116407 | 2017 | 0.0
+Claraval | 3116407 | 2018 | 0.0
+Claraval | 3116407 | 2019 | 0.0
+Claraval | 3116407 | 2020 | 0.0
+Claro dos Poções | 3116506 | 2015 | 2.0
+Claro dos Poções | 3116506 | 2016 | 2.0
+Claro dos Poções | 3116506 | 2017 | 2.0
+Claro dos Poções | 3116506 | 2018 | 2.0
+Claro dos Poções | 3116506 | 2019 | 0.0
+Claro dos Poções | 3116506 | 2020 | 0.0
+Comercinho | 3117009 | 2015 | 2.0
+Comercinho | 3117009 | 2016 | 2.0
+Comercinho | 3117009 | 2017 | 2.0
+Comercinho | 3117009 | 2018 | 2.0
+Comercinho | 3117009 | 2019 | 0.0
+Comercinho | 3117009 | 2020 | 0.0
+Conceição das Pedras | 3117207 | 2015 | 3.0
+Conceição das Pedras | 3117207 | 2016 | 3.0
+Conceição das Pedras | 3117207 | 2017 | 0.0
+Conceição das Pedras | 3117207 | 2018 | 0.0
+Conceição das Pedras | 3117207 | 2019 | 0.0
+Conceição das Pedras | 3117207 | 2020 | 0.0
+Conceição do Rio Verde | 3117702 | 2015 | 0.0
+Conceição do Rio Verde | 3117702 | 2016 | 0.0
+Conceição do Rio Verde | 3117702 | 2017 | 0.0
+Conceição do Rio Verde | 3117702 | 2018 | 0.0
+Conceição do Rio Verde | 3117702 | 2019 | 0.0
+Conceição do Rio Verde | 3117702 | 2020 | 0.0
+Cônego Marinho | 3117836 | 2015 | 0.0
+Cônego Marinho | 3117836 | 2016 | 0.0
+Cônego Marinho | 3117836 | 2017 | 0.0
+Cônego Marinho | 3117836 | 2018 | 0.0
+Cônego Marinho | 3117836 | 2019 | 0.0
+Cônego Marinho | 3117836 | 2020 | 0.0
+Congonhal | 3117900 | 2015 | 0.0
+Congonhal | 3117900 | 2016 | 0.0
+Congonhal | 3117900 | 2017 | 0.0
+Congonhal | 3117900 | 2018 | 0.0
+Congonhal | 3117900 | 2019 | 0.0
+Congonhal | 3117900 | 2020 | 0.0
+Cordislândia | 3119005 | 2015 | 0.0
+Cordislândia | 3119005 | 2016 | 0.0
+Cordislândia | 3119005 | 2017 | 3.0
+Cordislândia | 3119005 | 2018 | 3.0
+Cordislândia | 3119005 | 2019 | 0.0
+Cordislândia | 3119005 | 2020 | 0.0
+Coronel Murta | 3119500 | 2015 | 3.0
+Coronel Murta | 3119500 | 2016 | 3.0
+Coronel Murta | 3119500 | 2017 | 3.0
+Coronel Murta | 3119500 | 2018 | 0.0
+Coronel Murta | 3119500 | 2019 | 0.0
+Coronel Murta | 3119500 | 2020 | 0.0
+Córrego Danta | 3119807 | 2015 | 2.0
+Córrego Danta | 3119807 | 2016 | 2.0
+Córrego Danta | 3119807 | 2017 | 2.0
+Córrego Danta | 3119807 | 2018 | 2.0
+Córrego Danta | 3119807 | 2019 | 0.0
+Córrego Danta | 3119807 | 2020 | 0.0
+Erros | 3119906 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Córrego do Bom Jesus | 3119906 | 2015 | ?
-Erros | 3119906 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3119906 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Córrego do Bom Jesus | 3119906 | 2016 | ?
-Córrego do Bom Jesus | 3119906 | 2017 | 67.35882619533197
-Córrego do Bom Jesus | 3119906 | 2018 | 67.43757924097709
-Córrego do Bom Jesus | 3119906 | 2019 | 64.06901208244493
-Córrego do Bom Jesus | 3119906 | 2020 | 64.66893358331913
-Crisólita | 3120151 | 2015 | 39.01948109058927
-Crisólita | 3120151 | 2016 | 37.42819575060954
-Crisólita | 3120151 | 2017 | 37.91977299880526
-Crisólita | 3120151 | 2018 | 37.762678509230234
-Crisólita | 3120151 | 2019 | 23.15941636582431
-Crisólita | 3120151 | 2020 | 31.200869286544087
-Cristais | 3120201 | 2015 | 68.14846574190837
-Cristais | 3120201 | 2016 | 68.78162153098013
-Cristais | 3120201 | 2017 | 68.92528399356895
-Cristais | 3120201 | 2018 | 68.90962651802784
-Cristais | 3120201 | 2019 | 68.44180238870793
-Cristais | 3120201 | 2020 | 66.96707210904658
-Cristina | 3120508 | 2015 | 67.0040404040404
-Cristina | 3120508 | 2016 | 67.41879174256223
-Cristina | 3120508 | 2017 | 67.26700060716455
-Cristina | 3120508 | 2018 | 66.34486945962355
-Cristina | 3120508 | 2019 | 65.58894960534305
-Cristina | 3120508 | 2020 | 66.14678202792958
-Crucilândia | 3120607 | 2015 | 65.17926490146294
-Crucilândia | 3120607 | 2016 | 58.695255176911786
-Crucilândia | 3120607 | 2017 | 54.85380461462936
-Crucilândia | 3120607 | 2018 | 58.597267054013344
-Crucilândia | 3120607 | 2019 | 52.405493597686906
-Crucilândia | 3120607 | 2020 | 60.55071492403932
-Cruzília | 3120805 | 2015 | 65.01708097107138
-Cruzília | 3120805 | 2016 | 65.06530597395037
-Cruzília | 3120805 | 2017 | 65.16901822457378
-Cruzília | 3120805 | 2018 | 65.49304833429618
-Cruzília | 3120805 | 2019 | 65.31552795031057
-Cruzília | 3120805 | 2020 | 65.72587262513413
-Curral de Dentro | 3120870 | 2015 | 69.93813455120322
-Curral de Dentro | 3120870 | 2016 | 66.24646719336583
-Curral de Dentro | 3120870 | 2017 | 65.67661520869068
-Curral de Dentro | 3120870 | 2018 | 57.91786064769382
-Curral de Dentro | 3120870 | 2019 | 64.25407897374224
-Curral de Dentro | 3120870 | 2020 | 81.18720649550143
-Erros | 3121001 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Córrego do Bom Jesus | 3119906 | 2017 | 2.0
+Córrego do Bom Jesus | 3119906 | 2018 | 2.0
+Córrego do Bom Jesus | 3119906 | 2019 | 2.0
+Córrego do Bom Jesus | 3119906 | 2020 | 2.0
+Crisólita | 3120151 | 2015 | 0.0
+Crisólita | 3120151 | 2016 | 0.0
+Crisólita | 3120151 | 2017 | 0.0
+Crisólita | 3120151 | 2018 | 0.0
+Crisólita | 3120151 | 2019 | 0.0
+Crisólita | 3120151 | 2020 | 0.0
+Cristais | 3120201 | 2015 | 0.0
+Cristais | 3120201 | 2016 | 0.0
+Cristais | 3120201 | 2017 | 0.0
+Cristais | 3120201 | 2018 | 0.0
+Cristais | 3120201 | 2019 | 0.0
+Cristais | 3120201 | 2020 | 0.0
+Cristina | 3120508 | 2015 | 5.0
+Cristina | 3120508 | 2016 | 5.0
+Cristina | 3120508 | 2017 | 5.0
+Cristina | 3120508 | 2018 | 5.0
+Cristina | 3120508 | 2019 | 0.0
+Cristina | 3120508 | 2020 | 0.0
+Crucilândia | 3120607 | 2015 | 0.0
+Crucilândia | 3120607 | 2016 | 0.0
+Crucilândia | 3120607 | 2017 | 0.0
+Crucilândia | 3120607 | 2018 | 0.0
+Crucilândia | 3120607 | 2019 | 0.0
+Crucilândia | 3120607 | 2020 | 0.0
+Cruzília | 3120805 | 2015 | 0.0
+Cruzília | 3120805 | 2016 | 0.0
+Cruzília | 3120805 | 2017 | 0.0
+Cruzília | 3120805 | 2018 | 0.0
+Cruzília | 3120805 | 2019 | 0.0
+Cruzília | 3120805 | 2020 | 0.0
+Curral de Dentro | 3120870 | 2015 | 0.0
+Curral de Dentro | 3120870 | 2016 | 0.0
+Curral de Dentro | 3120870 | 2017 | 0.0
+Curral de Dentro | 3120870 | 2018 | 0.0
+Curral de Dentro | 3120870 | 2019 | 0.0
+Curral de Dentro | 3120870 | 2020 | 0.0
+Erros | 3121001 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Datas | 3121001 | 2015 | ?
-Erros | 3121001 | 2016 | [snisModel.QD019, snisModel.QD020, snisModel.QD028]
-Datas | 3121001 | 2016 | ?
-Erros | 3121001 | 2017 | [snisModel.QD020, snisModel.QD028]
-Datas | 3121001 | 2017 | ?
-Datas | 3121001 | 2018 | 85.6880733944954
-Erros | 3121001 | 2019 | [snisModel.QD019, snisModel.QD020, snisModel.QD028]
-Datas | 3121001 | 2019 | ?
-Erros | 3121001 | 2020 | [snisModel.QD028]
-Datas | 3121001 | 2020 | ?
-Delfim Moreira | 3121100 | 2015 | 268.1296296296296
-Delfim Moreira | 3121100 | 2016 | 93.23836427226257
-Delfim Moreira | 3121100 | 2017 | 93.23836427226257
-Delfim Moreira | 3121100 | 2018 | 93.23836427226257
-Delfim Moreira | 3121100 | 2019 | 65.49631556133507
-Delfim Moreira | 3121100 | 2020 | 64.97361853832443
-Delfinópolis | 3121209 | 2015 | 62.22079025959109
-Delfinópolis | 3121209 | 2016 | 61.51008403361345
-Delfinópolis | 3121209 | 2017 | 60.870116861435726
-Delfinópolis | 3121209 | 2018 | 60.56401695813461
-Delfinópolis | 3121209 | 2019 | 59.71951344168456
-Delfinópolis | 3121209 | 2020 | 59.73042675221152
-Delta | 3121258 | 2015 | 63.9046783625731
-Delta | 3121258 | 2016 | 65.46666666666667
-Delta | 3121258 | 2017 | 64.86666666666666
-Delta | 3121258 | 2018 | 64.15639412997903
-Delta | 3121258 | 2019 | 65.24171154997008
-Delta | 3121258 | 2020 | 74.03825338253382
-Dom Viçoso | 3122801 | 2015 | 66.19683189328482
-Dom Viçoso | 3122801 | 2016 | 66.19683189328482
-Dom Viçoso | 3122801 | 2017 | 66.20465285350781
-Dom Viçoso | 3122801 | 2018 | 66.90465285350781
-Dom Viçoso | 3122801 | 2019 | 67.03798618684114
-Dom Viçoso | 3122801 | 2020 | 67.00617957106506
-Dona Eusébia | 3122900 | 2015 | 36.50913790228447
-Dona Eusébia | 3122900 | 2016 | 36.534750699509196
-Dona Eusébia | 3122900 | 2017 | 36.007442458231104
-Dona Eusébia | 3122900 | 2018 | 41.29622641509434
-Dona Eusébia | 3122900 | 2019 | 46.90719403205554
-Dona Eusébia | 3122900 | 2020 | 48.365505103836675
-Douradoquara | 3123502 | 2015 | NaN
-Douradoquara | 3123502 | 2016 | NaN
-Douradoquara | 3123502 | 2017 | NaN
-Douradoquara | 3123502 | 2018 | NaN
-Erros | 3123502 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Datas | 3121001 | 2016 | 0.0
+Datas | 3121001 | 2017 | 0.0
+Datas | 3121001 | 2018 | 0.0
+Datas | 3121001 | 2019 | 0.0
+Datas | 3121001 | 2020 | 0.0
+Delfim Moreira | 3121100 | 2015 | 3.0
+Delfim Moreira | 3121100 | 2016 | 3.0
+Delfim Moreira | 3121100 | 2017 | 3.0
+Delfim Moreira | 3121100 | 2018 | 3.0
+Delfim Moreira | 3121100 | 2019 | 0.0
+Delfim Moreira | 3121100 | 2020 | 0.0
+Delfinópolis | 3121209 | 2015 | 0.0
+Delfinópolis | 3121209 | 2016 | 0.0
+Delfinópolis | 3121209 | 2017 | 0.0
+Delfinópolis | 3121209 | 2018 | 0.0
+Delfinópolis | 3121209 | 2019 | 0.0
+Delfinópolis | 3121209 | 2020 | 0.0
+Delta | 3121258 | 2015 | 0.0
+Delta | 3121258 | 2016 | 0.0
+Delta | 3121258 | 2017 | 0.0
+Delta | 3121258 | 2018 | 0.0
+Delta | 3121258 | 2019 | 0.0
+Delta | 3121258 | 2020 | 0.0
+Dom Viçoso | 3122801 | 2015 | 2.0
+Dom Viçoso | 3122801 | 2016 | 2.0
+Dom Viçoso | 3122801 | 2017 | 2.0
+Dom Viçoso | 3122801 | 2018 | 2.0
+Dom Viçoso | 3122801 | 2019 | 2.0
+Dom Viçoso | 3122801 | 2020 | 2.0
+Dona Eusébia | 3122900 | 2015 | 0.0
+Dona Eusébia | 3122900 | 2016 | 0.0
+Dona Eusébia | 3122900 | 2017 | 0.0
+Dona Eusébia | 3122900 | 2018 | 0.0
+Dona Eusébia | 3122900 | 2019 | 0.0
+Dona Eusébia | 3122900 | 2020 | 0.0
+Douradoquara | 3123502 | 2015 | 0.0
+Douradoquara | 3123502 | 2016 | 0.0
+Douradoquara | 3123502 | 2017 | 0.0
+Douradoquara | 3123502 | 2018 | 0.0
+Erros | 3123502 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Douradoquara | 3123502 | 2019 | ?
-Douradoquara | 3123502 | 2020 | 66.66666666666667
-Entre Rios de Minas | 3123908 | 2015 | 58.608542492294156
-Entre Rios de Minas | 3123908 | 2016 | 56.31913378644776
-Entre Rios de Minas | 3123908 | 2017 | 55.34297520661156
-Entre Rios de Minas | 3123908 | 2018 | 56.95288591392167
-Entre Rios de Minas | 3123908 | 2019 | 54.88591549295774
-Entre Rios de Minas | 3123908 | 2020 | 52.45218027509511
-Estiva | 3124500 | 2015 | 71.77462808566291
-Estiva | 3124500 | 2016 | 72.06646942800789
-Estiva | 3124500 | 2017 | 70.87610881135423
-Estiva | 3124500 | 2018 | 72.25274725274726
-Estiva | 3124500 | 2019 | 73.35164835164835
-Estiva | 3124500 | 2020 | 69.73539140022051
-Estrela do Indaiá | 3124708 | 2015 | 66.25504587155963
-Estrela do Indaiá | 3124708 | 2016 | 65.63239171374765
-Estrela do Indaiá | 3124708 | 2017 | 64.93758865248226
-Estrela do Indaiá | 3124708 | 2018 | 66.51345565749236
-Estrela do Indaiá | 3124708 | 2019 | 66.41896024464832
-Estrela do Indaiá | 3124708 | 2020 | 67.52124542124541
-Erros | 3125408 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Douradoquara | 3123502 | 2020 | 0.0
+Entre Rios de Minas | 3123908 | 2015 | 0.0
+Entre Rios de Minas | 3123908 | 2016 | 0.0
+Entre Rios de Minas | 3123908 | 2017 | 0.0
+Entre Rios de Minas | 3123908 | 2018 | 0.0
+Entre Rios de Minas | 3123908 | 2019 | 0.0
+Entre Rios de Minas | 3123908 | 2020 | 0.0
+Estiva | 3124500 | 2015 | 0.0
+Estiva | 3124500 | 2016 | 0.0
+Estiva | 3124500 | 2017 | 0.0
+Estiva | 3124500 | 2018 | 0.0
+Estiva | 3124500 | 2019 | 0.0
+Estiva | 3124500 | 2020 | 0.0
+Estrela do Indaiá | 3124708 | 2015 | 2.0
+Estrela do Indaiá | 3124708 | 2016 | 2.0
+Estrela do Indaiá | 3124708 | 2017 | 2.0
+Estrela do Indaiá | 3124708 | 2018 | 2.0
+Estrela do Indaiá | 3124708 | 2019 | 2.0
+Estrela do Indaiá | 3124708 | 2020 | 2.0
+Erros | 3125408 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Felício dos Santos | 3125408 | 2015 | ?
-Felício dos Santos | 3125408 | 2016 | 50.07142857142858
-Felício dos Santos | 3125408 | 2017 | 50.07142857142858
-Felício dos Santos | 3125408 | 2018 | 50.07142857142858
-Erros | 3125408 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Felício dos Santos | 3125408 | 2016 | 2.0
+Felício dos Santos | 3125408 | 2017 | 2.0
+Felício dos Santos | 3125408 | 2018 | 2.0
+Erros | 3125408 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Felício dos Santos | 3125408 | 2019 | ?
-Erros | 3125408 | 2020 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3125408 | 2020 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Felício dos Santos | 3125408 | 2020 | ?
-São Gonçalo do Rio Preto | 3125507 | 2015 | 43.01632038542607
-São Gonçalo do Rio Preto | 3125507 | 2016 | 50.566757000903344
-São Gonçalo do Rio Preto | 3125507 | 2017 | 56.077817602548784
-São Gonçalo do Rio Preto | 3125507 | 2018 | 42.17727453317441
-São Gonçalo do Rio Preto | 3125507 | 2019 | 38.09210044659199
-São Gonçalo do Rio Preto | 3125507 | 2020 | 66.53411458333333
-Francisco Badaró | 3126505 | 2015 | 69.88943089430894
-Francisco Badaró | 3126505 | 2016 | 54.80392156862745
-Francisco Badaró | 3126505 | 2017 | 36.15923426727299
-Francisco Badaró | 3126505 | 2018 | 61.0570735650768
-Francisco Badaró | 3126505 | 2019 | 50.22803886575451
-Francisco Badaró | 3126505 | 2020 | 57.05044877746828
-Glaucilândia | 3127354 | 2015 | 70.33639143730886
-Glaucilândia | 3127354 | 2016 | 70.27620841180163
-Glaucilândia | 3127354 | 2017 | 68.86524822695036
-Glaucilândia | 3127354 | 2018 | 69.97549019607843
-Glaucilândia | 3127354 | 2019 | 67.76960784313725
-Glaucilândia | 3127354 | 2020 | 69.90377358490566
-Gonçalves | 3127404 | 2015 | 73.15262122025406
-Gonçalves | 3127404 | 2016 | 71.38539042821158
-Gonçalves | 3127404 | 2017 | 63.24987714987716
-Gonçalves | 3127404 | 2018 | 66.22936944561998
-Gonçalves | 3127404 | 2019 | 66.74604579294845
-Gonçalves | 3127404 | 2020 | 66.94856985698569
-Grão Mogol | 3127800 | 2015 | 49.86320224719102
-Erros | 3127800 | 2016 | [snisModel.QD028]
-Grão Mogol | 3127800 | 2016 | ?
-Erros | 3127800 | 2017 | [snisModel.QD028]
-Grão Mogol | 3127800 | 2017 | ?
-Erros | 3127800 | 2018 | [snisModel.QD028]
-Grão Mogol | 3127800 | 2018 | ?
-Erros | 3127800 | 2019 | [snisModel.QD028]
-Grão Mogol | 3127800 | 2019 | ?
-Erros | 3127800 | 2020 | [snisModel.QD028]
-Grão Mogol | 3127800 | 2020 | ?
-Erros | 3128105 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+São Gonçalo do Rio Preto | 3125507 | 2015 | 0.0
+São Gonçalo do Rio Preto | 3125507 | 2016 | 0.0
+São Gonçalo do Rio Preto | 3125507 | 2017 | 0.0
+São Gonçalo do Rio Preto | 3125507 | 2018 | 0.0
+São Gonçalo do Rio Preto | 3125507 | 2019 | 0.0
+São Gonçalo do Rio Preto | 3125507 | 2020 | 0.0
+Francisco Badaró | 3126505 | 2015 | 3.0
+Francisco Badaró | 3126505 | 2016 | 3.0
+Francisco Badaró | 3126505 | 2017 | 3.0
+Francisco Badaró | 3126505 | 2018 | 0.0
+Francisco Badaró | 3126505 | 2019 | 0.0
+Francisco Badaró | 3126505 | 2020 | 0.0
+Glaucilândia | 3127354 | 2015 | 0.0
+Glaucilândia | 3127354 | 2016 | 0.0
+Glaucilândia | 3127354 | 2017 | 0.0
+Glaucilândia | 3127354 | 2018 | 0.0
+Glaucilândia | 3127354 | 2019 | 0.0
+Glaucilândia | 3127354 | 2020 | 0.0
+Gonçalves | 3127404 | 2015 | 0.0
+Gonçalves | 3127404 | 2016 | 0.0
+Gonçalves | 3127404 | 2017 | 0.0
+Gonçalves | 3127404 | 2018 | 0.0
+Gonçalves | 3127404 | 2019 | 0.0
+Gonçalves | 3127404 | 2020 | 0.0
+Grão Mogol | 3127800 | 2015 | 0.0
+Grão Mogol | 3127800 | 2016 | 0.0
+Grão Mogol | 3127800 | 2017 | 0.0
+Grão Mogol | 3127800 | 2018 | 0.0
+Grão Mogol | 3127800 | 2019 | 0.0
+Grão Mogol | 3127800 | 2020 | 0.0
+Erros | 3128105 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Guapé | 3128105 | 2015 | ?
-Guapé | 3128105 | 2016 | 66.1741786362886
-Guapé | 3128105 | 2017 | 63.930513404147696
-Guapé | 3128105 | 2018 | 62.635923974986916
-Guapé | 3128105 | 2019 | 63.26241134751772
-Guapé | 3128105 | 2020 | 65.38833333333334
-Guaranésia | 3128303 | 2015 | 55.306150972347304
-Guaranésia | 3128303 | 2016 | 54.73163340724316
-Guaranésia | 3128303 | 2017 | 52.98434064057912
-Guaranésia | 3128303 | 2018 | 52.53116004744046
-Guaranésia | 3128303 | 2019 | 53.14456528533034
-Guaranésia | 3128303 | 2020 | 58.8943509236492
-Guarará | 3128501 | 2015 | 61.63738207547169
-Guarará | 3128501 | 2016 | 60.70212373037858
-Guarará | 3128501 | 2017 | 60.840736478711165
-Guarará | 3128501 | 2018 | 61.41016717843738
-Guarará | 3128501 | 2019 | 60.0075038423289
-Guarará | 3128501 | 2020 | 60.89077072825413
-Guarda-Mor | 3128600 | 2015 | 45.38316956412194
-Guarda-Mor | 3128600 | 2016 | 40.8187275049344
-Guarda-Mor | 3128600 | 2017 | 44.11713559629697
-Guarda-Mor | 3128600 | 2018 | 46.221610887214524
-Guarda-Mor | 3128600 | 2019 | 45.497132616487455
-Guarda-Mor | 3128600 | 2020 | 46.769762174405436
+Guapé | 3128105 | 2016 | 3.0
+Guapé | 3128105 | 2017 | 0.0
+Guapé | 3128105 | 2018 | 0.0
+Guapé | 3128105 | 2019 | 0.0
+Guapé | 3128105 | 2020 | 0.0
+Guaranésia | 3128303 | 2015 | 3.0
+Guaranésia | 3128303 | 2016 | 3.0
+Guaranésia | 3128303 | 2017 | 0.0
+Guaranésia | 3128303 | 2018 | 0.0
+Guaranésia | 3128303 | 2019 | 0.0
+Guaranésia | 3128303 | 2020 | 0.0
+Guarará | 3128501 | 2015 | 3.0
+Guarará | 3128501 | 2016 | 3.0
+Guarará | 3128501 | 2017 | 3.0
+Guarará | 3128501 | 2018 | 3.0
+Guarará | 3128501 | 2019 | 0.0
+Guarará | 3128501 | 2020 | 0.0
+Guarda-Mor | 3128600 | 2015 | 5.0
+Guarda-Mor | 3128600 | 2016 | 5.0
+Guarda-Mor | 3128600 | 2017 | 5.0
+Guarda-Mor | 3128600 | 2018 | 5.0
+Guarda-Mor | 3128600 | 2019 | 5.0
+Guarda-Mor | 3128600 | 2020 | 5.0
 Erros | 3128907 | 2015 | [snisModel.IN049_AE]
 Guimarânia | 3128907 | 2015 | ?
-Guimarânia | 3128907 | 2016 | 35.1838661263695
-Guimarânia | 3128907 | 2017 | 51.17581493165088
-Guimarânia | 3128907 | 2018 | 64.43800748632306
-Guimarânia | 3128907 | 2019 | 72.2820991629105
-Guimarânia | 3128907 | 2020 | 70.95563435776201
-Guiricema | 3129004 | 2015 | 37.00402732829917
-Guiricema | 3129004 | 2016 | 41.356531973322866
-Guiricema | 3129004 | 2017 | 39.35856052344602
-Guiricema | 3129004 | 2018 | 40.656181998021765
-Guiricema | 3129004 | 2019 | 38.38431603773585
-Guiricema | 3129004 | 2020 | 35.969553805774275
-Heliodora | 3129202 | 2015 | 69.23846692684879
-Heliodora | 3129202 | 2016 | 68.83156529039151
-Heliodora | 3129202 | 2017 | 57.75047733896091
-Heliodora | 3129202 | 2018 | 55.52091254752852
-Heliodora | 3129202 | 2019 | 56.12542671511949
-Heliodora | 3129202 | 2020 | 65.91136434592569
-Ibertioga | 3129400 | 2015 | 64.79830665738808
-Ibertioga | 3129400 | 2016 | 58.40434235368156
-Ibertioga | 3129400 | 2017 | 57.34057783527382
-Ibertioga | 3129400 | 2018 | 61.986647992530344
-Ibertioga | 3129400 | 2019 | 61.78030359126249
-Ibertioga | 3129400 | 2020 | 60.91520572450805
-Ibiracatu | 3129657 | 2015 | 61.15525372571213
-Ibiracatu | 3129657 | 2016 | 69.13513513513513
-Ibiracatu | 3129657 | 2017 | 70.51426546163388
-Ibiracatu | 3129657 | 2018 | 62.25753704649975
-Ibiracatu | 3129657 | 2019 | 56.78433124813822
-Ibiracatu | 3129657 | 2020 | 59.16293810589112
-Ibiraci | 3129707 | 2015 | 66.74924463291809
-Ibiraci | 3129707 | 2016 | 64.93691955993714
-Ibiraci | 3129707 | 2017 | 65.16214813190027
-Ibiraci | 3129707 | 2018 | 65.76111994347288
-Ibiraci | 3129707 | 2019 | 65.40663769261161
-Ibiraci | 3129707 | 2020 | 65.4072002072002
-Ibitiúra de Minas | 3129905 | 2015 | 74.07999027473863
-Ibitiúra de Minas | 3129905 | 2016 | 71.15424231636406
-Ibitiúra de Minas | 3129905 | 2017 | 72.4839243498818
-Ibitiúra de Minas | 3129905 | 2018 | 77.61165402976691
-Ibitiúra de Minas | 3129905 | 2019 | 77.04300433204543
-Ibitiúra de Minas | 3129905 | 2020 | 71.8891891891892
-Icaraí de Minas | 3130051 | 2015 | 76.26697247706421
-Icaraí de Minas | 3130051 | 2016 | 76.95076452599388
-Icaraí de Minas | 3130051 | 2017 | 67.89858156028369
-Icaraí de Minas | 3130051 | 2018 | 57.340366972477064
-Icaraí de Minas | 3130051 | 2019 | 61.41259689922481
-Icaraí de Minas | 3130051 | 2020 | 66.36586826347306
-Ilicínea | 3130507 | 2015 | 72.43762781186093
-Ilicínea | 3130507 | 2016 | 73.2977680737506
-Ilicínea | 3130507 | 2017 | 70.45240257283389
-Ilicínea | 3130507 | 2018 | 70.45180690758768
-Ilicínea | 3130507 | 2019 | 71.67173833149577
-Ilicínea | 3130507 | 2020 | 72.13805022954362
-Ingaí | 3130804 | 2015 | 70.06984445559458
-Ingaí | 3130804 | 2016 | 68.37032828282828
-Ingaí | 3130804 | 2017 | 66.75376192710777
-Ingaí | 3130804 | 2018 | 67.0759744037231
-Ingaí | 3130804 | 2019 | 67.28260584611351
-Ingaí | 3130804 | 2020 | 66.79003893140019
-Ipiaçu | 3131406 | 2015 | 33.266666666666666
-Ipiaçu | 3131406 | 2016 | 33.86666666666667
-Erros | 3131406 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Guimarânia | 3128907 | 2016 | 0.0
+Guimarânia | 3128907 | 2017 | 0.0
+Guimarânia | 3128907 | 2018 | 0.0
+Guimarânia | 3128907 | 2019 | 0.0
+Guimarânia | 3128907 | 2020 | 0.0
+Guiricema | 3129004 | 2015 | 3.0
+Guiricema | 3129004 | 2016 | 3.0
+Guiricema | 3129004 | 2017 | 3.0
+Guiricema | 3129004 | 2018 | 3.0
+Guiricema | 3129004 | 2019 | 0.0
+Guiricema | 3129004 | 2020 | 0.0
+Heliodora | 3129202 | 2015 | 0.0
+Heliodora | 3129202 | 2016 | 0.0
+Heliodora | 3129202 | 2017 | 0.0
+Heliodora | 3129202 | 2018 | 0.0
+Heliodora | 3129202 | 2019 | 0.0
+Heliodora | 3129202 | 2020 | 0.0
+Ibertioga | 3129400 | 2015 | 3.0
+Ibertioga | 3129400 | 2016 | 3.0
+Ibertioga | 3129400 | 2017 | 3.0
+Ibertioga | 3129400 | 2018 | 3.0
+Ibertioga | 3129400 | 2019 | 0.0
+Ibertioga | 3129400 | 2020 | 0.0
+Ibiracatu | 3129657 | 2015 | 2.0
+Ibiracatu | 3129657 | 2016 | 2.0
+Ibiracatu | 3129657 | 2017 | 2.0
+Ibiracatu | 3129657 | 2018 | 2.0
+Ibiracatu | 3129657 | 2019 | 0.0
+Ibiracatu | 3129657 | 2020 | 0.0
+Ibiraci | 3129707 | 2015 | 0.0
+Ibiraci | 3129707 | 2016 | 0.0
+Ibiraci | 3129707 | 2017 | 0.0
+Ibiraci | 3129707 | 2018 | 0.0
+Ibiraci | 3129707 | 2019 | 0.0
+Ibiraci | 3129707 | 2020 | 0.0
+Ibitiúra de Minas | 3129905 | 2015 | 0.0
+Ibitiúra de Minas | 3129905 | 2016 | 0.0
+Ibitiúra de Minas | 3129905 | 2017 | 0.0
+Ibitiúra de Minas | 3129905 | 2018 | 0.0
+Ibitiúra de Minas | 3129905 | 2019 | 0.0
+Ibitiúra de Minas | 3129905 | 2020 | 0.0
+Icaraí de Minas | 3130051 | 2015 | 0.0
+Icaraí de Minas | 3130051 | 2016 | 0.0
+Icaraí de Minas | 3130051 | 2017 | 0.0
+Icaraí de Minas | 3130051 | 2018 | 0.0
+Icaraí de Minas | 3130051 | 2019 | 0.0
+Icaraí de Minas | 3130051 | 2020 | 0.0
+Ilicínea | 3130507 | 2015 | 0.0
+Ilicínea | 3130507 | 2016 | 0.0
+Ilicínea | 3130507 | 2017 | 0.0
+Ilicínea | 3130507 | 2018 | 0.0
+Ilicínea | 3130507 | 2019 | 0.0
+Ilicínea | 3130507 | 2020 | 0.0
+Ingaí | 3130804 | 2015 | 0.0
+Ingaí | 3130804 | 2016 | 0.0
+Ingaí | 3130804 | 2017 | 0.0
+Ingaí | 3130804 | 2018 | 0.0
+Ingaí | 3130804 | 2019 | 0.0
+Ingaí | 3130804 | 2020 | 0.0
+Ipiaçu | 3131406 | 2015 | 0.0
+Ipiaçu | 3131406 | 2016 | 2.0
+Erros | 3131406 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Ipiaçu | 3131406 | 2017 | ?
-Erros | 3131406 | 2018 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3131406 | 2018 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Ipiaçu | 3131406 | 2018 | ?
-Erros | 3131406 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3131406 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Ipiaçu | 3131406 | 2019 | ?
-Ipiaçu | 3131406 | 2020 | 71.19147882090661
-Itacambira | 3132008 | 2015 | 120.03636363636362
-Itacambira | 3132008 | 2016 | 98.88888888888887
-Itacambira | 3132008 | 2017 | 37.925925925925924
-Itacambira | 3132008 | 2018 | 37.333333333333336
-Itacambira | 3132008 | 2019 | 45.27676120768527
-Itacambira | 3132008 | 2020 | 54.86842105263158
-Itacarambi | 3132107 | 2015 | 65.59789092724323
-Itacarambi | 3132107 | 2016 | 65.71159046714602
-Itacarambi | 3132107 | 2017 | 63.68313592780598
-Itacarambi | 3132107 | 2018 | 64.36973347937204
-Itacarambi | 3132107 | 2019 | 62.42865298241196
-Itacarambi | 3132107 | 2020 | 63.59609566229286
-Itamogi | 3132909 | 2015 | 66.60653525128753
-Itamogi | 3132909 | 2016 | 67.79436302142052
-Itamogi | 3132909 | 2017 | 66.21099747058177
-Itamogi | 3132909 | 2018 | 66.99569892473119
-Itamogi | 3132909 | 2019 | 66.00537634408602
-Itamogi | 3132909 | 2020 | 69.30451314002715
-Erros | 3133105 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Ipiaçu | 3131406 | 2020 | 0.0
+Itacambira | 3132008 | 2015 | 0.0
+Itacambira | 3132008 | 2016 | 0.0
+Itacambira | 3132008 | 2017 | 0.0
+Itacambira | 3132008 | 2018 | 0.0
+Itacambira | 3132008 | 2019 | 0.0
+Itacambira | 3132008 | 2020 | 0.0
+Itacarambi | 3132107 | 2015 | 3.0
+Itacarambi | 3132107 | 2016 | 3.0
+Itacarambi | 3132107 | 2017 | 0.0
+Itacarambi | 3132107 | 2018 | 0.0
+Itacarambi | 3132107 | 2019 | 0.0
+Itacarambi | 3132107 | 2020 | 0.0
+Itamogi | 3132909 | 2015 | 3.0
+Itamogi | 3132909 | 2016 | 3.0
+Itamogi | 3132909 | 2017 | 3.0
+Itamogi | 3132909 | 2018 | 3.0
+Itamogi | 3132909 | 2019 | 0.0
+Itamogi | 3132909 | 2020 | 0.0
+Erros | 3133105 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Itanhandu | 3133105 | 2015 | ?
 Erros | 3133105 | 2016 | [snisModel.IN049_AE]
 Itanhandu | 3133105 | 2016 | ?
-Itanhandu | 3133105 | 2017 | 61.35029354207436
-Itanhandu | 3133105 | 2018 | 64.10818713450293
-Itanhandu | 3133105 | 2019 | 66.29262043998887
-Itanhandu | 3133105 | 2020 | 66.46039603960396
-Itatiaiuçu | 3133709 | 2015 | 69.2174072042421
-Itatiaiuçu | 3133709 | 2016 | 68.09839167455061
-Itatiaiuçu | 3133709 | 2017 | 59.925436988143254
-Itatiaiuçu | 3133709 | 2018 | 59.78201539538139
-Itatiaiuçu | 3133709 | 2019 | 70.26074332171893
-Itatiaiuçu | 3133709 | 2020 | 75.03333333333332
-Itaú de Minas | 3133758 | 2015 | 66.74143117763134
-Itaú de Minas | 3133758 | 2016 | 61.87858089386821
-Itaú de Minas | 3133758 | 2017 | 50.243850544888424
-Itaú de Minas | 3133758 | 2018 | 50.82686025408348
-Itaú de Minas | 3133758 | 2019 | 50.70373164598036
-Itaú de Minas | 3133758 | 2020 | 57.928822055137836
-Itumirim | 3134301 | 2015 | 70.7103319710332
-Itumirim | 3134301 | 2016 | 69.07176144924489
-Itumirim | 3134301 | 2017 | 69.10921117444234
-Itumirim | 3134301 | 2018 | 69.03661990383982
-Itumirim | 3134301 | 2019 | 67.79775129603446
-Itumirim | 3134301 | 2020 | 68.55435232854016
-Jacuí | 3134806 | 2015 | 166.24638619201724
-Jacuí | 3134806 | 2016 | 126.66424452133795
-Jacuí | 3134806 | 2017 | 66.98581560283688
-Jacuí | 3134806 | 2018 | 67.49235474006116
-Jacuí | 3134806 | 2019 | 67.217125382263
-Jacuí | 3134806 | 2020 | 67.58241758241758
-Japaraíba | 3135308 | 2015 | 57.741991341991344
-Japaraíba | 3135308 | 2016 | 61.418269230769226
-Japaraíba | 3135308 | 2017 | 61.1849358974359
-Japaraíba | 3135308 | 2018 | 61.418269230769226
-Japaraíba | 3135308 | 2019 | 61.418269230769226
-Japaraíba | 3135308 | 2020 | 56.85477037790205
-Jequitaí | 3135605 | 2015 | 65.74947355067867
-Jequitaí | 3135605 | 2016 | 66.49889840881274
-Jequitaí | 3135605 | 2017 | 66.2624203821656
-Jequitaí | 3135605 | 2018 | 68.79264069264069
-Jequitaí | 3135605 | 2019 | 69.2746285917623
-Jequitaí | 3135605 | 2020 | 73.28396684767075
-Jequitibá | 3135704 | 2015 | 58.72112068965517
-Jequitibá | 3135704 | 2016 | 63.91820851688693
-Jequitibá | 3135704 | 2017 | 62.046399777592434
-Jequitibá | 3135704 | 2018 | 64.37480076944216
-Jequitibá | 3135704 | 2019 | 63.543069641649765
-Jequitibá | 3135704 | 2020 | 55.5450182576943
-Jesuânia | 3135902 | 2015 | 35.0
-Jesuânia | 3135902 | 2016 | 35.0
-Erros | 3135902 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Itanhandu | 3133105 | 2017 | 0.0
+Itanhandu | 3133105 | 2018 | 0.0
+Itanhandu | 3133105 | 2019 | 0.0
+Itanhandu | 3133105 | 2020 | 0.0
+Itatiaiuçu | 3133709 | 2015 | 0.0
+Itatiaiuçu | 3133709 | 2016 | 0.0
+Itatiaiuçu | 3133709 | 2017 | 0.0
+Itatiaiuçu | 3133709 | 2018 | 0.0
+Itatiaiuçu | 3133709 | 2019 | 0.0
+Itatiaiuçu | 3133709 | 2020 | 0.0
+Itaú de Minas | 3133758 | 2015 | 0.0
+Itaú de Minas | 3133758 | 2016 | 0.0
+Itaú de Minas | 3133758 | 2017 | 0.0
+Itaú de Minas | 3133758 | 2018 | 0.0
+Itaú de Minas | 3133758 | 2019 | 0.0
+Itaú de Minas | 3133758 | 2020 | 0.0
+Itumirim | 3134301 | 2015 | 3.0
+Itumirim | 3134301 | 2016 | 3.0
+Itumirim | 3134301 | 2017 | 3.0
+Itumirim | 3134301 | 2018 | 3.0
+Itumirim | 3134301 | 2019 | 0.0
+Itumirim | 3134301 | 2020 | 0.0
+Jacuí | 3134806 | 2015 | 2.0
+Jacuí | 3134806 | 2016 | 2.0
+Jacuí | 3134806 | 2017 | 0.0
+Jacuí | 3134806 | 2018 | 0.0
+Jacuí | 3134806 | 2019 | 0.0
+Jacuí | 3134806 | 2020 | 0.0
+Japaraíba | 3135308 | 2015 | 0.0
+Japaraíba | 3135308 | 2016 | 0.0
+Japaraíba | 3135308 | 2017 | 0.0
+Japaraíba | 3135308 | 2018 | 0.0
+Japaraíba | 3135308 | 2019 | 0.0
+Japaraíba | 3135308 | 2020 | 0.0
+Jequitaí | 3135605 | 2015 | 3.0
+Jequitaí | 3135605 | 2016 | 3.0
+Jequitaí | 3135605 | 2017 | 3.0
+Jequitaí | 3135605 | 2018 | 3.0
+Jequitaí | 3135605 | 2019 | 0.0
+Jequitaí | 3135605 | 2020 | 0.0
+Jequitibá | 3135704 | 2015 | 2.0
+Jequitibá | 3135704 | 2016 | 2.0
+Jequitibá | 3135704 | 2017 | 2.0
+Jequitibá | 3135704 | 2018 | 2.0
+Jequitibá | 3135704 | 2019 | 0.0
+Jequitibá | 3135704 | 2020 | 0.0
+Jesuânia | 3135902 | 2015 | 5.0
+Jesuânia | 3135902 | 2016 | 5.0
+Erros | 3135902 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Jesuânia | 3135902 | 2017 | ?
-Jesuânia | 3135902 | 2018 | 35.0
-Erros | 3135902 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Jesuânia | 3135902 | 2018 | 5.0
+Erros | 3135902 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Jesuânia | 3135902 | 2019 | ?
-Jesuânia | 3135902 | 2020 | 60.58671530627755
-Joaíma | 3136009 | 2015 | 55.9979977753059
-Joaíma | 3136009 | 2016 | 52.421699642484406
-Erros | 3136009 | 2017 | [snisModel.QD028]
-Joaíma | 3136009 | 2017 | ?
-Joaíma | 3136009 | 2018 | 47.74060302964413
-Joaíma | 3136009 | 2019 | 49.46013286761181
-Joaíma | 3136009 | 2020 | 52.354022988505754
-Nova União | 3136603 | 2015 | 68.48758988633728
-Nova União | 3136603 | 2016 | 68.65468409586056
-Nova União | 3136603 | 2017 | 68.44353937070757
-Nova União | 3136603 | 2018 | 69.80364546663537
-Nova União | 3136603 | 2019 | 60.73394495412845
-Nova União | 3136603 | 2020 | 68.12007011393514
-Liberdade | 3138500 | 2015 | 65.61835387871996
-Liberdade | 3138500 | 2016 | 65.74587458745874
-Liberdade | 3138500 | 2017 | 66.27952042381152
-Liberdade | 3138500 | 2018 | 67.00107570256824
-Liberdade | 3138500 | 2019 | 65.66466265865063
-Liberdade | 3138500 | 2020 | 67.17229902713774
-Lontra | 3138658 | 2015 | 58.23663394508464
-Lontra | 3138658 | 2016 | 61.40737132172031
-Lontra | 3138658 | 2017 | 69.30008760402978
-Lontra | 3138658 | 2018 | 67.67374418231424
-Lontra | 3138658 | 2019 | 62.97103372028746
-Lontra | 3138658 | 2020 | 71.56881322477177
-Luisburgo | 3138674 | 2015 | 69.56297842727905
-Luisburgo | 3138674 | 2016 | 67.90443840579711
-Luisburgo | 3138674 | 2017 | 67.62621359223301
-Luisburgo | 3138674 | 2018 | 67.73408845738942
-Luisburgo | 3138674 | 2019 | 66.79252067601583
-Luisburgo | 3138674 | 2020 | 66.79252067601583
-Luislândia | 3138682 | 2015 | 80.26758409785933
-Luislândia | 3138682 | 2016 | 83.94495412844036
-Luislândia | 3138682 | 2017 | 72.03489694385217
-Luislândia | 3138682 | 2018 | 61.07033639143731
-Luislândia | 3138682 | 2019 | 60.51987767584097
-Luislândia | 3138682 | 2020 | 61.41636141636142
-Luz | 3138807 | 2015 | 54.09950650515926
-Luz | 3138807 | 2016 | 53.367749295396585
-Luz | 3138807 | 2017 | 55.66358605423354
-Luz | 3138807 | 2018 | 55.636932073774176
-Luz | 3138807 | 2019 | 56.01225717723912
-Luz | 3138807 | 2020 | 66.61224962094006
-Madre de Deus de Minas | 3139102 | 2015 | 65.32147856517936
-Madre de Deus de Minas | 3139102 | 2016 | 70.9385559472516
-Madre de Deus de Minas | 3139102 | 2017 | 71.23791540785498
-Madre de Deus de Minas | 3139102 | 2018 | 71.79566210045662
-Madre de Deus de Minas | 3139102 | 2019 | 73.88115942028985
-Madre de Deus de Minas | 3139102 | 2020 | 73.12307692307691
-Erros | 3139250 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Jesuânia | 3135902 | 2020 | 0.0
+Joaíma | 3136009 | 2015 | 0.0
+Joaíma | 3136009 | 2016 | 0.0
+Joaíma | 3136009 | 2017 | 0.0
+Joaíma | 3136009 | 2018 | 0.0
+Joaíma | 3136009 | 2019 | 0.0
+Joaíma | 3136009 | 2020 | 0.0
+Nova União | 3136603 | 2015 | 0.0
+Nova União | 3136603 | 2016 | 0.0
+Nova União | 3136603 | 2017 | 0.0
+Nova União | 3136603 | 2018 | 0.0
+Nova União | 3136603 | 2019 | 0.0
+Nova União | 3136603 | 2020 | 0.0
+Liberdade | 3138500 | 2015 | 3.0
+Liberdade | 3138500 | 2016 | 3.0
+Liberdade | 3138500 | 2017 | 3.0
+Liberdade | 3138500 | 2018 | 3.0
+Liberdade | 3138500 | 2019 | 0.0
+Liberdade | 3138500 | 2020 | 0.0
+Lontra | 3138658 | 2015 | 0.0
+Lontra | 3138658 | 2016 | 0.0
+Lontra | 3138658 | 2017 | 0.0
+Lontra | 3138658 | 2018 | 0.0
+Lontra | 3138658 | 2019 | 0.0
+Lontra | 3138658 | 2020 | 5.0
+Luisburgo | 3138674 | 2015 | 3.0
+Luisburgo | 3138674 | 2016 | 3.0
+Luisburgo | 3138674 | 2017 | 3.0
+Luisburgo | 3138674 | 2018 | 3.0
+Luisburgo | 3138674 | 2019 | 0.0
+Luisburgo | 3138674 | 2020 | 0.0
+Luislândia | 3138682 | 2015 | 0.0
+Luislândia | 3138682 | 2016 | 0.0
+Luislândia | 3138682 | 2017 | 0.0
+Luislândia | 3138682 | 2018 | 0.0
+Luislândia | 3138682 | 2019 | 0.0
+Luislândia | 3138682 | 2020 | 0.0
+Luz | 3138807 | 2015 | 0.0
+Luz | 3138807 | 2016 | 0.0
+Luz | 3138807 | 2017 | 0.0
+Luz | 3138807 | 2018 | 0.0
+Luz | 3138807 | 2019 | 0.0
+Luz | 3138807 | 2020 | 0.0
+Madre de Deus de Minas | 3139102 | 2015 | 0.0
+Madre de Deus de Minas | 3139102 | 2016 | 0.0
+Madre de Deus de Minas | 3139102 | 2017 | 0.0
+Madre de Deus de Minas | 3139102 | 2018 | 0.0
+Madre de Deus de Minas | 3139102 | 2019 | 0.0
+Madre de Deus de Minas | 3139102 | 2020 | 0.0
+Erros | 3139250 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Mamonas | 3139250 | 2015 | ?
-Erros | 3139250 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3139250 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Mamonas | 3139250 | 2016 | ?
-Erros | 3139250 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3139250 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Mamonas | 3139250 | 2017 | ?
-Erros | 3139250 | 2018 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3139250 | 2018 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Mamonas | 3139250 | 2018 | ?
-Erros | 3139250 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3139250 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Mamonas | 3139250 | 2019 | ?
-Mamonas | 3139250 | 2020 | 63.125
-Manga | 3139300 | 2015 | 66.62822000214845
-Manga | 3139300 | 2016 | 67.69877372753233
-Manga | 3139300 | 2017 | 66.42298336612413
-Manga | 3139300 | 2018 | 67.40049283154121
-Manga | 3139300 | 2019 | 67.01224262659989
-Manga | 3139300 | 2020 | 68.30049417578539
-Maria da Fé | 3139904 | 2015 | 67.0224043715847
-Maria da Fé | 3139904 | 2016 | 66.73599958501919
-Maria da Fé | 3139904 | 2017 | 70.19830309435736
-Maria da Fé | 3139904 | 2018 | 72.2749063670412
-Maria da Fé | 3139904 | 2019 | 67.93468208092486
-Maria da Fé | 3139904 | 2020 | 66.76905086727733
-Marmelópolis | 3140407 | 2015 | 34.0
-Marmelópolis | 3140407 | 2016 | 33.96666666666667
-Marmelópolis | 3140407 | 2017 | 34.0
-Marmelópolis | 3140407 | 2018 | 34.0
-Marmelópolis | 3140407 | 2019 | 33.333333333333336
-Marmelópolis | 3140407 | 2020 | 33.333333333333336
-Martinho Campos | 3140506 | 2015 | 59.3777818125227
-Martinho Campos | 3140506 | 2016 | 60.412271973466005
-Martinho Campos | 3140506 | 2017 | 60.6783006267338
-Martinho Campos | 3140506 | 2018 | 50.07309435517099
-Martinho Campos | 3140506 | 2019 | 50.56108653737099
-Martinho Campos | 3140506 | 2020 | 65.86397767630645
-Mata Verde | 3140555 | 2015 | 57.498095549026004
-Mata Verde | 3140555 | 2016 | 55.23496287437086
-Mata Verde | 3140555 | 2017 | 59.93221821362195
-Mata Verde | 3140555 | 2018 | 60.09800854968199
-Mata Verde | 3140555 | 2019 | 60.836036036036035
-Mata Verde | 3140555 | 2020 | 60.70463502636691
-Matias Cardoso | 3140852 | 2015 | 63.29124995359543
-Matias Cardoso | 3140852 | 2016 | 62.795597484276726
-Matias Cardoso | 3140852 | 2017 | 59.694489857705115
-Matias Cardoso | 3140852 | 2018 | 60.7951202009329
-Matias Cardoso | 3140852 | 2019 | 60.88523538842734
-Matias Cardoso | 3140852 | 2020 | 66.54972988757483
-Medeiros | 3141306 | 2015 | 64.14298621833362
-Medeiros | 3141306 | 2016 | 69.02984878369493
-Medeiros | 3141306 | 2017 | 61.60290863104647
-Medeiros | 3141306 | 2018 | 57.8045646849254
-Medeiros | 3141306 | 2019 | 58.32520848224923
-Medeiros | 3141306 | 2020 | 62.09855803893296
-Erros | 3142403 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Mamonas | 3139250 | 2020 | 0.0
+Manga | 3139300 | 2015 | 3.0
+Manga | 3139300 | 2016 | 3.0
+Manga | 3139300 | 2017 | 3.0
+Manga | 3139300 | 2018 | 3.0
+Manga | 3139300 | 2019 | 0.0
+Manga | 3139300 | 2020 | 0.0
+Maria da Fé | 3139904 | 2015 | 3.0
+Maria da Fé | 3139904 | 2016 | 3.0
+Maria da Fé | 3139904 | 2017 | 3.0
+Maria da Fé | 3139904 | 2018 | 3.0
+Maria da Fé | 3139904 | 2019 | 0.0
+Maria da Fé | 3139904 | 2020 | 0.0
+Marmelópolis | 3140407 | 2015 | 2.0
+Marmelópolis | 3140407 | 2016 | 2.0
+Marmelópolis | 3140407 | 2017 | 2.0
+Marmelópolis | 3140407 | 2018 | 2.0
+Marmelópolis | 3140407 | 2019 | 0.0
+Marmelópolis | 3140407 | 2020 | 0.0
+Martinho Campos | 3140506 | 2015 | 0.0
+Martinho Campos | 3140506 | 2016 | 0.0
+Martinho Campos | 3140506 | 2017 | 0.0
+Martinho Campos | 3140506 | 2018 | 0.0
+Martinho Campos | 3140506 | 2019 | 0.0
+Martinho Campos | 3140506 | 2020 | 0.0
+Mata Verde | 3140555 | 2015 | 0.0
+Mata Verde | 3140555 | 2016 | 0.0
+Mata Verde | 3140555 | 2017 | 0.0
+Mata Verde | 3140555 | 2018 | 0.0
+Mata Verde | 3140555 | 2019 | 0.0
+Mata Verde | 3140555 | 2020 | 0.0
+Matias Cardoso | 3140852 | 2015 | 0.0
+Matias Cardoso | 3140852 | 2016 | 0.0
+Matias Cardoso | 3140852 | 2017 | 0.0
+Matias Cardoso | 3140852 | 2018 | 0.0
+Matias Cardoso | 3140852 | 2019 | 0.0
+Matias Cardoso | 3140852 | 2020 | 0.0
+Medeiros | 3141306 | 2015 | 0.0
+Medeiros | 3141306 | 2016 | 0.0
+Medeiros | 3141306 | 2017 | 0.0
+Medeiros | 3141306 | 2018 | 0.0
+Medeiros | 3141306 | 2019 | 0.0
+Medeiros | 3141306 | 2020 | 0.0
+Erros | 3142403 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Moema | 3142403 | 2015 | ?
-Moema | 3142403 | 2016 | 86.72865497076022
-Moema | 3142403 | 2017 | 90.13157894736842
-Moema | 3142403 | 2018 | 103.43567251461987
-Moema | 3142403 | 2019 | 104.97076023391811
-Moema | 3142403 | 2020 | 106.28654970760233
-Montalvânia | 3142700 | 2015 | 66.36370582617002
-Montalvânia | 3142700 | 2016 | 67.50728501689824
-Montalvânia | 3142700 | 2017 | 65.9951585090861
-Montalvânia | 3142700 | 2018 | 65.91773785268877
-Montalvânia | 3142700 | 2019 | 64.88467076273817
-Montalvânia | 3142700 | 2020 | 66.7783324387189
-Morada Nova de Minas | 3143500 | 2015 | 67.80158966716344
-Morada Nova de Minas | 3143500 | 2016 | 68.83856209150326
-Morada Nova de Minas | 3143500 | 2017 | 48.491503267973854
-Morada Nova de Minas | 3143500 | 2018 | 37.873958651593846
-Morada Nova de Minas | 3143500 | 2019 | 45.5217665615142
-Morada Nova de Minas | 3143500 | 2020 | 69.63888888888889
-Munhoz | 3143807 | 2015 | 68.60965376403972
-Munhoz | 3143807 | 2016 | 68.24232402638475
-Munhoz | 3143807 | 2017 | 67.75410785378212
-Munhoz | 3143807 | 2018 | 68.45862805161052
-Munhoz | 3143807 | 2019 | 67.33294986099128
-Munhoz | 3143807 | 2020 | 68.17911335911931
-Ninheira | 3144656 | 2015 | 59.2612293144208
-Ninheira | 3144656 | 2016 | 58.7280243039992
-Ninheira | 3144656 | 2017 | 56.239146613743486
-Ninheira | 3144656 | 2018 | 58.76203268412805
-Ninheira | 3144656 | 2019 | 58.14969604863222
-Ninheira | 3144656 | 2020 | 56.63769180541953
-Nova Belém | 3144672 | 2015 | 48.52843459222769
-Nova Belém | 3144672 | 2016 | 49.32208538587849
-Nova Belém | 3144672 | 2017 | 53.58447880870562
-Nova Belém | 3144672 | 2018 | 53.43568691844553
-Nova Belém | 3144672 | 2019 | 39.921756152125276
-Nova Belém | 3144672 | 2020 | 64.41427050053248
-Erros | 3144706 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Moema | 3142403 | 2016 | 0.0
+Moema | 3142403 | 2017 | 0.0
+Moema | 3142403 | 2018 | 0.0
+Moema | 3142403 | 2019 | 0.0
+Moema | 3142403 | 2020 | 0.0
+Montalvânia | 3142700 | 2015 | 3.0
+Montalvânia | 3142700 | 2016 | 3.0
+Montalvânia | 3142700 | 2017 | 3.0
+Montalvânia | 3142700 | 2018 | 3.0
+Montalvânia | 3142700 | 2019 | 0.0
+Montalvânia | 3142700 | 2020 | 0.0
+Morada Nova de Minas | 3143500 | 2015 | 0.0
+Morada Nova de Minas | 3143500 | 2016 | 0.0
+Morada Nova de Minas | 3143500 | 2017 | 0.0
+Morada Nova de Minas | 3143500 | 2018 | 0.0
+Morada Nova de Minas | 3143500 | 2019 | 0.0
+Morada Nova de Minas | 3143500 | 2020 | 0.0
+Munhoz | 3143807 | 2015 | 3.0
+Munhoz | 3143807 | 2016 | 3.0
+Munhoz | 3143807 | 2017 | 3.0
+Munhoz | 3143807 | 2018 | 3.0
+Munhoz | 3143807 | 2019 | 0.0
+Munhoz | 3143807 | 2020 | 0.0
+Ninheira | 3144656 | 2015 | 0.0
+Ninheira | 3144656 | 2016 | 0.0
+Ninheira | 3144656 | 2017 | 0.0
+Ninheira | 3144656 | 2018 | 0.0
+Ninheira | 3144656 | 2019 | 0.0
+Ninheira | 3144656 | 2020 | 0.0
+Nova Belém | 3144672 | 2015 | 3.0
+Nova Belém | 3144672 | 2016 | 3.0
+Nova Belém | 3144672 | 2017 | 3.0
+Nova Belém | 3144672 | 2018 | 3.0
+Nova Belém | 3144672 | 2019 | 0.0
+Nova Belém | 3144672 | 2020 | 0.0
+Erros | 3144706 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Nova Era | 3144706 | 2015 | ?
-Nova Era | 3144706 | 2016 | 62.70185185185185
-Nova Era | 3144706 | 2017 | 61.322222222222216
-Erros | 3144706 | 2018 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Nova Era | 3144706 | 2016 | 5.0
+Nova Era | 3144706 | 2017 | 5.0
+Erros | 3144706 | 2018 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Nova Era | 3144706 | 2018 | ?
-Nova Era | 3144706 | 2019 | 33.333333333333336
-Nova Era | 3144706 | 2020 | 33.333333333333336
-Nova Resende | 3145109 | 2015 | 67.0394501000609
-Nova Resende | 3145109 | 2016 | 66.00642445724414
-Nova Resende | 3145109 | 2017 | 65.55875169606513
-Nova Resende | 3145109 | 2018 | 65.80605722779636
-Nova Resende | 3145109 | 2019 | 66.01450405012991
-Nova Resende | 3145109 | 2020 | 66.80208308860958
-Novo Oriente de Minas | 3145356 | 2015 | 50.38044649730563
-Novo Oriente de Minas | 3145356 | 2016 | 51.95834324217202
-Novo Oriente de Minas | 3145356 | 2017 | 62.53528355144983
-Novo Oriente de Minas | 3145356 | 2018 | 40.48627149089043
-Novo Oriente de Minas | 3145356 | 2019 | 40.697857889237206
-Novo Oriente de Minas | 3145356 | 2020 | 41.66607510288066
-Novorizonte | 3145372 | 2015 | 66.64444444444445
-Novorizonte | 3145372 | 2016 | 53.518518518518526
-Novorizonte | 3145372 | 2017 | 34.352718909150646
-Novorizonte | 3145372 | 2018 | 38.97376923498165
-Novorizonte | 3145372 | 2019 | 52.72309711286089
-Novorizonte | 3145372 | 2020 | 64.80423280423281
-Olaria | 3145406 | 2015 | 60.85185185185185
-Olaria | 3145406 | 2016 | 64.32407407407408
-Olaria | 3145406 | 2017 | 36.5462962962963
-Olaria | 3145406 | 2018 | 49.50925925925926
-Olaria | 3145406 | 2019 | 36.11111111111111
-Olaria | 3145406 | 2020 | 37.5
-Erros | 3145455 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Nova Era | 3144706 | 2019 | 0.0
+Nova Era | 3144706 | 2020 | 0.0
+Nova Resende | 3145109 | 2015 | 0.0
+Nova Resende | 3145109 | 2016 | 0.0
+Nova Resende | 3145109 | 2017 | 0.0
+Nova Resende | 3145109 | 2018 | 0.0
+Nova Resende | 3145109 | 2019 | 0.0
+Nova Resende | 3145109 | 2020 | 0.0
+Novo Oriente de Minas | 3145356 | 2015 | 0.0
+Novo Oriente de Minas | 3145356 | 2016 | 0.0
+Novo Oriente de Minas | 3145356 | 2017 | 0.0
+Novo Oriente de Minas | 3145356 | 2018 | 0.0
+Novo Oriente de Minas | 3145356 | 2019 | 0.0
+Novo Oriente de Minas | 3145356 | 2020 | 0.0
+Novorizonte | 3145372 | 2015 | 0.0
+Novorizonte | 3145372 | 2016 | 0.0
+Novorizonte | 3145372 | 2017 | 0.0
+Novorizonte | 3145372 | 2018 | 0.0
+Novorizonte | 3145372 | 2019 | 0.0
+Novorizonte | 3145372 | 2020 | 0.0
+Olaria | 3145406 | 2015 | 2.0
+Olaria | 3145406 | 2016 | 2.0
+Olaria | 3145406 | 2017 | 2.0
+Olaria | 3145406 | 2018 | 2.0
+Olaria | 3145406 | 2019 | 0.0
+Olaria | 3145406 | 2020 | 0.0
+Erros | 3145455 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Olhos-d Água | 3145455 | 2015 | ?
-Erros | 3145455 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3145455 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Olhos-d Água | 3145455 | 2016 | ?
-Olhos-d Água | 3145455 | 2017 | 33.333333333333336
-Olhos-d Água | 3145455 | 2018 | 38.682822288163536
-Olhos-d Água | 3145455 | 2019 | 40.0871220440735
-Olhos-d Água | 3145455 | 2020 | 66.61764705882354
-Erros | 3145455 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Olhos-d Água | 3145455 | 2017 | 0.0
+Olhos-d Água | 3145455 | 2018 | 0.0
+Olhos-d Água | 3145455 | 2019 | 0.0
+Olhos-d Água | 3145455 | 2020 | 0.0
+Erros | 3145455 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Olhos-D ÁGUA | 3145455 | 2015 | ?
-Erros | 3145455 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3145455 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Olhos-D ÁGUA | 3145455 | 2016 | ?
-Olhos-D ÁGUA | 3145455 | 2017 | 33.333333333333336
-Olhos-D ÁGUA | 3145455 | 2018 | 38.682822288163536
-Olhos-D ÁGUA | 3145455 | 2019 | 40.0871220440735
-Olhos-D ÁGUA | 3145455 | 2020 | 66.61764705882354
-Olímpio Noronha | 3145505 | 2015 | 65.56908212560386
-Olímpio Noronha | 3145505 | 2016 | 66.11054937647457
-Olímpio Noronha | 3145505 | 2017 | 66.13785450061653
-Olímpio Noronha | 3145505 | 2018 | 66.14185952090946
-Olímpio Noronha | 3145505 | 2019 | 66.01729598051156
-Olímpio Noronha | 3145505 | 2020 | 66.46366220056841
-Oliveira Fortes | 3145703 | 2015 | 66.58038507821902
-Oliveira Fortes | 3145703 | 2016 | 61.560911481156886
-Oliveira Fortes | 3145703 | 2017 | 55.376637386346125
-Oliveira Fortes | 3145703 | 2018 | 58.06143445032334
-Oliveira Fortes | 3145703 | 2019 | 50.86894586894587
-Oliveira Fortes | 3145703 | 2020 | 46.118493909191585
-Orizânia | 3145877 | 2015 | 47.40838739046319
-Orizânia | 3145877 | 2016 | 46.49202964767996
-Orizânia | 3145877 | 2017 | 45.1298245614035
-Orizânia | 3145877 | 2018 | 43.42116705800504
-Orizânia | 3145877 | 2019 | 48.298820058997045
-Orizânia | 3145877 | 2020 | 55.398672720922114
-Pains | 3146503 | 2015 | 65.73333333333333
-Pains | 3146503 | 2016 | 71.41012216404887
-Pains | 3146503 | 2017 | 72.9212543554007
-Pains | 3146503 | 2018 | 72.51184668989546
-Pains | 3146503 | 2019 | 73.5054587688734
-Pains | 3146503 | 2020 | 75.07344173441736
-Palma | 3146701 | 2015 | 54.00172907362876
-Palma | 3146701 | 2016 | 49.923203769140166
-Palma | 3146701 | 2017 | 54.49670917965674
-Palma | 3146701 | 2018 | 50.68744136174775
-Palma | 3146701 | 2019 | 47.32053047691915
-Palma | 3146701 | 2020 | 51.99890321339234
-Passa Tempo | 3147709 | 2015 | 69.25137544183188
-Passa Tempo | 3147709 | 2016 | 66.24110362806864
-Passa Tempo | 3147709 | 2017 | 61.84925580472316
-Passa Tempo | 3147709 | 2018 | 63.71372316607401
-Passa Tempo | 3147709 | 2019 | 62.00738155258225
-Passa Tempo | 3147709 | 2020 | 72.43710346313351
-Erros | 3147808 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Olhos-D ÁGUA | 3145455 | 2017 | 0.0
+Olhos-D ÁGUA | 3145455 | 2018 | 0.0
+Olhos-D ÁGUA | 3145455 | 2019 | 0.0
+Olhos-D ÁGUA | 3145455 | 2020 | 0.0
+Olímpio Noronha | 3145505 | 2015 | 0.0
+Olímpio Noronha | 3145505 | 2016 | 0.0
+Olímpio Noronha | 3145505 | 2017 | 0.0
+Olímpio Noronha | 3145505 | 2018 | 0.0
+Olímpio Noronha | 3145505 | 2019 | 0.0
+Olímpio Noronha | 3145505 | 2020 | 0.0
+Oliveira Fortes | 3145703 | 2015 | 3.0
+Oliveira Fortes | 3145703 | 2016 | 3.0
+Oliveira Fortes | 3145703 | 2017 | 3.0
+Oliveira Fortes | 3145703 | 2018 | 0.0
+Oliveira Fortes | 3145703 | 2019 | 0.0
+Oliveira Fortes | 3145703 | 2020 | 0.0
+Orizânia | 3145877 | 2015 | 0.0
+Orizânia | 3145877 | 2016 | 0.0
+Orizânia | 3145877 | 2017 | 0.0
+Orizânia | 3145877 | 2018 | 0.0
+Orizânia | 3145877 | 2019 | 0.0
+Orizânia | 3145877 | 2020 | 0.0
+Pains | 3146503 | 2015 | 0.0
+Pains | 3146503 | 2016 | 0.0
+Pains | 3146503 | 2017 | 0.0
+Pains | 3146503 | 2018 | 0.0
+Pains | 3146503 | 2019 | 0.0
+Pains | 3146503 | 2020 | 0.0
+Palma | 3146701 | 2015 | 5.0
+Palma | 3146701 | 2016 | 5.0
+Palma | 3146701 | 2017 | 5.0
+Palma | 3146701 | 2018 | 0.0
+Palma | 3146701 | 2019 | 0.0
+Palma | 3146701 | 2020 | 0.0
+Passa Tempo | 3147709 | 2015 | 3.0
+Passa Tempo | 3147709 | 2016 | 3.0
+Passa Tempo | 3147709 | 2017 | 3.0
+Passa Tempo | 3147709 | 2018 | 3.0
+Passa Tempo | 3147709 | 2019 | 0.0
+Passa Tempo | 3147709 | 2020 | 0.0
+Erros | 3147808 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Passa-Vinte | 3147808 | 2015 | ?
-Erros | 3147808 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3147808 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Passa-Vinte | 3147808 | 2016 | ?
-Erros | 3147808 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3147808 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Passa-Vinte | 3147808 | 2017 | ?
-Passa-Vinte | 3147808 | 2018 | 35.0
-Passa-Vinte | 3147808 | 2019 | 35.0
-Passa-Vinte | 3147808 | 2020 | 46.11111111111111
-Paula Cândido | 3148301 | 2015 | 46.19973694099963
-Paula Cândido | 3148301 | 2016 | 48.11114282995528
-Paula Cândido | 3148301 | 2017 | 47.45420676808445
-Paula Cândido | 3148301 | 2018 | 47.30679156908665
-Paula Cândido | 3148301 | 2019 | 43.905325443786985
-Paula Cândido | 3148301 | 2020 | 42.58478545999625
-Pedras de Maria da Cruz | 3149150 | 2015 | 63.0613545816733
-Pedras de Maria da Cruz | 3149150 | 2016 | 63.007030015797795
-Pedras de Maria da Cruz | 3149150 | 2017 | 62.042007508397546
-Pedras de Maria da Cruz | 3149150 | 2018 | 62.086912065439684
-Pedras de Maria da Cruz | 3149150 | 2019 | 61.863017863930054
-Pedras de Maria da Cruz | 3149150 | 2020 | 64.8167972645676
-Erros | 3149606 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Passa-Vinte | 3147808 | 2018 | 5.0
+Passa-Vinte | 3147808 | 2019 | 5.0
+Passa-Vinte | 3147808 | 2020 | 5.0
+Paula Cândido | 3148301 | 2015 | 0.0
+Paula Cândido | 3148301 | 2016 | 0.0
+Paula Cândido | 3148301 | 2017 | 0.0
+Paula Cândido | 3148301 | 2018 | 0.0
+Paula Cândido | 3148301 | 2019 | 0.0
+Paula Cândido | 3148301 | 2020 | 0.0
+Pedras de Maria da Cruz | 3149150 | 2015 | 0.0
+Pedras de Maria da Cruz | 3149150 | 2016 | 0.0
+Pedras de Maria da Cruz | 3149150 | 2017 | 0.0
+Pedras de Maria da Cruz | 3149150 | 2018 | 0.0
+Pedras de Maria da Cruz | 3149150 | 2019 | 0.0
+Pedras de Maria da Cruz | 3149150 | 2020 | 3.0
+Erros | 3149606 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Pequi | 3149606 | 2015 | ?
-Pequi | 3149606 | 2016 | 66.28205128205128
-Pequi | 3149606 | 2017 | 66.28205128205128
-Pequi | 3149606 | 2018 | 66.39957264957265
-Pequi | 3149606 | 2019 | 66.17820512820514
-Pequi | 3149606 | 2020 | 90.18641975308641
-Piedade do Rio Grande | 3150307 | 2015 | 57.193222286042506
-Piedade do Rio Grande | 3150307 | 2016 | 58.53009060562709
-Piedade do Rio Grande | 3150307 | 2017 | 58.19769258075968
-Piedade do Rio Grande | 3150307 | 2018 | 59.90232558139535
-Piedade do Rio Grande | 3150307 | 2019 | 59.13333333333333
-Piedade do Rio Grande | 3150307 | 2020 | 62.46206685065931
-Piedade dos Gerais | 3150406 | 2015 | 65.88701684836472
-Piedade dos Gerais | 3150406 | 2016 | 59.00856621261059
-Piedade dos Gerais | 3150406 | 2017 | 54.8128556544041
-Piedade dos Gerais | 3150406 | 2018 | 55.926326218139245
-Piedade dos Gerais | 3150406 | 2019 | 50.53685731984307
-Piedade dos Gerais | 3150406 | 2020 | 49.50665708812261
-Piracema | 3150604 | 2015 | 61.64943848902501
+Pequi | 3149606 | 2016 | 0.0
+Pequi | 3149606 | 2017 | 0.0
+Pequi | 3149606 | 2018 | 0.0
+Pequi | 3149606 | 2019 | 0.0
+Pequi | 3149606 | 2020 | 0.0
+Piedade do Rio Grande | 3150307 | 2015 | 2.0
+Piedade do Rio Grande | 3150307 | 2016 | 2.0
+Piedade do Rio Grande | 3150307 | 2017 | 2.0
+Piedade do Rio Grande | 3150307 | 2018 | 2.0
+Piedade do Rio Grande | 3150307 | 2019 | 0.0
+Piedade do Rio Grande | 3150307 | 2020 | 0.0
+Piedade dos Gerais | 3150406 | 2015 | 0.0
+Piedade dos Gerais | 3150406 | 2016 | 0.0
+Piedade dos Gerais | 3150406 | 2017 | 0.0
+Piedade dos Gerais | 3150406 | 2018 | 0.0
+Piedade dos Gerais | 3150406 | 2019 | 0.0
+Piedade dos Gerais | 3150406 | 2020 | 0.0
+Piracema | 3150604 | 2015 | 5.0
 Erros | 3150604 | 2016 | [snisModel.IN049_AE]
 Piracema | 3150604 | 2016 | ?
-Piracema | 3150604 | 2017 | 64.91336069311446
-Piracema | 3150604 | 2018 | 64.91336069311446
-Erros | 3150604 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Piracema | 3150604 | 2017 | 5.0
+Piracema | 3150604 | 2018 | 5.0
+Erros | 3150604 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Piracema | 3150604 | 2019 | ?
-Piracema | 3150604 | 2020 | 65.72424242424243
-Piraúba | 3151305 | 2015 | 43.87356678741878
-Piraúba | 3151305 | 2016 | 42.702529140092366
-Piraúba | 3151305 | 2017 | 55.58167839457909
-Piraúba | 3151305 | 2018 | 57.167585502807555
-Piraúba | 3151305 | 2019 | 61.95507912200102
-Piraúba | 3151305 | 2020 | 64.41549439347604
-Ponto Chique | 3152131 | 2015 | 70.4966360856269
-Ponto Chique | 3152131 | 2016 | 72.42599388379205
-Ponto Chique | 3152131 | 2017 | 73.97163120567376
-Ponto Chique | 3152131 | 2018 | 55.427828746177376
-Ponto Chique | 3152131 | 2019 | 56.73700305810397
-Ponto Chique | 3152131 | 2020 | 57.79462759462759
-Ponto dos Volantes | 3152170 | 2015 | 45.2310413552566
-Ponto dos Volantes | 3152170 | 2016 | 41.96317103620475
-Ponto dos Volantes | 3152170 | 2017 | 37.98087406161418
-Ponto dos Volantes | 3152170 | 2018 | 40.84454409566517
-Ponto dos Volantes | 3152170 | 2019 | 40.383824134485394
-Ponto dos Volantes | 3152170 | 2020 | 49.17875067701751
-Erros | 3152600 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Piracema | 3150604 | 2020 | 0.0
+Piraúba | 3151305 | 2015 | 2.0
+Piraúba | 3151305 | 2016 | 2.0
+Piraúba | 3151305 | 2017 | 2.0
+Piraúba | 3151305 | 2018 | 2.0
+Piraúba | 3151305 | 2019 | 0.0
+Piraúba | 3151305 | 2020 | 0.0
+Ponto Chique | 3152131 | 2015 | 0.0
+Ponto Chique | 3152131 | 2016 | 0.0
+Ponto Chique | 3152131 | 2017 | 0.0
+Ponto Chique | 3152131 | 2018 | 0.0
+Ponto Chique | 3152131 | 2019 | 0.0
+Ponto Chique | 3152131 | 2020 | 0.0
+Ponto dos Volantes | 3152170 | 2015 | 0.0
+Ponto dos Volantes | 3152170 | 2016 | 0.0
+Ponto dos Volantes | 3152170 | 2017 | 0.0
+Ponto dos Volantes | 3152170 | 2018 | 0.0
+Ponto dos Volantes | 3152170 | 2019 | 0.0
+Ponto dos Volantes | 3152170 | 2020 | 0.0
+Erros | 3152600 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Pouso Alto | 3152600 | 2015 | ?
-Erros | 3152600 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3152600 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Pouso Alto | 3152600 | 2016 | ?
-Erros | 3152600 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3152600 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Pouso Alto | 3152600 | 2017 | ?
-Erros | 3152600 | 2018 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3152600 | 2018 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Pouso Alto | 3152600 | 2018 | ?
-Erros | 3152600 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3152600 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Pouso Alto | 3152600 | 2019 | ?
-Erros | 3152600 | 2020 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3152600 | 2020 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Pouso Alto | 3152600 | 2020 | ?
-Pratinha | 3153004 | 2015 | 64.63333333333334
-Pratinha | 3153004 | 2016 | 64.76666666666667
-Pratinha | 3153004 | 2017 | 64.53333333333333
-Pratinha | 3153004 | 2018 | 64.5
-Pratinha | 3153004 | 2019 | 64.23333333333333
-Pratinha | 3153004 | 2020 | 66.66666666666667
-Quartel Geral | 3153707 | 2015 | 76.05596330275229
-Quartel Geral | 3153707 | 2016 | 73.03108852181278
-Quartel Geral | 3153707 | 2017 | 76.4886524822695
-Quartel Geral | 3153707 | 2018 | 68.68873849485652
-Quartel Geral | 3153707 | 2019 | 71.3023935500126
-Quartel Geral | 3153707 | 2020 | 85.15103785103786
-Resende Costa | 3154200 | 2015 | 63.34512398314221
-Resende Costa | 3154200 | 2016 | 62.5320931867249
-Resende Costa | 3154200 | 2017 | 59.439183475428024
-Resende Costa | 3154200 | 2018 | 59.34002344469564
-Resende Costa | 3154200 | 2019 | 60.62510158425786
-Resende Costa | 3154200 | 2020 | 66.68834080717488
-Riacho dos Machados | 3154507 | 2015 | 61.04612161620579
-Riacho dos Machados | 3154507 | 2016 | 61.36853317697645
-Riacho dos Machados | 3154507 | 2017 | 63.194058786741714
-Riacho dos Machados | 3154507 | 2018 | 62.04981783431882
-Riacho dos Machados | 3154507 | 2019 | 61.206302955156026
-Riacho dos Machados | 3154507 | 2020 | 62.54522173641474
-Erros | 3154804 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Pratinha | 3153004 | 2015 | 0.0
+Pratinha | 3153004 | 2016 | 0.0
+Pratinha | 3153004 | 2017 | 0.0
+Pratinha | 3153004 | 2018 | 0.0
+Pratinha | 3153004 | 2019 | 0.0
+Pratinha | 3153004 | 2020 | 0.0
+Quartel Geral | 3153707 | 2015 | 0.0
+Quartel Geral | 3153707 | 2016 | 0.0
+Quartel Geral | 3153707 | 2017 | 0.0
+Quartel Geral | 3153707 | 2018 | 0.0
+Quartel Geral | 3153707 | 2019 | 0.0
+Quartel Geral | 3153707 | 2020 | 0.0
+Resende Costa | 3154200 | 2015 | 0.0
+Resende Costa | 3154200 | 2016 | 0.0
+Resende Costa | 3154200 | 2017 | 0.0
+Resende Costa | 3154200 | 2018 | 0.0
+Resende Costa | 3154200 | 2019 | 0.0
+Resende Costa | 3154200 | 2020 | 0.0
+Riacho dos Machados | 3154507 | 2015 | 2.0
+Riacho dos Machados | 3154507 | 2016 | 2.0
+Riacho dos Machados | 3154507 | 2017 | 2.0
+Riacho dos Machados | 3154507 | 2018 | 0.0
+Riacho dos Machados | 3154507 | 2019 | 0.0
+Riacho dos Machados | 3154507 | 2020 | 0.0
+Erros | 3154804 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Rio Acima | 3154804 | 2015 | ?
-Erros | 3154804 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3154804 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Rio Acima | 3154804 | 2016 | ?
-Erros | 3154804 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3154804 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Rio Acima | 3154804 | 2017 | ?
-Erros | 3154804 | 2018 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3154804 | 2018 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Rio Acima | 3154804 | 2018 | ?
-Erros | 3154804 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3154804 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Rio Acima | 3154804 | 2019 | ?
-Rio Acima | 3154804 | 2020 | 66.49659863945578
-Rio do Prado | 3155108 | 2015 | 52.57107020393431
-Rio do Prado | 3155108 | 2016 | 38.9792663476874
-Rio do Prado | 3155108 | 2017 | 43.1604818340781
-Rio do Prado | 3155108 | 2018 | 40.77074023703128
-Rio do Prado | 3155108 | 2019 | 38.03799449257841
-Rio do Prado | 3155108 | 2020 | 48.87531692766592
-Erros | 3155900 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Rio Acima | 3154804 | 2020 | 0.0
+Rio do Prado | 3155108 | 2015 | 3.0
+Rio do Prado | 3155108 | 2016 | 3.0
+Rio do Prado | 3155108 | 2017 | 3.0
+Rio do Prado | 3155108 | 2018 | 3.0
+Rio do Prado | 3155108 | 2019 | 0.0
+Rio do Prado | 3155108 | 2020 | 0.0
+Erros | 3155900 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Rio Preto | 3155900 | 2015 | ?
-Erros | 3155900 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3155900 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Rio Preto | 3155900 | 2016 | ?
-Rio Preto | 3155900 | 2017 | NaN
-Rio Preto | 3155900 | 2018 | 40.3074074074074
-Rio Preto | 3155900 | 2019 | 38.23827160493827
-Rio Preto | 3155900 | 2020 | 41.46378600823045
-Ritápolis | 3156106 | 2015 | 67.45916581429708
-Ritápolis | 3156106 | 2016 | 65.45563682805063
-Ritápolis | 3156106 | 2017 | 61.44462887566552
-Ritápolis | 3156106 | 2018 | 59.147638697845025
-Ritápolis | 3156106 | 2019 | 61.424148606811144
-Ritápolis | 3156106 | 2020 | 62.73504273504273
-Rochedo de Minas | 3156205 | 2015 | 66.10000000000001
-Rochedo de Minas | 3156205 | 2016 | 66.16666666666667
-Erros | 3156205 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Rio Preto | 3155900 | 2017 | 0.0
+Rio Preto | 3155900 | 2018 | 0.0
+Rio Preto | 3155900 | 2019 | 0.0
+Rio Preto | 3155900 | 2020 | 0.0
+Ritápolis | 3156106 | 2015 | 3.0
+Ritápolis | 3156106 | 2016 | 3.0
+Ritápolis | 3156106 | 2017 | 3.0
+Ritápolis | 3156106 | 2018 | 3.0
+Ritápolis | 3156106 | 2019 | 0.0
+Ritápolis | 3156106 | 2020 | 0.0
+Rochedo de Minas | 3156205 | 2015 | 0.0
+Rochedo de Minas | 3156205 | 2016 | 0.0
+Erros | 3156205 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Rochedo de Minas | 3156205 | 2017 | ?
-Rochedo de Minas | 3156205 | 2018 | 66.66666666666667
-Rochedo de Minas | 3156205 | 2019 | 66.43333333333334
-Rochedo de Minas | 3156205 | 2020 | 66.2
-Santa Cruz do Escalvado | 3157401 | 2015 | 72.67247218190614
-Santa Cruz do Escalvado | 3157401 | 2016 | 71.48888888888888
-Santa Cruz do Escalvado | 3157401 | 2017 | 76.6480934809348
-Santa Cruz do Escalvado | 3157401 | 2018 | 76.31620795107034
-Santa Cruz do Escalvado | 3157401 | 2019 | 65.57155963302752
-Santa Cruz do Escalvado | 3157401 | 2020 | 66.15775266792215
-Santa Maria do Salto | 3158102 | 2015 | 51.59279768367716
-Santa Maria do Salto | 3158102 | 2016 | 52.83302526186075
-Santa Maria do Salto | 3158102 | 2017 | 49.951247165532884
-Santa Maria do Salto | 3158102 | 2018 | 59.4610544217687
-Santa Maria do Salto | 3158102 | 2019 | 46.622195022439826
-Santa Maria do Salto | 3158102 | 2020 | 56.64604636880085
-Santana da Vargem | 3158300 | 2015 | 75.02179596476272
-Santana da Vargem | 3158300 | 2016 | 76.64047516816946
-Santana da Vargem | 3158300 | 2017 | 76.61805398049445
-Santana da Vargem | 3158300 | 2018 | 75.59269044473801
-Santana da Vargem | 3158300 | 2019 | 73.45317725752508
-Santana da Vargem | 3158300 | 2020 | 71.24933967247755
-Santana do Deserto | 3158607 | 2015 | 36.390136295596
-Santana do Deserto | 3158607 | 2016 | 47.84162378502001
-Santana do Deserto | 3158607 | 2017 | 52.9451476793249
-Santana do Deserto | 3158607 | 2018 | 66.9460500963391
-Santana do Deserto | 3158607 | 2019 | 61.01286121286122
-Santana do Deserto | 3158607 | 2020 | 66.85026519787841
-Santana do Garambéu | 3158706 | 2015 | 57.73333333333333
-Santana do Garambéu | 3158706 | 2016 | NaN
-Santana do Garambéu | 3158706 | 2017 | 66.46666666666667
-Santana do Garambéu | 3158706 | 2018 | 66.43333333333334
-Erros | 3158706 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Rochedo de Minas | 3156205 | 2018 | 0.0
+Rochedo de Minas | 3156205 | 2019 | 0.0
+Rochedo de Minas | 3156205 | 2020 | 0.0
+Santa Cruz do Escalvado | 3157401 | 2015 | 2.0
+Santa Cruz do Escalvado | 3157401 | 2016 | 2.0
+Santa Cruz do Escalvado | 3157401 | 2017 | 2.0
+Santa Cruz do Escalvado | 3157401 | 2018 | 2.0
+Santa Cruz do Escalvado | 3157401 | 2019 | 0.0
+Santa Cruz do Escalvado | 3157401 | 2020 | 0.0
+Santa Maria do Salto | 3158102 | 2015 | 3.0
+Santa Maria do Salto | 3158102 | 2016 | 3.0
+Santa Maria do Salto | 3158102 | 2017 | 3.0
+Santa Maria do Salto | 3158102 | 2018 | 3.0
+Santa Maria do Salto | 3158102 | 2019 | 3.0
+Santa Maria do Salto | 3158102 | 2020 | 0.0
+Santana da Vargem | 3158300 | 2015 | 3.0
+Santana da Vargem | 3158300 | 2016 | 3.0
+Santana da Vargem | 3158300 | 2017 | 3.0
+Santana da Vargem | 3158300 | 2018 | 3.0
+Santana da Vargem | 3158300 | 2019 | 0.0
+Santana da Vargem | 3158300 | 2020 | 0.0
+Santana do Deserto | 3158607 | 2015 | 0.0
+Santana do Deserto | 3158607 | 2016 | 0.0
+Santana do Deserto | 3158607 | 2017 | 0.0
+Santana do Deserto | 3158607 | 2018 | 0.0
+Santana do Deserto | 3158607 | 2019 | 0.0
+Santana do Deserto | 3158607 | 2020 | 0.0
+Santana do Garambéu | 3158706 | 2015 | 0.0
+Santana do Garambéu | 3158706 | 2016 | 0.0
+Santana do Garambéu | 3158706 | 2017 | 0.0
+Santana do Garambéu | 3158706 | 2018 | 0.0
+Erros | 3158706 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Santana do Garambéu | 3158706 | 2019 | ?
-Santana do Garambéu | 3158706 | 2020 | 66.66666666666667
-Santa Rita de Jacutinga | 3159308 | 2015 | 43.52380952380952
-Santa Rita de Jacutinga | 3159308 | 2016 | 43.52380952380952
-Santa Rita de Jacutinga | 3159308 | 2017 | 43.52380952380952
-Santa Rita de Jacutinga | 3159308 | 2018 | 43.52380952380952
-Santa Rita de Jacutinga | 3159308 | 2019 | 42.857142857142854
-Santa Rita de Jacutinga | 3159308 | 2020 | 42.857142857142854
-Santa Rosa da Serra | 3159704 | 2015 | 46.57474852584114
-Santa Rosa da Serra | 3159704 | 2016 | 43.26525650376854
-Santa Rosa da Serra | 3159704 | 2017 | 44.77917519742615
-Santa Rosa da Serra | 3159704 | 2018 | 44.086802194256215
-Santa Rosa da Serra | 3159704 | 2019 | 44.46320346320346
-Santa Rosa da Serra | 3159704 | 2020 | 49.9626307922272
-Santo Antônio do Grama | 3160108 | 2015 | 63.533882985220465
-Santo Antônio do Grama | 3160108 | 2016 | 66.39855072463769
-Santo Antônio do Grama | 3160108 | 2017 | 67.47888498111242
-Santo Antônio do Grama | 3160108 | 2018 | 55.85706894321563
-Santo Antônio do Grama | 3160108 | 2019 | 53.63368669022379
-Santo Antônio do Grama | 3160108 | 2020 | 63.04647375673306
-Santo Antônio do Jacinto | 3160306 | 2015 | 53.555923291060935
-Santo Antônio do Jacinto | 3160306 | 2016 | 53.46194073213248
-Santo Antônio do Jacinto | 3160306 | 2017 | 53.382599446926186
-Santo Antônio do Jacinto | 3160306 | 2018 | 52.90874266295953
-Santo Antônio do Jacinto | 3160306 | 2019 | 51.04876273653566
-Santo Antônio do Jacinto | 3160306 | 2020 | 53.2019267822736
-Santo Antônio do Retiro | 3160454 | 2015 | 65.45902140672783
-Santo Antônio do Retiro | 3160454 | 2016 | 66.76238532110092
-Santo Antônio do Retiro | 3160454 | 2017 | 66.57375886524822
-Santo Antônio do Retiro | 3160454 | 2018 | 68.85474006116208
-Santo Antônio do Retiro | 3160454 | 2019 | 80.42813455657493
-Santo Antônio do Retiro | 3160454 | 2020 | 106.07448107448107
-São Bento Abade | 3160801 | 2015 | 70.1359151682803
-São Bento Abade | 3160801 | 2016 | 69.87308922858159
-São Bento Abade | 3160801 | 2017 | 69.40108225108224
-São Bento Abade | 3160801 | 2018 | 68.81994535519125
-São Bento Abade | 3160801 | 2019 | 72.4313878080415
-São Bento Abade | 3160801 | 2020 | 71.56519065190652
-São Gonçalo do Pará | 3161809 | 2015 | 68.83265801788993
-São Gonçalo do Pará | 3161809 | 2016 | 70.8536027405214
-São Gonçalo do Pará | 3161809 | 2017 | 65.14916051040967
-São Gonçalo do Pará | 3161809 | 2018 | 59.51275616896695
-São Gonçalo do Pará | 3161809 | 2019 | 66.90961145194274
-São Gonçalo do Pará | 3161809 | 2020 | 68.55936168103875
-São Gonçalo do Rio Abaixo | 3161908 | 2015 | 65.13333333333334
-São Gonçalo do Rio Abaixo | 3161908 | 2016 | 66.66666666666667
-São Gonçalo do Rio Abaixo | 3161908 | 2017 | 66.63333333333334
-São Gonçalo do Rio Abaixo | 3161908 | 2018 | 65.91431019708655
-São Gonçalo do Rio Abaixo | 3161908 | 2019 | 66.66666666666667
-São Gonçalo do Rio Abaixo | 3161908 | 2020 | 66.36666666666666
-Erros | 3162252 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Santana do Garambéu | 3158706 | 2020 | 0.0
+Santa Rita de Jacutinga | 3159308 | 2015 | 2.0
+Santa Rita de Jacutinga | 3159308 | 2016 | 2.0
+Santa Rita de Jacutinga | 3159308 | 2017 | 2.0
+Santa Rita de Jacutinga | 3159308 | 2018 | 2.0
+Santa Rita de Jacutinga | 3159308 | 2019 | 0.0
+Santa Rita de Jacutinga | 3159308 | 2020 | 0.0
+Santa Rosa da Serra | 3159704 | 2015 | 0.0
+Santa Rosa da Serra | 3159704 | 2016 | 0.0
+Santa Rosa da Serra | 3159704 | 2017 | 0.0
+Santa Rosa da Serra | 3159704 | 2018 | 0.0
+Santa Rosa da Serra | 3159704 | 2019 | 0.0
+Santa Rosa da Serra | 3159704 | 2020 | 0.0
+Santo Antônio do Grama | 3160108 | 2015 | 3.0
+Santo Antônio do Grama | 3160108 | 2016 | 3.0
+Santo Antônio do Grama | 3160108 | 2017 | 3.0
+Santo Antônio do Grama | 3160108 | 2018 | 3.0
+Santo Antônio do Grama | 3160108 | 2019 | 0.0
+Santo Antônio do Grama | 3160108 | 2020 | 0.0
+Santo Antônio do Jacinto | 3160306 | 2015 | 3.0
+Santo Antônio do Jacinto | 3160306 | 2016 | 3.0
+Santo Antônio do Jacinto | 3160306 | 2017 | 3.0
+Santo Antônio do Jacinto | 3160306 | 2018 | 3.0
+Santo Antônio do Jacinto | 3160306 | 2019 | 0.0
+Santo Antônio do Jacinto | 3160306 | 2020 | 0.0
+Santo Antônio do Retiro | 3160454 | 2015 | 0.0
+Santo Antônio do Retiro | 3160454 | 2016 | 0.0
+Santo Antônio do Retiro | 3160454 | 2017 | 0.0
+Santo Antônio do Retiro | 3160454 | 2018 | 0.0
+Santo Antônio do Retiro | 3160454 | 2019 | 0.0
+Santo Antônio do Retiro | 3160454 | 2020 | 0.0
+São Bento Abade | 3160801 | 2015 | 0.0
+São Bento Abade | 3160801 | 2016 | 0.0
+São Bento Abade | 3160801 | 2017 | 0.0
+São Bento Abade | 3160801 | 2018 | 0.0
+São Bento Abade | 3160801 | 2019 | 0.0
+São Bento Abade | 3160801 | 2020 | 0.0
+São Gonçalo do Pará | 3161809 | 2015 | 0.0
+São Gonçalo do Pará | 3161809 | 2016 | 0.0
+São Gonçalo do Pará | 3161809 | 2017 | 0.0
+São Gonçalo do Pará | 3161809 | 2018 | 0.0
+São Gonçalo do Pará | 3161809 | 2019 | 0.0
+São Gonçalo do Pará | 3161809 | 2020 | 0.0
+São Gonçalo do Rio Abaixo | 3161908 | 2015 | 0.0
+São Gonçalo do Rio Abaixo | 3161908 | 2016 | 0.0
+São Gonçalo do Rio Abaixo | 3161908 | 2017 | 0.0
+São Gonçalo do Rio Abaixo | 3161908 | 2018 | 0.0
+São Gonçalo do Rio Abaixo | 3161908 | 2019 | 0.0
+São Gonçalo do Rio Abaixo | 3161908 | 2020 | 0.0
+Erros | 3162252 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 São João da Lagoa | 3162252 | 2015 | ?
-São João da Lagoa | 3162252 | 2016 | 69.72105263157896
-São João da Lagoa | 3162252 | 2017 | 70.02105263157894
-São João da Lagoa | 3162252 | 2018 | 70.0877192982456
-São João da Lagoa | 3162252 | 2019 | 70.0877192982456
-São João da Lagoa | 3162252 | 2020 | 69.98771929824561
-São João da Mata | 3162302 | 2015 | 76.29444444444444
-São João da Mata | 3162302 | 2016 | 76.29444444444444
-São João da Mata | 3162302 | 2017 | 67.18564080884943
-São João da Mata | 3162302 | 2018 | 67.2523074755161
-São João da Mata | 3162302 | 2019 | 66.58564080884943
-São João da Mata | 3162302 | 2020 | 52.51897414218276
-São João das Missões | 3162450 | 2015 | 90.2645259938838
-São João das Missões | 3162450 | 2016 | 89.62782874617737
-São João das Missões | 3162450 | 2017 | 85.44468085106382
-São João das Missões | 3162450 | 2018 | 68.65076452599389
-São João das Missões | 3162450 | 2019 | 57.249847094801225
-São João das Missões | 3162450 | 2020 | 54.28449328449329
-São José da Barra | 3162948 | 2015 | 69.12702535559679
-São José da Barra | 3162948 | 2016 | 69.06047771008606
-São José da Barra | 3162948 | 2017 | 68.99797746316094
-São José da Barra | 3162948 | 2018 | 68.59434327439078
-São José da Barra | 3162948 | 2019 | 69.19057879171947
-São José da Barra | 3162948 | 2020 | 67.7298909925416
-São José do Divino | 3163300 | 2015 | 48.80257252326218
-São José do Divino | 3163300 | 2016 | 47.789381499726325
-São José do Divino | 3163300 | 2017 | 62.380221458571974
-São José do Divino | 3163300 | 2018 | 38.39779050736498
-São José do Divino | 3163300 | 2019 | 6.889681208053692
-São José do Divino | 3163300 | 2020 | 54.183581747305674
-São Pedro da União | 3163904 | 2015 | 71.63013555787278
-São Pedro da União | 3163904 | 2016 | 71.57419327801524
-São Pedro da União | 3163904 | 2017 | 71.85077262693157
-São Pedro da União | 3163904 | 2018 | 71.51721109940287
-São Pedro da União | 3163904 | 2019 | 70.05628037861347
-São Pedro da União | 3163904 | 2020 | 69.08928860800519
-São Roque de Minas | 3164308 | 2015 | 62.960415566120794
-São Roque de Minas | 3164308 | 2016 | 64.94762550881954
-São Roque de Minas | 3164308 | 2017 | 66.22320462600261
-São Roque de Minas | 3164308 | 2018 | 86.85973115137347
-São Roque de Minas | 3164308 | 2019 | 89.41191245066379
-São Roque de Minas | 3164308 | 2020 | 91.73236159400909
-São Sebastião da Bela Vista | 3164407 | 2015 | 66.66666666666667
-São Sebastião da Bela Vista | 3164407 | 2016 | 66.66666666666667
-Erros | 3164407 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+São João da Lagoa | 3162252 | 2016 | 0.0
+São João da Lagoa | 3162252 | 2017 | 0.0
+São João da Lagoa | 3162252 | 2018 | 0.0
+São João da Lagoa | 3162252 | 2019 | 0.0
+São João da Lagoa | 3162252 | 2020 | 0.0
+São João da Mata | 3162302 | 2015 | 2.0
+São João da Mata | 3162302 | 2016 | 2.0
+São João da Mata | 3162302 | 2017 | 2.0
+São João da Mata | 3162302 | 2018 | 2.0
+São João da Mata | 3162302 | 2019 | 0.0
+São João da Mata | 3162302 | 2020 | 0.0
+São João das Missões | 3162450 | 2015 | 0.0
+São João das Missões | 3162450 | 2016 | 0.0
+São João das Missões | 3162450 | 2017 | 0.0
+São João das Missões | 3162450 | 2018 | 0.0
+São João das Missões | 3162450 | 2019 | 0.0
+São João das Missões | 3162450 | 2020 | 0.0
+São José da Barra | 3162948 | 2015 | 0.0
+São José da Barra | 3162948 | 2016 | 0.0
+São José da Barra | 3162948 | 2017 | 0.0
+São José da Barra | 3162948 | 2018 | 0.0
+São José da Barra | 3162948 | 2019 | 0.0
+São José da Barra | 3162948 | 2020 | 0.0
+São José do Divino | 3163300 | 2015 | 5.0
+São José do Divino | 3163300 | 2016 | 5.0
+São José do Divino | 3163300 | 2017 | 5.0
+São José do Divino | 3163300 | 2018 | 5.0
+São José do Divino | 3163300 | 2019 | 0.0
+São José do Divino | 3163300 | 2020 | 0.0
+São Pedro da União | 3163904 | 2015 | 3.0
+São Pedro da União | 3163904 | 2016 | 3.0
+São Pedro da União | 3163904 | 2017 | 3.0
+São Pedro da União | 3163904 | 2018 | 3.0
+São Pedro da União | 3163904 | 2019 | 0.0
+São Pedro da União | 3163904 | 2020 | 0.0
+São Roque de Minas | 3164308 | 2015 | 0.0
+São Roque de Minas | 3164308 | 2016 | 0.0
+São Roque de Minas | 3164308 | 2017 | 0.0
+São Roque de Minas | 3164308 | 2018 | 0.0
+São Roque de Minas | 3164308 | 2019 | 0.0
+São Roque de Minas | 3164308 | 2020 | 0.0
+São Sebastião da Bela Vista | 3164407 | 2015 | 0.0
+São Sebastião da Bela Vista | 3164407 | 2016 | 0.0
+Erros | 3164407 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 São Sebastião da Bela Vista | 3164407 | 2017 | ?
-Erros | 3164407 | 2018 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3164407 | 2018 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 São Sebastião da Bela Vista | 3164407 | 2018 | ?
-São Sebastião da Bela Vista | 3164407 | 2019 | 33.333333333333336
-São Sebastião da Bela Vista | 3164407 | 2020 | 33.03333333333333
-São Sebastião do Oeste | 3164605 | 2015 | 79.23792379237923
-São Sebastião do Oeste | 3164605 | 2016 | 78.49361967009027
-São Sebastião do Oeste | 3164605 | 2017 | 79.07801418439716
-São Sebastião do Oeste | 3164605 | 2018 | 78.8605504587156
-São Sebastião do Oeste | 3164605 | 2019 | 83.7788990825688
-São Sebastião do Oeste | 3164605 | 2020 | 83.20243531202435
-São Sebastião do Rio Verde | 3164902 | 2015 | 49.28528528528528
-Erros | 3164902 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+São Sebastião da Bela Vista | 3164407 | 2019 | 0.0
+São Sebastião da Bela Vista | 3164407 | 2020 | 0.0
+São Sebastião do Oeste | 3164605 | 2015 | 0.0
+São Sebastião do Oeste | 3164605 | 2016 | 0.0
+São Sebastião do Oeste | 3164605 | 2017 | 0.0
+São Sebastião do Oeste | 3164605 | 2018 | 0.0
+São Sebastião do Oeste | 3164605 | 2019 | 0.0
+São Sebastião do Oeste | 3164605 | 2020 | 0.0
+São Sebastião do Rio Verde | 3164902 | 2015 | 0.0
+Erros | 3164902 | 2016 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 São Sebastião do Rio Verde | 3164902 | 2016 | ?
-São Sebastião do Rio Verde | 3164902 | 2017 | 66.39100932994063
-São Sebastião do Rio Verde | 3164902 | 2018 | 66.48996324568844
-São Sebastião do Rio Verde | 3164902 | 2019 | 66.54248163096348
-São Sebastião do Rio Verde | 3164902 | 2020 | 66.65892912411017
-São Tomás de Aquino | 3165107 | 2015 | 99.29358245329
-São Tomás de Aquino | 3165107 | 2016 | 107.09785407725322
-São Tomás de Aquino | 3165107 | 2017 | 115.15744016649325
-São Tomás de Aquino | 3165107 | 2018 | 108.77646185811814
-São Tomás de Aquino | 3165107 | 2019 | 109.71743119266056
-São Tomás de Aquino | 3165107 | 2020 | 109.32026862026862
-São Thomé das Letras | 3165206 | 2015 | 66.84403452761028
-São Thomé das Letras | 3165206 | 2016 | 67.11491442542787
-São Thomé das Letras | 3165206 | 2017 | 66.91995947315097
-São Thomé das Letras | 3165206 | 2018 | 69.6954893339847
-São Thomé das Letras | 3165206 | 2019 | 68.21133552977129
-São Thomé das Letras | 3165206 | 2020 | 68.10642563856449
-Setubinha | 3165552 | 2015 | 46.209695682944094
-Setubinha | 3165552 | 2016 | 42.116885389326335
-Setubinha | 3165552 | 2017 | 61.26202974628171
-Setubinha | 3165552 | 2018 | 41.39763779527559
-Setubinha | 3165552 | 2019 | 35.96948109058927
-Setubinha | 3165552 | 2020 | 53.25160569401933
-Senador Amaral | 3165578 | 2015 | 72.78809639333656
-Senador Amaral | 3165578 | 2016 | 72.10999921881103
-Senador Amaral | 3165578 | 2017 | 72.20507362478065
-Senador Amaral | 3165578 | 2018 | 76.40261780104713
-Senador Amaral | 3165578 | 2019 | 75.54166666666667
-Senador Amaral | 3165578 | 2020 | 67.78286951144094
-Senador Cortes | 3165602 | 2015 | 67.0495994427029
-Senador Cortes | 3165602 | 2016 | 67.03326374391092
-Senador Cortes | 3165602 | 2017 | 67.06820276497696
-Senador Cortes | 3165602 | 2018 | 65.01805249449008
-Senador Cortes | 3165602 | 2019 | 65.93313313313314
-Senador Cortes | 3165602 | 2020 | 66.38750415420405
-Senador Modestino Gonçalves | 3165909 | 2015 | 81.99116997792494
-Senador Modestino Gonçalves | 3165909 | 2016 | 81.52843394575679
-Senador Modestino Gonçalves | 3165909 | 2017 | 89.35714285714285
-Senador Modestino Gonçalves | 3165909 | 2018 | 84.33639143730886
-Senador Modestino Gonçalves | 3165909 | 2019 | 85.77981651376147
-Senador Modestino Gonçalves | 3165909 | 2020 | 73.6346516007533
-Seritinga | 3166402 | 2015 | 39.42192192192192
-Seritinga | 3166402 | 2016 | 46.43018018018018
-Seritinga | 3166402 | 2017 | 42.6951951951952
-Seritinga | 3166402 | 2018 | 33.637387387387385
-Seritinga | 3166402 | 2019 | 57.21846846846847
-Seritinga | 3166402 | 2020 | 49.921171171171174
-Erros | 3167400 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+São Sebastião do Rio Verde | 3164902 | 2017 | 0.0
+São Sebastião do Rio Verde | 3164902 | 2018 | 0.0
+São Sebastião do Rio Verde | 3164902 | 2019 | 0.0
+São Sebastião do Rio Verde | 3164902 | 2020 | 0.0
+São Tomás de Aquino | 3165107 | 2015 | 2.0
+São Tomás de Aquino | 3165107 | 2016 | 2.0
+São Tomás de Aquino | 3165107 | 2017 | 2.0
+São Tomás de Aquino | 3165107 | 2018 | 2.0
+São Tomás de Aquino | 3165107 | 2019 | 2.0
+São Tomás de Aquino | 3165107 | 2020 | 2.0
+São Thomé das Letras | 3165206 | 2015 | 0.0
+São Thomé das Letras | 3165206 | 2016 | 0.0
+São Thomé das Letras | 3165206 | 2017 | 0.0
+São Thomé das Letras | 3165206 | 2018 | 0.0
+São Thomé das Letras | 3165206 | 2019 | 0.0
+São Thomé das Letras | 3165206 | 2020 | 0.0
+Setubinha | 3165552 | 2015 | 0.0
+Setubinha | 3165552 | 2016 | 0.0
+Setubinha | 3165552 | 2017 | 0.0
+Setubinha | 3165552 | 2018 | 0.0
+Setubinha | 3165552 | 2019 | 0.0
+Setubinha | 3165552 | 2020 | 0.0
+Senador Amaral | 3165578 | 2015 | 5.0
+Senador Amaral | 3165578 | 2016 | 5.0
+Senador Amaral | 3165578 | 2017 | 0.0
+Senador Amaral | 3165578 | 2018 | 0.0
+Senador Amaral | 3165578 | 2019 | 0.0
+Senador Amaral | 3165578 | 2020 | 0.0
+Senador Cortes | 3165602 | 2015 | 5.0
+Senador Cortes | 3165602 | 2016 | 5.0
+Senador Cortes | 3165602 | 2017 | 5.0
+Senador Cortes | 3165602 | 2018 | 0.0
+Senador Cortes | 3165602 | 2019 | 0.0
+Senador Cortes | 3165602 | 2020 | 0.0
+Senador Modestino Gonçalves | 3165909 | 2015 | 2.0
+Senador Modestino Gonçalves | 3165909 | 2016 | 2.0
+Senador Modestino Gonçalves | 3165909 | 2017 | 2.0
+Senador Modestino Gonçalves | 3165909 | 2018 | 2.0
+Senador Modestino Gonçalves | 3165909 | 2019 | 0.0
+Senador Modestino Gonçalves | 3165909 | 2020 | 0.0
+Seritinga | 3166402 | 2015 | 0.0
+Seritinga | 3166402 | 2016 | 0.0
+Seritinga | 3166402 | 2017 | 0.0
+Seritinga | 3166402 | 2018 | 0.0
+Seritinga | 3166402 | 2019 | 0.0
+Seritinga | 3166402 | 2020 | 0.0
+Erros | 3167400 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Silvianópolis | 3167400 | 2015 | ?
-Silvianópolis | 3167400 | 2016 | 66.5183207239282
-Silvianópolis | 3167400 | 2017 | 76.31403621214548
-Silvianópolis | 3167400 | 2018 | 75.34736954547883
-Silvianópolis | 3167400 | 2019 | 99.64423460770767
-Silvianópolis | 3167400 | 2020 | 99.57756794104101
-Erros | 3167806 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Silvianópolis | 3167400 | 2016 | 0.0
+Silvianópolis | 3167400 | 2017 | 0.0
+Silvianópolis | 3167400 | 2018 | 0.0
+Silvianópolis | 3167400 | 2019 | 0.0
+Silvianópolis | 3167400 | 2020 | 0.0
+Erros | 3167806 | 2015 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Soledade de Minas | 3167806 | 2015 | ?
-Soledade de Minas | 3167806 | 2016 | 65.1686239084613
-Soledade de Minas | 3167806 | 2017 | 65.20626317374284
-Soledade de Minas | 3167806 | 2018 | 65.32670882264378
-Soledade de Minas | 3167806 | 2019 | 65.32670882264378
-Soledade de Minas | 3167806 | 2020 | 65.32670882264378
-Tapiraí | 3168200 | 2015 | 57.74901960784314
-Tapiraí | 3168200 | 2016 | 56.174827369742616
-Tapiraí | 3168200 | 2017 | 53.43933547695605
-Tapiraí | 3168200 | 2018 | 54.753523152142655
-Tapiraí | 3168200 | 2019 | 52.49071729957806
-Tapiraí | 3168200 | 2020 | 67.02855446720095
-Teixeiras | 3168507 | 2015 | 60.27527768235429
-Teixeiras | 3168507 | 2016 | 62.62440846824408
-Teixeiras | 3168507 | 2017 | 59.95678524374176
-Teixeiras | 3168507 | 2018 | 62.627199439186825
-Teixeiras | 3168507 | 2019 | 64.72711565973368
-Teixeiras | 3168507 | 2020 | 62.77697219766185
-Tocantins | 3169000 | 2015 | 71.91638289822173
-Tocantins | 3169000 | 2016 | 72.05826712069619
-Tocantins | 3169000 | 2017 | 73.96564215148187
-Tocantins | 3169000 | 2018 | 69.52802455760202
-Tocantins | 3169000 | 2019 | 73.1085229324666
-Tocantins | 3169000 | 2020 | 74.47565908270134
-Ubaí | 3170008 | 2015 | 75.87347174163783
-Ubaí | 3170008 | 2016 | 80.41557177615572
-Ubaí | 3170008 | 2017 | 77.98156028368794
-Ubaí | 3170008 | 2018 | 53.753516819571864
-Ubaí | 3170008 | 2019 | 52.67186544342508
-Ubaí | 3170008 | 2020 | 52.96862026862027
-Uruana de Minas | 3170479 | 2015 | 55.073120352519965
-Uruana de Minas | 3170479 | 2016 | 54.89534460811057
-Erros | 3170479 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Soledade de Minas | 3167806 | 2016 | 0.0
+Soledade de Minas | 3167806 | 2017 | 0.0
+Soledade de Minas | 3167806 | 2018 | 0.0
+Soledade de Minas | 3167806 | 2019 | 0.0
+Soledade de Minas | 3167806 | 2020 | 0.0
+Tapiraí | 3168200 | 2015 | 2.0
+Tapiraí | 3168200 | 2016 | 2.0
+Tapiraí | 3168200 | 2017 | 2.0
+Tapiraí | 3168200 | 2018 | 2.0
+Tapiraí | 3168200 | 2019 | 2.0
+Tapiraí | 3168200 | 2020 | 2.0
+Teixeiras | 3168507 | 2015 | 0.0
+Teixeiras | 3168507 | 2016 | 3.0
+Teixeiras | 3168507 | 2017 | 0.0
+Teixeiras | 3168507 | 2018 | 0.0
+Teixeiras | 3168507 | 2019 | 0.0
+Teixeiras | 3168507 | 2020 | 0.0
+Tocantins | 3169000 | 2015 | 0.0
+Tocantins | 3169000 | 2016 | 0.0
+Tocantins | 3169000 | 2017 | 0.0
+Tocantins | 3169000 | 2018 | 0.0
+Tocantins | 3169000 | 2019 | 0.0
+Tocantins | 3169000 | 2020 | 0.0
+Ubaí | 3170008 | 2015 | 0.0
+Ubaí | 3170008 | 2016 | 0.0
+Ubaí | 3170008 | 2017 | 0.0
+Ubaí | 3170008 | 2018 | 0.0
+Ubaí | 3170008 | 2019 | 0.0
+Ubaí | 3170008 | 2020 | 0.0
+Uruana de Minas | 3170479 | 2015 | 3.0
+Uruana de Minas | 3170479 | 2016 | 3.0
+Erros | 3170479 | 2017 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Uruana de Minas | 3170479 | 2017 | ?
-Erros | 3170479 | 2018 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3170479 | 2018 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Uruana de Minas | 3170479 | 2018 | ?
-Erros | 3170479 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN022_AE, snisModel.IN049_AE, snisModel.QD006, snisModel.QD007, snisModel.QD008, snisModel.QD009, snisModel.QD026, snisModel.QD019, snisModel.QD020, snisModel.QD027, snisModel.QD028]
+Erros | 3170479 | 2019 | [snisModel.AG012, snisModel.IN022_AE, snisModel.IN049_AE]
 Uruana de Minas | 3170479 | 2019 | ?
-Uruana de Minas | 3170479 | 2020 | 2625.882608695653
-Vargem Bonita | 3170602 | 2015 | 69.565749235474
-Vargem Bonita | 3170602 | 2016 | 68.2032967032967
-Vargem Bonita | 3170602 | 2017 | 67.47517730496453
-Vargem Bonita | 3170602 | 2018 | 67.33333333333333
-Vargem Bonita | 3170602 | 2019 | 67.4862385321101
-Vargem Bonita | 3170602 | 2020 | 67.4096459096459
-Mathias Lobato | 3171501 | 2015 | 62.54288476411447
-Mathias Lobato | 3171501 | 2016 | 61.34489441712467
-Mathias Lobato | 3171501 | 2017 | 57.401385041551244
-Mathias Lobato | 3171501 | 2018 | 54.79543692215926
-Mathias Lobato | 3171501 | 2019 | 59.16247086247086
-Mathias Lobato | 3171501 | 2020 | 61.29010765793216
-Virgolândia | 3171808 | 2015 | 55.99556524900036
-Virgolândia | 3171808 | 2016 | 54.68090156645462
-Virgolândia | 3171808 | 2017 | 63.38078310149408
-Virgolândia | 3171808 | 2018 | 69.52707333790268
-Virgolândia | 3171808 | 2019 | 67.58930683700022
-Virgolândia | 3171808 | 2020 | 69.88304093567251
-Wenceslau Braz | 3172202 | 2015 | 77.23958015913324
-Wenceslau Braz | 3172202 | 2016 | 74.44378478664193
-Wenceslau Braz | 3172202 | 2017 | 72.91964171465132
-Wenceslau Braz | 3172202 | 2018 | 68.5979865771812
-Wenceslau Braz | 3172202 | 2019 | 66.07743902439024
-Wenceslau Braz | 3172202 | 2020 | 67.92529219261337
+Uruana de Minas | 3170479 | 2020 | 0.0
+Vargem Bonita | 3170602 | 2015 | 2.0
+Vargem Bonita | 3170602 | 2016 | 2.0
+Vargem Bonita | 3170602 | 2017 | 2.0
+Vargem Bonita | 3170602 | 2018 | 2.0
+Vargem Bonita | 3170602 | 2019 | 2.0
+Vargem Bonita | 3170602 | 2020 | 2.0
+Mathias Lobato | 3171501 | 2015 | 3.0
+Mathias Lobato | 3171501 | 2016 | 3.0
+Mathias Lobato | 3171501 | 2017 | 3.0
+Mathias Lobato | 3171501 | 2018 | 3.0
+Mathias Lobato | 3171501 | 2019 | 0.0
+Mathias Lobato | 3171501 | 2020 | 0.0
+Virgolândia | 3171808 | 2015 | 5.0
+Virgolândia | 3171808 | 2016 | 5.0
+Virgolândia | 3171808 | 2017 | 5.0
+Virgolândia | 3171808 | 2018 | 5.0
+Virgolândia | 3171808 | 2019 | 0.0
+Virgolândia | 3171808 | 2020 | 0.0
+Wenceslau Braz | 3172202 | 2015 | 3.0
+Wenceslau Braz | 3172202 | 2016 | 3.0
+Wenceslau Braz | 3172202 | 2017 | 3.0
+Wenceslau Braz | 3172202 | 2018 | 3.0
+Wenceslau Braz | 3172202 | 2019 | 0.0
+Wenceslau Braz | 3172202 | 2020 | 0.0

@@ -22,7 +22,7 @@ void app() async {
   var pathFileName = 'lib/calcs/iab.txt';
   if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
   var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
-  fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | IAB');
+  fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | ISA');
 
   for (var mun in list) {
     for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
