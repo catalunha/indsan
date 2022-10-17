@@ -1,7 +1,6 @@
 import 'dart:convert';
 import 'dart:io';
 import 'package:indsan/models/mun_model.dart';
-import 'package:indsan/models/pop_model.dart';
 import 'package:indsan/models/snis_model.dart';
 import 'package:indsan/models/t_model.dart';
 import 'package:isar/isar.dart';
@@ -11,13 +10,7 @@ class IndStore {
   late Isar _isar;
   Future<void> onInit() async {
     _isar = await Isar.open(
-      [
-        ANAModelSchema,
-        MunModelSchema,
-        PopModelSchema,
-        SNISModelSchema,
-        TModelSchema
-      ],
+      [ANAModelSchema, MunModelSchema, SNISModelSchema, TModelSchema],
       directory: '.',
     );
   }
@@ -32,7 +25,7 @@ class IndStore {
     int count = await _isar.aNAModels.count();
     if (count == 0) {
       print('Lendo dados Ana do json para collection ANA');
-      String dataFile = '/home/catalunha/apps/indsan/lib/data/ana_mg.json';
+      String dataFile = 'lib/data/ana_mg.json';
       var dataJson = File(dataFile).readAsStringSync();
 
       final dataJsonObj = json.decode(dataJson);
@@ -59,7 +52,7 @@ class IndStore {
     int count = await _isar.munModels.count();
     if (count == 0) {
       print('Lendo dados MUN do json para collection MUN');
-      String dataFile = '/home/catalunha/apps/indsan/lib/data/mun_mg.json';
+      String dataFile = 'lib/data/mun_mg.json';
       var dataJson = File(dataFile).readAsStringSync();
 
       final dataJsonObj = json.decode(dataJson);
@@ -76,33 +69,6 @@ class IndStore {
     print('MUN collection com: $count');
   }
 
-  Future<void> updatePOP({bool update = false}) async {
-    if (update) {
-      print('Removendo todos os dados da collection POP');
-      await _isar.writeTxn(() async {
-        await _isar.popModels.clear();
-      });
-    }
-    int count = await _isar.popModels.count();
-    if (count == 0) {
-      print('Lendo dados POP do json para collection POP');
-      String dataFile = '/home/catalunha/apps/indsan/lib/data/pop_mg.json';
-      var dataJson = File(dataFile).readAsStringSync();
-
-      final dataJsonObj = json.decode(dataJson);
-      final List<PopModel> list =
-          dataJsonObj.map<PopModel>((e) => PopModel.fromMap(e)).toList();
-
-      await _isar.writeTxn(() async {
-        for (var item in list) {
-          _isar.popModels.put(item);
-        }
-      });
-      count = await _isar.popModels.count();
-    }
-    print('POP collection com: $count');
-  }
-
   Future<void> updateSNIS({bool update = false}) async {
     if (update) {
       print('Removendo todos os dados da collection SNIS');
@@ -113,7 +79,7 @@ class IndStore {
     int count = await _isar.sNISModels.count();
     if (count == 0) {
       print('Lendo dados SNIS do json para collection SNIS');
-      String dataFile = '/home/catalunha/apps/indsan/lib/data/snis_mg.json';
+      String dataFile = 'lib/data/snis_mg.json';
       var dataJson = File(dataFile).readAsStringSync();
 
       final dataJsonObj = json.decode(dataJson);
@@ -140,7 +106,7 @@ class IndStore {
     int count = await _isar.tModels.count();
     if (count == 0) {
       print('Lendo dados T do json para collection T');
-      String dataFile = '/home/catalunha/apps/indsan/lib/data/t_mg.json';
+      String dataFile = 'lib/data/t_mg.json';
       var dataJson = File(dataFile).readAsStringSync();
 
       final dataJsonObj = json.decode(dataJson);

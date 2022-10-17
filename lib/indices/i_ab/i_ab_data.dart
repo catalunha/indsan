@@ -1,7 +1,6 @@
 import 'dart:io';
 
 import 'package:isar/isar.dart';
-import 'package:indsan/models/pop_model.dart';
 import 'package:indsan/models/snis_model.dart';
 import 'package:indsan/models/t_model.dart';
 import 'package:indsan/models/ana_model.dart';
@@ -16,8 +15,8 @@ class IndIABData {
         .yearEqualTo(year)
         .findFirst();
 
-    PopModel? popModel =
-        await isar.popModels.filter().munCodeEqualTo(munCode).findFirst();
+    // PopModel? popModel =
+    //     await isar.popModels.filter().munCodeEqualTo(munCode).findFirst();
 
     TModel? tModel =
         await isar.tModels.filter().munCodeEqualTo(munCode).findFirst();
@@ -48,7 +47,11 @@ class IndIABData {
       'T',
       'font',
     ];
-    List<String> varstoCalcs = [...varstoCalcISA];
+    List<String> varstoCalcs = [
+      ...varstoCalcICA,
+      ...varstoCalcIQA,
+      ...varstoCalcISA,
+    ];
 
     List<String> faltaDados = [];
     if (snisModel != null) {
@@ -90,15 +93,15 @@ class IndIABData {
                 .filter()
                 .munCodeEqualTo(munCode)
                 .findAll();
-            double IN049_AE_Sum = 0;
-            int IN049_AE_Length = 0;
+            double IN049AESum = 0;
+            int IN049AELength = 0;
             for (var element in snisModelList) {
               if (element.IN049_AE != null) {
-                IN049_AE_Sum = IN049_AE_Sum + element.IN049_AE!;
-                IN049_AE_Length++;
+                IN049AESum = IN049AESum + element.IN049_AE!;
+                IN049AELength++;
               }
             }
-            IN049_AE = IN049_AE_Sum / IN049_AE_Length;
+            IN049_AE = IN049AESum / IN049AELength;
           }
         } else {
           faltaDados.add('snisModel.IN049_AE');
@@ -177,64 +180,72 @@ class IndIABData {
           result = false;
         }
       }
+      if (varstoCalcs.contains('POP')) {
+        if (snisModel.POP != null) {
+          POP = snisModel.POP!;
+        } else {
+          faltaDados.add('snisModel.POP');
+          result = false;
+        }
+      }
     } else {
       faltaDados.add('snisModel');
       result = false;
     }
 
-    if (popModel != null) {
-      if (varstoCalcs.contains('POP')) {
-        if (year == 2015) {
-          if (popModel.y2015 != null) {
-            POP = popModel.y2015!;
-          } else {
-            faltaDados.add('popModel.y2015');
-            result = false;
-          }
-        } else if (year == 2016) {
-          if (popModel.y2016 != null) {
-            POP = popModel.y2016!;
-          } else {
-            faltaDados.add('popModel.y2016');
-            result = false;
-          }
-        } else if (year == 2017) {
-          if (popModel.y2017 != null) {
-            POP = popModel.y2017!;
-          } else {
-            faltaDados.add('popModel.y2017');
-            result = false;
-          }
-        } else if (year == 2018) {
-          if (popModel.y2018 != null) {
-            POP = popModel.y2018!;
-          } else {
-            faltaDados.add('popModel.y2018');
-            result = false;
-          }
-        } else if (year == 2019) {
-          if (popModel.y2019 != null) {
-            POP = popModel.y2019!;
-          } else {
-            faltaDados.add('popModel.y2019');
-            result = false;
-          }
-        } else if (year == 2020) {
-          if (popModel.y2020 != null) {
-            POP = popModel.y2020!;
-          } else {
-            faltaDados.add('popModel.y2020');
-            result = false;
-          }
-        } else {
-          faltaDados.add('popModel.y????'); //Ano fora da faixa de dados
-          result = false;
-        }
-      }
-    } else {
-      faltaDados.add('popModel');
-      result = false;
-    }
+    // if (popModel != null) {
+    //   if (varstoCalcs.contains('POP')) {
+    //     if (year == 2015) {
+    //       if (popModel.y2015 != null) {
+    //         POP = popModel.y2015!;
+    //       } else {
+    //         faltaDados.add('popModel.y2015');
+    //         result = false;
+    //       }
+    //     } else if (year == 2016) {
+    //       if (popModel.y2016 != null) {
+    //         POP = popModel.y2016!;
+    //       } else {
+    //         faltaDados.add('popModel.y2016');
+    //         result = false;
+    //       }
+    //     } else if (year == 2017) {
+    //       if (popModel.y2017 != null) {
+    //         POP = popModel.y2017!;
+    //       } else {
+    //         faltaDados.add('popModel.y2017');
+    //         result = false;
+    //       }
+    //     } else if (year == 2018) {
+    //       if (popModel.y2018 != null) {
+    //         POP = popModel.y2018!;
+    //       } else {
+    //         faltaDados.add('popModel.y2018');
+    //         result = false;
+    //       }
+    //     } else if (year == 2019) {
+    //       if (popModel.y2019 != null) {
+    //         POP = popModel.y2019!;
+    //       } else {
+    //         faltaDados.add('popModel.y2019');
+    //         result = false;
+    //       }
+    //     } else if (year == 2020) {
+    //       if (popModel.y2020 != null) {
+    //         POP = popModel.y2020!;
+    //       } else {
+    //         faltaDados.add('popModel.y2020');
+    //         result = false;
+    //       }
+    //     } else {
+    //       faltaDados.add('popModel.y????'); //Ano fora da faixa de dados
+    //       result = false;
+    //     }
+    //   }
+    // } else {
+    //   faltaDados.add('popModel');
+    //   result = false;
+    // }
     if (tModel != null) {
       if (varstoCalcs.contains('T')) {
         if (year == 2015) {
