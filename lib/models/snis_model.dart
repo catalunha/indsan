@@ -27,6 +27,9 @@ class SNISModel {
   double? AG012;
   double? AG024;
   double? POP;
+  double? IN024_AE;
+  double? ES005;
+  double? ES006;
   SNISModel({
     required this.munCode,
     required this.year,
@@ -46,6 +49,7 @@ class SNISModel {
     this.AG012,
     this.AG024,
     this.POP,
+    this.IN024_AE,
   });
 
   Map<String, dynamic> toMap() {
@@ -101,6 +105,9 @@ class SNISModel {
     if (POP != null) {
       result.addAll({'POP': POP});
     }
+    if (IN024_AE != null) {
+      result.addAll({'IN024_AE': IN024_AE});
+    }
 
     return result;
   }
@@ -125,6 +132,7 @@ class SNISModel {
       AG012: map['AG012']?.toDouble(),
       AG024: map['AG024']?.toDouble(),
       POP: map['POP']?.toDouble(),
+      IN024_AE: map['IN024_AE']?.toDouble(),
     );
   }
 
@@ -135,7 +143,7 @@ class SNISModel {
 
   @override
   String toString() {
-    return 'SNISModel(id: $id, munCode: $munCode, year: $year, IN022_AE: $IN022_AE, IN023_AE: $IN023_AE, IN049_AE: $IN049_AE, QD006: $QD006, QD007: $QD007, QD008: $QD008, QD009: $QD009, QD019: $QD019, QD020: $QD020, QD026: $QD026, QD027: $QD027, QD028: $QD028, AG006: $AG006, AG012: $AG012, AG024: $AG024, POP: $POP)';
+    return 'SNISModel(id: $id, munCode: $munCode, year: $year, IN022_AE: $IN022_AE, IN023_AE: $IN023_AE, IN049_AE: $IN049_AE, QD006: $QD006, QD007: $QD007, QD008: $QD008, QD009: $QD009, QD019: $QD019, QD020: $QD020, QD026: $QD026, QD027: $QD027, QD028: $QD028, AG006: $AG006, AG012: $AG012, AG024: $AG024, POP: $POP, IN024_AE: $IN024_AE)';
   }
 
   SNISModel copyWith({
@@ -158,6 +166,7 @@ class SNISModel {
     double? AG012,
     double? AG024,
     double? POP,
+    double? IN024_AE,
   }) {
     return SNISModel(
       munCode: munCode ?? this.munCode,
@@ -178,6 +187,7 @@ class SNISModel {
       AG012: AG012 ?? this.AG012,
       AG024: AG024 ?? this.AG024,
       POP: POP ?? this.POP,
+      IN024_AE: IN024_AE ?? this.IN024_AE,
     );
   }
 
@@ -204,7 +214,8 @@ class SNISModel {
         other.AG006 == AG006 &&
         other.AG012 == AG012 &&
         other.AG024 == AG024 &&
-        other.POP == POP;
+        other.POP == POP &&
+        other.IN024_AE == IN024_AE;
   }
 
   @override
@@ -227,6 +238,7 @@ class SNISModel {
         AG006.hashCode ^
         AG012.hashCode ^
         AG024.hashCode ^
-        POP.hashCode;
+        POP.hashCode ^
+        IN024_AE.hashCode;
   }
 }

@@ -2,6 +2,7 @@ import 'dart:io';
 
 import 'package:indsan/ind_store.dart';
 import 'package:indsan/indices/i_ab/i_ab.dart';
+import 'package:indsan/indices/i_es/i_es.dart';
 import 'package:isar/isar.dart';
 import 'package:indsan/models/mun_model.dart';
 
@@ -11,10 +12,50 @@ void app() async {
   await indStore.onInit();
   await indStore.updateANA();
   await indStore.updateMUN();
-  await indStore.updateSNIS();
+  await indStore.updateSNIS(update: true);
   await indStore.updateT();
-  Isar isar = Isar.getInstance()!;
+  // indIAB();
+  indIES();
+}
 
+indIES() async {
+  Isar isar = Isar.getInstance()!;
+  // +++ Indicador IES
+  IndIES indIES = IndIES();
+  List<MunModel> list = await isar.munModels.where().findAll();
+
+  var pathFileName = 'lib/calcs/ies.txt';
+  if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
+  var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
+  //+++ calculo de tudo
+  fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | IES');
+
+  for (var mun in list) {
+    for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
+      // double? iab = await indIES.calculate(mun.munCode, year, null);
+      double? ies = await indIES.calculate(mun.munCode, year, fileOpen);
+      print('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
+      fileOpen
+          .writeln('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
+    }
+  }
+  //--- calculo de tudo
+
+  // +++ teste unitario
+  // String munCode = '3144706';
+  // int year = 2016;
+  // double? iab = await indIES.calculate(munCode, year, fileOpen);
+  // print('Mun.:$munCode Ano:$year. IES: ${iab ?? "?"}');
+  // --- teste unitario
+  // +++ Indicador IES
+
+  fileOpen.close();
+  isar.close();
+}
+
+indIAB() async {
+  Isar isar = Isar.getInstance()!;
+  // +++ Indicador IAB
   IndIAB indIAB = IndIAB();
   List<MunModel> list = await isar.munModels.where().findAll();
 
@@ -41,6 +82,12 @@ void app() async {
   // double? iab = await indIAB.calculate(munCode, year, fileOpen);
   // print('Mun.:$munCode Ano:$year. IAB: ${iab ?? "?"}');
   // --- teste unitario
+  // +++ Indicador IAB
+
+  // +++ Indicador IES
+
+  // --- Indicador IES
+
   fileOpen.close();
   isar.close();
 }

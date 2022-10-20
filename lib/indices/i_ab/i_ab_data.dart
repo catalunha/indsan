@@ -338,8 +338,6 @@ class IndIABData {
   double QD026 = 0;
   double QD027 = 0;
   double QD028 = 0;
-
-  //POP
   double POP = 0;
   //
   double IN049_5 =
