@@ -1,6 +1,5 @@
 import 'dart:io';
 
-import 'package:indsan/models/ana_model.dart';
 import 'package:indsan/models/esgoto_model.dart';
 import 'package:indsan/models/snis_model.dart';
 import 'package:indsan/models/t_model.dart';
@@ -48,7 +47,6 @@ class IndIESData {
       ...varstoCalcITE,
       ...varstoCalcISE,
     ];
-
     List<String> faltaDados = [];
     if (snisModel != null) {
       if (varstoCalcs.contains('IN024_AE')) {

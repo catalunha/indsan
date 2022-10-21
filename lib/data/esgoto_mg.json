@@ -1,1248 +1,6242 @@
-[{"munCode":"3100302","year":2020,"CT":null},
-{"munCode":"3100302","year":2019,"CT":null},
-{"munCode":"3100302","year":2018,"CT":null},
-{"munCode":"3100302","year":2017,"CT":null},
-{"munCode":"3100302","year":2016,"CT":null},
-{"munCode":"3100302","year":2015,"CT":null},
-{"munCode":"3100807","year":2020,"CT":null},
-{"munCode":"3100807","year":2019,"CT":null},
-{"munCode":"3100807","year":2018,"CT":null},
-{"munCode":"3100807","year":2017,"CT":null},
-{"munCode":"3100807","year":2016,"CT":null},
-{"munCode":"3100807","year":2015,"CT":null},
-{"munCode":"3100906","year":2020,"CT":null},
-{"munCode":"3100906","year":2019,"CT":null},
-{"munCode":"3100906","year":2018,"CT":null},
-{"munCode":"3100906","year":2017,"CT":null},
-{"munCode":"3100906","year":2016,"CT":null},
-{"munCode":"3100906","year":2015,"CT":null},
-{"munCode":"3101003","year":2020,"CT":null},
-{"munCode":"3101003","year":2019,"CT":null},
-{"munCode":"3101003","year":2018,"CT":null},
-{"munCode":"3101003","year":2017,"CT":null},
-{"munCode":"3101003","year":2016,"CT":null},
-{"munCode":"3101003","year":2015,"CT":null},
-{"munCode":"3101201","year":2020,"CT":null},
-{"munCode":"3101201","year":2019,"CT":null},
-{"munCode":"3101201","year":2018,"CT":null},
-{"munCode":"3101201","year":2017,"CT":null},
-{"munCode":"3101201","year":2016,"CT":null},
-{"munCode":"3101201","year":2015,"CT":null},
-{"munCode":"3101409","year":2020,"CT":null},
-{"munCode":"3101409","year":2019,"CT":null},
-{"munCode":"3101409","year":2018,"CT":null},
-{"munCode":"3101409","year":2017,"CT":null},
-{"munCode":"3101409","year":2016,"CT":null},
-{"munCode":"3101409","year":2015,"CT":null},
-{"munCode":"3101631","year":2020,"CT":null},
-{"munCode":"3101631","year":2019,"CT":null},
-{"munCode":"3101631","year":2018,"CT":null},
-{"munCode":"3101631","year":2017,"CT":null},
-{"munCode":"3101631","year":2016,"CT":null},
-{"munCode":"3101631","year":2015,"CT":null},
-{"munCode":"3102050","year":2020,"CT":null},
-{"munCode":"3102050","year":2019,"CT":null},
-{"munCode":"3102050","year":2018,"CT":null},
-{"munCode":"3102050","year":2017,"CT":null},
-{"munCode":"3102050","year":2016,"CT":null},
-{"munCode":"3102050","year":2015,"CT":null},
-{"munCode":"3102506","year":2020,"CT":null},
-{"munCode":"3102506","year":2019,"CT":null},
-{"munCode":"3102506","year":2018,"CT":null},
-{"munCode":"3102506","year":2017,"CT":null},
-{"munCode":"3102506","year":2016,"CT":null},
-{"munCode":"3102506","year":2015,"CT":null},
-{"munCode":"3102803","year":2020,"CT":null},
-{"munCode":"3102803","year":2019,"CT":null},
-{"munCode":"3102803","year":2018,"CT":null},
-{"munCode":"3102803","year":2017,"CT":null},
-{"munCode":"3102803","year":2016,"CT":null},
-{"munCode":"3102803","year":2015,"CT":null},
-{"munCode":"3104452","year":2020,"CT":189.18},
-{"munCode":"3104452","year":2019,"CT":189.18},
-{"munCode":"3104452","year":2018,"CT":189.18},
-{"munCode":"3104452","year":2017,"CT":189.18},
-{"munCode":"3104452","year":2016,"CT":189.18},
-{"munCode":"3104452","year":2015,"CT":189.18},
-{"munCode":"3104502","year":2020,"CT":null},
-{"munCode":"3104502","year":2019,"CT":null},
-{"munCode":"3104502","year":2018,"CT":null},
-{"munCode":"3104502","year":2017,"CT":null},
-{"munCode":"3104502","year":2016,"CT":null},
-{"munCode":"3104502","year":2015,"CT":null},
-{"munCode":"3104700","year":2020,"CT":null},
-{"munCode":"3104700","year":2019,"CT":null},
-{"munCode":"3104700","year":2018,"CT":null},
-{"munCode":"3104700","year":2017,"CT":null},
-{"munCode":"3104700","year":2016,"CT":null},
-{"munCode":"3104700","year":2015,"CT":null},
-{"munCode":"3105202","year":2020,"CT":null},
-{"munCode":"3105202","year":2019,"CT":null},
-{"munCode":"3105202","year":2018,"CT":null},
-{"munCode":"3105202","year":2017,"CT":null},
-{"munCode":"3105202","year":2016,"CT":null},
-{"munCode":"3105202","year":2015,"CT":null},
-{"munCode":"3105301","year":2020,"CT":null},
-{"munCode":"3105301","year":2019,"CT":null},
-{"munCode":"3105301","year":2018,"CT":null},
-{"munCode":"3105301","year":2017,"CT":null},
-{"munCode":"3105301","year":2016,"CT":null},
-{"munCode":"3105301","year":2015,"CT":null},
-{"munCode":"3106606","year":2020,"CT":null},
-{"munCode":"3106606","year":2019,"CT":null},
-{"munCode":"3106606","year":2018,"CT":null},
-{"munCode":"3106606","year":2017,"CT":null},
-{"munCode":"3106606","year":2016,"CT":null},
-{"munCode":"3106606","year":2015,"CT":null},
-{"munCode":"3106804","year":2020,"CT":null},
-{"munCode":"3106804","year":2019,"CT":null},
-{"munCode":"3106804","year":2018,"CT":null},
-{"munCode":"3106804","year":2017,"CT":null},
-{"munCode":"3106804","year":2016,"CT":null},
-{"munCode":"3106804","year":2015,"CT":null},
-{"munCode":"3107208","year":2020,"CT":null},
-{"munCode":"3107208","year":2019,"CT":null},
-{"munCode":"3107208","year":2018,"CT":null},
-{"munCode":"3107208","year":2017,"CT":null},
-{"munCode":"3107208","year":2016,"CT":null},
-{"munCode":"3107208","year":2015,"CT":null},
-{"munCode":"3107604","year":2020,"CT":null},
-{"munCode":"3107604","year":2019,"CT":null},
-{"munCode":"3107604","year":2018,"CT":null},
-{"munCode":"3107604","year":2017,"CT":null},
-{"munCode":"3107604","year":2016,"CT":null},
-{"munCode":"3107604","year":2015,"CT":null},
-{"munCode":"3107901","year":2020,"CT":null},
-{"munCode":"3107901","year":2019,"CT":null},
-{"munCode":"3107901","year":2018,"CT":null},
-{"munCode":"3107901","year":2017,"CT":null},
-{"munCode":"3107901","year":2016,"CT":null},
-{"munCode":"3107901","year":2015,"CT":null},
-{"munCode":"3108255","year":2020,"CT":null},
-{"munCode":"3108255","year":2019,"CT":null},
-{"munCode":"3108255","year":2018,"CT":null},
-{"munCode":"3108255","year":2017,"CT":null},
-{"munCode":"3108255","year":2016,"CT":null},
-{"munCode":"3108255","year":2015,"CT":null},
-{"munCode":"3108305","year":2020,"CT":460.338},
-{"munCode":"3108305","year":2019,"CT":460.338},
-{"munCode":"3108305","year":2018,"CT":460.338},
-{"munCode":"3108305","year":2017,"CT":460.338},
-{"munCode":"3108305","year":2016,"CT":460.338},
-{"munCode":"3108305","year":2015,"CT":460.338},
-{"munCode":"3108404","year":2020,"CT":null},
-{"munCode":"3108404","year":2019,"CT":null},
-{"munCode":"3108404","year":2018,"CT":null},
-{"munCode":"3108404","year":2017,"CT":null},
-{"munCode":"3108404","year":2016,"CT":null},
-{"munCode":"3108404","year":2015,"CT":null},
-{"munCode":"3108503","year":2020,"CT":null},
-{"munCode":"3108503","year":2019,"CT":null},
-{"munCode":"3108503","year":2018,"CT":null},
-{"munCode":"3108503","year":2017,"CT":null},
-{"munCode":"3108503","year":2016,"CT":null},
-{"munCode":"3108503","year":2015,"CT":null},
-{"munCode":"3109600","year":2020,"CT":null},
-{"munCode":"3109600","year":2019,"CT":null},
-{"munCode":"3109600","year":2018,"CT":null},
-{"munCode":"3109600","year":2017,"CT":null},
-{"munCode":"3109600","year":2016,"CT":null},
-{"munCode":"3109600","year":2015,"CT":null},
-{"munCode":"3109709","year":2020,"CT":null},
-{"munCode":"3109709","year":2019,"CT":null},
-{"munCode":"3109709","year":2018,"CT":null},
-{"munCode":"3109709","year":2017,"CT":null},
-{"munCode":"3109709","year":2016,"CT":null},
-{"munCode":"3109709","year":2015,"CT":null},
-{"munCode":"3110103","year":2020,"CT":null},
-{"munCode":"3110103","year":2019,"CT":null},
-{"munCode":"3110103","year":2018,"CT":null},
-{"munCode":"3110103","year":2017,"CT":null},
-{"munCode":"3110103","year":2016,"CT":null},
-{"munCode":"3110103","year":2015,"CT":null},
-{"munCode":"3110301","year":2020,"CT":null},
-{"munCode":"3110301","year":2019,"CT":null},
-{"munCode":"3110301","year":2018,"CT":null},
-{"munCode":"3110301","year":2017,"CT":null},
-{"munCode":"3110301","year":2016,"CT":null},
-{"munCode":"3110301","year":2015,"CT":null},
-{"munCode":"3110400","year":2020,"CT":null},
-{"munCode":"3110400","year":2019,"CT":null},
-{"munCode":"3110400","year":2018,"CT":null},
-{"munCode":"3110400","year":2017,"CT":null},
-{"munCode":"3110400","year":2016,"CT":null},
-{"munCode":"3110400","year":2015,"CT":null},
-{"munCode":"3110707","year":2020,"CT":null},
-{"munCode":"3110707","year":2019,"CT":null},
-{"munCode":"3110707","year":2018,"CT":null},
-{"munCode":"3110707","year":2017,"CT":null},
-{"munCode":"3110707","year":2016,"CT":null},
-{"munCode":"3110707","year":2015,"CT":null},
-{"munCode":"3110905","year":2020,"CT":null},
-{"munCode":"3110905","year":2019,"CT":null},
-{"munCode":"3110905","year":2018,"CT":null},
-{"munCode":"3110905","year":2017,"CT":null},
-{"munCode":"3110905","year":2016,"CT":null},
-{"munCode":"3110905","year":2015,"CT":null},
-{"munCode":"3111101","year":2020,"CT":851.31},
-{"munCode":"3111101","year":2019,"CT":851.31},
-{"munCode":"3111101","year":2018,"CT":851.31},
-{"munCode":"3111101","year":2017,"CT":851.31},
-{"munCode":"3111101","year":2016,"CT":851.31},
-{"munCode":"3111101","year":2015,"CT":851.31},
-{"munCode":"3111309","year":2020,"CT":null},
-{"munCode":"3111309","year":2019,"CT":null},
-{"munCode":"3111309","year":2018,"CT":null},
-{"munCode":"3111309","year":2017,"CT":null},
-{"munCode":"3111309","year":2016,"CT":null},
-{"munCode":"3111309","year":2015,"CT":null},
-{"munCode":"3111408","year":2020,"CT":null},
-{"munCode":"3111408","year":2019,"CT":null},
-{"munCode":"3111408","year":2018,"CT":null},
-{"munCode":"3111408","year":2017,"CT":null},
-{"munCode":"3111408","year":2016,"CT":null},
-{"munCode":"3111408","year":2015,"CT":null},
-{"munCode":"3111705","year":2020,"CT":null},
-{"munCode":"3111705","year":2019,"CT":null},
-{"munCode":"3111705","year":2018,"CT":null},
-{"munCode":"3111705","year":2017,"CT":null},
-{"munCode":"3111705","year":2016,"CT":null},
-{"munCode":"3111705","year":2015,"CT":null},
-{"munCode":"3111903","year":2020,"CT":null},
-{"munCode":"3111903","year":2019,"CT":null},
-{"munCode":"3111903","year":2018,"CT":null},
-{"munCode":"3111903","year":2017,"CT":null},
-{"munCode":"3111903","year":2016,"CT":null},
-{"munCode":"3111903","year":2015,"CT":null},
-{"munCode":"3112109","year":2020,"CT":null},
-{"munCode":"3112109","year":2019,"CT":null},
-{"munCode":"3112109","year":2018,"CT":null},
-{"munCode":"3112109","year":2017,"CT":null},
-{"munCode":"3112109","year":2016,"CT":null},
-{"munCode":"3112109","year":2015,"CT":null},
-{"munCode":"3112406","year":2020,"CT":null},
-{"munCode":"3112406","year":2019,"CT":null},
-{"munCode":"3112406","year":2018,"CT":null},
-{"munCode":"3112406","year":2017,"CT":null},
-{"munCode":"3112406","year":2016,"CT":null},
-{"munCode":"3112406","year":2015,"CT":null},
-{"munCode":"3112505","year":2020,"CT":null},
-{"munCode":"3112505","year":2019,"CT":null},
-{"munCode":"3112505","year":2018,"CT":null},
-{"munCode":"3112505","year":2017,"CT":null},
-{"munCode":"3112505","year":2016,"CT":null},
-{"munCode":"3112505","year":2015,"CT":null},
-{"munCode":"3112901","year":2020,"CT":null},
-{"munCode":"3112901","year":2019,"CT":null},
-{"munCode":"3112901","year":2018,"CT":null},
-{"munCode":"3112901","year":2017,"CT":null},
-{"munCode":"3112901","year":2016,"CT":null},
-{"munCode":"3112901","year":2015,"CT":null},
-{"munCode":"3113107","year":2020,"CT":null},
-{"munCode":"3113107","year":2019,"CT":null},
-{"munCode":"3113107","year":2018,"CT":null},
-{"munCode":"3113107","year":2017,"CT":null},
-{"munCode":"3113107","year":2016,"CT":null},
-{"munCode":"3113107","year":2015,"CT":null},
-{"munCode":"3113602","year":2020,"CT":null},
-{"munCode":"3113602","year":2019,"CT":null},
-{"munCode":"3113602","year":2018,"CT":null},
-{"munCode":"3113602","year":2017,"CT":null},
-{"munCode":"3113602","year":2016,"CT":null},
-{"munCode":"3113602","year":2015,"CT":null},
-{"munCode":"3113701","year":2020,"CT":945.9},
-{"munCode":"3113701","year":2019,"CT":945.9},
-{"munCode":"3113701","year":2018,"CT":945.9},
-{"munCode":"3113701","year":2017,"CT":945.9},
-{"munCode":"3113701","year":2016,"CT":945.9},
-{"munCode":"3113701","year":2015,"CT":945.9},
-{"munCode":"3113909","year":2020,"CT":null},
-{"munCode":"3113909","year":2019,"CT":null},
-{"munCode":"3113909","year":2018,"CT":null},
-{"munCode":"3113909","year":2017,"CT":null},
-{"munCode":"3113909","year":2016,"CT":null},
-{"munCode":"3113909","year":2015,"CT":null},
-{"munCode":"3114105","year":2020,"CT":null},
-{"munCode":"3114105","year":2019,"CT":null},
-{"munCode":"3114105","year":2018,"CT":null},
-{"munCode":"3114105","year":2017,"CT":null},
-{"munCode":"3114105","year":2016,"CT":null},
-{"munCode":"3114105","year":2015,"CT":null},
-{"munCode":"3114550","year":2020,"CT":null},
-{"munCode":"3114550","year":2019,"CT":null},
-{"munCode":"3114550","year":2018,"CT":null},
-{"munCode":"3114550","year":2017,"CT":null},
-{"munCode":"3114550","year":2016,"CT":null},
-{"munCode":"3114550","year":2015,"CT":null},
-{"munCode":"3114600","year":2020,"CT":null},
-{"munCode":"3114600","year":2019,"CT":null},
-{"munCode":"3114600","year":2018,"CT":null},
-{"munCode":"3114600","year":2017,"CT":null},
-{"munCode":"3114600","year":2016,"CT":null},
-{"munCode":"3114600","year":2015,"CT":null},
-{"munCode":"3114709","year":2020,"CT":null},
-{"munCode":"3114709","year":2019,"CT":null},
-{"munCode":"3114709","year":2018,"CT":null},
-{"munCode":"3114709","year":2017,"CT":null},
-{"munCode":"3114709","year":2016,"CT":null},
-{"munCode":"3114709","year":2015,"CT":null},
-{"munCode":"3114808","year":2020,"CT":null},
-{"munCode":"3114808","year":2019,"CT":null},
-{"munCode":"3114808","year":2018,"CT":null},
-{"munCode":"3114808","year":2017,"CT":null},
-{"munCode":"3114808","year":2016,"CT":null},
-{"munCode":"3114808","year":2015,"CT":null},
-{"munCode":"3115003","year":2020,"CT":null},
-{"munCode":"3115003","year":2019,"CT":null},
-{"munCode":"3115003","year":2018,"CT":null},
-{"munCode":"3115003","year":2017,"CT":null},
-{"munCode":"3115003","year":2016,"CT":null},
-{"munCode":"3115003","year":2015,"CT":null},
-{"munCode":"3115607","year":2020,"CT":null},
-{"munCode":"3115607","year":2019,"CT":null},
-{"munCode":"3115607","year":2018,"CT":null},
-{"munCode":"3115607","year":2017,"CT":null},
-{"munCode":"3115607","year":2016,"CT":null},
-{"munCode":"3115607","year":2015,"CT":null},
-{"munCode":"3116209","year":2020,"CT":null},
-{"munCode":"3116209","year":2019,"CT":null},
-{"munCode":"3116209","year":2018,"CT":null},
-{"munCode":"3116209","year":2017,"CT":null},
-{"munCode":"3116209","year":2016,"CT":null},
-{"munCode":"3116209","year":2015,"CT":null},
-{"munCode":"3116407","year":2020,"CT":null},
-{"munCode":"3116407","year":2019,"CT":null},
-{"munCode":"3116407","year":2018,"CT":null},
-{"munCode":"3116407","year":2017,"CT":null},
-{"munCode":"3116407","year":2016,"CT":null},
-{"munCode":"3116407","year":2015,"CT":null},
-{"munCode":"3116506","year":2020,"CT":397.278},
-{"munCode":"3116506","year":2019,"CT":397.278},
-{"munCode":"3116506","year":2018,"CT":397.278},
-{"munCode":"3116506","year":2017,"CT":397.278},
-{"munCode":"3116506","year":2016,"CT":397.278},
-{"munCode":"3116506","year":2015,"CT":397.278},
-{"munCode":"3117009","year":2020,"CT":null},
-{"munCode":"3117009","year":2019,"CT":null},
-{"munCode":"3117009","year":2018,"CT":null},
-{"munCode":"3117009","year":2017,"CT":null},
-{"munCode":"3117009","year":2016,"CT":null},
-{"munCode":"3117009","year":2015,"CT":null},
-{"munCode":"3115201","year":2020,"CT":302.0574},
-{"munCode":"3115201","year":2019,"CT":302.0574},
-{"munCode":"3115201","year":2018,"CT":302.0574},
-{"munCode":"3115201","year":2017,"CT":302.0574},
-{"munCode":"3115201","year":2016,"CT":302.0574},
-{"munCode":"3115201","year":2015,"CT":302.0574},
-{"munCode":"3117207","year":2020,"CT":null},
-{"munCode":"3117207","year":2019,"CT":null},
-{"munCode":"3117207","year":2018,"CT":null},
-{"munCode":"3117207","year":2017,"CT":null},
-{"munCode":"3117207","year":2016,"CT":null},
-{"munCode":"3117207","year":2015,"CT":null},
-{"munCode":"3117702","year":2020,"CT":null},
-{"munCode":"3117702","year":2019,"CT":null},
-{"munCode":"3117702","year":2018,"CT":null},
-{"munCode":"3117702","year":2017,"CT":null},
-{"munCode":"3117702","year":2016,"CT":null},
-{"munCode":"3117702","year":2015,"CT":null},
-{"munCode":"3117836","year":2020,"CT":null},
-{"munCode":"3117836","year":2019,"CT":null},
-{"munCode":"3117836","year":2018,"CT":null},
-{"munCode":"3117836","year":2017,"CT":null},
-{"munCode":"3117836","year":2016,"CT":null},
-{"munCode":"3117836","year":2015,"CT":null},
-{"munCode":"3117900","year":2020,"CT":null},
-{"munCode":"3117900","year":2019,"CT":null},
-{"munCode":"3117900","year":2018,"CT":null},
-{"munCode":"3117900","year":2017,"CT":null},
-{"munCode":"3117900","year":2016,"CT":null},
-{"munCode":"3117900","year":2015,"CT":null},
-{"munCode":"3119005","year":2020,"CT":null},
-{"munCode":"3119005","year":2019,"CT":null},
-{"munCode":"3119005","year":2018,"CT":null},
-{"munCode":"3119005","year":2017,"CT":null},
-{"munCode":"3119005","year":2016,"CT":null},
-{"munCode":"3119005","year":2015,"CT":null},
-{"munCode":"3119500","year":2020,"CT":null},
-{"munCode":"3119500","year":2019,"CT":null},
-{"munCode":"3119500","year":2018,"CT":null},
-{"munCode":"3119500","year":2017,"CT":null},
-{"munCode":"3119500","year":2016,"CT":null},
-{"munCode":"3119500","year":2015,"CT":null},
-{"munCode":"3119807","year":2020,"CT":null},
-{"munCode":"3119807","year":2019,"CT":null},
-{"munCode":"3119807","year":2018,"CT":null},
-{"munCode":"3119807","year":2017,"CT":null},
-{"munCode":"3119807","year":2016,"CT":null},
-{"munCode":"3119807","year":2015,"CT":null},
-{"munCode":"3119906","year":2020,"CT":null},
-{"munCode":"3119906","year":2019,"CT":null},
-{"munCode":"3119906","year":2018,"CT":null},
-{"munCode":"3119906","year":2017,"CT":null},
-{"munCode":"3119906","year":2016,"CT":null},
-{"munCode":"3119906","year":2015,"CT":null},
-{"munCode":"3120151","year":2020,"CT":null},
-{"munCode":"3120151","year":2019,"CT":null},
-{"munCode":"3120151","year":2018,"CT":null},
-{"munCode":"3120151","year":2017,"CT":null},
-{"munCode":"3120151","year":2016,"CT":null},
-{"munCode":"3120151","year":2015,"CT":null},
-{"munCode":"3120201","year":2020,"CT":null},
-{"munCode":"3120201","year":2019,"CT":null},
-{"munCode":"3120201","year":2018,"CT":null},
-{"munCode":"3120201","year":2017,"CT":null},
-{"munCode":"3120201","year":2016,"CT":null},
-{"munCode":"3120201","year":2015,"CT":null},
-{"munCode":"3120508","year":2020,"CT":null},
-{"munCode":"3120508","year":2019,"CT":null},
-{"munCode":"3120508","year":2018,"CT":null},
-{"munCode":"3120508","year":2017,"CT":null},
-{"munCode":"3120508","year":2016,"CT":null},
-{"munCode":"3120508","year":2015,"CT":null},
-{"munCode":"3120607","year":2020,"CT":null},
-{"munCode":"3120607","year":2019,"CT":null},
-{"munCode":"3120607","year":2018,"CT":null},
-{"munCode":"3120607","year":2017,"CT":null},
-{"munCode":"3120607","year":2016,"CT":null},
-{"munCode":"3120607","year":2015,"CT":null},
-{"munCode":"3120805","year":2020,"CT":null},
-{"munCode":"3120805","year":2019,"CT":null},
-{"munCode":"3120805","year":2018,"CT":null},
-{"munCode":"3120805","year":2017,"CT":null},
-{"munCode":"3120805","year":2016,"CT":null},
-{"munCode":"3120805","year":2015,"CT":null},
-{"munCode":"3120870","year":2020,"CT":null},
-{"munCode":"3120870","year":2019,"CT":null},
-{"munCode":"3120870","year":2018,"CT":null},
-{"munCode":"3120870","year":2017,"CT":null},
-{"munCode":"3120870","year":2016,"CT":null},
-{"munCode":"3120870","year":2015,"CT":null},
-{"munCode":"3121001","year":2020,"CT":null},
-{"munCode":"3121001","year":2019,"CT":null},
-{"munCode":"3121001","year":2018,"CT":null},
-{"munCode":"3121001","year":2017,"CT":null},
-{"munCode":"3121001","year":2016,"CT":null},
-{"munCode":"3121001","year":2015,"CT":null},
-{"munCode":"3121100","year":2020,"CT":null},
-{"munCode":"3121100","year":2019,"CT":null},
-{"munCode":"3121100","year":2018,"CT":null},
-{"munCode":"3121100","year":2017,"CT":null},
-{"munCode":"3121100","year":2016,"CT":null},
-{"munCode":"3121100","year":2015,"CT":null},
-{"munCode":"3121209","year":2020,"CT":376.2},
-{"munCode":"3121209","year":2019,"CT":376.2},
-{"munCode":"3121209","year":2018,"CT":null},
-{"munCode":"3121209","year":2017,"CT":null},
-{"munCode":"3121209","year":2016,"CT":null},
-{"munCode":"3121209","year":2015,"CT":null},
-{"munCode":"3121258","year":2020,"CT":null},
-{"munCode":"3121258","year":2019,"CT":null},
-{"munCode":"3121258","year":2018,"CT":null},
-{"munCode":"3121258","year":2017,"CT":null},
-{"munCode":"3121258","year":2016,"CT":null},
-{"munCode":"3121258","year":2015,"CT":null},
-{"munCode":"3122801","year":2020,"CT":null},
-{"munCode":"3122801","year":2019,"CT":null},
-{"munCode":"3122801","year":2018,"CT":null},
-{"munCode":"3122801","year":2017,"CT":null},
-{"munCode":"3122801","year":2016,"CT":null},
-{"munCode":"3122801","year":2015,"CT":null},
-{"munCode":"3122900","year":2020,"CT":null},
-{"munCode":"3122900","year":2019,"CT":null},
-{"munCode":"3122900","year":2018,"CT":null},
-{"munCode":"3122900","year":2017,"CT":null},
-{"munCode":"3122900","year":2016,"CT":null},
-{"munCode":"3122900","year":2015,"CT":null},
-{"munCode":"3123502","year":2020,"CT":null},
-{"munCode":"3123502","year":2019,"CT":null},
-{"munCode":"3123502","year":2018,"CT":null},
-{"munCode":"3123502","year":2017,"CT":null},
-{"munCode":"3123502","year":2016,"CT":null},
-{"munCode":"3123502","year":2015,"CT":null},
-{"munCode":"3123908","year":2020,"CT":null},
-{"munCode":"3123908","year":2019,"CT":null},
-{"munCode":"3123908","year":2018,"CT":null},
-{"munCode":"3123908","year":2017,"CT":null},
-{"munCode":"3123908","year":2016,"CT":null},
-{"munCode":"3123908","year":2015,"CT":null},
-{"munCode":"3124500","year":2020,"CT":null},
-{"munCode":"3124500","year":2019,"CT":null},
-{"munCode":"3124500","year":2018,"CT":null},
-{"munCode":"3124500","year":2017,"CT":null},
-{"munCode":"3124500","year":2016,"CT":null},
-{"munCode":"3124500","year":2015,"CT":null},
-{"munCode":"3124708","year":2020,"CT":null},
-{"munCode":"3124708","year":2019,"CT":null},
-{"munCode":"3124708","year":2018,"CT":null},
-{"munCode":"3124708","year":2017,"CT":null},
-{"munCode":"3124708","year":2016,"CT":null},
-{"munCode":"3124708","year":2015,"CT":null},
-{"munCode":"3125408","year":2020,"CT":null},
-{"munCode":"3125408","year":2019,"CT":null},
-{"munCode":"3125408","year":2018,"CT":null},
-{"munCode":"3125408","year":2017,"CT":null},
-{"munCode":"3125408","year":2016,"CT":null},
-{"munCode":"3125408","year":2015,"CT":null},
-{"munCode":"3126505","year":2020,"CT":null},
-{"munCode":"3126505","year":2019,"CT":null},
-{"munCode":"3126505","year":2018,"CT":null},
-{"munCode":"3126505","year":2017,"CT":null},
-{"munCode":"3126505","year":2016,"CT":null},
-{"munCode":"3126505","year":2015,"CT":null},
-{"munCode":"3127354","year":2020,"CT":null},
-{"munCode":"3127354","year":2019,"CT":null},
-{"munCode":"3127354","year":2018,"CT":null},
-{"munCode":"3127354","year":2017,"CT":null},
-{"munCode":"3127354","year":2016,"CT":null},
-{"munCode":"3127354","year":2015,"CT":null},
-{"munCode":"3127404","year":2020,"CT":null},
-{"munCode":"3127404","year":2019,"CT":null},
-{"munCode":"3127404","year":2018,"CT":null},
-{"munCode":"3127404","year":2017,"CT":null},
-{"munCode":"3127404","year":2016,"CT":null},
-{"munCode":"3127404","year":2015,"CT":null},
-{"munCode":"3127800","year":2020,"CT":null},
-{"munCode":"3127800","year":2019,"CT":null},
-{"munCode":"3127800","year":2018,"CT":null},
-{"munCode":"3127800","year":2017,"CT":null},
-{"munCode":"3127800","year":2016,"CT":null},
-{"munCode":"3127800","year":2015,"CT":null},
-{"munCode":"3128105","year":2020,"CT":null},
-{"munCode":"3128105","year":2019,"CT":null},
-{"munCode":"3128105","year":2018,"CT":null},
-{"munCode":"3128105","year":2017,"CT":null},
-{"munCode":"3128105","year":2016,"CT":null},
-{"munCode":"3128105","year":2015,"CT":null},
-{"munCode":"3128303","year":2020,"CT":null},
-{"munCode":"3128303","year":2019,"CT":null},
-{"munCode":"3128303","year":2018,"CT":null},
-{"munCode":"3128303","year":2017,"CT":null},
-{"munCode":"3128303","year":2016,"CT":null},
-{"munCode":"3128303","year":2015,"CT":null},
-{"munCode":"3128501","year":2020,"CT":null},
-{"munCode":"3128501","year":2019,"CT":null},
-{"munCode":"3128501","year":2018,"CT":null},
-{"munCode":"3128501","year":2017,"CT":null},
-{"munCode":"3128501","year":2016,"CT":null},
-{"munCode":"3128501","year":2015,"CT":null},
-{"munCode":"3128600","year":2020,"CT":313.5},
-{"munCode":"3128600","year":2019,"CT":313.5},
-{"munCode":"3128600","year":2018,"CT":313.5},
-{"munCode":"3128600","year":2017,"CT":313.5},
-{"munCode":"3128600","year":2016,"CT":313.5},
-{"munCode":"3128600","year":2015,"CT":313.5},
-{"munCode":"3128907","year":2020,"CT":null},
-{"munCode":"3128907","year":2019,"CT":null},
-{"munCode":"3128907","year":2018,"CT":null},
-{"munCode":"3128907","year":2017,"CT":null},
-{"munCode":"3128907","year":2016,"CT":null},
-{"munCode":"3128907","year":2015,"CT":null},
-{"munCode":"3129004","year":2020,"CT":null},
-{"munCode":"3129004","year":2019,"CT":null},
-{"munCode":"3129004","year":2018,"CT":null},
-{"munCode":"3129004","year":2017,"CT":null},
-{"munCode":"3129004","year":2016,"CT":null},
-{"munCode":"3129004","year":2015,"CT":null},
-{"munCode":"3129202","year":2020,"CT":null},
-{"munCode":"3129202","year":2019,"CT":null},
-{"munCode":"3129202","year":2018,"CT":null},
-{"munCode":"3129202","year":2017,"CT":null},
-{"munCode":"3129202","year":2016,"CT":null},
-{"munCode":"3129202","year":2015,"CT":null},
-{"munCode":"3129400","year":2020,"CT":null},
-{"munCode":"3129400","year":2019,"CT":null},
-{"munCode":"3129400","year":2018,"CT":null},
-{"munCode":"3129400","year":2017,"CT":null},
-{"munCode":"3129400","year":2016,"CT":null},
-{"munCode":"3129400","year":2015,"CT":null},
-{"munCode":"3129657","year":2020,"CT":null},
-{"munCode":"3129657","year":2019,"CT":null},
-{"munCode":"3129657","year":2018,"CT":null},
-{"munCode":"3129657","year":2017,"CT":null},
-{"munCode":"3129657","year":2016,"CT":null},
-{"munCode":"3129657","year":2015,"CT":null},
-{"munCode":"3129707","year":2020,"CT":null},
-{"munCode":"3129707","year":2019,"CT":null},
-{"munCode":"3129707","year":2018,"CT":null},
-{"munCode":"3129707","year":2017,"CT":null},
-{"munCode":"3129707","year":2016,"CT":null},
-{"munCode":"3129707","year":2015,"CT":null},
-{"munCode":"3129905","year":2020,"CT":null},
-{"munCode":"3129905","year":2019,"CT":null},
-{"munCode":"3129905","year":2018,"CT":null},
-{"munCode":"3129905","year":2017,"CT":null},
-{"munCode":"3129905","year":2016,"CT":null},
-{"munCode":"3129905","year":2015,"CT":null},
-{"munCode":"3130051","year":2020,"CT":283.77},
-{"munCode":"3130051","year":2019,"CT":283.77},
-{"munCode":"3130051","year":2018,"CT":283.77},
-{"munCode":"3130051","year":2017,"CT":283.77},
-{"munCode":"3130051","year":2016,"CT":283.77},
-{"munCode":"3130051","year":2015,"CT":283.77},
-{"munCode":"3130507","year":2020,"CT":null},
-{"munCode":"3130507","year":2019,"CT":null},
-{"munCode":"3130507","year":2018,"CT":null},
-{"munCode":"3130507","year":2017,"CT":null},
-{"munCode":"3130507","year":2016,"CT":null},
-{"munCode":"3130507","year":2015,"CT":null},
-{"munCode":"3130804","year":2020,"CT":null},
-{"munCode":"3130804","year":2019,"CT":null},
-{"munCode":"3130804","year":2018,"CT":null},
-{"munCode":"3130804","year":2017,"CT":null},
-{"munCode":"3130804","year":2016,"CT":null},
-{"munCode":"3130804","year":2015,"CT":null},
-{"munCode":"3131406","year":2020,"CT":null},
-{"munCode":"3131406","year":2019,"CT":null},
-{"munCode":"3131406","year":2018,"CT":null},
-{"munCode":"3131406","year":2017,"CT":null},
-{"munCode":"3131406","year":2016,"CT":null},
-{"munCode":"3131406","year":2015,"CT":null},
-{"munCode":"3132008","year":2020,"CT":null},
-{"munCode":"3132008","year":2019,"CT":null},
-{"munCode":"3132008","year":2018,"CT":null},
-{"munCode":"3132008","year":2017,"CT":null},
-{"munCode":"3132008","year":2016,"CT":null},
-{"munCode":"3132008","year":2015,"CT":null},
-{"munCode":"3132107","year":2020,"CT":945.9},
-{"munCode":"3132107","year":2019,"CT":945.9},
-{"munCode":"3132107","year":2018,"CT":945.9},
-{"munCode":"3132107","year":2017,"CT":945.9},
-{"munCode":"3132107","year":2016,"CT":945.9},
-{"munCode":"3132107","year":2015,"CT":945.9},
-{"munCode":"3132909","year":2020,"CT":null},
-{"munCode":"3132909","year":2019,"CT":null},
-{"munCode":"3132909","year":2018,"CT":null},
-{"munCode":"3132909","year":2017,"CT":null},
-{"munCode":"3132909","year":2016,"CT":null},
-{"munCode":"3132909","year":2015,"CT":null},
-{"munCode":"3133105","year":2020,"CT":null},
-{"munCode":"3133105","year":2019,"CT":null},
-{"munCode":"3133105","year":2018,"CT":null},
-{"munCode":"3133105","year":2017,"CT":null},
-{"munCode":"3133105","year":2016,"CT":null},
-{"munCode":"3133105","year":2015,"CT":null},
-{"munCode":"3133709","year":2020,"CT":null},
-{"munCode":"3133709","year":2019,"CT":null},
-{"munCode":"3133709","year":2018,"CT":null},
-{"munCode":"3133709","year":2017,"CT":null},
-{"munCode":"3133709","year":2016,"CT":null},
-{"munCode":"3133709","year":2015,"CT":null},
-{"munCode":"3133758","year":2020,"CT":null},
-{"munCode":"3133758","year":2019,"CT":null},
-{"munCode":"3133758","year":2018,"CT":null},
-{"munCode":"3133758","year":2017,"CT":null},
-{"munCode":"3133758","year":2016,"CT":null},
-{"munCode":"3133758","year":2015,"CT":null},
-{"munCode":"3134301","year":2020,"CT":null},
-{"munCode":"3134301","year":2019,"CT":null},
-{"munCode":"3134301","year":2018,"CT":null},
-{"munCode":"3134301","year":2017,"CT":null},
-{"munCode":"3134301","year":2016,"CT":null},
-{"munCode":"3134301","year":2015,"CT":null},
-{"munCode":"3134806","year":2020,"CT":null},
-{"munCode":"3134806","year":2019,"CT":null},
-{"munCode":"3134806","year":2018,"CT":null},
-{"munCode":"3134806","year":2017,"CT":null},
-{"munCode":"3134806","year":2016,"CT":null},
-{"munCode":"3134806","year":2015,"CT":null},
-{"munCode":"3135308","year":2020,"CT":null},
-{"munCode":"3135308","year":2019,"CT":null},
-{"munCode":"3135308","year":2018,"CT":null},
-{"munCode":"3135308","year":2017,"CT":null},
-{"munCode":"3135308","year":2016,"CT":null},
-{"munCode":"3135308","year":2015,"CT":null},
-{"munCode":"3135605","year":2020,"CT":null},
-{"munCode":"3135605","year":2019,"CT":null},
-{"munCode":"3135605","year":2018,"CT":null},
-{"munCode":"3135605","year":2017,"CT":null},
-{"munCode":"3135605","year":2016,"CT":null},
-{"munCode":"3135605","year":2015,"CT":null},
-{"munCode":"3135704","year":2020,"CT":null},
-{"munCode":"3135704","year":2019,"CT":null},
-{"munCode":"3135704","year":2018,"CT":null},
-{"munCode":"3135704","year":2017,"CT":null},
-{"munCode":"3135704","year":2016,"CT":null},
-{"munCode":"3135704","year":2015,"CT":null},
-{"munCode":"3135902","year":2020,"CT":null},
-{"munCode":"3135902","year":2019,"CT":null},
-{"munCode":"3135902","year":2018,"CT":null},
-{"munCode":"3135902","year":2017,"CT":null},
-{"munCode":"3135902","year":2016,"CT":null},
-{"munCode":"3135902","year":2015,"CT":null},
-{"munCode":"3136009","year":2020,"CT":null},
-{"munCode":"3136009","year":2019,"CT":null},
-{"munCode":"3136009","year":2018,"CT":null},
-{"munCode":"3136009","year":2017,"CT":null},
-{"munCode":"3136009","year":2016,"CT":null},
-{"munCode":"3136009","year":2015,"CT":null},
-{"munCode":"3138500","year":2020,"CT":null},
-{"munCode":"3138500","year":2019,"CT":null},
-{"munCode":"3138500","year":2018,"CT":null},
-{"munCode":"3138500","year":2017,"CT":null},
-{"munCode":"3138500","year":2016,"CT":null},
-{"munCode":"3138500","year":2015,"CT":null},
-{"munCode":"3138658","year":2020,"CT":null},
-{"munCode":"3138658","year":2019,"CT":null},
-{"munCode":"3138658","year":2018,"CT":null},
-{"munCode":"3138658","year":2017,"CT":null},
-{"munCode":"3138658","year":2016,"CT":null},
-{"munCode":"3138658","year":2015,"CT":null},
-{"munCode":"3138674","year":2020,"CT":null},
-{"munCode":"3138674","year":2019,"CT":null},
-{"munCode":"3138674","year":2018,"CT":null},
-{"munCode":"3138674","year":2017,"CT":null},
-{"munCode":"3138674","year":2016,"CT":null},
-{"munCode":"3138674","year":2015,"CT":null},
-{"munCode":"3138682","year":2020,"CT":null},
-{"munCode":"3138682","year":2019,"CT":null},
-{"munCode":"3138682","year":2018,"CT":null},
-{"munCode":"3138682","year":2017,"CT":null},
-{"munCode":"3138682","year":2016,"CT":null},
-{"munCode":"3138682","year":2015,"CT":null},
-{"munCode":"3138807","year":2020,"CT":null},
-{"munCode":"3138807","year":2019,"CT":null},
-{"munCode":"3138807","year":2018,"CT":null},
-{"munCode":"3138807","year":2017,"CT":null},
-{"munCode":"3138807","year":2016,"CT":null},
-{"munCode":"3138807","year":2015,"CT":null},
-{"munCode":"3139102","year":2020,"CT":null},
-{"munCode":"3139102","year":2019,"CT":null},
-{"munCode":"3139102","year":2018,"CT":null},
-{"munCode":"3139102","year":2017,"CT":null},
-{"munCode":"3139102","year":2016,"CT":null},
-{"munCode":"3139102","year":2015,"CT":null},
-{"munCode":"3139250","year":2020,"CT":null},
-{"munCode":"3139250","year":2019,"CT":null},
-{"munCode":"3139250","year":2018,"CT":null},
-{"munCode":"3139250","year":2017,"CT":null},
-{"munCode":"3139250","year":2016,"CT":null},
-{"munCode":"3139250","year":2015,"CT":null},
-{"munCode":"3139300","year":2020,"CT":null},
-{"munCode":"3139300","year":2019,"CT":null},
-{"munCode":"3139300","year":2018,"CT":null},
-{"munCode":"3139300","year":2017,"CT":null},
-{"munCode":"3139300","year":2016,"CT":null},
-{"munCode":"3139300","year":2015,"CT":null},
-{"munCode":"3139904","year":2020,"CT":null},
-{"munCode":"3139904","year":2019,"CT":null},
-{"munCode":"3139904","year":2018,"CT":null},
-{"munCode":"3139904","year":2017,"CT":null},
-{"munCode":"3139904","year":2016,"CT":null},
-{"munCode":"3139904","year":2015,"CT":null},
-{"munCode":"3140407","year":2020,"CT":null},
-{"munCode":"3140407","year":2019,"CT":null},
-{"munCode":"3140407","year":2018,"CT":null},
-{"munCode":"3140407","year":2017,"CT":null},
-{"munCode":"3140407","year":2016,"CT":null},
-{"munCode":"3140407","year":2015,"CT":null},
-{"munCode":"3140506","year":2020,"CT":378.36},
-{"munCode":"3140506","year":2019,"CT":378.36},
-{"munCode":"3140506","year":2018,"CT":null},
-{"munCode":"3140506","year":2017,"CT":null},
-{"munCode":"3140506","year":2016,"CT":null},
-{"munCode":"3140506","year":2015,"CT":null},
-{"munCode":"3140555","year":2020,"CT":null},
-{"munCode":"3140555","year":2019,"CT":null},
-{"munCode":"3140555","year":2018,"CT":null},
-{"munCode":"3140555","year":2017,"CT":null},
-{"munCode":"3140555","year":2016,"CT":null},
-{"munCode":"3140555","year":2015,"CT":null},
-{"munCode":"3171501","year":2020,"CT":null},
-{"munCode":"3171501","year":2019,"CT":null},
-{"munCode":"3171501","year":2018,"CT":null},
-{"munCode":"3171501","year":2017,"CT":null},
-{"munCode":"3171501","year":2016,"CT":null},
-{"munCode":"3171501","year":2015,"CT":null},
-{"munCode":"3140852","year":2020,"CT":null},
-{"munCode":"3140852","year":2019,"CT":null},
-{"munCode":"3140852","year":2018,"CT":null},
-{"munCode":"3140852","year":2017,"CT":null},
-{"munCode":"3140852","year":2016,"CT":null},
-{"munCode":"3140852","year":2015,"CT":null},
-{"munCode":"3141306","year":2020,"CT":null},
-{"munCode":"3141306","year":2019,"CT":null},
-{"munCode":"3141306","year":2018,"CT":null},
-{"munCode":"3141306","year":2017,"CT":null},
-{"munCode":"3141306","year":2016,"CT":null},
-{"munCode":"3141306","year":2015,"CT":null},
-{"munCode":"3142403","year":2020,"CT":null},
-{"munCode":"3142403","year":2019,"CT":null},
-{"munCode":"3142403","year":2018,"CT":null},
-{"munCode":"3142403","year":2017,"CT":null},
-{"munCode":"3142403","year":2016,"CT":null},
-{"munCode":"3142403","year":2015,"CT":null},
-{"munCode":"3142700","year":2020,"CT":425.3397},
-{"munCode":"3142700","year":2019,"CT":425.3397},
-{"munCode":"3142700","year":2018,"CT":425.3397},
-{"munCode":"3142700","year":2017,"CT":425.3397},
-{"munCode":"3142700","year":2016,"CT":null},
-{"munCode":"3142700","year":2015,"CT":null},
-{"munCode":"3143500","year":2020,"CT":null},
-{"munCode":"3143500","year":2019,"CT":null},
-{"munCode":"3143500","year":2018,"CT":null},
-{"munCode":"3143500","year":2017,"CT":null},
-{"munCode":"3143500","year":2016,"CT":null},
-{"munCode":"3143500","year":2015,"CT":null},
-{"munCode":"3143807","year":2020,"CT":null},
-{"munCode":"3143807","year":2019,"CT":null},
-{"munCode":"3143807","year":2018,"CT":null},
-{"munCode":"3143807","year":2017,"CT":null},
-{"munCode":"3143807","year":2016,"CT":null},
-{"munCode":"3143807","year":2015,"CT":null},
-{"munCode":"3144656","year":2020,"CT":null},
-{"munCode":"3144656","year":2019,"CT":null},
-{"munCode":"3144656","year":2018,"CT":null},
-{"munCode":"3144656","year":2017,"CT":null},
-{"munCode":"3144656","year":2016,"CT":null},
-{"munCode":"3144656","year":2015,"CT":null},
-{"munCode":"3144672","year":2020,"CT":null},
-{"munCode":"3144672","year":2019,"CT":null},
-{"munCode":"3144672","year":2018,"CT":null},
-{"munCode":"3144672","year":2017,"CT":null},
-{"munCode":"3144672","year":2016,"CT":null},
-{"munCode":"3144672","year":2015,"CT":null},
-{"munCode":"3144706","year":2020,"CT":null},
-{"munCode":"3144706","year":2019,"CT":null},
-{"munCode":"3144706","year":2018,"CT":null},
-{"munCode":"3144706","year":2017,"CT":null},
-{"munCode":"3144706","year":2016,"CT":null},
-{"munCode":"3144706","year":2015,"CT":null},
-{"munCode":"3145109","year":2020,"CT":null},
-{"munCode":"3145109","year":2019,"CT":null},
-{"munCode":"3145109","year":2018,"CT":null},
-{"munCode":"3145109","year":2017,"CT":null},
-{"munCode":"3145109","year":2016,"CT":null},
-{"munCode":"3145109","year":2015,"CT":null},
-{"munCode":"3136603","year":2020,"CT":null},
-{"munCode":"3136603","year":2019,"CT":null},
-{"munCode":"3136603","year":2018,"CT":null},
-{"munCode":"3136603","year":2017,"CT":null},
-{"munCode":"3136603","year":2016,"CT":null},
-{"munCode":"3136603","year":2015,"CT":null},
-{"munCode":"3145356","year":2020,"CT":567.54},
-{"munCode":"3145356","year":2019,"CT":567.54},
-{"munCode":"3145356","year":2018,"CT":567.54},
-{"munCode":"3145356","year":2017,"CT":567.54},
-{"munCode":"3145356","year":2016,"CT":567.54},
-{"munCode":"3145356","year":2015,"CT":567.54},
-{"munCode":"3145372","year":2020,"CT":null},
-{"munCode":"3145372","year":2019,"CT":null},
-{"munCode":"3145372","year":2018,"CT":null},
-{"munCode":"3145372","year":2017,"CT":null},
-{"munCode":"3145372","year":2016,"CT":null},
-{"munCode":"3145372","year":2015,"CT":null},
-{"munCode":"3145406","year":2020,"CT":null},
-{"munCode":"3145406","year":2019,"CT":null},
-{"munCode":"3145406","year":2018,"CT":null},
-{"munCode":"3145406","year":2017,"CT":null},
-{"munCode":"3145406","year":2016,"CT":null},
-{"munCode":"3145406","year":2015,"CT":null},
-{"munCode":"3145455","year":2020,"CT":null},
-{"munCode":"3145455","year":2019,"CT":null},
-{"munCode":"3145455","year":2018,"CT":null},
-{"munCode":"3145455","year":2017,"CT":null},
-{"munCode":"3145455","year":2016,"CT":null},
-{"munCode":"3145455","year":2015,"CT":null},
-{"munCode":"3145505","year":2020,"CT":null},
-{"munCode":"3145505","year":2019,"CT":null},
-{"munCode":"3145505","year":2018,"CT":null},
-{"munCode":"3145505","year":2017,"CT":null},
-{"munCode":"3145505","year":2016,"CT":null},
-{"munCode":"3145505","year":2015,"CT":null},
-{"munCode":"3145703","year":2020,"CT":null},
-{"munCode":"3145703","year":2019,"CT":null},
-{"munCode":"3145703","year":2018,"CT":null},
-{"munCode":"3145703","year":2017,"CT":null},
-{"munCode":"3145703","year":2016,"CT":null},
-{"munCode":"3145703","year":2015,"CT":null},
-{"munCode":"3145877","year":2020,"CT":null},
-{"munCode":"3145877","year":2019,"CT":null},
-{"munCode":"3145877","year":2018,"CT":null},
-{"munCode":"3145877","year":2017,"CT":null},
-{"munCode":"3145877","year":2016,"CT":null},
-{"munCode":"3145877","year":2015,"CT":null},
-{"munCode":"3146503","year":2020,"CT":null},
-{"munCode":"3146503","year":2019,"CT":null},
-{"munCode":"3146503","year":2018,"CT":null},
-{"munCode":"3146503","year":2017,"CT":null},
-{"munCode":"3146503","year":2016,"CT":null},
-{"munCode":"3146503","year":2015,"CT":null},
-{"munCode":"3146701","year":2020,"CT":null},
-{"munCode":"3146701","year":2019,"CT":null},
-{"munCode":"3146701","year":2018,"CT":null},
-{"munCode":"3146701","year":2017,"CT":null},
-{"munCode":"3146701","year":2016,"CT":null},
-{"munCode":"3146701","year":2015,"CT":null},
-{"munCode":"3147709","year":2020,"CT":null},
-{"munCode":"3147709","year":2019,"CT":null},
-{"munCode":"3147709","year":2018,"CT":null},
-{"munCode":"3147709","year":2017,"CT":null},
-{"munCode":"3147709","year":2016,"CT":null},
-{"munCode":"3147709","year":2015,"CT":null},
-{"munCode":"3147808","year":2020,"CT":null},
-{"munCode":"3147808","year":2019,"CT":null},
-{"munCode":"3147808","year":2018,"CT":null},
-{"munCode":"3147808","year":2017,"CT":null},
-{"munCode":"3147808","year":2016,"CT":null},
-{"munCode":"3147808","year":2015,"CT":null},
-{"munCode":"3148301","year":2020,"CT":null},
-{"munCode":"3148301","year":2019,"CT":null},
-{"munCode":"3148301","year":2018,"CT":null},
-{"munCode":"3148301","year":2017,"CT":null},
-{"munCode":"3148301","year":2016,"CT":null},
-{"munCode":"3148301","year":2015,"CT":null},
-{"munCode":"3149150","year":2020,"CT":null},
-{"munCode":"3149150","year":2019,"CT":null},
-{"munCode":"3149150","year":2018,"CT":null},
-{"munCode":"3149150","year":2017,"CT":null},
-{"munCode":"3149150","year":2016,"CT":null},
-{"munCode":"3149150","year":2015,"CT":null},
-{"munCode":"3149606","year":2020,"CT":null},
-{"munCode":"3149606","year":2019,"CT":null},
-{"munCode":"3149606","year":2018,"CT":null},
-{"munCode":"3149606","year":2017,"CT":null},
-{"munCode":"3149606","year":2016,"CT":null},
-{"munCode":"3149606","year":2015,"CT":null},
-{"munCode":"3150307","year":2020,"CT":null},
-{"munCode":"3150307","year":2019,"CT":null},
-{"munCode":"3150307","year":2018,"CT":null},
-{"munCode":"3150307","year":2017,"CT":null},
-{"munCode":"3150307","year":2016,"CT":null},
-{"munCode":"3150307","year":2015,"CT":null},
-{"munCode":"3150406","year":2020,"CT":null},
-{"munCode":"3150406","year":2019,"CT":null},
-{"munCode":"3150406","year":2018,"CT":null},
-{"munCode":"3150406","year":2017,"CT":null},
-{"munCode":"3150406","year":2016,"CT":null},
-{"munCode":"3150406","year":2015,"CT":null},
-{"munCode":"3150604","year":2020,"CT":null},
-{"munCode":"3150604","year":2019,"CT":null},
-{"munCode":"3150604","year":2018,"CT":null},
-{"munCode":"3150604","year":2017,"CT":null},
-{"munCode":"3150604","year":2016,"CT":null},
-{"munCode":"3150604","year":2015,"CT":null},
-{"munCode":"3151305","year":2020,"CT":null},
-{"munCode":"3151305","year":2019,"CT":null},
-{"munCode":"3151305","year":2018,"CT":null},
-{"munCode":"3151305","year":2017,"CT":null},
-{"munCode":"3151305","year":2016,"CT":null},
-{"munCode":"3151305","year":2015,"CT":null},
-{"munCode":"3152131","year":2020,"CT":null},
-{"munCode":"3152131","year":2019,"CT":null},
-{"munCode":"3152131","year":2018,"CT":null},
-{"munCode":"3152131","year":2017,"CT":null},
-{"munCode":"3152131","year":2016,"CT":null},
-{"munCode":"3152131","year":2015,"CT":null},
-{"munCode":"3152170","year":2020,"CT":null},
-{"munCode":"3152170","year":2019,"CT":null},
-{"munCode":"3152170","year":2018,"CT":null},
-{"munCode":"3152170","year":2017,"CT":null},
-{"munCode":"3152170","year":2016,"CT":null},
-{"munCode":"3152170","year":2015,"CT":null},
-{"munCode":"3152600","year":2020,"CT":null},
-{"munCode":"3152600","year":2019,"CT":null},
-{"munCode":"3152600","year":2018,"CT":null},
-{"munCode":"3152600","year":2017,"CT":null},
-{"munCode":"3152600","year":2016,"CT":null},
-{"munCode":"3152600","year":2015,"CT":null},
-{"munCode":"3153004","year":2020,"CT":null},
-{"munCode":"3153004","year":2019,"CT":null},
-{"munCode":"3153004","year":2018,"CT":null},
-{"munCode":"3153004","year":2017,"CT":null},
-{"munCode":"3153004","year":2016,"CT":null},
-{"munCode":"3153004","year":2015,"CT":null},
-{"munCode":"3153707","year":2020,"CT":null},
-{"munCode":"3153707","year":2019,"CT":null},
-{"munCode":"3153707","year":2018,"CT":null},
-{"munCode":"3153707","year":2017,"CT":null},
-{"munCode":"3153707","year":2016,"CT":null},
-{"munCode":"3153707","year":2015,"CT":null},
-{"munCode":"3154200","year":2020,"CT":599.07},
-{"munCode":"3154200","year":2019,"CT":599.07},
-{"munCode":"3154200","year":2018,"CT":599.07},
-{"munCode":"3154200","year":2017,"CT":599.07},
-{"munCode":"3154200","year":2016,"CT":null},
-{"munCode":"3154200","year":2015,"CT":null},
-{"munCode":"3154507","year":2020,"CT":216.2958},
-{"munCode":"3154507","year":2019,"CT":216.2958},
-{"munCode":"3154507","year":2018,"CT":216.2958},
-{"munCode":"3154507","year":2017,"CT":216.2958},
-{"munCode":"3154507","year":2016,"CT":216.2958},
-{"munCode":"3154507","year":2015,"CT":216.2958},
-{"munCode":"3154804","year":2020,"CT":null},
-{"munCode":"3154804","year":2019,"CT":null},
-{"munCode":"3154804","year":2018,"CT":null},
-{"munCode":"3154804","year":2017,"CT":null},
-{"munCode":"3154804","year":2016,"CT":null},
-{"munCode":"3154804","year":2015,"CT":null},
-{"munCode":"3155108","year":2020,"CT":null},
-{"munCode":"3155108","year":2019,"CT":null},
-{"munCode":"3155108","year":2018,"CT":null},
-{"munCode":"3155108","year":2017,"CT":null},
-{"munCode":"3155108","year":2016,"CT":null},
-{"munCode":"3155108","year":2015,"CT":null},
-{"munCode":"3155900","year":2020,"CT":null},
-{"munCode":"3155900","year":2019,"CT":null},
-{"munCode":"3155900","year":2018,"CT":null},
-{"munCode":"3155900","year":2017,"CT":null},
-{"munCode":"3155900","year":2016,"CT":null},
-{"munCode":"3155900","year":2015,"CT":null},
-{"munCode":"3156106","year":2020,"CT":null},
-{"munCode":"3156106","year":2019,"CT":null},
-{"munCode":"3156106","year":2018,"CT":null},
-{"munCode":"3156106","year":2017,"CT":null},
-{"munCode":"3156106","year":2016,"CT":null},
-{"munCode":"3156106","year":2015,"CT":null},
-{"munCode":"3156205","year":2020,"CT":null},
-{"munCode":"3156205","year":2019,"CT":null},
-{"munCode":"3156205","year":2018,"CT":null},
-{"munCode":"3156205","year":2017,"CT":null},
-{"munCode":"3156205","year":2016,"CT":null},
-{"munCode":"3156205","year":2015,"CT":null},
-{"munCode":"3157401","year":2020,"CT":null},
-{"munCode":"3157401","year":2019,"CT":null},
-{"munCode":"3157401","year":2018,"CT":null},
-{"munCode":"3157401","year":2017,"CT":null},
-{"munCode":"3157401","year":2016,"CT":null},
-{"munCode":"3157401","year":2015,"CT":null},
-{"munCode":"3158102","year":2020,"CT":null},
-{"munCode":"3158102","year":2019,"CT":null},
-{"munCode":"3158102","year":2018,"CT":null},
-{"munCode":"3158102","year":2017,"CT":null},
-{"munCode":"3158102","year":2016,"CT":null},
-{"munCode":"3158102","year":2015,"CT":null},
-{"munCode":"3158300","year":2020,"CT":null},
-{"munCode":"3158300","year":2019,"CT":null},
-{"munCode":"3158300","year":2018,"CT":null},
-{"munCode":"3158300","year":2017,"CT":null},
-{"munCode":"3158300","year":2016,"CT":null},
-{"munCode":"3158300","year":2015,"CT":null},
-{"munCode":"3158607","year":2020,"CT":null},
-{"munCode":"3158607","year":2019,"CT":null},
-{"munCode":"3158607","year":2018,"CT":null},
-{"munCode":"3158607","year":2017,"CT":null},
-{"munCode":"3158607","year":2016,"CT":null},
-{"munCode":"3158607","year":2015,"CT":null},
-{"munCode":"3158706","year":2020,"CT":null},
-{"munCode":"3158706","year":2019,"CT":null},
-{"munCode":"3158706","year":2018,"CT":null},
-{"munCode":"3158706","year":2017,"CT":null},
-{"munCode":"3158706","year":2016,"CT":null},
-{"munCode":"3158706","year":2015,"CT":null},
-{"munCode":"3159308","year":2020,"CT":null},
-{"munCode":"3159308","year":2019,"CT":null},
-{"munCode":"3159308","year":2018,"CT":null},
-{"munCode":"3159308","year":2017,"CT":null},
-{"munCode":"3159308","year":2016,"CT":null},
-{"munCode":"3159308","year":2015,"CT":null},
-{"munCode":"3159704","year":2020,"CT":null},
-{"munCode":"3159704","year":2019,"CT":null},
-{"munCode":"3159704","year":2018,"CT":null},
-{"munCode":"3159704","year":2017,"CT":null},
-{"munCode":"3159704","year":2016,"CT":null},
-{"munCode":"3159704","year":2015,"CT":null},
-{"munCode":"3160108","year":2020,"CT":null},
-{"munCode":"3160108","year":2019,"CT":null},
-{"munCode":"3160108","year":2018,"CT":null},
-{"munCode":"3160108","year":2017,"CT":null},
-{"munCode":"3160108","year":2016,"CT":null},
-{"munCode":"3160108","year":2015,"CT":null},
-{"munCode":"3160306","year":2020,"CT":null},
-{"munCode":"3160306","year":2019,"CT":null},
-{"munCode":"3160306","year":2018,"CT":null},
-{"munCode":"3160306","year":2017,"CT":null},
-{"munCode":"3160306","year":2016,"CT":null},
-{"munCode":"3160306","year":2015,"CT":null},
-{"munCode":"3160454","year":2020,"CT":null},
-{"munCode":"3160454","year":2019,"CT":null},
-{"munCode":"3160454","year":2018,"CT":null},
-{"munCode":"3160454","year":2017,"CT":null},
-{"munCode":"3160454","year":2016,"CT":null},
-{"munCode":"3160454","year":2015,"CT":null},
-{"munCode":"3160801","year":2020,"CT":null},
-{"munCode":"3160801","year":2019,"CT":null},
-{"munCode":"3160801","year":2018,"CT":null},
-{"munCode":"3160801","year":2017,"CT":null},
-{"munCode":"3160801","year":2016,"CT":null},
-{"munCode":"3160801","year":2015,"CT":null},
-{"munCode":"3161809","year":2020,"CT":null},
-{"munCode":"3161809","year":2019,"CT":null},
-{"munCode":"3161809","year":2018,"CT":null},
-{"munCode":"3161809","year":2017,"CT":null},
-{"munCode":"3161809","year":2016,"CT":null},
-{"munCode":"3161809","year":2015,"CT":null},
-{"munCode":"3161908","year":2020,"CT":null},
-{"munCode":"3161908","year":2019,"CT":null},
-{"munCode":"3161908","year":2018,"CT":null},
-{"munCode":"3161908","year":2017,"CT":null},
-{"munCode":"3161908","year":2016,"CT":null},
-{"munCode":"3161908","year":2015,"CT":null},
-{"munCode":"3125507","year":2020,"CT":null},
-{"munCode":"3125507","year":2019,"CT":null},
-{"munCode":"3125507","year":2018,"CT":null},
-{"munCode":"3125507","year":2017,"CT":null},
-{"munCode":"3125507","year":2016,"CT":null},
-{"munCode":"3125507","year":2015,"CT":null},
-{"munCode":"3162252","year":2020,"CT":null},
-{"munCode":"3162252","year":2019,"CT":null},
-{"munCode":"3162252","year":2018,"CT":null},
-{"munCode":"3162252","year":2017,"CT":null},
-{"munCode":"3162252","year":2016,"CT":null},
-{"munCode":"3162252","year":2015,"CT":null},
-{"munCode":"3162302","year":2020,"CT":null},
-{"munCode":"3162302","year":2019,"CT":null},
-{"munCode":"3162302","year":2018,"CT":null},
-{"munCode":"3162302","year":2017,"CT":null},
-{"munCode":"3162302","year":2016,"CT":null},
-{"munCode":"3162302","year":2015,"CT":null},
-{"munCode":"3162450","year":2020,"CT":null},
-{"munCode":"3162450","year":2019,"CT":null},
-{"munCode":"3162450","year":2018,"CT":null},
-{"munCode":"3162450","year":2017,"CT":null},
-{"munCode":"3162450","year":2016,"CT":null},
-{"munCode":"3162450","year":2015,"CT":null},
-{"munCode":"3162948","year":2020,"CT":null},
-{"munCode":"3162948","year":2019,"CT":null},
-{"munCode":"3162948","year":2018,"CT":null},
-{"munCode":"3162948","year":2017,"CT":null},
-{"munCode":"3162948","year":2016,"CT":null},
-{"munCode":"3162948","year":2015,"CT":null},
-{"munCode":"3163300","year":2020,"CT":157.65},
-{"munCode":"3163300","year":2019,"CT":157.65},
-{"munCode":"3163300","year":2018,"CT":null},
-{"munCode":"3163300","year":2017,"CT":null},
-{"munCode":"3163300","year":2016,"CT":null},
-{"munCode":"3163300","year":2015,"CT":null},
-{"munCode":"3163904","year":2020,"CT":null},
-{"munCode":"3163904","year":2019,"CT":null},
-{"munCode":"3163904","year":2018,"CT":null},
-{"munCode":"3163904","year":2017,"CT":null},
-{"munCode":"3163904","year":2016,"CT":null},
-{"munCode":"3163904","year":2015,"CT":null},
-{"munCode":"3164308","year":2020,"CT":346.83},
-{"munCode":"3164308","year":2019,"CT":346.83},
-{"munCode":"3164308","year":2018,"CT":346.83},
-{"munCode":"3164308","year":2017,"CT":346.83},
-{"munCode":"3164308","year":2016,"CT":346.83},
-{"munCode":"3164308","year":2015,"CT":346.83},
-{"munCode":"3164407","year":2020,"CT":null},
-{"munCode":"3164407","year":2019,"CT":null},
-{"munCode":"3164407","year":2018,"CT":null},
-{"munCode":"3164407","year":2017,"CT":null},
-{"munCode":"3164407","year":2016,"CT":null},
-{"munCode":"3164407","year":2015,"CT":null},
-{"munCode":"3164605","year":2020,"CT":null},
-{"munCode":"3164605","year":2019,"CT":null},
-{"munCode":"3164605","year":2018,"CT":null},
-{"munCode":"3164605","year":2017,"CT":null},
-{"munCode":"3164605","year":2016,"CT":null},
-{"munCode":"3164605","year":2015,"CT":null},
-{"munCode":"3164902","year":2020,"CT":null},
-{"munCode":"3164902","year":2019,"CT":null},
-{"munCode":"3164902","year":2018,"CT":null},
-{"munCode":"3164902","year":2017,"CT":null},
-{"munCode":"3164902","year":2016,"CT":null},
-{"munCode":"3164902","year":2015,"CT":null},
-{"munCode":"3165206","year":2020,"CT":null},
-{"munCode":"3165206","year":2019,"CT":null},
-{"munCode":"3165206","year":2018,"CT":null},
-{"munCode":"3165206","year":2017,"CT":null},
-{"munCode":"3165206","year":2016,"CT":null},
-{"munCode":"3165206","year":2015,"CT":null},
-{"munCode":"3165107","year":2020,"CT":null},
-{"munCode":"3165107","year":2019,"CT":null},
-{"munCode":"3165107","year":2018,"CT":null},
-{"munCode":"3165107","year":2017,"CT":null},
-{"munCode":"3165107","year":2016,"CT":null},
-{"munCode":"3165107","year":2015,"CT":null},
-{"munCode":"3165578","year":2020,"CT":null},
-{"munCode":"3165578","year":2019,"CT":null},
-{"munCode":"3165578","year":2018,"CT":null},
-{"munCode":"3165578","year":2017,"CT":null},
-{"munCode":"3165578","year":2016,"CT":null},
-{"munCode":"3165578","year":2015,"CT":null},
-{"munCode":"3165602","year":2020,"CT":null},
-{"munCode":"3165602","year":2019,"CT":null},
-{"munCode":"3165602","year":2018,"CT":null},
-{"munCode":"3165602","year":2017,"CT":null},
-{"munCode":"3165602","year":2016,"CT":null},
-{"munCode":"3165602","year":2015,"CT":null},
-{"munCode":"3165909","year":2020,"CT":null},
-{"munCode":"3165909","year":2019,"CT":null},
-{"munCode":"3165909","year":2018,"CT":null},
-{"munCode":"3165909","year":2017,"CT":null},
-{"munCode":"3165909","year":2016,"CT":null},
-{"munCode":"3165909","year":2015,"CT":null},
-{"munCode":"3166402","year":2020,"CT":null},
-{"munCode":"3166402","year":2019,"CT":null},
-{"munCode":"3166402","year":2018,"CT":null},
-{"munCode":"3166402","year":2017,"CT":null},
-{"munCode":"3166402","year":2016,"CT":null},
-{"munCode":"3166402","year":2015,"CT":null},
-{"munCode":"3165552","year":2020,"CT":null},
-{"munCode":"3165552","year":2019,"CT":null},
-{"munCode":"3165552","year":2018,"CT":null},
-{"munCode":"3165552","year":2017,"CT":null},
-{"munCode":"3165552","year":2016,"CT":null},
-{"munCode":"3165552","year":2015,"CT":null},
-{"munCode":"3167400","year":2020,"CT":null},
-{"munCode":"3167400","year":2019,"CT":null},
-{"munCode":"3167400","year":2018,"CT":null},
-{"munCode":"3167400","year":2017,"CT":null},
-{"munCode":"3167400","year":2016,"CT":null},
-{"munCode":"3167400","year":2015,"CT":null},
-{"munCode":"3167806","year":2020,"CT":null},
-{"munCode":"3167806","year":2019,"CT":null},
-{"munCode":"3167806","year":2018,"CT":null},
-{"munCode":"3167806","year":2017,"CT":null},
-{"munCode":"3167806","year":2016,"CT":null},
-{"munCode":"3167806","year":2015,"CT":null},
-{"munCode":"3168200","year":2020,"CT":null},
-{"munCode":"3168200","year":2019,"CT":null},
-{"munCode":"3168200","year":2018,"CT":null},
-{"munCode":"3168200","year":2017,"CT":null},
-{"munCode":"3168200","year":2016,"CT":null},
-{"munCode":"3168200","year":2015,"CT":null},
-{"munCode":"3168507","year":2020,"CT":null},
-{"munCode":"3168507","year":2019,"CT":null},
-{"munCode":"3168507","year":2018,"CT":null},
-{"munCode":"3168507","year":2017,"CT":null},
-{"munCode":"3168507","year":2016,"CT":null},
-{"munCode":"3168507","year":2015,"CT":null},
-{"munCode":"3169000","year":2020,"CT":null},
-{"munCode":"3169000","year":2019,"CT":null},
-{"munCode":"3169000","year":2018,"CT":null},
-{"munCode":"3169000","year":2017,"CT":null},
-{"munCode":"3169000","year":2016,"CT":null},
-{"munCode":"3169000","year":2015,"CT":null},
-{"munCode":"3170008","year":2020,"CT":null},
-{"munCode":"3170008","year":2019,"CT":null},
-{"munCode":"3170008","year":2018,"CT":null},
-{"munCode":"3170008","year":2017,"CT":null},
-{"munCode":"3170008","year":2016,"CT":null},
-{"munCode":"3170008","year":2015,"CT":null},
-{"munCode":"3170479","year":2020,"CT":null},
-{"munCode":"3170479","year":2019,"CT":null},
-{"munCode":"3170479","year":2018,"CT":null},
-{"munCode":"3170479","year":2017,"CT":null},
-{"munCode":"3170479","year":2016,"CT":null},
-{"munCode":"3170479","year":2015,"CT":null},
-{"munCode":"3170602","year":2020,"CT":null},
-{"munCode":"3170602","year":2019,"CT":null},
-{"munCode":"3170602","year":2018,"CT":null},
-{"munCode":"3170602","year":2017,"CT":null},
-{"munCode":"3170602","year":2016,"CT":null},
-{"munCode":"3170602","year":2015,"CT":null},
-{"munCode":"3171808","year":2020,"CT":null},
-{"munCode":"3171808","year":2019,"CT":null},
-{"munCode":"3171808","year":2018,"CT":null},
-{"munCode":"3171808","year":2017,"CT":null},
-{"munCode":"3171808","year":2016,"CT":null},
-{"munCode":"3171808","year":2015,"CT":null},
-{"munCode":"3172202","year":2020,"CT":null},
-{"munCode":"3172202","year":2019,"CT":null},
-{"munCode":"3172202","year":2018,"CT":null},
-{"munCode":"3172202","year":2017,"CT":null},
-{"munCode":"3172202","year":2016,"CT":null},
-{"munCode":"3172202","year":2015,"CT":null}]
+[
+  {
+    "munCode": "3100302",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3100302",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3100302",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3100302",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3100302",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3100302",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3100807",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3100807",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3100807",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3100807",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3100807",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3100807",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3100906",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3100906",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3100906",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3100906",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3100906",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3100906",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3101003",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3101003",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3101003",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3101003",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3101003",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3101003",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3101201",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3101201",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3101201",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3101201",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3101201",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3101201",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3101409",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3101409",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3101409",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3101409",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3101409",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3101409",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3101631",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3101631",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3101631",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3101631",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3101631",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3101631",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3102050",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3102050",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3102050",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3102050",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3102050",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3102050",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3102506",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3102506",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3102506",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3102506",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3102506",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3102506",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3102803",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3102803",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3102803",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3102803",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3102803",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3102803",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3104452",
+    "year": 2020,
+    "CT": 189.18
+  },
+  {
+    "munCode": "3104452",
+    "year": 2019,
+    "CT": 189.18
+  },
+  {
+    "munCode": "3104452",
+    "year": 2018,
+    "CT": 189.18
+  },
+  {
+    "munCode": "3104452",
+    "year": 2017,
+    "CT": 189.18
+  },
+  {
+    "munCode": "3104452",
+    "year": 2016,
+    "CT": 189.18
+  },
+  {
+    "munCode": "3104452",
+    "year": 2015,
+    "CT": 189.18
+  },
+  {
+    "munCode": "3104502",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3104502",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3104502",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3104502",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3104502",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3104502",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3104700",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3104700",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3104700",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3104700",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3104700",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3104700",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3105202",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3105202",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3105202",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3105202",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3105202",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3105202",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3105301",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3105301",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3105301",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3105301",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3105301",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3105301",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3106606",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3106606",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3106606",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3106606",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3106606",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3106606",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3106804",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3106804",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3106804",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3106804",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3106804",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3106804",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3107208",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3107208",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3107208",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3107208",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3107208",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3107208",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3107604",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3107604",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3107604",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3107604",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3107604",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3107604",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3107901",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3107901",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3107901",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3107901",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3107901",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3107901",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3108255",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3108255",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3108255",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3108255",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3108255",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3108255",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3108305",
+    "year": 2020,
+    "CT": 460.338
+  },
+  {
+    "munCode": "3108305",
+    "year": 2019,
+    "CT": 460.338
+  },
+  {
+    "munCode": "3108305",
+    "year": 2018,
+    "CT": 460.338
+  },
+  {
+    "munCode": "3108305",
+    "year": 2017,
+    "CT": 460.338
+  },
+  {
+    "munCode": "3108305",
+    "year": 2016,
+    "CT": 460.338
+  },
+  {
+    "munCode": "3108305",
+    "year": 2015,
+    "CT": 460.338
+  },
+  {
+    "munCode": "3108404",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3108404",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3108404",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3108404",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3108404",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3108404",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3108503",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3108503",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3108503",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3108503",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3108503",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3108503",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3109600",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3109600",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3109600",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3109600",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3109600",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3109600",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3109709",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3109709",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3109709",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3109709",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3109709",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3109709",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3110103",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3110103",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3110103",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3110103",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3110103",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3110103",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3110301",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3110301",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3110301",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3110301",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3110301",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3110301",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3110400",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3110400",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3110400",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3110400",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3110400",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3110400",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3110707",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3110707",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3110707",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3110707",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3110707",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3110707",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3110905",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3110905",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3110905",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3110905",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3110905",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3110905",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3111101",
+    "year": 2020,
+    "CT": 851.31
+  },
+  {
+    "munCode": "3111101",
+    "year": 2019,
+    "CT": 851.31
+  },
+  {
+    "munCode": "3111101",
+    "year": 2018,
+    "CT": 851.31
+  },
+  {
+    "munCode": "3111101",
+    "year": 2017,
+    "CT": 851.31
+  },
+  {
+    "munCode": "3111101",
+    "year": 2016,
+    "CT": 851.31
+  },
+  {
+    "munCode": "3111101",
+    "year": 2015,
+    "CT": 851.31
+  },
+  {
+    "munCode": "3111309",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3111309",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3111309",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3111309",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3111309",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3111309",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3111408",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3111408",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3111408",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3111408",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3111408",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3111408",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3111705",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3111705",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3111705",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3111705",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3111705",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3111705",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3111903",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3111903",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3111903",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3111903",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3111903",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3111903",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3112109",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3112109",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3112109",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3112109",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3112109",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3112109",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3112406",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3112406",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3112406",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3112406",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3112406",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3112406",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3112505",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3112505",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3112505",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3112505",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3112505",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3112505",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3112901",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3112901",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3112901",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3112901",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3112901",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3112901",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3113107",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3113107",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3113107",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3113107",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3113107",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3113107",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3113602",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3113602",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3113602",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3113602",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3113602",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3113602",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3113701",
+    "year": 2020,
+    "CT": 945.9
+  },
+  {
+    "munCode": "3113701",
+    "year": 2019,
+    "CT": 945.9
+  },
+  {
+    "munCode": "3113701",
+    "year": 2018,
+    "CT": 945.9
+  },
+  {
+    "munCode": "3113701",
+    "year": 2017,
+    "CT": 945.9
+  },
+  {
+    "munCode": "3113701",
+    "year": 2016,
+    "CT": 945.9
+  },
+  {
+    "munCode": "3113701",
+    "year": 2015,
+    "CT": 945.9
+  },
+  {
+    "munCode": "3113909",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3113909",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3113909",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3113909",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3113909",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3113909",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3114105",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3114105",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3114105",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3114105",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3114105",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3114105",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3114550",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3114550",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3114550",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3114550",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3114550",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3114550",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3114600",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3114600",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3114600",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3114600",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3114600",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3114600",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3114709",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3114709",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3114709",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3114709",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3114709",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3114709",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3114808",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3114808",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3114808",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3114808",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3114808",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3114808",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3115003",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3115003",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3115003",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3115003",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3115003",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3115003",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3115607",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3115607",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3115607",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3115607",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3115607",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3115607",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3116209",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3116209",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3116209",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3116209",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3116209",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3116209",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3116407",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3116407",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3116407",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3116407",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3116407",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3116407",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3116506",
+    "year": 2020,
+    "CT": 397.278
+  },
+  {
+    "munCode": "3116506",
+    "year": 2019,
+    "CT": 397.278
+  },
+  {
+    "munCode": "3116506",
+    "year": 2018,
+    "CT": 397.278
+  },
+  {
+    "munCode": "3116506",
+    "year": 2017,
+    "CT": 397.278
+  },
+  {
+    "munCode": "3116506",
+    "year": 2016,
+    "CT": 397.278
+  },
+  {
+    "munCode": "3116506",
+    "year": 2015,
+    "CT": 397.278
+  },
+  {
+    "munCode": "3117009",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3117009",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3117009",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3117009",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3117009",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3117009",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3115201",
+    "year": 2020,
+    "CT": 302.0574
+  },
+  {
+    "munCode": "3115201",
+    "year": 2019,
+    "CT": 302.0574
+  },
+  {
+    "munCode": "3115201",
+    "year": 2018,
+    "CT": 302.0574
+  },
+  {
+    "munCode": "3115201",
+    "year": 2017,
+    "CT": 302.0574
+  },
+  {
+    "munCode": "3115201",
+    "year": 2016,
+    "CT": 302.0574
+  },
+  {
+    "munCode": "3115201",
+    "year": 2015,
+    "CT": 302.0574
+  },
+  {
+    "munCode": "3117207",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3117207",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3117207",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3117207",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3117207",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3117207",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3117702",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3117702",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3117702",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3117702",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3117702",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3117702",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3117836",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3117836",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3117836",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3117836",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3117836",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3117836",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3117900",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3117900",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3117900",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3117900",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3117900",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3117900",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3119005",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3119005",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3119005",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3119005",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3119005",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3119005",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3119500",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3119500",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3119500",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3119500",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3119500",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3119500",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3119807",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3119807",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3119807",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3119807",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3119807",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3119807",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3119906",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3119906",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3119906",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3119906",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3119906",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3119906",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3120151",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3120151",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3120151",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3120151",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3120151",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3120151",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3120201",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3120201",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3120201",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3120201",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3120201",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3120201",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3120508",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3120508",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3120508",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3120508",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3120508",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3120508",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3120607",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3120607",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3120607",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3120607",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3120607",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3120607",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3120805",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3120805",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3120805",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3120805",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3120805",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3120805",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3120870",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3120870",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3120870",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3120870",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3120870",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3120870",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3121001",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3121001",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3121001",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3121001",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3121001",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3121001",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3121100",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3121100",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3121100",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3121100",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3121100",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3121100",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3121209",
+    "year": 2020,
+    "CT": 376.2
+  },
+  {
+    "munCode": "3121209",
+    "year": 2019,
+    "CT": 376.2
+  },
+  {
+    "munCode": "3121209",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3121209",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3121209",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3121209",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3121258",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3121258",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3121258",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3121258",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3121258",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3121258",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3122801",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3122801",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3122801",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3122801",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3122801",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3122801",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3122900",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3122900",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3122900",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3122900",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3122900",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3122900",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3123502",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3123502",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3123502",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3123502",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3123502",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3123502",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3123908",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3123908",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3123908",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3123908",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3123908",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3123908",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3124500",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3124500",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3124500",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3124500",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3124500",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3124500",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3124708",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3124708",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3124708",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3124708",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3124708",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3124708",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3125408",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3125408",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3125408",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3125408",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3125408",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3125408",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3126505",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3126505",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3126505",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3126505",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3126505",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3126505",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3127354",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3127354",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3127354",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3127354",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3127354",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3127354",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3127404",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3127404",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3127404",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3127404",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3127404",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3127404",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3127800",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3127800",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3127800",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3127800",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3127800",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3127800",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3128105",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3128105",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3128105",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3128105",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3128105",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3128105",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3128303",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3128303",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3128303",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3128303",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3128303",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3128303",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3128501",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3128501",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3128501",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3128501",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3128501",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3128501",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3128600",
+    "year": 2020,
+    "CT": 313.5
+  },
+  {
+    "munCode": "3128600",
+    "year": 2019,
+    "CT": 313.5
+  },
+  {
+    "munCode": "3128600",
+    "year": 2018,
+    "CT": 313.5
+  },
+  {
+    "munCode": "3128600",
+    "year": 2017,
+    "CT": 313.5
+  },
+  {
+    "munCode": "3128600",
+    "year": 2016,
+    "CT": 313.5
+  },
+  {
+    "munCode": "3128600",
+    "year": 2015,
+    "CT": 313.5
+  },
+  {
+    "munCode": "3128907",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3128907",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3128907",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3128907",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3128907",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3128907",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3129004",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3129004",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3129004",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3129004",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3129004",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3129004",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3129202",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3129202",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3129202",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3129202",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3129202",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3129202",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3129400",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3129400",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3129400",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3129400",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3129400",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3129400",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3129657",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3129657",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3129657",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3129657",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3129657",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3129657",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3129707",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3129707",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3129707",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3129707",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3129707",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3129707",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3129905",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3129905",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3129905",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3129905",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3129905",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3129905",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3130051",
+    "year": 2020,
+    "CT": 283.77
+  },
+  {
+    "munCode": "3130051",
+    "year": 2019,
+    "CT": 283.77
+  },
+  {
+    "munCode": "3130051",
+    "year": 2018,
+    "CT": 283.77
+  },
+  {
+    "munCode": "3130051",
+    "year": 2017,
+    "CT": 283.77
+  },
+  {
+    "munCode": "3130051",
+    "year": 2016,
+    "CT": 283.77
+  },
+  {
+    "munCode": "3130051",
+    "year": 2015,
+    "CT": 283.77
+  },
+  {
+    "munCode": "3130507",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3130507",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3130507",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3130507",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3130507",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3130507",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3130804",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3130804",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3130804",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3130804",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3130804",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3130804",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3131406",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3131406",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3131406",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3131406",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3131406",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3131406",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3132008",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3132008",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3132008",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3132008",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3132008",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3132008",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3132107",
+    "year": 2020,
+    "CT": 945.9
+  },
+  {
+    "munCode": "3132107",
+    "year": 2019,
+    "CT": 945.9
+  },
+  {
+    "munCode": "3132107",
+    "year": 2018,
+    "CT": 945.9
+  },
+  {
+    "munCode": "3132107",
+    "year": 2017,
+    "CT": 945.9
+  },
+  {
+    "munCode": "3132107",
+    "year": 2016,
+    "CT": 945.9
+  },
+  {
+    "munCode": "3132107",
+    "year": 2015,
+    "CT": 945.9
+  },
+  {
+    "munCode": "3132909",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3132909",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3132909",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3132909",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3132909",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3132909",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3133105",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3133105",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3133105",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3133105",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3133105",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3133105",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3133709",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3133709",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3133709",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3133709",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3133709",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3133709",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3133758",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3133758",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3133758",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3133758",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3133758",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3133758",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3134301",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3134301",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3134301",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3134301",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3134301",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3134301",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3134806",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3134806",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3134806",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3134806",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3134806",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3134806",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3135308",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3135308",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3135308",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3135308",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3135308",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3135308",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3135605",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3135605",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3135605",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3135605",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3135605",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3135605",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3135704",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3135704",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3135704",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3135704",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3135704",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3135704",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3135902",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3135902",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3135902",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3135902",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3135902",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3135902",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3136009",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3136009",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3136009",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3136009",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3136009",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3136009",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3138500",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3138500",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3138500",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3138500",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3138500",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3138500",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3138658",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3138658",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3138658",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3138658",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3138658",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3138658",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3138674",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3138674",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3138674",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3138674",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3138674",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3138674",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3138682",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3138682",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3138682",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3138682",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3138682",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3138682",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3138807",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3138807",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3138807",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3138807",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3138807",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3138807",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3139102",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3139102",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3139102",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3139102",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3139102",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3139102",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3139250",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3139250",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3139250",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3139250",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3139250",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3139250",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3139300",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3139300",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3139300",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3139300",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3139300",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3139300",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3139904",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3139904",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3139904",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3139904",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3139904",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3139904",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3140407",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3140407",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3140407",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3140407",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3140407",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3140407",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3140506",
+    "year": 2020,
+    "CT": 378.36
+  },
+  {
+    "munCode": "3140506",
+    "year": 2019,
+    "CT": 378.36
+  },
+  {
+    "munCode": "3140506",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3140506",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3140506",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3140506",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3140555",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3140555",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3140555",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3140555",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3140555",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3140555",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3171501",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3171501",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3171501",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3171501",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3171501",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3171501",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3140852",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3140852",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3140852",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3140852",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3140852",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3140852",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3141306",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3141306",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3141306",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3141306",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3141306",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3141306",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3142403",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3142403",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3142403",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3142403",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3142403",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3142403",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3142700",
+    "year": 2020,
+    "CT": 425.3397
+  },
+  {
+    "munCode": "3142700",
+    "year": 2019,
+    "CT": 425.3397
+  },
+  {
+    "munCode": "3142700",
+    "year": 2018,
+    "CT": 425.3397
+  },
+  {
+    "munCode": "3142700",
+    "year": 2017,
+    "CT": 425.3397
+  },
+  {
+    "munCode": "3142700",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3142700",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3143500",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3143500",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3143500",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3143500",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3143500",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3143500",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3143807",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3143807",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3143807",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3143807",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3143807",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3143807",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3144656",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3144656",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3144656",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3144656",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3144656",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3144656",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3144672",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3144672",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3144672",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3144672",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3144672",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3144672",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3144706",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3144706",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3144706",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3144706",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3144706",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3144706",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3145109",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3145109",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3145109",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3145109",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3145109",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3145109",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3136603",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3136603",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3136603",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3136603",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3136603",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3136603",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3145356",
+    "year": 2020,
+    "CT": 567.54
+  },
+  {
+    "munCode": "3145356",
+    "year": 2019,
+    "CT": 567.54
+  },
+  {
+    "munCode": "3145356",
+    "year": 2018,
+    "CT": 567.54
+  },
+  {
+    "munCode": "3145356",
+    "year": 2017,
+    "CT": 567.54
+  },
+  {
+    "munCode": "3145356",
+    "year": 2016,
+    "CT": 567.54
+  },
+  {
+    "munCode": "3145356",
+    "year": 2015,
+    "CT": 567.54
+  },
+  {
+    "munCode": "3145372",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3145372",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3145372",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3145372",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3145372",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3145372",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3145406",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3145406",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3145406",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3145406",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3145406",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3145406",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3145455",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3145455",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3145455",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3145455",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3145455",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3145455",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3145505",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3145505",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3145505",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3145505",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3145505",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3145505",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3145703",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3145703",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3145703",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3145703",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3145703",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3145703",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3145877",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3145877",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3145877",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3145877",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3145877",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3145877",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3146503",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3146503",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3146503",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3146503",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3146503",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3146503",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3146701",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3146701",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3146701",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3146701",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3146701",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3146701",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3147709",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3147709",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3147709",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3147709",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3147709",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3147709",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3147808",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3147808",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3147808",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3147808",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3147808",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3147808",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3148301",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3148301",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3148301",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3148301",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3148301",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3148301",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3149150",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3149150",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3149150",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3149150",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3149150",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3149150",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3149606",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3149606",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3149606",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3149606",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3149606",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3149606",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3150307",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3150307",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3150307",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3150307",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3150307",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3150307",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3150406",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3150406",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3150406",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3150406",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3150406",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3150406",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3150604",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3150604",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3150604",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3150604",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3150604",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3150604",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3151305",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3151305",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3151305",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3151305",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3151305",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3151305",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3152131",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3152131",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3152131",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3152131",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3152131",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3152131",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3152170",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3152170",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3152170",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3152170",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3152170",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3152170",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3152600",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3152600",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3152600",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3152600",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3152600",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3152600",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3153004",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3153004",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3153004",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3153004",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3153004",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3153004",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3153707",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3153707",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3153707",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3153707",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3153707",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3153707",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3154200",
+    "year": 2020,
+    "CT": 599.07
+  },
+  {
+    "munCode": "3154200",
+    "year": 2019,
+    "CT": 599.07
+  },
+  {
+    "munCode": "3154200",
+    "year": 2018,
+    "CT": 599.07
+  },
+  {
+    "munCode": "3154200",
+    "year": 2017,
+    "CT": 599.07
+  },
+  {
+    "munCode": "3154200",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3154200",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3154507",
+    "year": 2020,
+    "CT": 216.2958
+  },
+  {
+    "munCode": "3154507",
+    "year": 2019,
+    "CT": 216.2958
+  },
+  {
+    "munCode": "3154507",
+    "year": 2018,
+    "CT": 216.2958
+  },
+  {
+    "munCode": "3154507",
+    "year": 2017,
+    "CT": 216.2958
+  },
+  {
+    "munCode": "3154507",
+    "year": 2016,
+    "CT": 216.2958
+  },
+  {
+    "munCode": "3154507",
+    "year": 2015,
+    "CT": 216.2958
+  },
+  {
+    "munCode": "3154804",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3154804",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3154804",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3154804",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3154804",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3154804",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3155108",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3155108",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3155108",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3155108",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3155108",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3155108",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3155900",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3155900",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3155900",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3155900",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3155900",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3155900",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3156106",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3156106",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3156106",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3156106",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3156106",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3156106",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3156205",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3156205",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3156205",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3156205",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3156205",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3156205",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3157401",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3157401",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3157401",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3157401",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3157401",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3157401",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3158102",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3158102",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3158102",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3158102",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3158102",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3158102",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3158300",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3158300",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3158300",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3158300",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3158300",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3158300",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3158607",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3158607",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3158607",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3158607",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3158607",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3158607",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3158706",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3158706",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3158706",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3158706",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3158706",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3158706",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3159308",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3159308",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3159308",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3159308",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3159308",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3159308",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3159704",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3159704",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3159704",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3159704",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3159704",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3159704",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3160108",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3160108",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3160108",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3160108",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3160108",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3160108",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3160306",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3160306",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3160306",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3160306",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3160306",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3160306",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3160454",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3160454",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3160454",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3160454",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3160454",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3160454",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3160801",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3160801",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3160801",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3160801",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3160801",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3160801",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3161809",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3161809",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3161809",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3161809",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3161809",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3161809",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3161908",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3161908",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3161908",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3161908",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3161908",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3161908",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3125507",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3125507",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3125507",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3125507",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3125507",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3125507",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3162252",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3162252",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3162252",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3162252",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3162252",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3162252",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3162302",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3162302",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3162302",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3162302",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3162302",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3162302",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3162450",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3162450",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3162450",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3162450",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3162450",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3162450",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3162948",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3162948",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3162948",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3162948",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3162948",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3162948",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3163300",
+    "year": 2020,
+    "CT": 157.65
+  },
+  {
+    "munCode": "3163300",
+    "year": 2019,
+    "CT": 157.65
+  },
+  {
+    "munCode": "3163300",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3163300",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3163300",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3163300",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3163904",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3163904",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3163904",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3163904",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3163904",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3163904",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3164308",
+    "year": 2020,
+    "CT": 346.83
+  },
+  {
+    "munCode": "3164308",
+    "year": 2019,
+    "CT": 346.83
+  },
+  {
+    "munCode": "3164308",
+    "year": 2018,
+    "CT": 346.83
+  },
+  {
+    "munCode": "3164308",
+    "year": 2017,
+    "CT": 346.83
+  },
+  {
+    "munCode": "3164308",
+    "year": 2016,
+    "CT": 346.83
+  },
+  {
+    "munCode": "3164308",
+    "year": 2015,
+    "CT": 346.83
+  },
+  {
+    "munCode": "3164407",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3164407",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3164407",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3164407",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3164407",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3164407",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3164605",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3164605",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3164605",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3164605",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3164605",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3164605",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3164902",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3164902",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3164902",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3164902",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3164902",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3164902",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3165206",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3165206",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3165206",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3165206",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3165206",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3165206",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3165107",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3165107",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3165107",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3165107",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3165107",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3165107",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3165578",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3165578",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3165578",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3165578",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3165578",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3165578",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3165602",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3165602",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3165602",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3165602",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3165602",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3165602",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3165909",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3165909",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3165909",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3165909",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3165909",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3165909",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3166402",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3166402",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3166402",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3166402",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3166402",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3166402",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3165552",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3165552",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3165552",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3165552",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3165552",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3165552",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3167400",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3167400",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3167400",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3167400",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3167400",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3167400",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3167806",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3167806",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3167806",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3167806",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3167806",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3167806",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3168200",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3168200",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3168200",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3168200",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3168200",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3168200",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3168507",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3168507",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3168507",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3168507",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3168507",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3168507",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3169000",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3169000",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3169000",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3169000",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3169000",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3169000",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3170008",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3170008",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3170008",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3170008",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3170008",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3170008",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3170479",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3170479",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3170479",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3170479",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3170479",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3170479",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3170602",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3170602",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3170602",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3170602",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3170602",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3170602",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3171808",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3171808",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3171808",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3171808",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3171808",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3171808",
+    "year": 2015,
+    "CT": null
+  },
+  {
+    "munCode": "3172202",
+    "year": 2020,
+    "CT": null
+  },
+  {
+    "munCode": "3172202",
+    "year": 2019,
+    "CT": null
+  },
+  {
+    "munCode": "3172202",
+    "year": 2018,
+    "CT": null
+  },
+  {
+    "munCode": "3172202",
+    "year": 2017,
+    "CT": null
+  },
+  {
+    "munCode": "3172202",
+    "year": 2016,
+    "CT": null
+  },
+  {
+    "munCode": "3172202",
+    "year": 2015,
+    "CT": null
+  }
+]

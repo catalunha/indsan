@@ -196,6 +196,8 @@ SNISModel _sNISModelDeserializeNative(
     AG006: reader.readDoubleOrNull(offsets[0]),
     AG012: reader.readDoubleOrNull(offsets[1]),
     AG024: reader.readDoubleOrNull(offsets[2]),
+    ES005: reader.readDoubleOrNull(offsets[3]),
+    ES006: reader.readDoubleOrNull(offsets[4]),
     IN022_AE: reader.readDoubleOrNull(offsets[5]),
     IN023_AE: reader.readDoubleOrNull(offsets[6]),
     IN024_AE: reader.readDoubleOrNull(offsets[7]),
@@ -213,8 +215,6 @@ SNISModel _sNISModelDeserializeNative(
     munCode: reader.readString(offsets[20]),
     year: reader.readLong(offsets[21]),
   );
-  object.ES005 = reader.readDoubleOrNull(offsets[3]);
-  object.ES006 = reader.readDoubleOrNull(offsets[4]);
   object.id = id;
   return object;
 }
@@ -282,7 +282,7 @@ Object _sNISModelSerializeWeb(
 
 SNISModel _sNISModelDeserializeWeb(
     IsarCollection<SNISModel> collection, Object jsObj) {
-  /*final object = SNISModel(AG006: IsarNative.jsObjectGet(jsObj, r'AG006') ,AG012: IsarNative.jsObjectGet(jsObj, r'AG012') ,AG024: IsarNative.jsObjectGet(jsObj, r'AG024') ,IN022_AE: IsarNative.jsObjectGet(jsObj, r'IN022_AE') ,IN023_AE: IsarNative.jsObjectGet(jsObj, r'IN023_AE') ,IN024_AE: IsarNative.jsObjectGet(jsObj, r'IN024_AE') ,IN049_AE: IsarNative.jsObjectGet(jsObj, r'IN049_AE') ,POP: IsarNative.jsObjectGet(jsObj, r'POP') ,QD006: IsarNative.jsObjectGet(jsObj, r'QD006') ,QD007: IsarNative.jsObjectGet(jsObj, r'QD007') ,QD008: IsarNative.jsObjectGet(jsObj, r'QD008') ,QD009: IsarNative.jsObjectGet(jsObj, r'QD009') ,QD019: IsarNative.jsObjectGet(jsObj, r'QD019') ,QD020: IsarNative.jsObjectGet(jsObj, r'QD020') ,QD026: IsarNative.jsObjectGet(jsObj, r'QD026') ,QD027: IsarNative.jsObjectGet(jsObj, r'QD027') ,QD028: IsarNative.jsObjectGet(jsObj, r'QD028') ,munCode: IsarNative.jsObjectGet(jsObj, r'munCode') ?? '',year: IsarNative.jsObjectGet(jsObj, r'year') ?? (double.negativeInfinity as int),);object.ES005 = IsarNative.jsObjectGet(jsObj, r'ES005') ;object.ES006 = IsarNative.jsObjectGet(jsObj, r'ES006') ;object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);*/
+  /*final object = SNISModel(AG006: IsarNative.jsObjectGet(jsObj, r'AG006') ,AG012: IsarNative.jsObjectGet(jsObj, r'AG012') ,AG024: IsarNative.jsObjectGet(jsObj, r'AG024') ,ES005: IsarNative.jsObjectGet(jsObj, r'ES005') ,ES006: IsarNative.jsObjectGet(jsObj, r'ES006') ,IN022_AE: IsarNative.jsObjectGet(jsObj, r'IN022_AE') ,IN023_AE: IsarNative.jsObjectGet(jsObj, r'IN023_AE') ,IN024_AE: IsarNative.jsObjectGet(jsObj, r'IN024_AE') ,IN049_AE: IsarNative.jsObjectGet(jsObj, r'IN049_AE') ,POP: IsarNative.jsObjectGet(jsObj, r'POP') ,QD006: IsarNative.jsObjectGet(jsObj, r'QD006') ,QD007: IsarNative.jsObjectGet(jsObj, r'QD007') ,QD008: IsarNative.jsObjectGet(jsObj, r'QD008') ,QD009: IsarNative.jsObjectGet(jsObj, r'QD009') ,QD019: IsarNative.jsObjectGet(jsObj, r'QD019') ,QD020: IsarNative.jsObjectGet(jsObj, r'QD020') ,QD026: IsarNative.jsObjectGet(jsObj, r'QD026') ,QD027: IsarNative.jsObjectGet(jsObj, r'QD027') ,QD028: IsarNative.jsObjectGet(jsObj, r'QD028') ,munCode: IsarNative.jsObjectGet(jsObj, r'munCode') ?? '',year: IsarNative.jsObjectGet(jsObj, r'year') ?? (double.negativeInfinity as int),);object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);*/
   //return object;
   throw UnimplementedError();
 }

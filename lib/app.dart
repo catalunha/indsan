@@ -21,7 +21,6 @@ void app() async {
 
 indIES() async {
   Isar isar = Isar.getInstance()!;
-  // +++ Indicador IES
   IndIES indIES = IndIES();
   List<MunModel> list = await isar.munModels.where().findAll();
 
@@ -43,12 +42,11 @@ indIES() async {
   //--- calculo de tudo
 
   // +++ teste unitario
-  // String munCode = '3144706';
-  // int year = 2016;
-  // double? iab = await indIES.calculate(munCode, year, fileOpen);
-  // print('Mun.:$munCode Ano:$year. IES: ${iab ?? "?"}');
+  // String munCode = '3104452';
+  // int year = 2020;
+  // double? ies = await indIES.calculate(munCode, year, fileOpen);
+  // print('Mun.:$munCode Ano:$year. IES: ${ies ?? "?"}');
   // --- teste unitario
-  // +++ Indicador IES
 
   fileOpen.close();
   isar.close();
