@@ -48,11 +48,11 @@ class IndIES {
   }
 
   double indITE(IOSink? logs) {
-    double IN024_AE = _iesData.IN024_AE;
+    double IN024AE = _iesData.IN024_AE;
     double ES005 = _iesData.ES005;
     double ES006 = _iesData.ES006;
     double POP = _iesData.POP;
-    double result = (IN024_AE) * (ES006 / ES005) * 100;
+    double result = (IN024AE) * (ES006 / ES005) * 100;
     if (POP < 5000) {
       if (result < 15.0) {
         result = 0;

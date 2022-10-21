@@ -27,9 +27,8 @@ indIES() async {
   var pathFileName = 'lib/calcs/ies.txt';
   if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
   var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
-  //+++ calculo de tudo
   fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | IES');
-
+  //+++ calculo de tudo
   for (var mun in list) {
     for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
       // double? iab = await indIES.calculate(mun.munCode, year, null);
@@ -42,7 +41,7 @@ indIES() async {
   //--- calculo de tudo
 
   // +++ teste unitario
-  // String munCode = '3104452';
+  // String munCode = '3100302';
   // int year = 2020;
   // double? ies = await indIES.calculate(munCode, year, fileOpen);
   // print('Mun.:$munCode Ano:$year. IES: ${ies ?? "?"}');
