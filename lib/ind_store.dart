@@ -1,5 +1,6 @@
 import 'dart:convert';
 import 'dart:io';
+import 'package:indsan/models/esgoto_model.dart';
 import 'package:indsan/models/mun_model.dart';
 import 'package:indsan/models/snis_model.dart';
 import 'package:indsan/models/t_model.dart';
@@ -10,7 +11,13 @@ class IndStore {
   late Isar _isar;
   Future<void> onInit() async {
     _isar = await Isar.open(
-      [ANAModelSchema, MunModelSchema, SNISModelSchema, TModelSchema],
+      [
+        ANAModelSchema,
+        MunModelSchema,
+        SNISModelSchema,
+        TModelSchema,
+        EsgotoModelSchema,
+      ],
       directory: '.',
     );
   }
@@ -105,7 +112,7 @@ class IndStore {
     }
     int count = await _isar.tModels.count();
     if (count == 0) {
-      print('Lendo dados T do json para collection T');
+      print('Lendo dados do json para collection T');
       String dataFile = 'lib/data/t_mg.json';
       var dataJson = File(dataFile).readAsStringSync();
 
@@ -121,5 +128,32 @@ class IndStore {
       count = await _isar.tModels.count();
     }
     print('T collection com: $count');
+  }
+
+  Future<void> updateEsgoto({bool update = false}) async {
+    if (update) {
+      print('Removendo todos os dados da collection Esgoto');
+      await _isar.writeTxn(() async {
+        await _isar.esgotoModels.clear();
+      });
+    }
+    int count = await _isar.esgotoModels.count();
+    if (count == 0) {
+      print('Lendo dados do json para collection Esgoto');
+      String dataFile = 'lib/data/esgoto_mg.json';
+      var dataJson = File(dataFile).readAsStringSync();
+
+      final dataJsonObj = json.decode(dataJson);
+      final List<EsgotoModel> list =
+          dataJsonObj.map<EsgotoModel>((e) => EsgotoModel.fromMap(e)).toList();
+
+      await _isar.writeTxn(() async {
+        for (var item in list) {
+          _isar.esgotoModels.put(item);
+        }
+      });
+      count = await _isar.esgotoModels.count();
+    }
+    print('Esgoto collection com: $count');
   }
 }

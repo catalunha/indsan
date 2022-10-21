@@ -1,6 +1,6 @@
 // GENERATED CODE - DO NOT MODIFY BY HAND
 
-part of 't_model.dart';
+part of 'esgoto_model.dart';
 
 // **************************************************************************
 // IsarCollectionGenerator
@@ -9,28 +9,28 @@ part of 't_model.dart';
 // coverage:ignore-file
 // ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, avoid_js_rounded_ints, prefer_final_locals
 
-extension GetTModelCollection on Isar {
-  IsarCollection<TModel> get tModels => this.collection();
+extension GetEsgotoModelCollection on Isar {
+  IsarCollection<EsgotoModel> get esgotoModels => this.collection();
 }
 
-const TModelSchema = CollectionSchema(
-  name: r'TModel',
-  id: 4461527137832111358,
+const EsgotoModelSchema = CollectionSchema(
+  name: r'EsgotoModel',
+  id: -3471468976872044495,
   properties: {
-    r'hashCode': PropertySchema(
+    r'CT': PropertySchema(
       id: 0,
+      name: r'CT',
+      type: IsarType.double,
+    ),
+    r'hashCode': PropertySchema(
+      id: 1,
       name: r'hashCode',
       type: IsarType.long,
     ),
     r'munCode': PropertySchema(
-      id: 1,
+      id: 2,
       name: r'munCode',
       type: IsarType.string,
-    ),
-    r't': PropertySchema(
-      id: 2,
-      name: r't',
-      type: IsarType.double,
     ),
     r'year': PropertySchema(
       id: 3,
@@ -38,25 +38,25 @@ const TModelSchema = CollectionSchema(
       type: IsarType.long,
     )
   },
-  estimateSize: _tModelEstimateSize,
-  serializeNative: _tModelSerializeNative,
-  deserializeNative: _tModelDeserializeNative,
-  deserializePropNative: _tModelDeserializePropNative,
-  serializeWeb: _tModelSerializeWeb,
-  deserializeWeb: _tModelDeserializeWeb,
-  deserializePropWeb: _tModelDeserializePropWeb,
+  estimateSize: _esgotoModelEstimateSize,
+  serializeNative: _esgotoModelSerializeNative,
+  deserializeNative: _esgotoModelDeserializeNative,
+  deserializePropNative: _esgotoModelDeserializePropNative,
+  serializeWeb: _esgotoModelSerializeWeb,
+  deserializeWeb: _esgotoModelDeserializeWeb,
+  deserializePropWeb: _esgotoModelDeserializePropWeb,
   idName: r'id',
   indexes: {},
   links: {},
   embeddedSchemas: {},
-  getId: _tModelGetId,
-  getLinks: _tModelGetLinks,
-  attach: _tModelAttach,
+  getId: _esgotoModelGetId,
+  getLinks: _esgotoModelGetLinks,
+  attach: _esgotoModelAttach,
   version: '3.0.0-dev.14',
 );
 
-int _tModelEstimateSize(
-  TModel object,
+int _esgotoModelEstimateSize(
+  EsgotoModel object,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -65,35 +65,35 @@ int _tModelEstimateSize(
   return bytesCount;
 }
 
-int _tModelSerializeNative(
-  TModel object,
+int _esgotoModelSerializeNative(
+  EsgotoModel object,
   IsarBinaryWriter writer,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
-  writer.writeLong(offsets[0], object.hashCode);
-  writer.writeString(offsets[1], object.munCode);
-  writer.writeDouble(offsets[2], object.t);
+  writer.writeDouble(offsets[0], object.CT);
+  writer.writeLong(offsets[1], object.hashCode);
+  writer.writeString(offsets[2], object.munCode);
   writer.writeLong(offsets[3], object.year);
   return writer.usedBytes;
 }
 
-TModel _tModelDeserializeNative(
+EsgotoModel _esgotoModelDeserializeNative(
   Id id,
   IsarBinaryReader reader,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
-  final object = TModel(
-    munCode: reader.readString(offsets[1]),
-    t: reader.readDoubleOrNull(offsets[2]),
+  final object = EsgotoModel(
+    CT: reader.readDoubleOrNull(offsets[0]),
+    munCode: reader.readString(offsets[2]),
     year: reader.readLong(offsets[3]),
   );
   object.id = id;
   return object;
 }
 
-P _tModelDeserializePropNative<P>(
+P _esgotoModelDeserializePropNative<P>(
   IsarBinaryReader reader,
   int propertyId,
   int offset,
@@ -101,11 +101,11 @@ P _tModelDeserializePropNative<P>(
 ) {
   switch (propertyId) {
     case 0:
-      return (reader.readLong(offset)) as P;
-    case 1:
-      return (reader.readString(offset)) as P;
-    case 2:
       return (reader.readDoubleOrNull(offset)) as P;
+    case 1:
+      return (reader.readLong(offset)) as P;
+    case 2:
+      return (reader.readString(offset)) as P;
     case 3:
       return (reader.readLong(offset)) as P;
     default:
@@ -113,45 +113,50 @@ P _tModelDeserializePropNative<P>(
   }
 }
 
-Object _tModelSerializeWeb(IsarCollection<TModel> collection, TModel object) {
+Object _esgotoModelSerializeWeb(
+    IsarCollection<EsgotoModel> collection, EsgotoModel object) {
   /*final jsObj = IsarNative.newJsObject();*/ throw UnimplementedError();
 }
 
-TModel _tModelDeserializeWeb(IsarCollection<TModel> collection, Object jsObj) {
-  /*final object = TModel(munCode: IsarNative.jsObjectGet(jsObj, r'munCode') ?? '',t: IsarNative.jsObjectGet(jsObj, r't') ,year: IsarNative.jsObjectGet(jsObj, r'year') ?? (double.negativeInfinity as int),);object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);*/
+EsgotoModel _esgotoModelDeserializeWeb(
+    IsarCollection<EsgotoModel> collection, Object jsObj) {
+  /*final object = EsgotoModel(CT: IsarNative.jsObjectGet(jsObj, r'CT') ,munCode: IsarNative.jsObjectGet(jsObj, r'munCode') ?? '',year: IsarNative.jsObjectGet(jsObj, r'year') ?? (double.negativeInfinity as int),);object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);*/
   //return object;
   throw UnimplementedError();
 }
 
-P _tModelDeserializePropWeb<P>(Object jsObj, String propertyName) {
+P _esgotoModelDeserializePropWeb<P>(Object jsObj, String propertyName) {
   switch (propertyName) {
     default:
       throw IsarError('Illegal propertyName');
   }
 }
 
-Id _tModelGetId(TModel object) {
+Id _esgotoModelGetId(EsgotoModel object) {
   return object.id;
 }
 
-List<IsarLinkBase<dynamic>> _tModelGetLinks(TModel object) {
+List<IsarLinkBase<dynamic>> _esgotoModelGetLinks(EsgotoModel object) {
   return [];
 }
 
-void _tModelAttach(IsarCollection<dynamic> col, Id id, TModel object) {
+void _esgotoModelAttach(
+    IsarCollection<dynamic> col, Id id, EsgotoModel object) {
   object.id = id;
 }
 
-extension TModelQueryWhereSort on QueryBuilder<TModel, TModel, QWhere> {
-  QueryBuilder<TModel, TModel, QAfterWhere> anyId() {
+extension EsgotoModelQueryWhereSort
+    on QueryBuilder<EsgotoModel, EsgotoModel, QWhere> {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterWhere> anyId() {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(const IdWhereClause.any());
     });
   }
 }
 
-extension TModelQueryWhere on QueryBuilder<TModel, TModel, QWhereClause> {
-  QueryBuilder<TModel, TModel, QAfterWhereClause> idEqualTo(int id) {
+extension EsgotoModelQueryWhere
+    on QueryBuilder<EsgotoModel, EsgotoModel, QWhereClause> {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterWhereClause> idEqualTo(int id) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(IdWhereClause.between(
         lower: id,
@@ -160,7 +165,8 @@ extension TModelQueryWhere on QueryBuilder<TModel, TModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterWhereClause> idNotEqualTo(int id) {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterWhereClause> idNotEqualTo(
+      int id) {
     return QueryBuilder.apply(this, (query) {
       if (query.whereSort == Sort.asc) {
         return query
@@ -182,7 +188,8 @@ extension TModelQueryWhere on QueryBuilder<TModel, TModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterWhereClause> idGreaterThan(int id,
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterWhereClause> idGreaterThan(
+      int id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -191,7 +198,7 @@ extension TModelQueryWhere on QueryBuilder<TModel, TModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterWhereClause> idLessThan(int id,
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterWhereClause> idLessThan(int id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -200,7 +207,7 @@ extension TModelQueryWhere on QueryBuilder<TModel, TModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterWhereClause> idBetween(
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterWhereClause> idBetween(
     int lowerId,
     int upperId, {
     bool includeLower = true,
@@ -217,8 +224,87 @@ extension TModelQueryWhere on QueryBuilder<TModel, TModel, QWhereClause> {
   }
 }
 
-extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> hashCodeEqualTo(
+extension EsgotoModelQueryFilter
+    on QueryBuilder<EsgotoModel, EsgotoModel, QFilterCondition> {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> cTIsNull() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(const FilterCondition.isNull(
+        property: r'CT',
+      ));
+    });
+  }
+
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> cTIsNotNull() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(const FilterCondition.isNotNull(
+        property: r'CT',
+      ));
+    });
+  }
+
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> cTEqualTo(
+    double? value, {
+    double epsilon = Query.epsilon,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.equalTo(
+        property: r'CT',
+        value: value,
+        epsilon: epsilon,
+      ));
+    });
+  }
+
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> cTGreaterThan(
+    double? value, {
+    bool include = false,
+    double epsilon = Query.epsilon,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.greaterThan(
+        include: include,
+        property: r'CT',
+        value: value,
+        epsilon: epsilon,
+      ));
+    });
+  }
+
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> cTLessThan(
+    double? value, {
+    bool include = false,
+    double epsilon = Query.epsilon,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.lessThan(
+        include: include,
+        property: r'CT',
+        value: value,
+        epsilon: epsilon,
+      ));
+    });
+  }
+
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> cTBetween(
+    double? lower,
+    double? upper, {
+    bool includeLower = true,
+    bool includeUpper = true,
+    double epsilon = Query.epsilon,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.between(
+        property: r'CT',
+        lower: lower,
+        includeLower: includeLower,
+        upper: upper,
+        includeUpper: includeUpper,
+        epsilon: epsilon,
+      ));
+    });
+  }
+
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> hashCodeEqualTo(
       int value) {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.equalTo(
@@ -228,7 +314,8 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> hashCodeGreaterThan(
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition>
+      hashCodeGreaterThan(
     int value, {
     bool include = false,
   }) {
@@ -241,7 +328,8 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> hashCodeLessThan(
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition>
+      hashCodeLessThan(
     int value, {
     bool include = false,
   }) {
@@ -254,7 +342,7 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> hashCodeBetween(
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> hashCodeBetween(
     int lower,
     int upper, {
     bool includeLower = true,
@@ -271,7 +359,8 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> idEqualTo(int value) {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> idEqualTo(
+      int value) {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.equalTo(
         property: r'id',
@@ -280,7 +369,7 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> idGreaterThan(
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> idGreaterThan(
     int value, {
     bool include = false,
   }) {
@@ -293,7 +382,7 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> idLessThan(
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> idLessThan(
     int value, {
     bool include = false,
   }) {
@@ -306,7 +395,7 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> idBetween(
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> idBetween(
     int lower,
     int upper, {
     bool includeLower = true,
@@ -323,7 +412,7 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> munCodeEqualTo(
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> munCodeEqualTo(
     String value, {
     bool caseSensitive = true,
   }) {
@@ -336,7 +425,8 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> munCodeGreaterThan(
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition>
+      munCodeGreaterThan(
     String value, {
     bool include = false,
     bool caseSensitive = true,
@@ -351,7 +441,7 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> munCodeLessThan(
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> munCodeLessThan(
     String value, {
     bool include = false,
     bool caseSensitive = true,
@@ -366,7 +456,7 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> munCodeBetween(
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> munCodeBetween(
     String lower,
     String upper, {
     bool includeLower = true,
@@ -385,7 +475,8 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> munCodeStartsWith(
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition>
+      munCodeStartsWith(
     String value, {
     bool caseSensitive = true,
   }) {
@@ -398,7 +489,7 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> munCodeEndsWith(
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> munCodeEndsWith(
     String value, {
     bool caseSensitive = true,
   }) {
@@ -411,7 +502,7 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> munCodeContains(
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> munCodeContains(
       String value,
       {bool caseSensitive = true}) {
     return QueryBuilder.apply(this, (query) {
@@ -423,7 +514,7 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> munCodeMatches(
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> munCodeMatches(
       String pattern,
       {bool caseSensitive = true}) {
     return QueryBuilder.apply(this, (query) {
@@ -435,7 +526,8 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> munCodeIsEmpty() {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition>
+      munCodeIsEmpty() {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.equalTo(
         property: r'munCode',
@@ -444,7 +536,8 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> munCodeIsNotEmpty() {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition>
+      munCodeIsNotEmpty() {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.greaterThan(
         property: r'munCode',
@@ -453,85 +546,8 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> tIsNull() {
-    return QueryBuilder.apply(this, (query) {
-      return query.addFilterCondition(const FilterCondition.isNull(
-        property: r't',
-      ));
-    });
-  }
-
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> tIsNotNull() {
-    return QueryBuilder.apply(this, (query) {
-      return query.addFilterCondition(const FilterCondition.isNotNull(
-        property: r't',
-      ));
-    });
-  }
-
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> tEqualTo(
-    double? value, {
-    double epsilon = Query.epsilon,
-  }) {
-    return QueryBuilder.apply(this, (query) {
-      return query.addFilterCondition(FilterCondition.equalTo(
-        property: r't',
-        value: value,
-        epsilon: epsilon,
-      ));
-    });
-  }
-
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> tGreaterThan(
-    double? value, {
-    bool include = false,
-    double epsilon = Query.epsilon,
-  }) {
-    return QueryBuilder.apply(this, (query) {
-      return query.addFilterCondition(FilterCondition.greaterThan(
-        include: include,
-        property: r't',
-        value: value,
-        epsilon: epsilon,
-      ));
-    });
-  }
-
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> tLessThan(
-    double? value, {
-    bool include = false,
-    double epsilon = Query.epsilon,
-  }) {
-    return QueryBuilder.apply(this, (query) {
-      return query.addFilterCondition(FilterCondition.lessThan(
-        include: include,
-        property: r't',
-        value: value,
-        epsilon: epsilon,
-      ));
-    });
-  }
-
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> tBetween(
-    double? lower,
-    double? upper, {
-    bool includeLower = true,
-    bool includeUpper = true,
-    double epsilon = Query.epsilon,
-  }) {
-    return QueryBuilder.apply(this, (query) {
-      return query.addFilterCondition(FilterCondition.between(
-        property: r't',
-        lower: lower,
-        includeLower: includeLower,
-        upper: upper,
-        includeUpper: includeUpper,
-        epsilon: epsilon,
-      ));
-    });
-  }
-
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> yearEqualTo(int value) {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> yearEqualTo(
+      int value) {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.equalTo(
         property: r'year',
@@ -540,7 +556,7 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> yearGreaterThan(
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> yearGreaterThan(
     int value, {
     bool include = false,
   }) {
@@ -553,7 +569,7 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> yearLessThan(
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> yearLessThan(
     int value, {
     bool include = false,
   }) {
@@ -566,7 +582,7 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> yearBetween(
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> yearBetween(
     int lower,
     int upper, {
     bool includeLower = true,
@@ -584,175 +600,181 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
   }
 }
 
-extension TModelQueryObject on QueryBuilder<TModel, TModel, QFilterCondition> {}
+extension EsgotoModelQueryObject
+    on QueryBuilder<EsgotoModel, EsgotoModel, QFilterCondition> {}
 
-extension TModelQueryLinks on QueryBuilder<TModel, TModel, QFilterCondition> {}
+extension EsgotoModelQueryLinks
+    on QueryBuilder<EsgotoModel, EsgotoModel, QFilterCondition> {}
 
-extension TModelQuerySortBy on QueryBuilder<TModel, TModel, QSortBy> {
-  QueryBuilder<TModel, TModel, QAfterSortBy> sortByHashCode() {
+extension EsgotoModelQuerySortBy
+    on QueryBuilder<EsgotoModel, EsgotoModel, QSortBy> {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterSortBy> sortByCT() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'CT', Sort.asc);
+    });
+  }
+
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterSortBy> sortByCTDesc() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'CT', Sort.desc);
+    });
+  }
+
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterSortBy> sortByHashCode() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'hashCode', Sort.asc);
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterSortBy> sortByHashCodeDesc() {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterSortBy> sortByHashCodeDesc() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'hashCode', Sort.desc);
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterSortBy> sortByMunCode() {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterSortBy> sortByMunCode() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'munCode', Sort.asc);
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterSortBy> sortByMunCodeDesc() {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterSortBy> sortByMunCodeDesc() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'munCode', Sort.desc);
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterSortBy> sortByT() {
-    return QueryBuilder.apply(this, (query) {
-      return query.addSortBy(r't', Sort.asc);
-    });
-  }
-
-  QueryBuilder<TModel, TModel, QAfterSortBy> sortByTDesc() {
-    return QueryBuilder.apply(this, (query) {
-      return query.addSortBy(r't', Sort.desc);
-    });
-  }
-
-  QueryBuilder<TModel, TModel, QAfterSortBy> sortByYear() {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterSortBy> sortByYear() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'year', Sort.asc);
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterSortBy> sortByYearDesc() {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterSortBy> sortByYearDesc() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'year', Sort.desc);
     });
   }
 }
 
-extension TModelQuerySortThenBy on QueryBuilder<TModel, TModel, QSortThenBy> {
-  QueryBuilder<TModel, TModel, QAfterSortBy> thenByHashCode() {
+extension EsgotoModelQuerySortThenBy
+    on QueryBuilder<EsgotoModel, EsgotoModel, QSortThenBy> {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterSortBy> thenByCT() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'CT', Sort.asc);
+    });
+  }
+
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterSortBy> thenByCTDesc() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'CT', Sort.desc);
+    });
+  }
+
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterSortBy> thenByHashCode() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'hashCode', Sort.asc);
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterSortBy> thenByHashCodeDesc() {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterSortBy> thenByHashCodeDesc() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'hashCode', Sort.desc);
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterSortBy> thenById() {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterSortBy> thenById() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'id', Sort.asc);
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterSortBy> thenByIdDesc() {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterSortBy> thenByIdDesc() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'id', Sort.desc);
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterSortBy> thenByMunCode() {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterSortBy> thenByMunCode() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'munCode', Sort.asc);
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterSortBy> thenByMunCodeDesc() {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterSortBy> thenByMunCodeDesc() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'munCode', Sort.desc);
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterSortBy> thenByT() {
-    return QueryBuilder.apply(this, (query) {
-      return query.addSortBy(r't', Sort.asc);
-    });
-  }
-
-  QueryBuilder<TModel, TModel, QAfterSortBy> thenByTDesc() {
-    return QueryBuilder.apply(this, (query) {
-      return query.addSortBy(r't', Sort.desc);
-    });
-  }
-
-  QueryBuilder<TModel, TModel, QAfterSortBy> thenByYear() {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterSortBy> thenByYear() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'year', Sort.asc);
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterSortBy> thenByYearDesc() {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterSortBy> thenByYearDesc() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'year', Sort.desc);
     });
   }
 }
 
-extension TModelQueryWhereDistinct on QueryBuilder<TModel, TModel, QDistinct> {
-  QueryBuilder<TModel, TModel, QDistinct> distinctByHashCode() {
+extension EsgotoModelQueryWhereDistinct
+    on QueryBuilder<EsgotoModel, EsgotoModel, QDistinct> {
+  QueryBuilder<EsgotoModel, EsgotoModel, QDistinct> distinctByCT() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addDistinctBy(r'CT');
+    });
+  }
+
+  QueryBuilder<EsgotoModel, EsgotoModel, QDistinct> distinctByHashCode() {
     return QueryBuilder.apply(this, (query) {
       return query.addDistinctBy(r'hashCode');
     });
   }
 
-  QueryBuilder<TModel, TModel, QDistinct> distinctByMunCode(
+  QueryBuilder<EsgotoModel, EsgotoModel, QDistinct> distinctByMunCode(
       {bool caseSensitive = true}) {
     return QueryBuilder.apply(this, (query) {
       return query.addDistinctBy(r'munCode', caseSensitive: caseSensitive);
     });
   }
 
-  QueryBuilder<TModel, TModel, QDistinct> distinctByT() {
-    return QueryBuilder.apply(this, (query) {
-      return query.addDistinctBy(r't');
-    });
-  }
-
-  QueryBuilder<TModel, TModel, QDistinct> distinctByYear() {
+  QueryBuilder<EsgotoModel, EsgotoModel, QDistinct> distinctByYear() {
     return QueryBuilder.apply(this, (query) {
       return query.addDistinctBy(r'year');
     });
   }
 }
 
-extension TModelQueryProperty on QueryBuilder<TModel, TModel, QQueryProperty> {
-  QueryBuilder<TModel, int, QQueryOperations> idProperty() {
+extension EsgotoModelQueryProperty
+    on QueryBuilder<EsgotoModel, EsgotoModel, QQueryProperty> {
+  QueryBuilder<EsgotoModel, int, QQueryOperations> idProperty() {
     return QueryBuilder.apply(this, (query) {
       return query.addPropertyName(r'id');
     });
   }
 
-  QueryBuilder<TModel, int, QQueryOperations> hashCodeProperty() {
+  QueryBuilder<EsgotoModel, double?, QQueryOperations> CTProperty() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addPropertyName(r'CT');
+    });
+  }
+
+  QueryBuilder<EsgotoModel, int, QQueryOperations> hashCodeProperty() {
     return QueryBuilder.apply(this, (query) {
       return query.addPropertyName(r'hashCode');
     });
   }
 
-  QueryBuilder<TModel, String, QQueryOperations> munCodeProperty() {
+  QueryBuilder<EsgotoModel, String, QQueryOperations> munCodeProperty() {
     return QueryBuilder.apply(this, (query) {
       return query.addPropertyName(r'munCode');
     });
   }
 
-  QueryBuilder<TModel, double?, QQueryOperations> tProperty() {
-    return QueryBuilder.apply(this, (query) {
-      return query.addPropertyName(r't');
-    });
-  }
-
-  QueryBuilder<TModel, int, QQueryOperations> yearProperty() {
+  QueryBuilder<EsgotoModel, int, QQueryOperations> yearProperty() {
     return QueryBuilder.apply(this, (query) {
       return query.addPropertyName(r'year');
     });

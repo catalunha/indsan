@@ -32,88 +32,98 @@ const SNISModelSchema = CollectionSchema(
       name: r'AG024',
       type: IsarType.double,
     ),
-    r'IN022_AE': PropertySchema(
+    r'ES005': PropertySchema(
       id: 3,
+      name: r'ES005',
+      type: IsarType.double,
+    ),
+    r'ES006': PropertySchema(
+      id: 4,
+      name: r'ES006',
+      type: IsarType.double,
+    ),
+    r'IN022_AE': PropertySchema(
+      id: 5,
       name: r'IN022_AE',
       type: IsarType.double,
     ),
     r'IN023_AE': PropertySchema(
-      id: 4,
+      id: 6,
       name: r'IN023_AE',
       type: IsarType.double,
     ),
     r'IN024_AE': PropertySchema(
-      id: 5,
+      id: 7,
       name: r'IN024_AE',
       type: IsarType.double,
     ),
     r'IN049_AE': PropertySchema(
-      id: 6,
+      id: 8,
       name: r'IN049_AE',
       type: IsarType.double,
     ),
     r'POP': PropertySchema(
-      id: 7,
+      id: 9,
       name: r'POP',
       type: IsarType.double,
     ),
     r'QD006': PropertySchema(
-      id: 8,
+      id: 10,
       name: r'QD006',
       type: IsarType.double,
     ),
     r'QD007': PropertySchema(
-      id: 9,
+      id: 11,
       name: r'QD007',
       type: IsarType.double,
     ),
     r'QD008': PropertySchema(
-      id: 10,
+      id: 12,
       name: r'QD008',
       type: IsarType.double,
     ),
     r'QD009': PropertySchema(
-      id: 11,
+      id: 13,
       name: r'QD009',
       type: IsarType.double,
     ),
     r'QD019': PropertySchema(
-      id: 12,
+      id: 14,
       name: r'QD019',
       type: IsarType.double,
     ),
     r'QD020': PropertySchema(
-      id: 13,
+      id: 15,
       name: r'QD020',
       type: IsarType.double,
     ),
     r'QD026': PropertySchema(
-      id: 14,
+      id: 16,
       name: r'QD026',
       type: IsarType.double,
     ),
     r'QD027': PropertySchema(
-      id: 15,
+      id: 17,
       name: r'QD027',
       type: IsarType.double,
     ),
     r'QD028': PropertySchema(
-      id: 16,
+      id: 18,
       name: r'QD028',
       type: IsarType.double,
     ),
     r'hashCode': PropertySchema(
-      id: 17,
+      id: 19,
       name: r'hashCode',
       type: IsarType.long,
     ),
     r'munCode': PropertySchema(
-      id: 18,
+      id: 20,
       name: r'munCode',
       type: IsarType.string,
     ),
     r'year': PropertySchema(
-      id: 19,
+      id: 21,
       name: r'year',
       type: IsarType.long,
     )
@@ -154,23 +164,25 @@ int _sNISModelSerializeNative(
   writer.writeDouble(offsets[0], object.AG006);
   writer.writeDouble(offsets[1], object.AG012);
   writer.writeDouble(offsets[2], object.AG024);
-  writer.writeDouble(offsets[3], object.IN022_AE);
-  writer.writeDouble(offsets[4], object.IN023_AE);
-  writer.writeDouble(offsets[5], object.IN024_AE);
-  writer.writeDouble(offsets[6], object.IN049_AE);
-  writer.writeDouble(offsets[7], object.POP);
-  writer.writeDouble(offsets[8], object.QD006);
-  writer.writeDouble(offsets[9], object.QD007);
-  writer.writeDouble(offsets[10], object.QD008);
-  writer.writeDouble(offsets[11], object.QD009);
-  writer.writeDouble(offsets[12], object.QD019);
-  writer.writeDouble(offsets[13], object.QD020);
-  writer.writeDouble(offsets[14], object.QD026);
-  writer.writeDouble(offsets[15], object.QD027);
-  writer.writeDouble(offsets[16], object.QD028);
-  writer.writeLong(offsets[17], object.hashCode);
-  writer.writeString(offsets[18], object.munCode);
-  writer.writeLong(offsets[19], object.year);
+  writer.writeDouble(offsets[3], object.ES005);
+  writer.writeDouble(offsets[4], object.ES006);
+  writer.writeDouble(offsets[5], object.IN022_AE);
+  writer.writeDouble(offsets[6], object.IN023_AE);
+  writer.writeDouble(offsets[7], object.IN024_AE);
+  writer.writeDouble(offsets[8], object.IN049_AE);
+  writer.writeDouble(offsets[9], object.POP);
+  writer.writeDouble(offsets[10], object.QD006);
+  writer.writeDouble(offsets[11], object.QD007);
+  writer.writeDouble(offsets[12], object.QD008);
+  writer.writeDouble(offsets[13], object.QD009);
+  writer.writeDouble(offsets[14], object.QD019);
+  writer.writeDouble(offsets[15], object.QD020);
+  writer.writeDouble(offsets[16], object.QD026);
+  writer.writeDouble(offsets[17], object.QD027);
+  writer.writeDouble(offsets[18], object.QD028);
+  writer.writeLong(offsets[19], object.hashCode);
+  writer.writeString(offsets[20], object.munCode);
+  writer.writeLong(offsets[21], object.year);
   return writer.usedBytes;
 }
 
@@ -184,23 +196,25 @@ SNISModel _sNISModelDeserializeNative(
     AG006: reader.readDoubleOrNull(offsets[0]),
     AG012: reader.readDoubleOrNull(offsets[1]),
     AG024: reader.readDoubleOrNull(offsets[2]),
-    IN022_AE: reader.readDoubleOrNull(offsets[3]),
-    IN023_AE: reader.readDoubleOrNull(offsets[4]),
-    IN024_AE: reader.readDoubleOrNull(offsets[5]),
-    IN049_AE: reader.readDoubleOrNull(offsets[6]),
-    POP: reader.readDoubleOrNull(offsets[7]),
-    QD006: reader.readDoubleOrNull(offsets[8]),
-    QD007: reader.readDoubleOrNull(offsets[9]),
-    QD008: reader.readDoubleOrNull(offsets[10]),
-    QD009: reader.readDoubleOrNull(offsets[11]),
-    QD019: reader.readDoubleOrNull(offsets[12]),
-    QD020: reader.readDoubleOrNull(offsets[13]),
-    QD026: reader.readDoubleOrNull(offsets[14]),
-    QD027: reader.readDoubleOrNull(offsets[15]),
-    QD028: reader.readDoubleOrNull(offsets[16]),
-    munCode: reader.readString(offsets[18]),
-    year: reader.readLong(offsets[19]),
+    IN022_AE: reader.readDoubleOrNull(offsets[5]),
+    IN023_AE: reader.readDoubleOrNull(offsets[6]),
+    IN024_AE: reader.readDoubleOrNull(offsets[7]),
+    IN049_AE: reader.readDoubleOrNull(offsets[8]),
+    POP: reader.readDoubleOrNull(offsets[9]),
+    QD006: reader.readDoubleOrNull(offsets[10]),
+    QD007: reader.readDoubleOrNull(offsets[11]),
+    QD008: reader.readDoubleOrNull(offsets[12]),
+    QD009: reader.readDoubleOrNull(offsets[13]),
+    QD019: reader.readDoubleOrNull(offsets[14]),
+    QD020: reader.readDoubleOrNull(offsets[15]),
+    QD026: reader.readDoubleOrNull(offsets[16]),
+    QD027: reader.readDoubleOrNull(offsets[17]),
+    QD028: reader.readDoubleOrNull(offsets[18]),
+    munCode: reader.readString(offsets[20]),
+    year: reader.readLong(offsets[21]),
   );
+  object.ES005 = reader.readDoubleOrNull(offsets[3]);
+  object.ES006 = reader.readDoubleOrNull(offsets[4]);
   object.id = id;
   return object;
 }
@@ -247,10 +261,14 @@ P _sNISModelDeserializePropNative<P>(
     case 16:
       return (reader.readDoubleOrNull(offset)) as P;
     case 17:
-      return (reader.readLong(offset)) as P;
+      return (reader.readDoubleOrNull(offset)) as P;
     case 18:
-      return (reader.readString(offset)) as P;
+      return (reader.readDoubleOrNull(offset)) as P;
     case 19:
+      return (reader.readLong(offset)) as P;
+    case 20:
+      return (reader.readString(offset)) as P;
+    case 21:
       return (reader.readLong(offset)) as P;
     default:
       throw IsarError('Unknown property with id $propertyId');
@@ -264,7 +282,7 @@ Object _sNISModelSerializeWeb(
 
 SNISModel _sNISModelDeserializeWeb(
     IsarCollection<SNISModel> collection, Object jsObj) {
-  /*final object = SNISModel(AG006: IsarNative.jsObjectGet(jsObj, r'AG006') ,AG012: IsarNative.jsObjectGet(jsObj, r'AG012') ,AG024: IsarNative.jsObjectGet(jsObj, r'AG024') ,IN022_AE: IsarNative.jsObjectGet(jsObj, r'IN022_AE') ,IN023_AE: IsarNative.jsObjectGet(jsObj, r'IN023_AE') ,IN024_AE: IsarNative.jsObjectGet(jsObj, r'IN024_AE') ,IN049_AE: IsarNative.jsObjectGet(jsObj, r'IN049_AE') ,POP: IsarNative.jsObjectGet(jsObj, r'POP') ,QD006: IsarNative.jsObjectGet(jsObj, r'QD006') ,QD007: IsarNative.jsObjectGet(jsObj, r'QD007') ,QD008: IsarNative.jsObjectGet(jsObj, r'QD008') ,QD009: IsarNative.jsObjectGet(jsObj, r'QD009') ,QD019: IsarNative.jsObjectGet(jsObj, r'QD019') ,QD020: IsarNative.jsObjectGet(jsObj, r'QD020') ,QD026: IsarNative.jsObjectGet(jsObj, r'QD026') ,QD027: IsarNative.jsObjectGet(jsObj, r'QD027') ,QD028: IsarNative.jsObjectGet(jsObj, r'QD028') ,munCode: IsarNative.jsObjectGet(jsObj, r'munCode') ?? '',year: IsarNative.jsObjectGet(jsObj, r'year') ?? (double.negativeInfinity as int),);object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);*/
+  /*final object = SNISModel(AG006: IsarNative.jsObjectGet(jsObj, r'AG006') ,AG012: IsarNative.jsObjectGet(jsObj, r'AG012') ,AG024: IsarNative.jsObjectGet(jsObj, r'AG024') ,IN022_AE: IsarNative.jsObjectGet(jsObj, r'IN022_AE') ,IN023_AE: IsarNative.jsObjectGet(jsObj, r'IN023_AE') ,IN024_AE: IsarNative.jsObjectGet(jsObj, r'IN024_AE') ,IN049_AE: IsarNative.jsObjectGet(jsObj, r'IN049_AE') ,POP: IsarNative.jsObjectGet(jsObj, r'POP') ,QD006: IsarNative.jsObjectGet(jsObj, r'QD006') ,QD007: IsarNative.jsObjectGet(jsObj, r'QD007') ,QD008: IsarNative.jsObjectGet(jsObj, r'QD008') ,QD009: IsarNative.jsObjectGet(jsObj, r'QD009') ,QD019: IsarNative.jsObjectGet(jsObj, r'QD019') ,QD020: IsarNative.jsObjectGet(jsObj, r'QD020') ,QD026: IsarNative.jsObjectGet(jsObj, r'QD026') ,QD027: IsarNative.jsObjectGet(jsObj, r'QD027') ,QD028: IsarNative.jsObjectGet(jsObj, r'QD028') ,munCode: IsarNative.jsObjectGet(jsObj, r'munCode') ?? '',year: IsarNative.jsObjectGet(jsObj, r'year') ?? (double.negativeInfinity as int),);object.ES005 = IsarNative.jsObjectGet(jsObj, r'ES005') ;object.ES006 = IsarNative.jsObjectGet(jsObj, r'ES006') ;object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);*/
   //return object;
   throw UnimplementedError();
 }
@@ -592,6 +610,162 @@ extension SNISModelQueryFilter
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.between(
         property: r'AG024',
+        lower: lower,
+        includeLower: includeLower,
+        upper: upper,
+        includeUpper: includeUpper,
+        epsilon: epsilon,
+      ));
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QAfterFilterCondition> eS005IsNull() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(const FilterCondition.isNull(
+        property: r'ES005',
+      ));
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QAfterFilterCondition> eS005IsNotNull() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(const FilterCondition.isNotNull(
+        property: r'ES005',
+      ));
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QAfterFilterCondition> eS005EqualTo(
+    double? value, {
+    double epsilon = Query.epsilon,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.equalTo(
+        property: r'ES005',
+        value: value,
+        epsilon: epsilon,
+      ));
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QAfterFilterCondition> eS005GreaterThan(
+    double? value, {
+    bool include = false,
+    double epsilon = Query.epsilon,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.greaterThan(
+        include: include,
+        property: r'ES005',
+        value: value,
+        epsilon: epsilon,
+      ));
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QAfterFilterCondition> eS005LessThan(
+    double? value, {
+    bool include = false,
+    double epsilon = Query.epsilon,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.lessThan(
+        include: include,
+        property: r'ES005',
+        value: value,
+        epsilon: epsilon,
+      ));
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QAfterFilterCondition> eS005Between(
+    double? lower,
+    double? upper, {
+    bool includeLower = true,
+    bool includeUpper = true,
+    double epsilon = Query.epsilon,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.between(
+        property: r'ES005',
+        lower: lower,
+        includeLower: includeLower,
+        upper: upper,
+        includeUpper: includeUpper,
+        epsilon: epsilon,
+      ));
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QAfterFilterCondition> eS006IsNull() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(const FilterCondition.isNull(
+        property: r'ES006',
+      ));
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QAfterFilterCondition> eS006IsNotNull() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(const FilterCondition.isNotNull(
+        property: r'ES006',
+      ));
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QAfterFilterCondition> eS006EqualTo(
+    double? value, {
+    double epsilon = Query.epsilon,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.equalTo(
+        property: r'ES006',
+        value: value,
+        epsilon: epsilon,
+      ));
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QAfterFilterCondition> eS006GreaterThan(
+    double? value, {
+    bool include = false,
+    double epsilon = Query.epsilon,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.greaterThan(
+        include: include,
+        property: r'ES006',
+        value: value,
+        epsilon: epsilon,
+      ));
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QAfterFilterCondition> eS006LessThan(
+    double? value, {
+    bool include = false,
+    double epsilon = Query.epsilon,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.lessThan(
+        include: include,
+        property: r'ES006',
+        value: value,
+        epsilon: epsilon,
+      ));
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QAfterFilterCondition> eS006Between(
+    double? lower,
+    double? upper, {
+    bool includeLower = true,
+    bool includeUpper = true,
+    double epsilon = Query.epsilon,
+  }) {
+    return QueryBuilder.apply(this, (query) {
+      return query.addFilterCondition(FilterCondition.between(
+        property: r'ES006',
         lower: lower,
         includeLower: includeLower,
         upper: upper,
@@ -2031,6 +2205,30 @@ extension SNISModelQuerySortBy on QueryBuilder<SNISModel, SNISModel, QSortBy> {
     });
   }
 
+  QueryBuilder<SNISModel, SNISModel, QAfterSortBy> sortByES005() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'ES005', Sort.asc);
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QAfterSortBy> sortByES005Desc() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'ES005', Sort.desc);
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QAfterSortBy> sortByES006() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'ES006', Sort.asc);
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QAfterSortBy> sortByES006Desc() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'ES006', Sort.desc);
+    });
+  }
+
   QueryBuilder<SNISModel, SNISModel, QAfterSortBy> sortByIN022_AE() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'IN022_AE', Sort.asc);
@@ -2274,6 +2472,30 @@ extension SNISModelQuerySortThenBy
     });
   }
 
+  QueryBuilder<SNISModel, SNISModel, QAfterSortBy> thenByES005() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'ES005', Sort.asc);
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QAfterSortBy> thenByES005Desc() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'ES005', Sort.desc);
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QAfterSortBy> thenByES006() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'ES006', Sort.asc);
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QAfterSortBy> thenByES006Desc() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addSortBy(r'ES006', Sort.desc);
+    });
+  }
+
   QueryBuilder<SNISModel, SNISModel, QAfterSortBy> thenByIN022_AE() {
     return QueryBuilder.apply(this, (query) {
       return query.addSortBy(r'IN022_AE', Sort.asc);
@@ -2511,6 +2733,18 @@ extension SNISModelQueryWhereDistinct
     });
   }
 
+  QueryBuilder<SNISModel, SNISModel, QDistinct> distinctByES005() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addDistinctBy(r'ES005');
+    });
+  }
+
+  QueryBuilder<SNISModel, SNISModel, QDistinct> distinctByES006() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addDistinctBy(r'ES006');
+    });
+  }
+
   QueryBuilder<SNISModel, SNISModel, QDistinct> distinctByIN022_AE() {
     return QueryBuilder.apply(this, (query) {
       return query.addDistinctBy(r'IN022_AE');
@@ -2638,6 +2872,18 @@ extension SNISModelQueryProperty
   QueryBuilder<SNISModel, double?, QQueryOperations> AG024Property() {
     return QueryBuilder.apply(this, (query) {
       return query.addPropertyName(r'AG024');
+    });
+  }
+
+  QueryBuilder<SNISModel, double?, QQueryOperations> ES005Property() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addPropertyName(r'ES005');
+    });
+  }
+
+  QueryBuilder<SNISModel, double?, QQueryOperations> ES006Property() {
+    return QueryBuilder.apply(this, (query) {
+      return query.addPropertyName(r'ES006');
     });
   }
 

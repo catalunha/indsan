@@ -10,10 +10,11 @@ void app() async {
   print('Start app');
   IndStore indStore = IndStore();
   await indStore.onInit();
-  await indStore.updateANA();
-  await indStore.updateMUN();
+  await indStore.updateANA(update: true);
+  await indStore.updateMUN(update: true);
   await indStore.updateSNIS(update: true);
-  await indStore.updateT();
+  await indStore.updateT(update: true);
+  await indStore.updateEsgoto(update: true);
   // indIAB();
   indIES();
 }

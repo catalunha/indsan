@@ -15,11 +15,11 @@ class IndIABData {
         .yearEqualTo(year)
         .findFirst();
 
-    // PopModel? popModel =
-    //     await isar.popModels.filter().munCodeEqualTo(munCode).findFirst();
-
-    TModel? tModel =
-        await isar.tModels.filter().munCodeEqualTo(munCode).findFirst();
+    TModel? tModel = await isar.tModels
+        .filter()
+        .munCodeEqualTo(munCode)
+        .yearEqualTo(year)
+        .findFirst();
 
     ANAModel? anaModel =
         await isar.aNAModels.filter().munCodeEqualTo(munCode).findFirst();
@@ -248,50 +248,10 @@ class IndIABData {
     // }
     if (tModel != null) {
       if (varstoCalcs.contains('T')) {
-        if (year == 2015) {
-          if (tModel.y2015 != null) {
-            T = tModel.y2015!;
-          } else {
-            faltaDados.add('tModel.y2015');
-            result = false;
-          }
-        } else if (year == 2016) {
-          if (tModel.y2016 != null) {
-            T = tModel.y2016!;
-          } else {
-            faltaDados.add('tModel.y2016');
-            result = false;
-          }
-        } else if (year == 2017) {
-          if (tModel.y2017 != null) {
-            T = tModel.y2017!;
-          } else {
-            faltaDados.add('tModel.y2017');
-            result = false;
-          }
-        } else if (year == 2018) {
-          if (tModel.y2018 != null) {
-            T = tModel.y2018!;
-          } else {
-            faltaDados.add('tModel.y2018');
-            result = false;
-          }
-        } else if (year == 2019) {
-          if (tModel.y2019 != null) {
-            T = tModel.y2019!;
-          } else {
-            faltaDados.add('tModel.y2019');
-            result = false;
-          }
-        } else if (year == 2020) {
-          if (tModel.y2020 != null) {
-            T = tModel.y2020!;
-          } else {
-            faltaDados.add('tModel.y2020');
-            result = false;
-          }
+        if (tModel.t != null) {
+          T = tModel.t!;
         } else {
-          faltaDados.add('tModel.y????'); //Ano fora da faixa de dados
+          faltaDados.add('tModel.t');
           result = false;
         }
       }
