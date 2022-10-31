@@ -9,7 +9,7 @@ import 'package:indsan/models/mun_model.dart';
 void app() async {
   print('Start app');
   IndStore indStore = IndStore();
-  await indStore.onInit();
+  // await indStore.onInit();
   await indStore.updateANA(update: true);
   await indStore.updateMUN(update: true);
   await indStore.updateSNIS(update: true);
