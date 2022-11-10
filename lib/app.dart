@@ -31,8 +31,8 @@ indIES() async {
   //+++ calculo de tudo
   for (var mun in list) {
     for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
-      // double? iab = await indIES.calculate(mun.munCode, year, null);
-      double? ies = await indIES.calculate(mun.munCode, year, fileOpen);
+      double? ies = await indIES.calculate(mun.munCode, year, null);
+      // double? ies = await indIES.calculate(mun.munCode, year, fileOpen);
       print('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
       fileOpen
           .writeln('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
