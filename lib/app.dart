@@ -27,7 +27,7 @@ indIES() async {
   var pathFileName = 'lib/calcs/ies.txt';
   if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
   var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
-  fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | IES');
+  fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | ICE');
   //+++ calculo de tudo
   for (var mun in list) {
     for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
