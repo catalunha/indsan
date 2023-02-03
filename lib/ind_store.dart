@@ -2,6 +2,7 @@ import 'dart:convert';
 import 'dart:io';
 import 'package:indsan/models/esgoto_model.dart';
 import 'package:indsan/models/mun_model.dart';
+import 'package:indsan/models/residuos_model.dart';
 import 'package:indsan/models/snis_model.dart';
 import 'package:indsan/models/t_model.dart';
 import 'package:isar/isar.dart';
@@ -21,6 +22,7 @@ class IndStore {
           SNISModelSchema,
           TModelSchema,
           EsgotoModelSchema,
+          ResiduosModelSchema,
         ],
         directory: '.',
       );
@@ -171,5 +173,35 @@ class IndStore {
       count = await isar.esgotoModels.count();
     }
     print('Esgoto collection com: $count');
+  }
+
+  Future<void> updateResiduos({bool update = false}) async {
+    final isar = await _isar2;
+
+    if (update) {
+      print('Removendo todos os dados da collection Residuos');
+      await isar.writeTxn(() async {
+        await isar.residuosModels.clear();
+      });
+    }
+    int count = await isar.residuosModels.count();
+    if (count == 0) {
+      print('Lendo dados do json para collection Residuos');
+      String dataFile = 'lib/data/residuos_mg.json';
+      var dataJson = File(dataFile).readAsStringSync();
+
+      final dataJsonObj = json.decode(dataJson);
+      final List<ResiduosModel> list = dataJsonObj
+          .map<ResiduosModel>((e) => ResiduosModel.fromMap(e))
+          .toList();
+
+      await isar.writeTxn(() async {
+        for (var item in list) {
+          isar.residuosModels.put(item);
+        }
+      });
+      count = await isar.residuosModels.count();
+    }
+    print('Residuos collection com: $count');
   }
 }

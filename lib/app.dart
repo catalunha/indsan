@@ -3,6 +3,7 @@ import 'dart:io';
 import 'package:indsan/ind_store.dart';
 import 'package:indsan/indices/i_ab/i_ab.dart';
 import 'package:indsan/indices/i_es/i_es.dart';
+import 'package:indsan/indices/i_rs/i_rs.dart';
 import 'package:isar/isar.dart';
 import 'package:indsan/models/mun_model.dart';
 
@@ -15,8 +16,42 @@ void app() async {
   await indStore.updateSNIS(update: true);
   await indStore.updateT(update: true);
   await indStore.updateEsgoto(update: true);
+  await indStore.updateResiduos(update: true);
   // indIAB();
-  indIES();
+  // indIES();
+  // indIRS();
+}
+
+indIRS() async {
+  Isar isar = Isar.getInstance()!;
+  IndIRS indIRS = IndIRS();
+  List<MunModel> list = await isar.munModels.where().findAll();
+
+  var pathFileName = 'lib/calcs/irs.txt';
+  if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
+  var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
+  fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | IRS');
+  //+++ calculo de tudo
+  for (var mun in list) {
+    for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
+      // double? ies = await indIRS.calculate(mun.munCode, year, null);
+      double? ies = await indIRS.calculate(mun.munCode, year, fileOpen);
+      print('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
+      fileOpen
+          .writeln('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
+    }
+  }
+  //--- calculo de tudo
+
+  // +++ teste unitario
+  // String munCode = '3100302';
+  // int year = 2020;
+  // double? ies = await indIES.calculate(munCode, year, fileOpen);
+  // print('Mun.:$munCode Ano:$year. IES: ${ies ?? "?"}');
+  // --- teste unitario
+
+  fileOpen.close();
+  isar.close();
 }
 
 indIES() async {
