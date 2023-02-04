@@ -10,16 +10,16 @@ import 'package:indsan/models/mun_model.dart';
 void app() async {
   print('Start app');
   IndStore indStore = IndStore();
-  // await indStore.onInit();
-  await indStore.updateANA(update: true);
-  await indStore.updateMUN(update: true);
-  await indStore.updateSNIS(update: true);
-  await indStore.updateT(update: true);
-  await indStore.updateEsgoto(update: true);
-  await indStore.updateResiduos(update: true);
+  await indStore.onInit();
+  // await indStore.updateANA(update: true);
+  // await indStore.updateMUN(update: true);
+  // await indStore.updateSNIS(update: true);
+  // await indStore.updateT(update: true);
+  // await indStore.updateEsgoto(update: true);
+  // await indStore.updateResiduos(update: true);
   // indIAB();
   // indIES();
-  // indIRS();
+  indIRS();
 }
 
 indIRS() async {
@@ -34,8 +34,8 @@ indIRS() async {
   //+++ calculo de tudo
   for (var mun in list) {
     for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
-      // double? ies = await indIRS.calculate(mun.munCode, year, null);
-      double? ies = await indIRS.calculate(mun.munCode, year, fileOpen);
+      double? ies = await indIRS.calculate(mun.munCode, year, null);
+      // double? ies = await indIRS.calculate(mun.munCode, year, fileOpen);
       print('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
       fileOpen
           .writeln('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
