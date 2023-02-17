@@ -1,6 +1,9 @@
 import 'dart:convert';
 import 'dart:io';
+import 'package:indsan/models/dengue_model.dart';
 import 'package:indsan/models/esgoto_model.dart';
+import 'package:indsan/models/esquis_model.dart';
+import 'package:indsan/models/lepto_model.dart';
 import 'package:indsan/models/mun_model.dart';
 import 'package:indsan/models/residuos_model.dart';
 import 'package:indsan/models/snis_model.dart';
@@ -23,6 +26,9 @@ class IndStore {
           TModelSchema,
           EsgotoModelSchema,
           ResiduosModelSchema,
+          DengueModelSchema,
+          LeptoModelSchema,
+          EsquisModelSchema,
         ],
         directory: '.',
       );
@@ -203,5 +209,92 @@ class IndStore {
       count = await isar.residuosModels.count();
     }
     print('Residuos collection com: $count');
+  }
+
+  Future<void> updateDengue({bool update = false}) async {
+    final isar = await _isar2;
+
+    if (update) {
+      print('Removendo todos os dados da collection Dengue');
+      await isar.writeTxn(() async {
+        await isar.dengueModels.clear();
+      });
+    }
+    int count = await isar.dengueModels.count();
+    if (count == 0) {
+      print('Lendo dados do json para collection Dengue');
+      String dataFile = 'lib/data/dengue.json';
+      var dataJson = File(dataFile).readAsStringSync();
+
+      final dataJsonObj = json.decode(dataJson);
+      final List<DengueModel> list =
+          dataJsonObj.map<DengueModel>((e) => DengueModel.fromMap(e)).toList();
+
+      await isar.writeTxn(() async {
+        for (var item in list) {
+          isar.dengueModels.put(item);
+        }
+      });
+      count = await isar.dengueModels.count();
+    }
+    print('Dengue collection com: $count');
+  }
+
+  Future<void> updateLepto({bool update = false}) async {
+    final isar = await _isar2;
+
+    if (update) {
+      print('Removendo todos os dados da collection Lepto');
+      await isar.writeTxn(() async {
+        await isar.leptoModels.clear();
+      });
+    }
+    int count = await isar.leptoModels.count();
+    if (count == 0) {
+      print('Lendo dados do json para collection Lepto');
+      String dataFile = 'lib/data/lepto.json';
+      var dataJson = File(dataFile).readAsStringSync();
+
+      final dataJsonObj = json.decode(dataJson);
+      final List<LeptoModel> list =
+          dataJsonObj.map<LeptoModel>((e) => LeptoModel.fromMap(e)).toList();
+
+      await isar.writeTxn(() async {
+        for (var item in list) {
+          isar.leptoModels.put(item);
+        }
+      });
+      count = await isar.leptoModels.count();
+    }
+    print('Lepto collection com: $count');
+  }
+
+  Future<void> updateEsquis({bool update = false}) async {
+    final isar = await _isar2;
+
+    if (update) {
+      print('Removendo todos os dados da collection Esquis');
+      await isar.writeTxn(() async {
+        await isar.esquisModels.clear();
+      });
+    }
+    int count = await isar.esquisModels.count();
+    if (count == 0) {
+      print('Lendo dados do json para collection Esquis');
+      String dataFile = 'lib/data/esquis.json';
+      var dataJson = File(dataFile).readAsStringSync();
+
+      final dataJsonObj = json.decode(dataJson);
+      final List<EsquisModel> list =
+          dataJsonObj.map<EsquisModel>((e) => EsquisModel.fromMap(e)).toList();
+
+      await isar.writeTxn(() async {
+        for (var item in list) {
+          isar.esquisModels.put(item);
+        }
+      });
+      count = await isar.esquisModels.count();
+    }
+    print('Esquis collection com: $count');
   }
 }

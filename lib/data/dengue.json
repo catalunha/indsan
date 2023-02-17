@@ -1,0 +1,6242 @@
+[
+  {
+    "munCode": "3100302",
+    "year": 2015,
+    "dengue": 0.399787
+  },
+  {
+    "munCode": "3100302",
+    "year": 2016,
+    "dengue": 36.24733
+  },
+  {
+    "munCode": "3100302",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3100302",
+    "year": 2018,
+    "dengue": 0.133262
+  },
+  {
+    "munCode": "3100302",
+    "year": 2019,
+    "dengue": 3.997868
+  },
+  {
+    "munCode": "3100302",
+    "year": 2020,
+    "dengue": 1.465885
+  },
+  {
+    "munCode": "3100807",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3100807",
+    "year": 2016,
+    "dengue": 0.39557
+  },
+  {
+    "munCode": "3100807",
+    "year": 2017,
+    "dengue": 0.39557
+  },
+  {
+    "munCode": "3100807",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3100807",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3100807",
+    "year": 2020,
+    "dengue": 7.911392
+  },
+  {
+    "munCode": "3100906",
+    "year": 2015,
+    "dengue": 0.066845
+  },
+  {
+    "munCode": "3100906",
+    "year": 2016,
+    "dengue": 0.26738
+  },
+  {
+    "munCode": "3100906",
+    "year": 2017,
+    "dengue": 0.334225
+  },
+  {
+    "munCode": "3100906",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3100906",
+    "year": 2019,
+    "dengue": 2.473262
+  },
+  {
+    "munCode": "3100906",
+    "year": 2020,
+    "dengue": 5.414439
+  },
+  {
+    "munCode": "3101003",
+    "year": 2015,
+    "dengue": 2.221987
+  },
+  {
+    "munCode": "3101003",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3101003",
+    "year": 2017,
+    "dengue": 2.856841
+  },
+  {
+    "munCode": "3101003",
+    "year": 2018,
+    "dengue": 0.317427
+  },
+  {
+    "munCode": "3101003",
+    "year": 2019,
+    "dengue": 0.846471
+  },
+  {
+    "munCode": "3101003",
+    "year": 2020,
+    "dengue": 1.692943
+  },
+  {
+    "munCode": "3101201",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3101201",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3101201",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3101201",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3101201",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3101201",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3101409",
+    "year": 2015,
+    "dengue": 0.954654
+  },
+  {
+    "munCode": "3101409",
+    "year": 2016,
+    "dengue": 0.477327
+  },
+  {
+    "munCode": "3101409",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3101409",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3101409",
+    "year": 2019,
+    "dengue": 0.954654
+  },
+  {
+    "munCode": "3101409",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3101631",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3101631",
+    "year": 2016,
+    "dengue": 0.45403
+  },
+  {
+    "munCode": "3101631",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3101631",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3101631",
+    "year": 2019,
+    "dengue": 0.45403
+  },
+  {
+    "munCode": "3101631",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3102050",
+    "year": 2015,
+    "dengue": 0.234357
+  },
+  {
+    "munCode": "3102050",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3102050",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3102050",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3102050",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3102050",
+    "year": 2020,
+    "dengue": 0.234357
+  },
+  {
+    "munCode": "3102506",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3102506",
+    "year": 2016,
+    "dengue": 0.769527
+  },
+  {
+    "munCode": "3102506",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3102506",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3102506",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3102506",
+    "year": 2020,
+    "dengue": 8.080031
+  },
+  {
+    "munCode": "3102803",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3102803",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3102803",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3102803",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3102803",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3102803",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3104452",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3104452",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3104452",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3104452",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3104452",
+    "year": 2019,
+    "dengue": 1.649258
+  },
+  {
+    "munCode": "3104452",
+    "year": 2020,
+    "dengue": 0.549753
+  },
+  {
+    "munCode": "3104502",
+    "year": 2015,
+    "dengue": 7.238606
+  },
+  {
+    "munCode": "3104502",
+    "year": 2016,
+    "dengue": 2.055407
+  },
+  {
+    "munCode": "3104502",
+    "year": 2017,
+    "dengue": 1.251117
+  },
+  {
+    "munCode": "3104502",
+    "year": 2018,
+    "dengue": 2.680965
+  },
+  {
+    "munCode": "3104502",
+    "year": 2019,
+    "dengue": 10.99196
+  },
+  {
+    "munCode": "3104502",
+    "year": 2020,
+    "dengue": 7.774799
+  },
+  {
+    "munCode": "3104700",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3104700",
+    "year": 2016,
+    "dengue": 5.577803
+  },
+  {
+    "munCode": "3104700",
+    "year": 2017,
+    "dengue": 1.144165
+  },
+  {
+    "munCode": "3104700",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3104700",
+    "year": 2019,
+    "dengue": 0.572082
+  },
+  {
+    "munCode": "3104700",
+    "year": 2020,
+    "dengue": 0.429062
+  },
+  {
+    "munCode": "3105202",
+    "year": 2015,
+    "dengue": 0.41806
+  },
+  {
+    "munCode": "3105202",
+    "year": 2016,
+    "dengue": 2.926421
+  },
+  {
+    "munCode": "3105202",
+    "year": 2017,
+    "dengue": 2.090301
+  },
+  {
+    "munCode": "3105202",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3105202",
+    "year": 2019,
+    "dengue": 13.79599
+  },
+  {
+    "munCode": "3105202",
+    "year": 2020,
+    "dengue": 73.99666
+  },
+  {
+    "munCode": "3105301",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3105301",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3105301",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3105301",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3105301",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3105301",
+    "year": 2020,
+    "dengue": 0.193162
+  },
+  {
+    "munCode": "3106606",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3106606",
+    "year": 2016,
+    "dengue": 1.765537
+  },
+  {
+    "munCode": "3106606",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3106606",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3106606",
+    "year": 2019,
+    "dengue": 1.412429
+  },
+  {
+    "munCode": "3106606",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3106804",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3106804",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3106804",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3106804",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3106804",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3106804",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3107208",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3107208",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3107208",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3107208",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3107208",
+    "year": 2019,
+    "dengue": 1.211632
+  },
+  {
+    "munCode": "3107208",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3107604",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3107604",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3107604",
+    "year": 2017,
+    "dengue": 0.331565
+  },
+  {
+    "munCode": "3107604",
+    "year": 2018,
+    "dengue": 0.331565
+  },
+  {
+    "munCode": "3107604",
+    "year": 2019,
+    "dengue": 1.32626
+  },
+  {
+    "munCode": "3107604",
+    "year": 2020,
+    "dengue": 2.320955
+  },
+  {
+    "munCode": "3107901",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3107901",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3107901",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3107901",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3107901",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3107901",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3108255",
+    "year": 2015,
+    "dengue": 10.67323
+  },
+  {
+    "munCode": "3108255",
+    "year": 2016,
+    "dengue": 2.052545
+  },
+  {
+    "munCode": "3108255",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3108255",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3108255",
+    "year": 2019,
+    "dengue": 80.45977
+  },
+  {
+    "munCode": "3108255",
+    "year": 2020,
+    "dengue": 1.231527
+  },
+  {
+    "munCode": "3108305",
+    "year": 2015,
+    "dengue": 2.805424
+  },
+  {
+    "munCode": "3108305",
+    "year": 2016,
+    "dengue": 0.066796
+  },
+  {
+    "munCode": "3108305",
+    "year": 2017,
+    "dengue": 0.066796
+  },
+  {
+    "munCode": "3108305",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3108305",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3108305",
+    "year": 2020,
+    "dengue": 0.200387
+  },
+  {
+    "munCode": "3108404",
+    "year": 2015,
+    "dengue": 0.08566
+  },
+  {
+    "munCode": "3108404",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3108404",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3108404",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3108404",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3108404",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3108503",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3108503",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3108503",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3108503",
+    "year": 2018,
+    "dengue": 0.569638
+  },
+  {
+    "munCode": "3108503",
+    "year": 2019,
+    "dengue": 2.278553
+  },
+  {
+    "munCode": "3108503",
+    "year": 2020,
+    "dengue": 0.284819
+  },
+  {
+    "munCode": "3109600",
+    "year": 2015,
+    "dengue": 36.45978
+  },
+  {
+    "munCode": "3109600",
+    "year": 2016,
+    "dengue": 37.85138
+  },
+  {
+    "munCode": "3109600",
+    "year": 2017,
+    "dengue": 0.278319
+  },
+  {
+    "munCode": "3109600",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3109600",
+    "year": 2019,
+    "dengue": 2.226552
+  },
+  {
+    "munCode": "3109600",
+    "year": 2020,
+    "dengue": 1.948233
+  },
+  {
+    "munCode": "3109709",
+    "year": 2015,
+    "dengue": 3.106009
+  },
+  {
+    "munCode": "3109709",
+    "year": 2016,
+    "dengue": 0.405132
+  },
+  {
+    "munCode": "3109709",
+    "year": 2017,
+    "dengue": 0.135044
+  },
+  {
+    "munCode": "3109709",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3109709",
+    "year": 2019,
+    "dengue": 0.135044
+  },
+  {
+    "munCode": "3109709",
+    "year": 2020,
+    "dengue": 0.135044
+  },
+  {
+    "munCode": "3110103",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3110103",
+    "year": 2016,
+    "dengue": 1.772421
+  },
+  {
+    "munCode": "3110103",
+    "year": 2017,
+    "dengue": 0.354484
+  },
+  {
+    "munCode": "3110103",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3110103",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3110103",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3110301",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3110301",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3110301",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3110301",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3110301",
+    "year": 2019,
+    "dengue": 0.122369
+  },
+  {
+    "munCode": "3110301",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3110400",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3110400",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3110400",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3110400",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3110400",
+    "year": 2019,
+    "dengue": 0.695894
+  },
+  {
+    "munCode": "3110400",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3110707",
+    "year": 2015,
+    "dengue": 107.503
+  },
+  {
+    "munCode": "3110707",
+    "year": 2016,
+    "dengue": 0.092515
+  },
+  {
+    "munCode": "3110707",
+    "year": 2017,
+    "dengue": 0.185031
+  },
+  {
+    "munCode": "3110707",
+    "year": 2018,
+    "dengue": 0.185031
+  },
+  {
+    "munCode": "3110707",
+    "year": 2019,
+    "dengue": 0.185031
+  },
+  {
+    "munCode": "3110707",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3110905",
+    "year": 2015,
+    "dengue": 5.145193
+  },
+  {
+    "munCode": "3110905",
+    "year": 2016,
+    "dengue": 0.634339
+  },
+  {
+    "munCode": "3110905",
+    "year": 2017,
+    "dengue": 0.140964
+  },
+  {
+    "munCode": "3110905",
+    "year": 2018,
+    "dengue": 0.634339
+  },
+  {
+    "munCode": "3110905",
+    "year": 2019,
+    "dengue": 0.35241
+  },
+  {
+    "munCode": "3110905",
+    "year": 2020,
+    "dengue": 0.845785
+  },
+  {
+    "munCode": "3111101",
+    "year": 2015,
+    "dengue": 0.869333
+  },
+  {
+    "munCode": "3111101",
+    "year": 2016,
+    "dengue": 2.206767
+  },
+  {
+    "munCode": "3111101",
+    "year": 2017,
+    "dengue": 0.334359
+  },
+  {
+    "munCode": "3111101",
+    "year": 2018,
+    "dengue": 10.36512
+  },
+  {
+    "munCode": "3111101",
+    "year": 2019,
+    "dengue": 8.960813
+  },
+  {
+    "munCode": "3111101",
+    "year": 2020,
+    "dengue": 4.547278
+  },
+  {
+    "munCode": "3111309",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3111309",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3111309",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3111309",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3111309",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3111309",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3111408",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3111408",
+    "year": 2016,
+    "dengue": 0.17188
+  },
+  {
+    "munCode": "3111408",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3111408",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3111408",
+    "year": 2019,
+    "dengue": 23.37573
+  },
+  {
+    "munCode": "3111408",
+    "year": 2020,
+    "dengue": 8.422138
+  },
+  {
+    "munCode": "3111705",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3111705",
+    "year": 2016,
+    "dengue": 1.584786
+  },
+  {
+    "munCode": "3111705",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3111705",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3111705",
+    "year": 2019,
+    "dengue": 0.528262
+  },
+  {
+    "munCode": "3111705",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3111903",
+    "year": 2015,
+    "dengue": 0.957854
+  },
+  {
+    "munCode": "3111903",
+    "year": 2016,
+    "dengue": 0.478927
+  },
+  {
+    "munCode": "3111903",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3111903",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3111903",
+    "year": 2019,
+    "dengue": 0.239464
+  },
+  {
+    "munCode": "3111903",
+    "year": 2020,
+    "dengue": 16.28352
+  },
+  {
+    "munCode": "3112109",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3112109",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3112109",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3112109",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3112109",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3112109",
+    "year": 2020,
+    "dengue": 0.47619
+  },
+  {
+    "munCode": "3112406",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3112406",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3112406",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3112406",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3112406",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3112406",
+    "year": 2020,
+    "dengue": 1.000167
+  },
+  {
+    "munCode": "3112505",
+    "year": 2015,
+    "dengue": 17.4954
+  },
+  {
+    "munCode": "3112505",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3112505",
+    "year": 2017,
+    "dengue": 0.115101
+  },
+  {
+    "munCode": "3112505",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3112505",
+    "year": 2019,
+    "dengue": 7.826888
+  },
+  {
+    "munCode": "3112505",
+    "year": 2020,
+    "dengue": 5.064457
+  },
+  {
+    "munCode": "3112901",
+    "year": 2015,
+    "dengue": 0.254453
+  },
+  {
+    "munCode": "3112901",
+    "year": 2016,
+    "dengue": 26.97201
+  },
+  {
+    "munCode": "3112901",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3112901",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3112901",
+    "year": 2019,
+    "dengue": 6.361323
+  },
+  {
+    "munCode": "3112901",
+    "year": 2020,
+    "dengue": 0.763359
+  },
+  {
+    "munCode": "3113107",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3113107",
+    "year": 2016,
+    "dengue": 0.84246
+  },
+  {
+    "munCode": "3113107",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3113107",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3113107",
+    "year": 2019,
+    "dengue": 0.84246
+  },
+  {
+    "munCode": "3113107",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3113602",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3113602",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3113602",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3113602",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3113602",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3113602",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3113701",
+    "year": 2015,
+    "dengue": 0.23254
+  },
+  {
+    "munCode": "3113701",
+    "year": 2016,
+    "dengue": 2.247888
+  },
+  {
+    "munCode": "3113701",
+    "year": 2017,
+    "dengue": 0.23254
+  },
+  {
+    "munCode": "3113701",
+    "year": 2018,
+    "dengue": 0.077513
+  },
+  {
+    "munCode": "3113701",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3113701",
+    "year": 2020,
+    "dengue": 7.751337
+  },
+  {
+    "munCode": "3113909",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3113909",
+    "year": 2016,
+    "dengue": 0.107308
+  },
+  {
+    "munCode": "3113909",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3113909",
+    "year": 2018,
+    "dengue": 0.214615
+  },
+  {
+    "munCode": "3113909",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3113909",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114105",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114105",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114105",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114105",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114105",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114105",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114550",
+    "year": 2015,
+    "dengue": 0.407941
+  },
+  {
+    "munCode": "3114550",
+    "year": 2016,
+    "dengue": 0.951863
+  },
+  {
+    "munCode": "3114550",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114550",
+    "year": 2018,
+    "dengue": 0.407941
+  },
+  {
+    "munCode": "3114550",
+    "year": 2019,
+    "dengue": 9.926571
+  },
+  {
+    "munCode": "3114550",
+    "year": 2020,
+    "dengue": 14.95785
+  },
+  {
+    "munCode": "3114600",
+    "year": 2015,
+    "dengue": 0.369004
+  },
+  {
+    "munCode": "3114600",
+    "year": 2016,
+    "dengue": 0.369004
+  },
+  {
+    "munCode": "3114600",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114600",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114600",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114600",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114709",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114709",
+    "year": 2016,
+    "dengue": 1.150307
+  },
+  {
+    "munCode": "3114709",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114709",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114709",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114709",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114808",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114808",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114808",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114808",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114808",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3114808",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3115003",
+    "year": 2015,
+    "dengue": 1.047669
+  },
+  {
+    "munCode": "3115003",
+    "year": 2016,
+    "dengue": 4.71451
+  },
+  {
+    "munCode": "3115003",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3115003",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3115003",
+    "year": 2019,
+    "dengue": 8.905186
+  },
+  {
+    "munCode": "3115003",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3115607",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3115607",
+    "year": 2016,
+    "dengue": 9.615385
+  },
+  {
+    "munCode": "3115607",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3115607",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3115607",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3115607",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3116209",
+    "year": 2015,
+    "dengue": 1.335113
+  },
+  {
+    "munCode": "3116209",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3116209",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3116209",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3116209",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3116209",
+    "year": 2020,
+    "dengue": 0.667557
+  },
+  {
+    "munCode": "3116407",
+    "year": 2015,
+    "dengue": 0.747943
+  },
+  {
+    "munCode": "3116407",
+    "year": 2016,
+    "dengue": 1.495886
+  },
+  {
+    "munCode": "3116407",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3116407",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3116407",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3116407",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3116506",
+    "year": 2015,
+    "dengue": 1.883239
+  },
+  {
+    "munCode": "3116506",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3116506",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3116506",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3116506",
+    "year": 2019,
+    "dengue": 1.318267
+  },
+  {
+    "munCode": "3116506",
+    "year": 2020,
+    "dengue": 0.188324
+  },
+  {
+    "munCode": "3117009",
+    "year": 2015,
+    "dengue": 3.284563
+  },
+  {
+    "munCode": "3117009",
+    "year": 2016,
+    "dengue": 12.24246
+  },
+  {
+    "munCode": "3117009",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3117009",
+    "year": 2018,
+    "dengue": 1.194386
+  },
+  {
+    "munCode": "3117009",
+    "year": 2019,
+    "dengue": 4.777546
+  },
+  {
+    "munCode": "3117009",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3115201",
+    "year": 2015,
+    "dengue": 3.143556
+  },
+  {
+    "munCode": "3115201",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3115201",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3115201",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3115201",
+    "year": 2019,
+    "dengue": 0.349284
+  },
+  {
+    "munCode": "3115201",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3117207",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3117207",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3117207",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3117207",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3117207",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3117207",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3117702",
+    "year": 2015,
+    "dengue": 0.249066
+  },
+  {
+    "munCode": "3117702",
+    "year": 2016,
+    "dengue": 0.249066
+  },
+  {
+    "munCode": "3117702",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3117702",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3117702",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3117702",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3117836",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3117836",
+    "year": 2016,
+    "dengue": 0.980392
+  },
+  {
+    "munCode": "3117836",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3117836",
+    "year": 2018,
+    "dengue": 0.980392
+  },
+  {
+    "munCode": "3117836",
+    "year": 2019,
+    "dengue": 148.5294
+  },
+  {
+    "munCode": "3117836",
+    "year": 2020,
+    "dengue": 1.960784
+  },
+  {
+    "munCode": "3117900",
+    "year": 2015,
+    "dengue": 5.298481
+  },
+  {
+    "munCode": "3117900",
+    "year": 2016,
+    "dengue": 141.0573
+  },
+  {
+    "munCode": "3117900",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3117900",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3117900",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3117900",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3119005",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3119005",
+    "year": 2016,
+    "dengue": 2.440725
+  },
+  {
+    "munCode": "3119005",
+    "year": 2017,
+    "dengue": 0.348675
+  },
+  {
+    "munCode": "3119005",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3119005",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3119005",
+    "year": 2020,
+    "dengue": 2.7894
+  },
+  {
+    "munCode": "3119500",
+    "year": 2015,
+    "dengue": 0.144907
+  },
+  {
+    "munCode": "3119500",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3119500",
+    "year": 2017,
+    "dengue": 0.579626
+  },
+  {
+    "munCode": "3119500",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3119500",
+    "year": 2019,
+    "dengue": 0.289813
+  },
+  {
+    "munCode": "3119500",
+    "year": 2020,
+    "dengue": 0.869439
+  },
+  {
+    "munCode": "3119807",
+    "year": 2015,
+    "dengue": 1.915709
+  },
+  {
+    "munCode": "3119807",
+    "year": 2016,
+    "dengue": 2.873563
+  },
+  {
+    "munCode": "3119807",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3119807",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3119807",
+    "year": 2019,
+    "dengue": 0.957854
+  },
+  {
+    "munCode": "3119807",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3119906",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3119906",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3119906",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3119906",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3119906",
+    "year": 2019,
+    "dengue": 0.477783
+  },
+  {
+    "munCode": "3119906",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3120151",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3120151",
+    "year": 2016,
+    "dengue": 1.062417
+  },
+  {
+    "munCode": "3120151",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3120151",
+    "year": 2018,
+    "dengue": 0.796813
+  },
+  {
+    "munCode": "3120151",
+    "year": 2019,
+    "dengue": 1.85923
+  },
+  {
+    "munCode": "3120151",
+    "year": 2020,
+    "dengue": 16.73307
+  },
+  {
+    "munCode": "3120201",
+    "year": 2015,
+    "dengue": 0.207189
+  },
+  {
+    "munCode": "3120201",
+    "year": 2016,
+    "dengue": 1.346732
+  },
+  {
+    "munCode": "3120201",
+    "year": 2017,
+    "dengue": 0.103595
+  },
+  {
+    "munCode": "3120201",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3120201",
+    "year": 2019,
+    "dengue": 65.98985
+  },
+  {
+    "munCode": "3120201",
+    "year": 2020,
+    "dengue": 4.765358
+  },
+  {
+    "munCode": "3120508",
+    "year": 2015,
+    "dengue": 0.163532
+  },
+  {
+    "munCode": "3120508",
+    "year": 2016,
+    "dengue": 0.490597
+  },
+  {
+    "munCode": "3120508",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3120508",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3120508",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3120508",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3120607",
+    "year": 2015,
+    "dengue": 3.184713
+  },
+  {
+    "munCode": "3120607",
+    "year": 2016,
+    "dengue": 20.38217
+  },
+  {
+    "munCode": "3120607",
+    "year": 2017,
+    "dengue": 0.318471
+  },
+  {
+    "munCode": "3120607",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3120607",
+    "year": 2019,
+    "dengue": 12.10191
+  },
+  {
+    "munCode": "3120607",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3120805",
+    "year": 2015,
+    "dengue": 5.502358
+  },
+  {
+    "munCode": "3120805",
+    "year": 2016,
+    "dengue": 0.571674
+  },
+  {
+    "munCode": "3120805",
+    "year": 2017,
+    "dengue": 0.071459
+  },
+  {
+    "munCode": "3120805",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3120805",
+    "year": 2019,
+    "dengue": 0.071459
+  },
+  {
+    "munCode": "3120805",
+    "year": 2020,
+    "dengue": 0.142918
+  },
+  {
+    "munCode": "3120870",
+    "year": 2015,
+    "dengue": 0.158103
+  },
+  {
+    "munCode": "3120870",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3120870",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3120870",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3120870",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3120870",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3121001",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3121001",
+    "year": 2016,
+    "dengue": 4.652605
+  },
+  {
+    "munCode": "3121001",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3121001",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3121001",
+    "year": 2019,
+    "dengue": 0.620347
+  },
+  {
+    "munCode": "3121001",
+    "year": 2020,
+    "dengue": 0.930521
+  },
+  {
+    "munCode": "3121100",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3121100",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3121100",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3121100",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3121100",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3121100",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3121209",
+    "year": 2015,
+    "dengue": 57.02447
+  },
+  {
+    "munCode": "3121209",
+    "year": 2016,
+    "dengue": 21.90213
+  },
+  {
+    "munCode": "3121209",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3121209",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3121209",
+    "year": 2019,
+    "dengue": 1.973165
+  },
+  {
+    "munCode": "3121209",
+    "year": 2020,
+    "dengue": 0.394633
+  },
+  {
+    "munCode": "3121258",
+    "year": 2015,
+    "dengue": 10.10555
+  },
+  {
+    "munCode": "3121258",
+    "year": 2016,
+    "dengue": 5.614193
+  },
+  {
+    "munCode": "3121258",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3121258",
+    "year": 2018,
+    "dengue": 0.561419
+  },
+  {
+    "munCode": "3121258",
+    "year": 2019,
+    "dengue": 0.449135
+  },
+  {
+    "munCode": "3121258",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3122801",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3122801",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3122801",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3122801",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3122801",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3122801",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3122900",
+    "year": 2015,
+    "dengue": 10.17442
+  },
+  {
+    "munCode": "3122900",
+    "year": 2016,
+    "dengue": 49.23692
+  },
+  {
+    "munCode": "3122900",
+    "year": 2017,
+    "dengue": 0.181686
+  },
+  {
+    "munCode": "3122900",
+    "year": 2018,
+    "dengue": 0.545058
+  },
+  {
+    "munCode": "3122900",
+    "year": 2019,
+    "dengue": 0.90843
+  },
+  {
+    "munCode": "3122900",
+    "year": 2020,
+    "dengue": 8.175872
+  },
+  {
+    "munCode": "3123502",
+    "year": 2015,
+    "dengue": 3.888025
+  },
+  {
+    "munCode": "3123502",
+    "year": 2016,
+    "dengue": 6.22084
+  },
+  {
+    "munCode": "3123502",
+    "year": 2017,
+    "dengue": 2.332815
+  },
+  {
+    "munCode": "3123502",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3123502",
+    "year": 2019,
+    "dengue": 18.66252
+  },
+  {
+    "munCode": "3123502",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3123908",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3123908",
+    "year": 2016,
+    "dengue": 0.85796
+  },
+  {
+    "munCode": "3123908",
+    "year": 2017,
+    "dengue": 0.095329
+  },
+  {
+    "munCode": "3123908",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3123908",
+    "year": 2019,
+    "dengue": 1.525262
+  },
+  {
+    "munCode": "3123908",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3124500",
+    "year": 2015,
+    "dengue": 0.194666
+  },
+  {
+    "munCode": "3124500",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3124500",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3124500",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3124500",
+    "year": 2019,
+    "dengue": 0.194666
+  },
+  {
+    "munCode": "3124500",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3124708",
+    "year": 2015,
+    "dengue": 16.19718
+  },
+  {
+    "munCode": "3124708",
+    "year": 2016,
+    "dengue": 4.929577
+  },
+  {
+    "munCode": "3124708",
+    "year": 2017,
+    "dengue": 6.338028
+  },
+  {
+    "munCode": "3124708",
+    "year": 2018,
+    "dengue": 11.26761
+  },
+  {
+    "munCode": "3124708",
+    "year": 2019,
+    "dengue": 28.87324
+  },
+  {
+    "munCode": "3124708",
+    "year": 2020,
+    "dengue": 1.408451
+  },
+  {
+    "munCode": "3125408",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3125408",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3125408",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3125408",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3125408",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3125408",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3126505",
+    "year": 2015,
+    "dengue": 2.130898
+  },
+  {
+    "munCode": "3126505",
+    "year": 2016,
+    "dengue": 0.304414
+  },
+  {
+    "munCode": "3126505",
+    "year": 2017,
+    "dengue": 0.304414
+  },
+  {
+    "munCode": "3126505",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3126505",
+    "year": 2019,
+    "dengue": 5.479452
+  },
+  {
+    "munCode": "3126505",
+    "year": 2020,
+    "dengue": 0.913242
+  },
+  {
+    "munCode": "3127354",
+    "year": 2015,
+    "dengue": 5.420054
+  },
+  {
+    "munCode": "3127354",
+    "year": 2016,
+    "dengue": 13.55014
+  },
+  {
+    "munCode": "3127354",
+    "year": 2017,
+    "dengue": 0.903342
+  },
+  {
+    "munCode": "3127354",
+    "year": 2018,
+    "dengue": 5.420054
+  },
+  {
+    "munCode": "3127354",
+    "year": 2019,
+    "dengue": 28.90696
+  },
+  {
+    "munCode": "3127354",
+    "year": 2020,
+    "dengue": 1.806685
+  },
+  {
+    "munCode": "3127404",
+    "year": 2015,
+    "dengue": 0.825764
+  },
+  {
+    "munCode": "3127404",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3127404",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3127404",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3127404",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3127404",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3127800",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3127800",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3127800",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3127800",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3127800",
+    "year": 2019,
+    "dengue": 15.69388
+  },
+  {
+    "munCode": "3127800",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3128105",
+    "year": 2015,
+    "dengue": 0.939471
+  },
+  {
+    "munCode": "3128105",
+    "year": 2016,
+    "dengue": 11.00523
+  },
+  {
+    "munCode": "3128105",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3128105",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3128105",
+    "year": 2019,
+    "dengue": 5.502617
+  },
+  {
+    "munCode": "3128105",
+    "year": 2020,
+    "dengue": 0.805261
+  },
+  {
+    "munCode": "3128303",
+    "year": 2015,
+    "dengue": 15.92046
+  },
+  {
+    "munCode": "3128303",
+    "year": 2016,
+    "dengue": 29.13961
+  },
+  {
+    "munCode": "3128303",
+    "year": 2017,
+    "dengue": 0.057475
+  },
+  {
+    "munCode": "3128303",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3128303",
+    "year": 2019,
+    "dengue": 35.51928
+  },
+  {
+    "munCode": "3128303",
+    "year": 2020,
+    "dengue": 0.402322
+  },
+  {
+    "munCode": "3128501",
+    "year": 2015,
+    "dengue": 5.402332
+  },
+  {
+    "munCode": "3128501",
+    "year": 2016,
+    "dengue": 23.59966
+  },
+  {
+    "munCode": "3128501",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3128501",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3128501",
+    "year": 2019,
+    "dengue": 0.284333
+  },
+  {
+    "munCode": "3128501",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3128600",
+    "year": 2015,
+    "dengue": 0.264201
+  },
+  {
+    "munCode": "3128600",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3128600",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3128600",
+    "year": 2018,
+    "dengue": 2.377807
+  },
+  {
+    "munCode": "3128600",
+    "year": 2019,
+    "dengue": 62.87979
+  },
+  {
+    "munCode": "3128600",
+    "year": 2020,
+    "dengue": 0.264201
+  },
+  {
+    "munCode": "3128907",
+    "year": 2015,
+    "dengue": 14.7197
+  },
+  {
+    "munCode": "3128907",
+    "year": 2016,
+    "dengue": 22.86251
+  },
+  {
+    "munCode": "3128907",
+    "year": 2017,
+    "dengue": 1.565925
+  },
+  {
+    "munCode": "3128907",
+    "year": 2018,
+    "dengue": 0.313185
+  },
+  {
+    "munCode": "3128907",
+    "year": 2019,
+    "dengue": 10.4917
+  },
+  {
+    "munCode": "3128907",
+    "year": 2020,
+    "dengue": 0.313185
+  },
+  {
+    "munCode": "3129004",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129004",
+    "year": 2016,
+    "dengue": 2.583979
+  },
+  {
+    "munCode": "3129004",
+    "year": 2017,
+    "dengue": 0.234907
+  },
+  {
+    "munCode": "3129004",
+    "year": 2018,
+    "dengue": 20.90674
+  },
+  {
+    "munCode": "3129004",
+    "year": 2019,
+    "dengue": 4.22833
+  },
+  {
+    "munCode": "3129004",
+    "year": 2020,
+    "dengue": 1.174536
+  },
+  {
+    "munCode": "3129202",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129202",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129202",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129202",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129202",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129202",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129400",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129400",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129400",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129400",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129400",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129400",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129657",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129657",
+    "year": 2016,
+    "dengue": 12.70245
+  },
+  {
+    "munCode": "3129657",
+    "year": 2017,
+    "dengue": 44.45856
+  },
+  {
+    "munCode": "3129657",
+    "year": 2018,
+    "dengue": 9.526834
+  },
+  {
+    "munCode": "3129657",
+    "year": 2019,
+    "dengue": 54.62051
+  },
+  {
+    "munCode": "3129657",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129707",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129707",
+    "year": 2016,
+    "dengue": 1.672427
+  },
+  {
+    "munCode": "3129707",
+    "year": 2017,
+    "dengue": 0.557476
+  },
+  {
+    "munCode": "3129707",
+    "year": 2018,
+    "dengue": 0.111495
+  },
+  {
+    "munCode": "3129707",
+    "year": 2019,
+    "dengue": 3.233359
+  },
+  {
+    "munCode": "3129707",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129905",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129905",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129905",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129905",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129905",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3129905",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3130051",
+    "year": 2015,
+    "dengue": 4.022277
+  },
+  {
+    "munCode": "3130051",
+    "year": 2016,
+    "dengue": 12.06683
+  },
+  {
+    "munCode": "3130051",
+    "year": 2017,
+    "dengue": 0.618812
+  },
+  {
+    "munCode": "3130051",
+    "year": 2018,
+    "dengue": 10.5198
+  },
+  {
+    "munCode": "3130051",
+    "year": 2019,
+    "dengue": 13.92327
+  },
+  {
+    "munCode": "3130051",
+    "year": 2020,
+    "dengue": 17.94554
+  },
+  {
+    "munCode": "3130507",
+    "year": 2015,
+    "dengue": 3.308177
+  },
+  {
+    "munCode": "3130507",
+    "year": 2016,
+    "dengue": 8.890727
+  },
+  {
+    "munCode": "3130507",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3130507",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3130507",
+    "year": 2019,
+    "dengue": 0.310142
+  },
+  {
+    "munCode": "3130507",
+    "year": 2020,
+    "dengue": 14.78342
+  },
+  {
+    "munCode": "3130804",
+    "year": 2015,
+    "dengue": 1.750292
+  },
+  {
+    "munCode": "3130804",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3130804",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3130804",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3130804",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3130804",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3131406",
+    "year": 2015,
+    "dengue": 98.74004
+  },
+  {
+    "munCode": "3131406",
+    "year": 2016,
+    "dengue": 34.97043
+  },
+  {
+    "munCode": "3131406",
+    "year": 2017,
+    "dengue": 1.285678
+  },
+  {
+    "munCode": "3131406",
+    "year": 2018,
+    "dengue": 0.771407
+  },
+  {
+    "munCode": "3131406",
+    "year": 2019,
+    "dengue": 27.77064
+  },
+  {
+    "munCode": "3131406",
+    "year": 2020,
+    "dengue": 50.6557
+  },
+  {
+    "munCode": "3132008",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3132008",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3132008",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3132008",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3132008",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3132008",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3132107",
+    "year": 2015,
+    "dengue": 0.768425
+  },
+  {
+    "munCode": "3132107",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3132107",
+    "year": 2017,
+    "dengue": 0.20957
+  },
+  {
+    "munCode": "3132107",
+    "year": 2018,
+    "dengue": 0.768425
+  },
+  {
+    "munCode": "3132107",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3132107",
+    "year": 2020,
+    "dengue": 0.139714
+  },
+  {
+    "munCode": "3132909",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3132909",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3132909",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3132909",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3132909",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3132909",
+    "year": 2020,
+    "dengue": 0.253229
+  },
+  {
+    "munCode": "3133105",
+    "year": 2015,
+    "dengue": 0.157394
+  },
+  {
+    "munCode": "3133105",
+    "year": 2016,
+    "dengue": 0.23609
+  },
+  {
+    "munCode": "3133105",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3133105",
+    "year": 2018,
+    "dengue": 0.078697
+  },
+  {
+    "munCode": "3133105",
+    "year": 2019,
+    "dengue": 0.078697
+  },
+  {
+    "munCode": "3133105",
+    "year": 2020,
+    "dengue": 0.629574
+  },
+  {
+    "munCode": "3133709",
+    "year": 2015,
+    "dengue": 25.16654
+  },
+  {
+    "munCode": "3133709",
+    "year": 2016,
+    "dengue": 40.26647
+  },
+  {
+    "munCode": "3133709",
+    "year": 2017,
+    "dengue": 0.148038
+  },
+  {
+    "munCode": "3133709",
+    "year": 2018,
+    "dengue": 0.148038
+  },
+  {
+    "munCode": "3133709",
+    "year": 2019,
+    "dengue": 82.90155
+  },
+  {
+    "munCode": "3133709",
+    "year": 2020,
+    "dengue": 3.108808
+  },
+  {
+    "munCode": "3133758",
+    "year": 2015,
+    "dengue": 2.9051
+  },
+  {
+    "munCode": "3133758",
+    "year": 2016,
+    "dengue": 3.163331
+  },
+  {
+    "munCode": "3133758",
+    "year": 2017,
+    "dengue": 0.322789
+  },
+  {
+    "munCode": "3133758",
+    "year": 2018,
+    "dengue": 0.193673
+  },
+  {
+    "munCode": "3133758",
+    "year": 2019,
+    "dengue": 4.06714
+  },
+  {
+    "munCode": "3133758",
+    "year": 2020,
+    "dengue": 1.097482
+  },
+  {
+    "munCode": "3134301",
+    "year": 2015,
+    "dengue": 0.418498
+  },
+  {
+    "munCode": "3134301",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3134301",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3134301",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3134301",
+    "year": 2019,
+    "dengue": 0.209249
+  },
+  {
+    "munCode": "3134301",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3134806",
+    "year": 2015,
+    "dengue": 0.210926
+  },
+  {
+    "munCode": "3134806",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3134806",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3134806",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3134806",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3134806",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3135308",
+    "year": 2015,
+    "dengue": 95.41151
+  },
+  {
+    "munCode": "3135308",
+    "year": 2016,
+    "dengue": 2.549162
+  },
+  {
+    "munCode": "3135308",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3135308",
+    "year": 2018,
+    "dengue": 0.364166
+  },
+  {
+    "munCode": "3135308",
+    "year": 2019,
+    "dengue": 9.104151
+  },
+  {
+    "munCode": "3135308",
+    "year": 2020,
+    "dengue": 0.364166
+  },
+  {
+    "munCode": "3135605",
+    "year": 2015,
+    "dengue": 3.647638
+  },
+  {
+    "munCode": "3135605",
+    "year": 2016,
+    "dengue": 7.477658
+  },
+  {
+    "munCode": "3135605",
+    "year": 2017,
+    "dengue": 1.094291
+  },
+  {
+    "munCode": "3135605",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3135605",
+    "year": 2019,
+    "dengue": 26.08061
+  },
+  {
+    "munCode": "3135605",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3135704",
+    "year": 2015,
+    "dengue": 3.954523
+  },
+  {
+    "munCode": "3135704",
+    "year": 2016,
+    "dengue": 113.6925
+  },
+  {
+    "munCode": "3135704",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3135704",
+    "year": 2018,
+    "dengue": 0.494315
+  },
+  {
+    "munCode": "3135704",
+    "year": 2019,
+    "dengue": 1.977261
+  },
+  {
+    "munCode": "3135704",
+    "year": 2020,
+    "dengue": 0.988631
+  },
+  {
+    "munCode": "3135902",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3135902",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3135902",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3135902",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3135902",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3135902",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3136009",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3136009",
+    "year": 2016,
+    "dengue": 0.934579
+  },
+  {
+    "munCode": "3136009",
+    "year": 2017,
+    "dengue": 3.271028
+  },
+  {
+    "munCode": "3136009",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3136009",
+    "year": 2019,
+    "dengue": 0.841121
+  },
+  {
+    "munCode": "3136009",
+    "year": 2020,
+    "dengue": 12.71028
+  },
+  {
+    "munCode": "3138500",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3138500",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3138500",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3138500",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3138500",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3138500",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3138658",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3138658",
+    "year": 2016,
+    "dengue": 1.001168
+  },
+  {
+    "munCode": "3138658",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3138658",
+    "year": 2018,
+    "dengue": 0.166861
+  },
+  {
+    "munCode": "3138658",
+    "year": 2019,
+    "dengue": 53.56249
+  },
+  {
+    "munCode": "3138658",
+    "year": 2020,
+    "dengue": 2.169197
+  },
+  {
+    "munCode": "3138674",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3138674",
+    "year": 2016,
+    "dengue": 3.709592
+  },
+  {
+    "munCode": "3138674",
+    "year": 2017,
+    "dengue": 0.529942
+  },
+  {
+    "munCode": "3138674",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3138674",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3138674",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3138682",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3138682",
+    "year": 2016,
+    "dengue": 33.18443
+  },
+  {
+    "munCode": "3138682",
+    "year": 2017,
+    "dengue": 9.25335
+  },
+  {
+    "munCode": "3138682",
+    "year": 2018,
+    "dengue": 1.276324
+  },
+  {
+    "munCode": "3138682",
+    "year": 2019,
+    "dengue": 68.60243
+  },
+  {
+    "munCode": "3138682",
+    "year": 2020,
+    "dengue": 3.509892
+  },
+  {
+    "munCode": "3138807",
+    "year": 2015,
+    "dengue": 21.3012
+  },
+  {
+    "munCode": "3138807",
+    "year": 2016,
+    "dengue": 38.52474
+  },
+  {
+    "munCode": "3138807",
+    "year": 2017,
+    "dengue": 0.060861
+  },
+  {
+    "munCode": "3138807",
+    "year": 2018,
+    "dengue": 1.825817
+  },
+  {
+    "munCode": "3138807",
+    "year": 2019,
+    "dengue": 3.347331
+  },
+  {
+    "munCode": "3138807",
+    "year": 2020,
+    "dengue": 1.825817
+  },
+  {
+    "munCode": "3139102",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3139102",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3139102",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3139102",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3139102",
+    "year": 2019,
+    "dengue": 0.256476
+  },
+  {
+    "munCode": "3139102",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3139250",
+    "year": 2015,
+    "dengue": 0.341064
+  },
+  {
+    "munCode": "3139250",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3139250",
+    "year": 2017,
+    "dengue": 0.682128
+  },
+  {
+    "munCode": "3139250",
+    "year": 2018,
+    "dengue": 27.62619
+  },
+  {
+    "munCode": "3139250",
+    "year": 2019,
+    "dengue": 18.0764
+  },
+  {
+    "munCode": "3139250",
+    "year": 2020,
+    "dengue": 1.364256
+  },
+  {
+    "munCode": "3139300",
+    "year": 2015,
+    "dengue": 5.468465
+  },
+  {
+    "munCode": "3139300",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3139300",
+    "year": 2017,
+    "dengue": 0.583303
+  },
+  {
+    "munCode": "3139300",
+    "year": 2018,
+    "dengue": 1.166606
+  },
+  {
+    "munCode": "3139300",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3139300",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3139904",
+    "year": 2015,
+    "dengue": 0.116809
+  },
+  {
+    "munCode": "3139904",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3139904",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3139904",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3139904",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3139904",
+    "year": 2020,
+    "dengue": 0.116809
+  },
+  {
+    "munCode": "3140407",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3140407",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3140407",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3140407",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3140407",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3140407",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3140506",
+    "year": 2015,
+    "dengue": 3.699243
+  },
+  {
+    "munCode": "3140506",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3140506",
+    "year": 2017,
+    "dengue": 0.258087
+  },
+  {
+    "munCode": "3140506",
+    "year": 2018,
+    "dengue": 6.710255
+  },
+  {
+    "munCode": "3140506",
+    "year": 2019,
+    "dengue": 70.19959
+  },
+  {
+    "munCode": "3140506",
+    "year": 2020,
+    "dengue": 6.710255
+  },
+  {
+    "munCode": "3140555",
+    "year": 2015,
+    "dengue": 0.585223
+  },
+  {
+    "munCode": "3140555",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3140555",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3140555",
+    "year": 2018,
+    "dengue": 0.146306
+  },
+  {
+    "munCode": "3140555",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3140555",
+    "year": 2020,
+    "dengue": 8.778347
+  },
+  {
+    "munCode": "3171501",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3171501",
+    "year": 2016,
+    "dengue": 0.979432
+  },
+  {
+    "munCode": "3171501",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3171501",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3171501",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3171501",
+    "year": 2020,
+    "dengue": 0.326477
+  },
+  {
+    "munCode": "3140852",
+    "year": 2015,
+    "dengue": 17.77379
+  },
+  {
+    "munCode": "3140852",
+    "year": 2016,
+    "dengue": 0.179533
+  },
+  {
+    "munCode": "3140852",
+    "year": 2017,
+    "dengue": 0.179533
+  },
+  {
+    "munCode": "3140852",
+    "year": 2018,
+    "dengue": 0.5386
+  },
+  {
+    "munCode": "3140852",
+    "year": 2019,
+    "dengue": 9.694794
+  },
+  {
+    "munCode": "3140852",
+    "year": 2020,
+    "dengue": 0.718133
+  },
+  {
+    "munCode": "3141306",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3141306",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3141306",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3141306",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3141306",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3141306",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3142403",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3142403",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3142403",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3142403",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3142403",
+    "year": 2019,
+    "dengue": 0.156226
+  },
+  {
+    "munCode": "3142403",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3142700",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3142700",
+    "year": 2016,
+    "dengue": 14.43299
+  },
+  {
+    "munCode": "3142700",
+    "year": 2017,
+    "dengue": 2.847324
+  },
+  {
+    "munCode": "3142700",
+    "year": 2018,
+    "dengue": 21.79676
+  },
+  {
+    "munCode": "3142700",
+    "year": 2019,
+    "dengue": 1.178203
+  },
+  {
+    "munCode": "3142700",
+    "year": 2020,
+    "dengue": 3.141875
+  },
+  {
+    "munCode": "3143500",
+    "year": 2015,
+    "dengue": 27.86287
+  },
+  {
+    "munCode": "3143500",
+    "year": 2016,
+    "dengue": 75.27352
+  },
+  {
+    "munCode": "3143500",
+    "year": 2017,
+    "dengue": 1.896426
+  },
+  {
+    "munCode": "3143500",
+    "year": 2018,
+    "dengue": 1.31291
+  },
+  {
+    "munCode": "3143500",
+    "year": 2019,
+    "dengue": 24.9453
+  },
+  {
+    "munCode": "3143500",
+    "year": 2020,
+    "dengue": 8.752735
+  },
+  {
+    "munCode": "3143807",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3143807",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3143807",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3143807",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3143807",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3143807",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3144656",
+    "year": 2015,
+    "dengue": 3.632401
+  },
+  {
+    "munCode": "3144656",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3144656",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3144656",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3144656",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3144656",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3144672",
+    "year": 2015,
+    "dengue": 2.332815
+  },
+  {
+    "munCode": "3144672",
+    "year": 2016,
+    "dengue": 19.44012
+  },
+  {
+    "munCode": "3144672",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3144672",
+    "year": 2018,
+    "dengue": 2.332815
+  },
+  {
+    "munCode": "3144672",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3144672",
+    "year": 2020,
+    "dengue": 58.32037
+  },
+  {
+    "munCode": "3144706",
+    "year": 2015,
+    "dengue": 0.378955
+  },
+  {
+    "munCode": "3144706",
+    "year": 2016,
+    "dengue": 1.957936
+  },
+  {
+    "munCode": "3144706",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3144706",
+    "year": 2018,
+    "dengue": 0.063159
+  },
+  {
+    "munCode": "3144706",
+    "year": 2019,
+    "dengue": 0.252637
+  },
+  {
+    "munCode": "3144706",
+    "year": 2020,
+    "dengue": 3.22112
+  },
+  {
+    "munCode": "3145109",
+    "year": 2015,
+    "dengue": 0.105641
+  },
+  {
+    "munCode": "3145109",
+    "year": 2016,
+    "dengue": 0.316924
+  },
+  {
+    "munCode": "3145109",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145109",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145109",
+    "year": 2019,
+    "dengue": 0.211282
+  },
+  {
+    "munCode": "3145109",
+    "year": 2020,
+    "dengue": 0.105641
+  },
+  {
+    "munCode": "3136603",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3136603",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3136603",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3136603",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3136603",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3136603",
+    "year": 2020,
+    "dengue": 6.358768
+  },
+  {
+    "munCode": "3145356",
+    "year": 2015,
+    "dengue": 2.596841
+  },
+  {
+    "munCode": "3145356",
+    "year": 2016,
+    "dengue": 4.544471
+  },
+  {
+    "munCode": "3145356",
+    "year": 2017,
+    "dengue": 0.216403
+  },
+  {
+    "munCode": "3145356",
+    "year": 2018,
+    "dengue": 0.216403
+  },
+  {
+    "munCode": "3145356",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145356",
+    "year": 2020,
+    "dengue": 64.2718
+  },
+  {
+    "munCode": "3145372",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145372",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145372",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145372",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145372",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145372",
+    "year": 2020,
+    "dengue": 2.20022
+  },
+  {
+    "munCode": "3145406",
+    "year": 2015,
+    "dengue": 3.378378
+  },
+  {
+    "munCode": "3145406",
+    "year": 2016,
+    "dengue": 94.59459
+  },
+  {
+    "munCode": "3145406",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145406",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145406",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145406",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145455",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145455",
+    "year": 2016,
+    "dengue": 3.797468
+  },
+  {
+    "munCode": "3145455",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145455",
+    "year": 2018,
+    "dengue": 0.632911
+  },
+  {
+    "munCode": "3145455",
+    "year": 2019,
+    "dengue": 26.58228
+  },
+  {
+    "munCode": "3145455",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145505",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145505",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145505",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145505",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145505",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145505",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145703",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145703",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145703",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145703",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145703",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145703",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145877",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145877",
+    "year": 2016,
+    "dengue": 2.093802
+  },
+  {
+    "munCode": "3145877",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145877",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3145877",
+    "year": 2019,
+    "dengue": 1.256281
+  },
+  {
+    "munCode": "3145877",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3146503",
+    "year": 2015,
+    "dengue": 6.970665
+  },
+  {
+    "munCode": "3146503",
+    "year": 2016,
+    "dengue": 6.680221
+  },
+  {
+    "munCode": "3146503",
+    "year": 2017,
+    "dengue": 0.726111
+  },
+  {
+    "munCode": "3146503",
+    "year": 2018,
+    "dengue": 0.145222
+  },
+  {
+    "munCode": "3146503",
+    "year": 2019,
+    "dengue": 12.05344
+  },
+  {
+    "munCode": "3146503",
+    "year": 2020,
+    "dengue": 3.775777
+  },
+  {
+    "munCode": "3146701",
+    "year": 2015,
+    "dengue": 0.378788
+  },
+  {
+    "munCode": "3146701",
+    "year": 2016,
+    "dengue": 0.189394
+  },
+  {
+    "munCode": "3146701",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3146701",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3146701",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3146701",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3147709",
+    "year": 2015,
+    "dengue": 0.153775
+  },
+  {
+    "munCode": "3147709",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3147709",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3147709",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3147709",
+    "year": 2019,
+    "dengue": 0.615101
+  },
+  {
+    "munCode": "3147709",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3147808",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3147808",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3147808",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3147808",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3147808",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3147808",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3148301",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3148301",
+    "year": 2016,
+    "dengue": 24.12451
+  },
+  {
+    "munCode": "3148301",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3148301",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3148301",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3148301",
+    "year": 2020,
+    "dengue": 0.194553
+  },
+  {
+    "munCode": "3149150",
+    "year": 2015,
+    "dengue": 0.145624
+  },
+  {
+    "munCode": "3149150",
+    "year": 2016,
+    "dengue": 2.91248
+  },
+  {
+    "munCode": "3149150",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3149150",
+    "year": 2018,
+    "dengue": 0.145624
+  },
+  {
+    "munCode": "3149150",
+    "year": 2019,
+    "dengue": 14.12553
+  },
+  {
+    "munCode": "3149150",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3149606",
+    "year": 2015,
+    "dengue": 48.63318
+  },
+  {
+    "munCode": "3149606",
+    "year": 2016,
+    "dengue": 144.6281
+  },
+  {
+    "munCode": "3149606",
+    "year": 2017,
+    "dengue": 0.317864
+  },
+  {
+    "munCode": "3149606",
+    "year": 2018,
+    "dengue": 17.80038
+  },
+  {
+    "munCode": "3149606",
+    "year": 2019,
+    "dengue": 98.85569
+  },
+  {
+    "munCode": "3149606",
+    "year": 2020,
+    "dengue": 7.628735
+  },
+  {
+    "munCode": "3150307",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3150307",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3150307",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3150307",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3150307",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3150307",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3150406",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3150406",
+    "year": 2016,
+    "dengue": 0.887705
+  },
+  {
+    "munCode": "3150406",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3150406",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3150406",
+    "year": 2019,
+    "dengue": 2.219263
+  },
+  {
+    "munCode": "3150406",
+    "year": 2020,
+    "dengue": 0.887705
+  },
+  {
+    "munCode": "3150604",
+    "year": 2015,
+    "dengue": 3.856041
+  },
+  {
+    "munCode": "3150604",
+    "year": 2016,
+    "dengue": 4.498715
+  },
+  {
+    "munCode": "3150604",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3150604",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3150604",
+    "year": 2019,
+    "dengue": 21.52956
+  },
+  {
+    "munCode": "3150604",
+    "year": 2020,
+    "dengue": 0.642674
+  },
+  {
+    "munCode": "3151305",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3151305",
+    "year": 2016,
+    "dengue": 0.333037
+  },
+  {
+    "munCode": "3151305",
+    "year": 2017,
+    "dengue": 0.333037
+  },
+  {
+    "munCode": "3151305",
+    "year": 2018,
+    "dengue": 23.86767
+  },
+  {
+    "munCode": "3151305",
+    "year": 2019,
+    "dengue": 45.62611
+  },
+  {
+    "munCode": "3151305",
+    "year": 2020,
+    "dengue": 3.996448
+  },
+  {
+    "munCode": "3152131",
+    "year": 2015,
+    "dengue": 0.36483
+  },
+  {
+    "munCode": "3152131",
+    "year": 2016,
+    "dengue": 0.36483
+  },
+  {
+    "munCode": "3152131",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3152131",
+    "year": 2018,
+    "dengue": 10.21525
+  },
+  {
+    "munCode": "3152131",
+    "year": 2019,
+    "dengue": 23.34914
+  },
+  {
+    "munCode": "3152131",
+    "year": 2020,
+    "dengue": 1.824152
+  },
+  {
+    "munCode": "3152170",
+    "year": 2015,
+    "dengue": 2.576716
+  },
+  {
+    "munCode": "3152170",
+    "year": 2016,
+    "dengue": 1.171234
+  },
+  {
+    "munCode": "3152170",
+    "year": 2017,
+    "dengue": 0.936988
+  },
+  {
+    "munCode": "3152170",
+    "year": 2018,
+    "dengue": 0.234247
+  },
+  {
+    "munCode": "3152170",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3152170",
+    "year": 2020,
+    "dengue": 20.14523
+  },
+  {
+    "munCode": "3152600",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3152600",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3152600",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3152600",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3152600",
+    "year": 2019,
+    "dengue": 0.272331
+  },
+  {
+    "munCode": "3152600",
+    "year": 2020,
+    "dengue": 0.272331
+  },
+  {
+    "munCode": "3153004",
+    "year": 2015,
+    "dengue": 0.527983
+  },
+  {
+    "munCode": "3153004",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3153004",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3153004",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3153004",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3153004",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3153707",
+    "year": 2015,
+    "dengue": 59.10326
+  },
+  {
+    "munCode": "3153707",
+    "year": 2016,
+    "dengue": 15.28533
+  },
+  {
+    "munCode": "3153707",
+    "year": 2017,
+    "dengue": 1.019022
+  },
+  {
+    "munCode": "3153707",
+    "year": 2018,
+    "dengue": 0.339674
+  },
+  {
+    "munCode": "3153707",
+    "year": 2019,
+    "dengue": 5.434783
+  },
+  {
+    "munCode": "3153707",
+    "year": 2020,
+    "dengue": 5.095109
+  },
+  {
+    "munCode": "3154200",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3154200",
+    "year": 2016,
+    "dengue": 0.433369
+  },
+  {
+    "munCode": "3154200",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3154200",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3154200",
+    "year": 2019,
+    "dengue": 0.216685
+  },
+  {
+    "munCode": "3154200",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3154507",
+    "year": 2015,
+    "dengue": 0.215424
+  },
+  {
+    "munCode": "3154507",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3154507",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3154507",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3154507",
+    "year": 2019,
+    "dengue": 0.430849
+  },
+  {
+    "munCode": "3154507",
+    "year": 2020,
+    "dengue": 0.215424
+  },
+  {
+    "munCode": "3154804",
+    "year": 2015,
+    "dengue": 0.461201
+  },
+  {
+    "munCode": "3154804",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3154804",
+    "year": 2017,
+    "dengue": 0.230601
+  },
+  {
+    "munCode": "3154804",
+    "year": 2018,
+    "dengue": 0.345901
+  },
+  {
+    "munCode": "3154804",
+    "year": 2019,
+    "dengue": 5.534417
+  },
+  {
+    "munCode": "3154804",
+    "year": 2020,
+    "dengue": 1.153004
+  },
+  {
+    "munCode": "3155108",
+    "year": 2015,
+    "dengue": 22.28613
+  },
+  {
+    "munCode": "3155108",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3155108",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3155108",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3155108",
+    "year": 2019,
+    "dengue": 11.86197
+  },
+  {
+    "munCode": "3155108",
+    "year": 2020,
+    "dengue": 7.90798
+  },
+  {
+    "munCode": "3155900",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3155900",
+    "year": 2016,
+    "dengue": 0.215517
+  },
+  {
+    "munCode": "3155900",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3155900",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3155900",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3155900",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3156106",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3156106",
+    "year": 2016,
+    "dengue": 2.955956
+  },
+  {
+    "munCode": "3156106",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3156106",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3156106",
+    "year": 2019,
+    "dengue": 1.773574
+  },
+  {
+    "munCode": "3156106",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3156205",
+    "year": 2015,
+    "dengue": 24.42599
+  },
+  {
+    "munCode": "3156205",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3156205",
+    "year": 2017,
+    "dengue": 0.48852
+  },
+  {
+    "munCode": "3156205",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3156205",
+    "year": 2019,
+    "dengue": 7.327797
+  },
+  {
+    "munCode": "3156205",
+    "year": 2020,
+    "dengue": 0.97704
+  },
+  {
+    "munCode": "3157401",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3157401",
+    "year": 2016,
+    "dengue": 1.153403
+  },
+  {
+    "munCode": "3157401",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3157401",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3157401",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3157401",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3158102",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3158102",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3158102",
+    "year": 2017,
+    "dengue": 0.261849
+  },
+  {
+    "munCode": "3158102",
+    "year": 2018,
+    "dengue": 0.261849
+  },
+  {
+    "munCode": "3158102",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3158102",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3158300",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3158300",
+    "year": 2016,
+    "dengue": 0.186428
+  },
+  {
+    "munCode": "3158300",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3158300",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3158300",
+    "year": 2019,
+    "dengue": 0.372856
+  },
+  {
+    "munCode": "3158300",
+    "year": 2020,
+    "dengue": 1.304996
+  },
+  {
+    "munCode": "3158607",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3158607",
+    "year": 2016,
+    "dengue": 0.684463
+  },
+  {
+    "munCode": "3158607",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3158607",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3158607",
+    "year": 2019,
+    "dengue": 3.422313
+  },
+  {
+    "munCode": "3158607",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3158706",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3158706",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3158706",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3158706",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3158706",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3158706",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3159308",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3159308",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3159308",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3159308",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3159308",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3159308",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3159704",
+    "year": 2015,
+    "dengue": 58.70936
+  },
+  {
+    "munCode": "3159704",
+    "year": 2016,
+    "dengue": 4.366812
+  },
+  {
+    "munCode": "3159704",
+    "year": 2017,
+    "dengue": 1.940805
+  },
+  {
+    "munCode": "3159704",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3159704",
+    "year": 2019,
+    "dengue": 1.940805
+  },
+  {
+    "munCode": "3159704",
+    "year": 2020,
+    "dengue": 0.485201
+  },
+  {
+    "munCode": "3160108",
+    "year": 2015,
+    "dengue": 4.142012
+  },
+  {
+    "munCode": "3160108",
+    "year": 2016,
+    "dengue": 2.071006
+  },
+  {
+    "munCode": "3160108",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3160108",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3160108",
+    "year": 2019,
+    "dengue": 7.39645
+  },
+  {
+    "munCode": "3160108",
+    "year": 2020,
+    "dengue": 15.97633
+  },
+  {
+    "munCode": "3160306",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3160306",
+    "year": 2016,
+    "dengue": 1.233806
+  },
+  {
+    "munCode": "3160306",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3160306",
+    "year": 2018,
+    "dengue": 0.308452
+  },
+  {
+    "munCode": "3160306",
+    "year": 2019,
+    "dengue": 2.313387
+  },
+  {
+    "munCode": "3160306",
+    "year": 2020,
+    "dengue": 0.771129
+  },
+  {
+    "munCode": "3160454",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3160454",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3160454",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3160454",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3160454",
+    "year": 2019,
+    "dengue": 23.39532
+  },
+  {
+    "munCode": "3160454",
+    "year": 2020,
+    "dengue": 0.59988
+  },
+  {
+    "munCode": "3160801",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3160801",
+    "year": 2016,
+    "dengue": 0.214179
+  },
+  {
+    "munCode": "3160801",
+    "year": 2017,
+    "dengue": 2.570143
+  },
+  {
+    "munCode": "3160801",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3160801",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3160801",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3161809",
+    "year": 2015,
+    "dengue": 2.914145
+  },
+  {
+    "munCode": "3161809",
+    "year": 2016,
+    "dengue": 0.89666
+  },
+  {
+    "munCode": "3161809",
+    "year": 2017,
+    "dengue": 1.79332
+  },
+  {
+    "munCode": "3161809",
+    "year": 2018,
+    "dengue": 0.112082
+  },
+  {
+    "munCode": "3161809",
+    "year": 2019,
+    "dengue": 44.38467
+  },
+  {
+    "munCode": "3161809",
+    "year": 2020,
+    "dengue": 0.784577
+  },
+  {
+    "munCode": "3161908",
+    "year": 2015,
+    "dengue": 0.397219
+  },
+  {
+    "munCode": "3161908",
+    "year": 2016,
+    "dengue": 8.540218
+  },
+  {
+    "munCode": "3161908",
+    "year": 2017,
+    "dengue": 0.19861
+  },
+  {
+    "munCode": "3161908",
+    "year": 2018,
+    "dengue": 0.19861
+  },
+  {
+    "munCode": "3161908",
+    "year": 2019,
+    "dengue": 13.10824
+  },
+  {
+    "munCode": "3161908",
+    "year": 2020,
+    "dengue": 0.993049
+  },
+  {
+    "munCode": "3125507",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3125507",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3125507",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3125507",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3125507",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3125507",
+    "year": 2020,
+    "dengue": 2.942619
+  },
+  {
+    "munCode": "3162252",
+    "year": 2015,
+    "dengue": 0.390016
+  },
+  {
+    "munCode": "3162252",
+    "year": 2016,
+    "dengue": 2.730109
+  },
+  {
+    "munCode": "3162252",
+    "year": 2017,
+    "dengue": 1.560062
+  },
+  {
+    "munCode": "3162252",
+    "year": 2018,
+    "dengue": 1.560062
+  },
+  {
+    "munCode": "3162252",
+    "year": 2019,
+    "dengue": 12.87051
+  },
+  {
+    "munCode": "3162252",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3162302",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3162302",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3162302",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3162302",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3162302",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3162302",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3162450",
+    "year": 2015,
+    "dengue": 3.40651
+  },
+  {
+    "munCode": "3162450",
+    "year": 2016,
+    "dengue": 1.892506
+  },
+  {
+    "munCode": "3162450",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3162450",
+    "year": 2018,
+    "dengue": 20.06056
+  },
+  {
+    "munCode": "3162450",
+    "year": 2019,
+    "dengue": 46.17714
+  },
+  {
+    "munCode": "3162450",
+    "year": 2020,
+    "dengue": 0.378501
+  },
+  {
+    "munCode": "3162948",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3162948",
+    "year": 2016,
+    "dengue": 0.190512
+  },
+  {
+    "munCode": "3162948",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3162948",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3162948",
+    "year": 2019,
+    "dengue": 2.28615
+  },
+  {
+    "munCode": "3162948",
+    "year": 2020,
+    "dengue": 0.381025
+  },
+  {
+    "munCode": "3163300",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3163300",
+    "year": 2016,
+    "dengue": 12.48662
+  },
+  {
+    "munCode": "3163300",
+    "year": 2017,
+    "dengue": 1.427042
+  },
+  {
+    "munCode": "3163300",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3163300",
+    "year": 2019,
+    "dengue": 2.497324
+  },
+  {
+    "munCode": "3163300",
+    "year": 2020,
+    "dengue": 5.351409
+  },
+  {
+    "munCode": "3163904",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3163904",
+    "year": 2016,
+    "dengue": 0.364033
+  },
+  {
+    "munCode": "3163904",
+    "year": 2017,
+    "dengue": 0.364033
+  },
+  {
+    "munCode": "3163904",
+    "year": 2018,
+    "dengue": 0.364033
+  },
+  {
+    "munCode": "3163904",
+    "year": 2019,
+    "dengue": 0.364033
+  },
+  {
+    "munCode": "3163904",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3164308",
+    "year": 2015,
+    "dengue": 5.177848
+  },
+  {
+    "munCode": "3164308",
+    "year": 2016,
+    "dengue": 11.03107
+  },
+  {
+    "munCode": "3164308",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3164308",
+    "year": 2018,
+    "dengue": 0.900495
+  },
+  {
+    "munCode": "3164308",
+    "year": 2019,
+    "dengue": 0.450248
+  },
+  {
+    "munCode": "3164308",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3164407",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3164407",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3164407",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3164407",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3164407",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3164407",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3164605",
+    "year": 2015,
+    "dengue": 7.784265
+  },
+  {
+    "munCode": "3164605",
+    "year": 2016,
+    "dengue": 11.39839
+  },
+  {
+    "munCode": "3164605",
+    "year": 2017,
+    "dengue": 0.278009
+  },
+  {
+    "munCode": "3164605",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3164605",
+    "year": 2019,
+    "dengue": 0.834028
+  },
+  {
+    "munCode": "3164605",
+    "year": 2020,
+    "dengue": 0.278009
+  },
+  {
+    "munCode": "3164902",
+    "year": 2015,
+    "dengue": 1.433692
+  },
+  {
+    "munCode": "3164902",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3164902",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3164902",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3164902",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3164902",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165206",
+    "year": 2015,
+    "dengue": 0.245218
+  },
+  {
+    "munCode": "3165206",
+    "year": 2016,
+    "dengue": 8.33742
+  },
+  {
+    "munCode": "3165206",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165206",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165206",
+    "year": 2019,
+    "dengue": 39.97057
+  },
+  {
+    "munCode": "3165206",
+    "year": 2020,
+    "dengue": 3.433055
+  },
+  {
+    "munCode": "3165107",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165107",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165107",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165107",
+    "year": 2018,
+    "dengue": 0.177462
+  },
+  {
+    "munCode": "3165107",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165107",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165578",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165578",
+    "year": 2016,
+    "dengue": 36.02484
+  },
+  {
+    "munCode": "3165578",
+    "year": 2017,
+    "dengue": 20.80745
+  },
+  {
+    "munCode": "3165578",
+    "year": 2018,
+    "dengue": 0.621118
+  },
+  {
+    "munCode": "3165578",
+    "year": 2019,
+    "dengue": 5.279503
+  },
+  {
+    "munCode": "3165578",
+    "year": 2020,
+    "dengue": 6.521739
+  },
+  {
+    "munCode": "3165602",
+    "year": 2015,
+    "dengue": 0.642261
+  },
+  {
+    "munCode": "3165602",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165602",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165602",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165602",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165602",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165909",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165909",
+    "year": 2016,
+    "dengue": 3.393665
+  },
+  {
+    "munCode": "3165909",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165909",
+    "year": 2018,
+    "dengue": 0.565611
+  },
+  {
+    "munCode": "3165909",
+    "year": 2019,
+    "dengue": 23.75566
+  },
+  {
+    "munCode": "3165909",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3166402",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3166402",
+    "year": 2016,
+    "dengue": 0.646831
+  },
+  {
+    "munCode": "3166402",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3166402",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3166402",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3166402",
+    "year": 2020,
+    "dengue": 18.75809
+  },
+  {
+    "munCode": "3165552",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165552",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165552",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165552",
+    "year": 2018,
+    "dengue": 0.328192
+  },
+  {
+    "munCode": "3165552",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3165552",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3167400",
+    "year": 2015,
+    "dengue": 0.526316
+  },
+  {
+    "munCode": "3167400",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3167400",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3167400",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3167400",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3167400",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3167806",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3167806",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3167806",
+    "year": 2017,
+    "dengue": 0.249252
+  },
+  {
+    "munCode": "3167806",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3167806",
+    "year": 2019,
+    "dengue": 0.249252
+  },
+  {
+    "munCode": "3167806",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3168200",
+    "year": 2015,
+    "dengue": 0.898473
+  },
+  {
+    "munCode": "3168200",
+    "year": 2016,
+    "dengue": 2.695418
+  },
+  {
+    "munCode": "3168200",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3168200",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3168200",
+    "year": 2019,
+    "dengue": 0.898473
+  },
+  {
+    "munCode": "3168200",
+    "year": 2020,
+    "dengue": 1.796945
+  },
+  {
+    "munCode": "3168507",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3168507",
+    "year": 2016,
+    "dengue": 2.65252
+  },
+  {
+    "munCode": "3168507",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3168507",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3168507",
+    "year": 2019,
+    "dengue": 0.12631
+  },
+  {
+    "munCode": "3168507",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3169000",
+    "year": 2015,
+    "dengue": 2.283946
+  },
+  {
+    "munCode": "3169000",
+    "year": 2016,
+    "dengue": 5.599352
+  },
+  {
+    "munCode": "3169000",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3169000",
+    "year": 2018,
+    "dengue": 0.073676
+  },
+  {
+    "munCode": "3169000",
+    "year": 2019,
+    "dengue": 0.294703
+  },
+  {
+    "munCode": "3169000",
+    "year": 2020,
+    "dengue": 11.27238
+  },
+  {
+    "munCode": "3170008",
+    "year": 2015,
+    "dengue": 5.988024
+  },
+  {
+    "munCode": "3170008",
+    "year": 2016,
+    "dengue": 12.64138
+  },
+  {
+    "munCode": "3170008",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3170008",
+    "year": 2018,
+    "dengue": 0.332668
+  },
+  {
+    "munCode": "3170008",
+    "year": 2019,
+    "dengue": 101.4637
+  },
+  {
+    "munCode": "3170008",
+    "year": 2020,
+    "dengue": 1.66334
+  },
+  {
+    "munCode": "3170479",
+    "year": 2015,
+    "dengue": 5.333333
+  },
+  {
+    "munCode": "3170479",
+    "year": 2016,
+    "dengue": 4.8
+  },
+  {
+    "munCode": "3170479",
+    "year": 2017,
+    "dengue": 3.733333
+  },
+  {
+    "munCode": "3170479",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3170479",
+    "year": 2019,
+    "dengue": 4.266667
+  },
+  {
+    "munCode": "3170479",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3170602",
+    "year": 2015,
+    "dengue": 1.712329
+  },
+  {
+    "munCode": "3170602",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3170602",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3170602",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3170602",
+    "year": 2019,
+    "dengue": 1.712329
+  },
+  {
+    "munCode": "3170602",
+    "year": 2020,
+    "dengue": 0
+  },
+  {
+    "munCode": "3171808",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3171808",
+    "year": 2016,
+    "dengue": 0.880799
+  },
+  {
+    "munCode": "3171808",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3171808",
+    "year": 2018,
+    "dengue": 0.2936
+  },
+  {
+    "munCode": "3171808",
+    "year": 2019,
+    "dengue": 0.880799
+  },
+  {
+    "munCode": "3171808",
+    "year": 2020,
+    "dengue": 14.38638
+  },
+  {
+    "munCode": "3172202",
+    "year": 2015,
+    "dengue": 0
+  },
+  {
+    "munCode": "3172202",
+    "year": 2016,
+    "dengue": 0
+  },
+  {
+    "munCode": "3172202",
+    "year": 2017,
+    "dengue": 0
+  },
+  {
+    "munCode": "3172202",
+    "year": 2018,
+    "dengue": 0
+  },
+  {
+    "munCode": "3172202",
+    "year": 2019,
+    "dengue": 0
+  },
+  {
+    "munCode": "3172202",
+    "year": 2020,
+    "dengue": 0
+  }
+]
