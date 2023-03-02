@@ -3,6 +3,7 @@ import 'dart:io';
 import 'package:indsan/models/dengue_model.dart';
 import 'package:indsan/models/esgoto_model.dart';
 import 'package:indsan/models/esquis_model.dart';
+import 'package:indsan/models/irh_model.dart';
 import 'package:indsan/models/lepto_model.dart';
 import 'package:indsan/models/mun_model.dart';
 import 'package:indsan/models/residuos_model.dart';
@@ -10,6 +11,8 @@ import 'package:indsan/models/snis_model.dart';
 import 'package:indsan/models/t_model.dart';
 import 'package:isar/isar.dart';
 import 'package:indsan/models/ana_model.dart';
+
+import 'models/ise_model.dart';
 
 class IndStore {
   late Future<Isar> _isar2;
@@ -29,6 +32,8 @@ class IndStore {
           DengueModelSchema,
           LeptoModelSchema,
           EsquisModelSchema,
+          IrhModelSchema,
+          IseModelSchema,
         ],
         directory: '.',
       );
@@ -296,5 +301,63 @@ class IndStore {
       count = await isar.esquisModels.count();
     }
     print('Esquis collection com: $count');
+  }
+
+  Future<void> updateIrh({bool update = false}) async {
+    final isar = await _isar2;
+
+    if (update) {
+      print('Removendo todos os dados da collection Irh');
+      await isar.writeTxn(() async {
+        await isar.irhModels.clear();
+      });
+    }
+    int count = await isar.irhModels.count();
+    if (count == 0) {
+      print('Lendo dados do json para collection Irh');
+      String dataFile = 'lib/data/irh.json';
+      var dataJson = File(dataFile).readAsStringSync();
+
+      final dataJsonObj = json.decode(dataJson);
+      final List<IrhModel> list =
+          dataJsonObj.map<IrhModel>((e) => IrhModel.fromMap(e)).toList();
+
+      await isar.writeTxn(() async {
+        for (var item in list) {
+          isar.irhModels.put(item);
+        }
+      });
+      count = await isar.irhModels.count();
+    }
+    print('Irh collection com: $count');
+  }
+
+  Future<void> updateIse({bool update = false}) async {
+    final isar = await _isar2;
+
+    if (update) {
+      print('Removendo todos os dados da collection Ise');
+      await isar.writeTxn(() async {
+        await isar.iseModels.clear();
+      });
+    }
+    int count = await isar.iseModels.count();
+    if (count == 0) {
+      print('Lendo dados do json para collection Ise');
+      String dataFile = 'lib/data/ise.json';
+      var dataJson = File(dataFile).readAsStringSync();
+
+      final dataJsonObj = json.decode(dataJson);
+      final List<IseModel> list =
+          dataJsonObj.map<IseModel>((e) => IseModel.fromMap(e)).toList();
+
+      await isar.writeTxn(() async {
+        for (var item in list) {
+          isar.iseModels.put(item);
+        }
+      });
+      count = await isar.iseModels.count();
+    }
+    print('Ise collection com: $count');
   }
 }
