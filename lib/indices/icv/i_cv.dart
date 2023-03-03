@@ -24,7 +24,7 @@ class IndICV {
       } else if (result >= 5.45) {
         result = 0;
       } else {
-        result = (1 - (result / (5.45 - 0.39))) * 100;
+        result = ((5.45 - result) / (5.45 - 0.39)) * 100;
       }
     } else if (_icvData.year == 2016) {
       if (result <= 0.76) {
@@ -32,7 +32,7 @@ class IndICV {
       } else if (result >= 11.03) {
         result = 0;
       } else {
-        result = (1 - (result / (11.03 - 0.76))) * 100;
+        result = ((11.03 - result) / (11.03 - 0.76)) * 100;
       }
     } else if (_icvData.year == 2017) {
       if (result <= 0.23) {
@@ -40,7 +40,7 @@ class IndICV {
       } else if (result >= 1.39) {
         result = 0;
       } else {
-        result = (1 - (result / (1.39 - 0.23))) * 100;
+        result = ((1.39 - result) / (1.39 - 0.23)) * 100;
       }
     } else if (_icvData.year == 2018) {
       if (result <= 0.21) {
@@ -48,7 +48,7 @@ class IndICV {
       } else if (result >= 1.75) {
         result = 0;
       } else {
-        result = (1 - (result / (1.75 - 0.21))) * 100;
+        result = ((1.75 - result) / (1.75 - 0.21)) * 100;
       }
     } else if (_icvData.year == 2019) {
       if (result <= 0.60) {
@@ -56,7 +56,7 @@ class IndICV {
       } else if (result >= 13.97) {
         result = 0;
       } else {
-        result = (1 - (result / (13.97 - 0.60))) * 100;
+        result = ((13.97 - result) / (13.97 - 0.60)) * 100;
       }
     } else if (_icvData.year == 2020) {
       if (result <= 0.54) {
@@ -64,7 +64,7 @@ class IndICV {
       } else if (result >= 6.52) {
         result = 0;
       } else {
-        result = (1 - (result / (6.52 - 0.54))) * 100;
+        result = ((6.52 - result) / (6.52 - 0.54)) * 100;
       }
     }
     logs?.writeln('IVD | $result');

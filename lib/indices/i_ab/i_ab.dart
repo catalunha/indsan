@@ -69,22 +69,31 @@ class IndIAB {
       n = 0;
     }
     if (_iabData.font == 0) {
-      if (n >= 2) {
+      //subterraneo
+      if (n <= 0) {
+        n = 0;
+      } else if (n >= 2) {
         n = 100;
       } else {
-        n = 100 / 2 * n;
+        n = ((n - 0)) / (2 - 0) * 100;
       }
     } else if (_iabData.font == 1) {
-      if (n >= 2) {
+      //superficial
+      if (n <= 0) {
+        n = 0;
+      } else if (n >= 3) {
         n = 100;
       } else {
-        n = 100 / 3 * n;
+        n = ((n - 0)) / (3 - 0) * 100;
       }
     } else {
-      if (n >= 5) {
+      //integrado
+      if (n <= 0) {
+        n = 0;
+      } else if (n >= 5) {
         n = 100;
       } else {
-        n = 100 / 5 * n;
+        n = ((n - 0)) / (5 - 0) * 100;
       }
     }
     double result = n;

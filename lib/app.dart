@@ -37,15 +37,20 @@ void app() async {
 indISE() async {
   Isar isar = Isar.getInstance()!;
   IndISE indISE = IndISE();
-  List<MunModel> list = await isar.munModels.where().findAll();
+  // List<MunModel> munList = await isar.munModels.where().findAll();
+  // List<int> yearList = [2015, 2016, 2017, 2018, 2019, 2020];
+
+  List<MunModel> munList = [
+    MunModel(munCode: '3100302', munName: '', munUF: '')
+  ];
+  List<int> yearList = [2015];
 
   var pathFileName = 'lib/calcs/ise.txt';
   if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
   var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
   fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | ISE');
-  //+++ calculo de tudo
-  for (var mun in list) {
-    for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
+  for (var mun in munList) {
+    for (var year in yearList) {
       // double? ies = await indISE.calculate(mun.munCode, year, null);
       double? ies = await indISE.calculate(mun.munCode, year, fileOpen);
       print('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
@@ -53,14 +58,6 @@ indISE() async {
           .writeln('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
     }
   }
-  //--- calculo de tudo
-
-  // +++ teste unitario
-  // String munCode = '3100302';
-  // int year = 2020;
-  // double? ies = await indIES.calculate(munCode, year, fileOpen);
-  // print('Mun.:$munCode Ano:$year. IES: ${ies ?? "?"}');
-  // --- teste unitario
 
   fileOpen.close();
   isar.close();

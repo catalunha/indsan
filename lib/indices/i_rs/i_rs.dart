@@ -31,6 +31,13 @@ class IndIRS {
 
   double indISR(IOSink? logs) {
     double result = _irsData.ISR;
+    if (result <= 0) {
+      result = 0;
+    } else if (result >= 2) {
+      result = 100;
+    } else {
+      result = ((result - 0)) / (2 - 0) * 100;
+    }
     logs?.writeln('ISR | $result');
     return result;
   }

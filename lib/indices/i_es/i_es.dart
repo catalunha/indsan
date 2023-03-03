@@ -86,12 +86,12 @@ class IndIES {
     double POP = _iesData.POP;
     double result = log(CT / ES005) / log(1 + t);
     if (POP < 50000) {
-      if (result < 0) {
+      if (result <= 0) {
         result = 0;
-      } else if (result < 2) {
-        result = 100.0 / 2.0 * result;
-      } else {
+      } else if (result >= 2) {
         result = 100;
+      } else {
+        result = ((result - 0)) / (2 - 0) * 100;
       }
     } else {
       throw Exception('Valor de POP fora do limite de 50000');

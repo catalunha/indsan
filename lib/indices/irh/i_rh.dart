@@ -30,7 +30,7 @@ class IndIRH {
     } else if (result > 2) {
       result = 100;
     } else {
-      result = 0;
+      result = 50;
     }
     logs?.writeln('IDM | $result');
     return result;
