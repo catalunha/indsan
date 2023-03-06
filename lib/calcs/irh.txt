@@ -1,3 +1,3763 @@
 MunicipioNome | MunicipioCodigo | Ano | IRH
+IQB | 59.94
+IDM | 100.0
 Abre Campo | 3100302 | 2015 | 79.97
+IQB | 57.65
+IDM | 100.0
 Abre Campo | 3100302 | 2016 | 78.825
+IQB | 57.32
+IDM | 100.0
+Abre Campo | 3100302 | 2017 | 78.66
+IQB | 57.14
+IDM | 100.0
+Abre Campo | 3100302 | 2018 | 78.57
+IQB | 58.43
+IDM | 100.0
+Abre Campo | 3100302 | 2019 | 79.215
+IQB | 57.09
+IDM | 100.0
+Abre Campo | 3100302 | 2020 | 78.545
+IQB | 56.81
+IDM | 100.0
+Aguanil | 3100807 | 2015 | 78.405
+IQB | 54.6
+IDM | 100.0
+Aguanil | 3100807 | 2016 | 77.3
+IQB | 55.75
+IDM | 50.0
+Aguanil | 3100807 | 2017 | 52.875
+IQB | 56.17
+IDM | 100.0
+Aguanil | 3100807 | 2018 | 78.08500000000001
+IQB | 55.05
+IDM | 100.0
+Aguanil | 3100807 | 2019 | 77.525
+IQB | 54.06
+IDM | 100.0
+Aguanil | 3100807 | 2020 | 77.03
+IQB | 60.95
+IDM | 100.0
+Águas Formosas | 3100906 | 2015 | 80.475
+IQB | 58.82
+IDM | 100.0
+Águas Formosas | 3100906 | 2016 | 79.41
+IQB | 55.7
+IDM | 100.0
+Águas Formosas | 3100906 | 2017 | 77.85
+IQB | 57.13
+IDM | 100.0
+Águas Formosas | 3100906 | 2018 | 78.565
+IQB | 57.62
+IDM | 100.0
+Águas Formosas | 3100906 | 2019 | 78.81
+IQB | 58.48
+IDM | 100.0
+Águas Formosas | 3100906 | 2020 | 79.24
+IQB | 59.97
+IDM | 100.0
+Águas Vermelhas | 3101003 | 2015 | 79.985
+IQB | 56.81
+IDM | 100.0
+Águas Vermelhas | 3101003 | 2016 | 78.405
+IQB | 57.97
+IDM | 100.0
+Águas Vermelhas | 3101003 | 2017 | 78.985
+IQB | 53.22
+IDM | 100.0
+Águas Vermelhas | 3101003 | 2018 | 76.61
+IQB | 56.76
+IDM | 100.0
+Águas Vermelhas | 3101003 | 2019 | 78.38
+IQB | 58.11
+IDM | 100.0
+Águas Vermelhas | 3101003 | 2020 | 79.055
+IQB | 56.81
+IDM | 100.0
+Aiuruoca | 3101201 | 2015 | 78.405
+IQB | 60.89
+IDM | 0.0
+Aiuruoca | 3101201 | 2016 | 30.445
+IQB | 58.95
+IDM | 100.0
+Aiuruoca | 3101201 | 2017 | 79.475
+IQB | 59.31
+IDM | 100.0
+Aiuruoca | 3101201 | 2018 | 79.655
+IQB | 58.36
+IDM | 100.0
+Aiuruoca | 3101201 | 2019 | 79.18
+IQB | 57.09
+IDM | 100.0
+Aiuruoca | 3101201 | 2020 | 78.545
+IQB | 56.81
+IDM | 100.0
+Albertina | 3101409 | 2015 | 78.405
+IQB | 54.52
+IDM | 100.0
+Albertina | 3101409 | 2016 | 77.26
+IQB | 54.65
+IDM | 100.0
+Albertina | 3101409 | 2017 | 77.325
+IQB | 53.94
+IDM | 100.0
+Albertina | 3101409 | 2018 | 76.97
+IQB | 54.38
+IDM | 100.0
+Albertina | 3101409 | 2019 | 77.19
+IQB | 52.28
+IDM | 100.0
+Albertina | 3101409 | 2020 | 76.14
+IQB | 56.81
+IDM | 100.0
+Alfredo Vasconcelos | 3101631 | 2015 | 78.405
+IQB | 58.51
+IDM | 100.0
+Alfredo Vasconcelos | 3101631 | 2016 | 79.255
+IQB | 55.25
+IDM | 100.0
+Alfredo Vasconcelos | 3101631 | 2017 | 77.625
+IQB | 56.82
+IDM | 100.0
+Alfredo Vasconcelos | 3101631 | 2018 | 78.41
+IQB | 56.48
+IDM | 100.0
+Alfredo Vasconcelos | 3101631 | 2019 | 78.24
+IQB | 54.69
+IDM | 100.0
+Alfredo Vasconcelos | 3101631 | 2020 | 77.345
+IQB | 53.92
+IDM | 100.0
+Alto Caparaó | 3102050 | 2015 | 76.96000000000001
+IQB | 55.32
+IDM | 0.0
+Alto Caparaó | 3102050 | 2016 | 27.66
+IQB | 56.37
+IDM | 100.0
+Alto Caparaó | 3102050 | 2017 | 78.185
+IQB | 54.17
+IDM | 100.0
+Alto Caparaó | 3102050 | 2018 | 77.08500000000001
+IQB | 52.87
+IDM | 0.0
+Alto Caparaó | 3102050 | 2019 | 26.435
+IQB | 53.22
+IDM | 100.0
+Alto Caparaó | 3102050 | 2020 | 76.61
+IQB | 59.94
+IDM | 100.0
+Amparo do Serra | 3102506 | 2015 | 79.97
+IQB | 57.65
+IDM | 100.0
+Amparo do Serra | 3102506 | 2016 | 78.825
+IQB | 57.32
+IDM | 100.0
+Amparo do Serra | 3102506 | 2017 | 78.66
+IQB | 57.14
+IDM | 100.0
+Amparo do Serra | 3102506 | 2018 | 78.57
+IQB | 58.43
+IDM | 100.0
+Amparo do Serra | 3102506 | 2019 | 79.215
+IQB | 57.09
+IDM | 100.0
+Amparo do Serra | 3102506 | 2020 | 78.545
+IQB | 56.81
+IDM | 100.0
+Andrelândia | 3102803 | 2015 | 78.405
+IQB | 60.89
+IDM | 100.0
+Andrelândia | 3102803 | 2016 | 80.445
+IQB | 58.95
+IDM | 100.0
+Andrelândia | 3102803 | 2017 | 79.475
+IQB | 59.31
+IDM | 100.0
+Andrelândia | 3102803 | 2018 | 79.655
+IQB | 58.36
+IDM | 100.0
+Andrelândia | 3102803 | 2019 | 79.18
+IQB | 57.09
+IDM | 100.0
+Andrelândia | 3102803 | 2020 | 78.545
+IQB | 61.3
+IDM | 100.0
+Aricanduva | 3104452 | 2015 | 80.65
+IQB | 58.54
+IDM | 100.0
+Aricanduva | 3104452 | 2016 | 79.27
+IQB | 58.96
+IDM | 100.0
+Aricanduva | 3104452 | 2017 | 79.48
+IQB | 59.28
+IDM | 100.0
+Aricanduva | 3104452 | 2018 | 79.64
+IQB | 57.02
+IDM | 100.0
+Aricanduva | 3104452 | 2019 | 78.51
+IQB | 56.62
+IDM | 100.0
+Aricanduva | 3104452 | 2020 | 78.31
+IQB | 60.05
+IDM | 100.0
+Arinos | 3104502 | 2015 | 80.025
+IQB | 60.29
+IDM | 100.0
+Arinos | 3104502 | 2016 | 80.145
+IQB | 59.37
+IDM | 100.0
+Arinos | 3104502 | 2017 | 79.685
+IQB | 58.51
+IDM | 100.0
+Arinos | 3104502 | 2018 | 79.255
+IQB | 61.05
+IDM | 100.0
+Arinos | 3104502 | 2019 | 80.525
+IQB | 60.19
+IDM | 100.0
+Arinos | 3104502 | 2020 | 80.095
+IQB | 59.62
+IDM | 100.0
+Ataléia | 3104700 | 2015 | 79.81
+IQB | 58.17
+IDM | 100.0
+Ataléia | 3104700 | 2016 | 79.08500000000001
+IQB | 54.53
+IDM | 100.0
+Ataléia | 3104700 | 2017 | 77.265
+IQB | 57.92
+IDM | 100.0
+Ataléia | 3104700 | 2018 | 78.96000000000001
+IQB | 57.97
+IDM | 100.0
+Ataléia | 3104700 | 2019 | 78.985
+IQB | 57.63
+IDM | 100.0
+Ataléia | 3104700 | 2020 | 78.815
+IQB | 60.57
+IDM | 100.0
+Bandeira | 3105202 | 2015 | 80.285
+IQB | 57.98
+IDM | 100.0
+Bandeira | 3105202 | 2016 | 78.99
+IQB | 58.27
+IDM | 100.0
+Bandeira | 3105202 | 2017 | 79.135
+IQB | 57.19
+IDM | 100.0
+Bandeira | 3105202 | 2018 | 78.595
+IQB | 58.47
+IDM | 100.0
+Bandeira | 3105202 | 2019 | 79.235
+IQB | 55.28
+IDM | 100.0
+Bandeira | 3105202 | 2020 | 77.64
+IQB | 56.81
+IDM | 100.0
+Bandeira do Sul | 3105301 | 2015 | 78.405
+IQB | 54.52
+IDM | 100.0
+Bandeira do Sul | 3105301 | 2016 | 77.26
+IQB | 54.65
+IDM | 100.0
+Bandeira do Sul | 3105301 | 2017 | 77.325
+IQB | 53.94
+IDM | 100.0
+Bandeira do Sul | 3105301 | 2018 | 76.97
+IQB | 54.38
+IDM | 100.0
+Bandeira do Sul | 3105301 | 2019 | 77.19
+IQB | 52.28
+IDM | 100.0
+Bandeira do Sul | 3105301 | 2020 | 76.14
+IQB | 59.67
+IDM | 100.0
+Bertópolis | 3106606 | 2015 | 79.83500000000001
+IQB | 58.17
+IDM | 100.0
+Bertópolis | 3106606 | 2016 | 79.08500000000001
+IQB | 56.93
+IDM | 100.0
+Bertópolis | 3106606 | 2017 | 78.465
+IQB | 57.2
+IDM | 100.0
+Bertópolis | 3106606 | 2018 | 78.6
+IQB | 58.93
+IDM | 100.0
+Bertópolis | 3106606 | 2019 | 79.465
+IQB | 57.97
+IDM | 100.0
+Bertópolis | 3106606 | 2020 | 78.985
+IQB | 58.68
+IDM | 100.0
+Bias Fortes | 3106804 | 2015 | 79.34
+IQB | 58.79
+IDM | 100.0
+Bias Fortes | 3106804 | 2016 | 79.395
+IQB | 58.33
+IDM | 100.0
+Bias Fortes | 3106804 | 2017 | 79.16499999999999
+IQB | 57.15
+IDM | 50.0
+Bias Fortes | 3106804 | 2018 | 53.575
+IQB | 57.16
+IDM | 50.0
+Bias Fortes | 3106804 | 2019 | 53.58
+IQB | 56.02
+IDM | 100.0
+Bias Fortes | 3106804 | 2020 | 78.01
+IQB | 58.68
+IDM | 100.0
+Bocaina de Minas | 3107208 | 2015 | 79.34
+IQB | 58.79
+IDM | 100.0
+Bocaina de Minas | 3107208 | 2016 | 79.395
+IQB | 58.33
+IDM | 100.0
+Bocaina de Minas | 3107208 | 2017 | 79.16499999999999
+IQB | 57.15
+IDM | 100.0
+Bocaina de Minas | 3107208 | 2018 | 78.575
+IQB | 57.16
+IDM | 100.0
+Bocaina de Minas | 3107208 | 2019 | 78.58
+IQB | 56.02
+IDM | 100.0
+Bocaina de Minas | 3107208 | 2020 | 78.01
+IQB | 56.81
+IDM | 100.0
+Bom Jesus da Penha | 3107604 | 2015 | 78.405
+IQB | 55.59
+IDM | 100.0
+Bom Jesus da Penha | 3107604 | 2016 | 77.795
+IQB | 55.48
+IDM | 100.0
+Bom Jesus da Penha | 3107604 | 2017 | 77.74
+IQB | 54.6
+IDM | 100.0
+Bom Jesus da Penha | 3107604 | 2018 | 77.3
+IQB | 54.94
+IDM | 100.0
+Bom Jesus da Penha | 3107604 | 2019 | 77.47
+IQB | 53.11
+IDM | 100.0
+Bom Jesus da Penha | 3107604 | 2020 | 76.555
+IQB | 56.81
+IDM | 100.0
+Bom Repouso | 3107901 | 2015 | 78.405
+IQB | 54.52
+IDM | 100.0
+Bom Repouso | 3107901 | 2016 | 77.26
+IQB | 54.65
+IDM | 100.0
+Bom Repouso | 3107901 | 2017 | 77.325
+IQB | 53.94
+IDM | 100.0
+Bom Repouso | 3107901 | 2018 | 76.97
+IQB | 54.38
+IDM | 100.0
+Bom Repouso | 3107901 | 2019 | 77.19
+IQB | 52.28
+IDM | 100.0
+Bom Repouso | 3107901 | 2020 | 76.14
+IQB | 62.17
+IDM | 100.0
+Bonito de Minas | 3108255 | 2015 | 81.08500000000001
+IQB | 60.9
+IDM | 100.0
+Bonito de Minas | 3108255 | 2016 | 80.45
+IQB | 60.25
+IDM | 100.0
+Bonito de Minas | 3108255 | 2017 | 80.125
+IQB | 59.62
+IDM | 100.0
+Bonito de Minas | 3108255 | 2018 | 79.81
+IQB | 60.38
+IDM | 100.0
+Bonito de Minas | 3108255 | 2019 | 80.19
+IQB | 60.3
+IDM | 100.0
+Bonito de Minas | 3108255 | 2020 | 80.15
+IQB | 56.81
+IDM | 100.0
+Borda da Mata | 3108305 | 2015 | 78.405
+IQB | 56.89
+IDM | 100.0
+Borda da Mata | 3108305 | 2016 | 78.445
+IQB | 55.99
+IDM | 100.0
+Borda da Mata | 3108305 | 2017 | 77.995
+IQB | 55.48
+IDM | 100.0
+Borda da Mata | 3108305 | 2018 | 77.74
+IQB | 55.17
+IDM | 100.0
+Borda da Mata | 3108305 | 2019 | 77.58500000000001
+IQB | 48.81
+IDM | 100.0
+Borda da Mata | 3108305 | 2020 | 74.405
+IQB | 56.81
+IDM | 100.0
+Botelhos | 3108404 | 2015 | 78.405
+IQB | 54.52
+IDM | 100.0
+Botelhos | 3108404 | 2016 | 77.26
+IQB | 54.65
+IDM | 100.0
+Botelhos | 3108404 | 2017 | 77.325
+IQB | 53.94
+IDM | 100.0
+Botelhos | 3108404 | 2018 | 76.97
+IQB | 54.38
+IDM | 100.0
+Botelhos | 3108404 | 2019 | 77.19
+IQB | 52.28
+IDM | 100.0
+Botelhos | 3108404 | 2020 | 76.14
+IQB | 63.72
+IDM | 100.0
+Botumirim | 3108503 | 2015 | 81.86
+IQB | 62.58
+IDM | 100.0
+Botumirim | 3108503 | 2016 | 81.28999999999999
+IQB | 63.12
+IDM | 100.0
+Botumirim | 3108503 | 2017 | 81.56
+IQB | 61.39
+IDM | 100.0
+Botumirim | 3108503 | 2018 | 80.695
+IQB | 61.83
+IDM | 100.0
+Botumirim | 3108503 | 2019 | 80.91499999999999
+IQB | 59.8
+IDM | 100.0
+Botumirim | 3108503 | 2020 | 79.9
+IQB | 55.86
+IDM | 100.0
+Cachoeira da Prata | 3109600 | 2015 | 77.93
+IQB | 54.09
+IDM | 50.0
+Cachoeira da Prata | 3109600 | 2016 | 52.045
+IQB | 53.97
+IDM | 50.0
+Cachoeira da Prata | 3109600 | 2017 | 51.985
+IQB | 55.06
+IDM | 100.0
+Cachoeira da Prata | 3109600 | 2018 | 77.53
+IQB | 54.27
+IDM | 100.0
+Cachoeira da Prata | 3109600 | 2019 | 77.135
+IQB | 54.23
+IDM | 100.0
+Cachoeira da Prata | 3109600 | 2020 | 77.115
+IQB | 56.81
+IDM | 100.0
+Cachoeira de Minas | 3109709 | 2015 | 78.405
+IQB | 56.89
+IDM | 100.0
+Cachoeira de Minas | 3109709 | 2016 | 78.445
+IQB | 55.99
+IDM | 100.0
+Cachoeira de Minas | 3109709 | 2017 | 77.995
+IQB | 55.48
+IDM | 100.0
+Cachoeira de Minas | 3109709 | 2018 | 77.74
+IQB | 55.17
+IDM | 100.0
+Cachoeira de Minas | 3109709 | 2019 | 77.58500000000001
+IQB | 48.81
+IDM | 100.0
+Cachoeira de Minas | 3109709 | 2020 | 74.405
+IQB | 53.92
+IDM | 100.0
+Caiana | 3110103 | 2015 | 76.96000000000001
+IQB | 55.32
+IDM | 100.0
+Caiana | 3110103 | 2016 | 77.66
+IQB | 56.37
+IDM | 100.0
+Caiana | 3110103 | 2017 | 78.185
+IQB | 54.17
+IDM | 100.0
+Caiana | 3110103 | 2018 | 77.08500000000001
+IQB | 52.87
+IDM | 100.0
+Caiana | 3110103 | 2019 | 76.435
+IQB | 53.22
+IDM | 100.0
+Caiana | 3110103 | 2020 | 76.61
+IQB | 56.81
+IDM | 100.0
+Caldas | 3110301 | 2015 | 78.405
+IQB | 54.52
+IDM | 100.0
+Caldas | 3110301 | 2016 | 77.26
+IQB | 54.65
+IDM | 100.0
+Caldas | 3110301 | 2017 | 77.325
+IQB | 53.94
+IDM | 100.0
+Caldas | 3110301 | 2018 | 76.97
+IQB | 54.38
+IDM | 100.0
+Caldas | 3110301 | 2019 | 77.19
+IQB | 52.28
+IDM | 100.0
+Caldas | 3110301 | 2020 | 76.14
+IQB | 56.81
+IDM | 100.0
+Camacho | 3110400 | 2015 | 78.405
+IQB | 54.6
+IDM | 100.0
+Camacho | 3110400 | 2016 | 77.3
+IQB | 55.75
+IDM | 100.0
+Camacho | 3110400 | 2017 | 77.875
+IQB | 56.17
+IDM | 100.0
+Camacho | 3110400 | 2018 | 78.08500000000001
+IQB | 55.05
+IDM | 100.0
+Camacho | 3110400 | 2019 | 77.525
+IQB | 54.06
+IDM | 100.0
+Camacho | 3110400 | 2020 | 77.03
+IQB | 56.81
+IDM | 100.0
+Cambuquira | 3110707 | 2015 | 78.405
+IQB | 58.61
+IDM | 100.0
+Cambuquira | 3110707 | 2016 | 79.305
+IQB | 56.38
+IDM | 100.0
+Cambuquira | 3110707 | 2017 | 78.19
+IQB | 56.24
+IDM | 100.0
+Cambuquira | 3110707 | 2018 | 78.12
+IQB | 56.47
+IDM | 100.0
+Cambuquira | 3110707 | 2019 | 78.235
+IQB | 55.29
+IDM | 100.0
+Cambuquira | 3110707 | 2020 | 77.645
+IQB | 56.81
+IDM | 100.0
+Campanha | 3110905 | 2015 | 78.405
+IQB | 58.61
+IDM | 100.0
+Campanha | 3110905 | 2016 | 79.305
+IQB | 56.38
+IDM | 100.0
+Campanha | 3110905 | 2017 | 78.19
+IQB | 56.24
+IDM | 100.0
+Campanha | 3110905 | 2018 | 78.12
+IQB | 56.47
+IDM | 100.0
+Campanha | 3110905 | 2019 | 78.235
+IQB | 55.29
+IDM | 100.0
+Campanha | 3110905 | 2020 | 77.645
+IQB | 56.81
+IDM | 100.0
+Campina Verde | 3111101 | 2015 | 78.405
+IQB | 54.61
+IDM | 100.0
+Campina Verde | 3111101 | 2016 | 77.305
+IQB | 53.54
+IDM | 100.0
+Campina Verde | 3111101 | 2017 | 76.77
+IQB | 53.46
+IDM | 100.0
+Campina Verde | 3111101 | 2018 | 76.73
+IQB | 56.26
+IDM | 100.0
+Campina Verde | 3111101 | 2019 | 78.13
+IQB | 56.23
+IDM | 100.0
+Campina Verde | 3111101 | 2020 | 78.115
+IQB | 56.81
+IDM | 100.0
+Campo do Meio | 3111309 | 2015 | 78.405
+IQB | 54.6
+IDM | 100.0
+Campo do Meio | 3111309 | 2016 | 77.3
+IQB | 55.75
+IDM | 100.0
+Campo do Meio | 3111309 | 2017 | 77.875
+IQB | 56.17
+IDM | 100.0
+Campo do Meio | 3111309 | 2018 | 78.08500000000001
+IQB | 55.05
+IDM | 100.0
+Campo do Meio | 3111309 | 2019 | 77.525
+IQB | 54.06
+IDM | 100.0
+Campo do Meio | 3111309 | 2020 | 77.03
+IQB | 56.81
+IDM | 100.0
+Campo Florido | 3111408 | 2015 | 78.405
+IQB | 54.61
+IDM | 100.0
+Campo Florido | 3111408 | 2016 | 77.305
+IQB | 53.54
+IDM | 100.0
+Campo Florido | 3111408 | 2017 | 76.77
+IQB | 53.46
+IDM | 100.0
+Campo Florido | 3111408 | 2018 | 76.73
+IQB | 56.26
+IDM | 100.0
+Campo Florido | 3111408 | 2019 | 78.13
+IQB | 56.23
+IDM | 100.0
+Campo Florido | 3111408 | 2020 | 78.115
+IQB | 59.94
+IDM | 100.0
+Canaã | 3111705 | 2015 | 79.97
+IQB | 57.65
+IDM | 100.0
+Canaã | 3111705 | 2016 | 78.825
+IQB | 57.32
+IDM | 100.0
+Canaã | 3111705 | 2017 | 78.66
+IQB | 57.14
+IDM | 100.0
+Canaã | 3111705 | 2018 | 78.57
+IQB | 58.43
+IDM | 100.0
+Canaã | 3111705 | 2019 | 79.215
+IQB | 57.09
+IDM | 100.0
+Canaã | 3111705 | 2020 | 78.545
+IQB | 56.81
+IDM | 100.0
+Cana Verde | 3111903 | 2015 | 78.405
+IQB | 54.6
+IDM | 100.0
+Cana Verde | 3111903 | 2016 | 77.3
+IQB | 55.75
+IDM | 100.0
+Cana Verde | 3111903 | 2017 | 77.875
+IQB | 56.17
+IDM | 100.0
+Cana Verde | 3111903 | 2018 | 78.08500000000001
+IQB | 55.05
+IDM | 100.0
+Cana Verde | 3111903 | 2019 | 77.525
+IQB | 54.06
+IDM | 100.0
+Cana Verde | 3111903 | 2020 | 77.03
+IQB | 53.92
+IDM | 100.0
+Caparaó | 3112109 | 2015 | 76.96000000000001
+IQB | 55.32
+IDM | 100.0
+Caparaó | 3112109 | 2016 | 77.66
+IQB | 56.37
+IDM | 100.0
+Caparaó | 3112109 | 2017 | 78.185
+IQB | 54.17
+IDM | 100.0
+Caparaó | 3112109 | 2018 | 77.08500000000001
+IQB | 52.87
+IDM | 100.0
+Caparaó | 3112109 | 2019 | 76.435
+IQB | 53.22
+IDM | 100.0
+Caparaó | 3112109 | 2020 | 76.61
+IQB | 56.81
+IDM | 100.0
+Capetinga | 3112406 | 2015 | 78.405
+IQB | 55.59
+IDM | 100.0
+Capetinga | 3112406 | 2016 | 77.795
+IQB | 55.48
+IDM | 100.0
+Capetinga | 3112406 | 2017 | 77.74
+IQB | 54.6
+IDM | 100.0
+Capetinga | 3112406 | 2018 | 77.3
+IQB | 54.94
+IDM | 100.0
+Capetinga | 3112406 | 2019 | 77.47
+IQB | 53.11
+IDM | 100.0
+Capetinga | 3112406 | 2020 | 76.555
+IQB | 54.37
+IDM | 100.0
+Capim Branco | 3112505 | 2015 | 77.185
+IQB | 54.62
+IDM | 100.0
+Capim Branco | 3112505 | 2016 | 77.31
+IQB | 53.26
+IDM | 100.0
+Capim Branco | 3112505 | 2017 | 76.63
+IQB | 53.47
+IDM | 100.0
+Capim Branco | 3112505 | 2018 | 76.735
+IQB | 54.87
+IDM | 100.0
+Capim Branco | 3112505 | 2019 | 77.435
+IQB | 53.2
+IDM | 100.0
+Capim Branco | 3112505 | 2020 | 76.6
+IQB | 59.94
+IDM | 100.0
+Caputira | 3112901 | 2015 | 79.97
+IQB | 57.65
+IDM | 100.0
+Caputira | 3112901 | 2016 | 78.825
+IQB | 57.32
+IDM | 100.0
+Caputira | 3112901 | 2017 | 78.66
+IQB | 57.14
+IDM | 100.0
+Caputira | 3112901 | 2018 | 78.57
+IQB | 58.43
+IDM | 100.0
+Caputira | 3112901 | 2019 | 79.215
+IQB | 57.09
+IDM | 100.0
+Caputira | 3112901 | 2020 | 78.545
+IQB | 59.94
+IDM | 100.0
+Caranaíba | 3113107 | 2015 | 79.97
+IQB | 57.65
+IDM | 100.0
+Caranaíba | 3113107 | 2016 | 78.825
+IQB | 57.32
+IDM | 100.0
+Caranaíba | 3113107 | 2017 | 78.66
+IQB | 57.14
+IDM | 100.0
+Caranaíba | 3113107 | 2018 | 78.57
+IQB | 58.43
+IDM | 100.0
+Caranaíba | 3113107 | 2019 | 79.215
+IQB | 57.09
+IDM | 100.0
+Caranaíba | 3113107 | 2020 | 78.545
+IQB | 56.81
+IDM | 100.0
+Careaçu | 3113602 | 2015 | 78.405
+IQB | 56.89
+IDM | 100.0
+Careaçu | 3113602 | 2016 | 78.445
+IQB | 55.99
+IDM | 100.0
+Careaçu | 3113602 | 2017 | 77.995
+IQB | 55.48
+IDM | 100.0
+Careaçu | 3113602 | 2018 | 77.74
+IQB | 55.17
+IDM | 100.0
+Careaçu | 3113602 | 2019 | 77.58500000000001
+IQB | 48.81
+IDM | 100.0
+Careaçu | 3113602 | 2020 | 74.405
+IQB | 60.95
+IDM | 100.0
+Carlos Chagas | 3113701 | 2015 | 80.475
+IQB | 58.82
+IDM | 50.0
+Carlos Chagas | 3113701 | 2016 | 54.41
+IQB | 55.7
+IDM | 50.0
+Carlos Chagas | 3113701 | 2017 | 52.85
+IQB | 57.13
+IDM | 50.0
+Carlos Chagas | 3113701 | 2018 | 53.565
+IQB | 57.62
+IDM | 50.0
+Carlos Chagas | 3113701 | 2019 | 53.81
+IQB | 58.48
+IDM | 100.0
+Carlos Chagas | 3113701 | 2020 | 79.24
+IQB | 56.81
+IDM | 100.0
+Carmo da Cachoeira | 3113909 | 2015 | 78.405
+IQB | 58.51
+IDM | 100.0
+Carmo da Cachoeira | 3113909 | 2016 | 79.255
+IQB | 55.25
+IDM | 100.0
+Carmo da Cachoeira | 3113909 | 2017 | 77.625
+IQB | 56.82
+IDM | 100.0
+Carmo da Cachoeira | 3113909 | 2018 | 78.41
+IQB | 56.48
+IDM | 100.0
+Carmo da Cachoeira | 3113909 | 2019 | 78.24
+IQB | 54.69
+IDM | 100.0
+Carmo da Cachoeira | 3113909 | 2020 | 77.345
+IQB | 56.81
+IDM | 100.0
+Carmo de Minas | 3114105 | 2015 | 78.405
+IQB | 58.61
+IDM | 100.0
+Carmo de Minas | 3114105 | 2016 | 79.305
+IQB | 56.38
+IDM | 100.0
+Carmo de Minas | 3114105 | 2017 | 78.19
+IQB | 56.24
+IDM | 100.0
+Carmo de Minas | 3114105 | 2018 | 78.12
+IQB | 56.47
+IDM | 100.0
+Carmo de Minas | 3114105 | 2019 | 78.235
+IQB | 55.29
+IDM | 100.0
+Carmo de Minas | 3114105 | 2020 | 77.645
+IQB | 60.72
+IDM | 100.0
+Carneirinho | 3114550 | 2015 | 80.36
+IQB | 59.57
+IDM | 100.0
+Carneirinho | 3114550 | 2016 | 79.785
+IQB | 59.26
+IDM | 100.0
+Carneirinho | 3114550 | 2017 | 79.63
+IQB | 59.6
+IDM | 100.0
+Carneirinho | 3114550 | 2018 | 79.8
+IQB | 59.83
+IDM | 100.0
+Carneirinho | 3114550 | 2019 | 79.91499999999999
+IQB | 60.51
+IDM | 100.0
+Carneirinho | 3114550 | 2020 | 80.255
+IQB | 56.81
+IDM | 100.0
+Carrancas | 3114600 | 2015 | 78.405
+IQB | 60.89
+IDM | 100.0
+Carrancas | 3114600 | 2016 | 80.445
+IQB | 58.95
+IDM | 100.0
+Carrancas | 3114600 | 2017 | 79.475
+IQB | 59.31
+IDM | 100.0
+Carrancas | 3114600 | 2018 | 79.655
+IQB | 58.36
+IDM | 100.0
+Carrancas | 3114600 | 2019 | 79.18
+IQB | 57.09
+IDM | 100.0
+Carrancas | 3114600 | 2020 | 78.545
+IQB | 56.81
+IDM | 100.0
+Carvalhópolis | 3114709 | 2015 | 78.405
+IQB | 56.89
+IDM | 100.0
+Carvalhópolis | 3114709 | 2016 | 78.445
+IQB | 55.99
+IDM | 100.0
+Carvalhópolis | 3114709 | 2017 | 77.995
+IQB | 55.48
+IDM | 100.0
+Carvalhópolis | 3114709 | 2018 | 77.74
+IQB | 55.17
+IDM | 100.0
+Carvalhópolis | 3114709 | 2019 | 77.58500000000001
+IQB | 48.81
+IDM | 100.0
+Carvalhópolis | 3114709 | 2020 | 74.405
+IQB | 56.81
+IDM | 100.0
+Carvalhos | 3114808 | 2015 | 78.405
+IQB | 60.89
+IDM | 100.0
+Carvalhos | 3114808 | 2016 | 80.445
+IQB | 58.95
+IDM | 100.0
+Carvalhos | 3114808 | 2017 | 79.475
+IQB | 59.31
+IDM | 100.0
+Carvalhos | 3114808 | 2018 | 79.655
+IQB | 58.36
+IDM | 100.0
+Carvalhos | 3114808 | 2019 | 79.18
+IQB | 57.09
+IDM | 100.0
+Carvalhos | 3114808 | 2020 | 78.545
+IQB | 58.74
+IDM | 100.0
+Cascalho Rico | 3115003 | 2015 | 79.37
+IQB | 57.76
+IDM | 100.0
+Cascalho Rico | 3115003 | 2016 | 78.88
+IQB | 55.35
+IDM | 100.0
+Cascalho Rico | 3115003 | 2017 | 77.675
+IQB | 56.58
+IDM | 100.0
+Cascalho Rico | 3115003 | 2018 | 78.28999999999999
+IQB | 57.67
+IDM | 100.0
+Cascalho Rico | 3115003 | 2019 | 78.83500000000001
+IQB | 57.61
+IDM | 100.0
+Cascalho Rico | 3115003 | 2020 | 78.805
+IQB | 56.81
+IDM | 100.0
+Conceição da Barra de Minas | 3115201 | 2015 | 78.405
+IQB | 58.51
+IDM | 100.0
+Conceição da Barra de Minas | 3115201 | 2016 | 79.255
+IQB | 55.25
+IDM | 100.0
+Conceição da Barra de Minas | 3115201 | 2017 | 77.625
+IQB | 56.82
+IDM | 100.0
+Conceição da Barra de Minas | 3115201 | 2018 | 78.41
+IQB | 56.48
+IDM | 100.0
+Conceição da Barra de Minas | 3115201 | 2019 | 78.24
+IQB | 54.69
+IDM | 100.0
+Conceição da Barra de Minas | 3115201 | 2020 | 77.345
+IQB | 59.24
+IDM | 100.0
+Cedro do Abaeté | 3115607 | 2015 | 79.62
+IQB | 58.21
+IDM | 100.0
+Cedro do Abaeté | 3115607 | 2016 | 79.105
+IQB | 57.66
+IDM | 100.0
+Cedro do Abaeté | 3115607 | 2017 | 78.83
+IQB | 55.72
+IDM | 100.0
+Cedro do Abaeté | 3115607 | 2018 | 77.86
+IQB | 57.37
+IDM | 100.0
+Cedro do Abaeté | 3115607 | 2019 | 78.685
+IQB | 57.34
+IDM | 100.0
+Cedro do Abaeté | 3115607 | 2020 | 78.67
+IQB | 58.68
+IDM | 100.0
+Chiador | 3116209 | 2015 | 79.34
+IQB | 58.79
+IDM | 100.0
+Chiador | 3116209 | 2016 | 79.395
+IQB | 58.33
+IDM | 100.0
+Chiador | 3116209 | 2017 | 79.16499999999999
+IQB | 57.15
+IDM | 100.0
+Chiador | 3116209 | 2018 | 78.575
+IQB | 57.16
+IDM | 100.0
+Chiador | 3116209 | 2019 | 78.58
+IQB | 56.02
+IDM | 100.0
+Chiador | 3116209 | 2020 | 78.01
+IQB | 56.81
+IDM | 100.0
+Claraval | 3116407 | 2015 | 78.405
+IQB | 55.59
+IDM | 100.0
+Claraval | 3116407 | 2016 | 77.795
+IQB | 55.48
+IDM | 100.0
+Claraval | 3116407 | 2017 | 77.74
+IQB | 54.6
+IDM | 100.0
+Claraval | 3116407 | 2018 | 77.3
+IQB | 54.94
+IDM | 100.0
+Claraval | 3116407 | 2019 | 77.47
+IQB | 53.11
+IDM | 100.0
+Claraval | 3116407 | 2020 | 76.555
+IQB | 57.96
+IDM | 100.0
+Claro dos Poções | 3116506 | 2015 | 78.98
+IQB | 56.54
+IDM | 100.0
+Claro dos Poções | 3116506 | 2016 | 78.27
+IQB | 56.6
+IDM | 100.0
+Claro dos Poções | 3116506 | 2017 | 78.3
+IQB | 57.54
+IDM | 100.0
+Claro dos Poções | 3116506 | 2018 | 78.77
+IQB | 56.23
+IDM | 100.0
+Claro dos Poções | 3116506 | 2019 | 78.115
+IQB | 56.66
+IDM | 100.0
+Claro dos Poções | 3116506 | 2020 | 78.33
+IQB | 60.57
+IDM | 100.0
+Comercinho | 3117009 | 2015 | 80.285
+IQB | 57.98
+IDM | 100.0
+Comercinho | 3117009 | 2016 | 78.99
+IQB | 58.27
+IDM | 100.0
+Comercinho | 3117009 | 2017 | 79.135
+IQB | 57.19
+IDM | 100.0
+Comercinho | 3117009 | 2018 | 78.595
+IQB | 58.47
+IDM | 100.0
+Comercinho | 3117009 | 2019 | 79.235
+IQB | 55.28
+IDM | 100.0
+Comercinho | 3117009 | 2020 | 77.64
+IQB | 56.81
+IDM | 100.0
+Conceição das Pedras | 3117207 | 2015 | 78.405
+IQB | 56.89
+IDM | 0.0
+Conceição das Pedras | 3117207 | 2016 | 28.445
+IQB | 55.99
+IDM | 0.0
+Conceição das Pedras | 3117207 | 2017 | 27.995
+IQB | 55.48
+IDM | 0.0
+Conceição das Pedras | 3117207 | 2018 | 27.74
+IQB | 55.17
+IDM | 0.0
+Conceição das Pedras | 3117207 | 2019 | 27.585
+IQB | 48.81
+IDM | 100.0
+Conceição das Pedras | 3117207 | 2020 | 74.405
+IQB | 56.81
+IDM | 100.0
+Conceição do Rio Verde | 3117702 | 2015 | 78.405
+IQB | 58.61
+IDM | 100.0
+Conceição do Rio Verde | 3117702 | 2016 | 79.305
+IQB | 56.38
+IDM | 100.0
+Conceição do Rio Verde | 3117702 | 2017 | 78.19
+IQB | 56.24
+IDM | 100.0
+Conceição do Rio Verde | 3117702 | 2018 | 78.12
+IQB | 56.47
+IDM | 100.0
+Conceição do Rio Verde | 3117702 | 2019 | 78.235
+IQB | 55.29
+IDM | 100.0
+Conceição do Rio Verde | 3117702 | 2020 | 77.645
+IQB | 62.17
+IDM | 100.0
+Cônego Marinho | 3117836 | 2015 | 81.08500000000001
+IQB | 60.9
+IDM | 100.0
+Cônego Marinho | 3117836 | 2016 | 80.45
+IQB | 60.25
+IDM | 100.0
+Cônego Marinho | 3117836 | 2017 | 80.125
+IQB | 59.62
+IDM | 100.0
+Cônego Marinho | 3117836 | 2018 | 79.81
+IQB | 60.38
+IDM | 100.0
+Cônego Marinho | 3117836 | 2019 | 80.19
+IQB | 60.3
+IDM | 100.0
+Cônego Marinho | 3117836 | 2020 | 80.15
+IQB | 56.81
+IDM | 100.0
+Congonhal | 3117900 | 2015 | 78.405
+IQB | 56.89
+IDM | 100.0
+Congonhal | 3117900 | 2016 | 78.445
+IQB | 55.99
+IDM | 100.0
+Congonhal | 3117900 | 2017 | 77.995
+IQB | 55.48
+IDM | 100.0
+Congonhal | 3117900 | 2018 | 77.74
+IQB | 55.17
+IDM | 100.0
+Congonhal | 3117900 | 2019 | 77.58500000000001
+IQB | 48.81
+IDM | 100.0
+Congonhal | 3117900 | 2020 | 74.405
+IQB | 56.81
+IDM | 100.0
+Cordislândia | 3119005 | 2015 | 78.405
+IQB | 56.89
+IDM | 100.0
+Cordislândia | 3119005 | 2016 | 78.445
+IQB | 55.99
+IDM | 100.0
+Cordislândia | 3119005 | 2017 | 77.995
+IQB | 55.48
+IDM | 100.0
+Cordislândia | 3119005 | 2018 | 77.74
+IQB | 55.17
+IDM | 100.0
+Cordislândia | 3119005 | 2019 | 77.58500000000001
+IQB | 48.81
+IDM | 100.0
+Cordislândia | 3119005 | 2020 | 74.405
+IQB | 60.57
+IDM | 100.0
+Coronel Murta | 3119500 | 2015 | 80.285
+IQB | 57.98
+IDM | 100.0
+Coronel Murta | 3119500 | 2016 | 78.99
+IQB | 58.27
+IDM | 100.0
+Coronel Murta | 3119500 | 2017 | 79.135
+IQB | 57.19
+IDM | 100.0
+Coronel Murta | 3119500 | 2018 | 78.595
+IQB | 58.47
+IDM | 100.0
+Coronel Murta | 3119500 | 2019 | 79.235
+IQB | 55.28
+IDM | 100.0
+Coronel Murta | 3119500 | 2020 | 77.64
+IQB | 60.98
+IDM | 100.0
+Córrego Danta | 3119807 | 2015 | 80.49
+IQB | 60.2
+IDM | 100.0
+Córrego Danta | 3119807 | 2016 | 80.1
+IQB | 58.57
+IDM | 100.0
+Córrego Danta | 3119807 | 2017 | 79.285
+IQB | 57.84
+IDM | 100.0
+Córrego Danta | 3119807 | 2018 | 78.92
+IQB | 58.82
+IDM | 100.0
+Córrego Danta | 3119807 | 2019 | 79.41
+IQB | 57.76
+IDM | 100.0
+Córrego Danta | 3119807 | 2020 | 78.88
+IQB | 56.81
+IDM | 100.0
+Córrego do Bom Jesus | 3119906 | 2015 | 78.405
+IQB | 56.89
+IDM | 100.0
+Córrego do Bom Jesus | 3119906 | 2016 | 78.445
+IQB | 55.99
+IDM | 100.0
+Córrego do Bom Jesus | 3119906 | 2017 | 77.995
+IQB | 55.48
+IDM | 100.0
+Córrego do Bom Jesus | 3119906 | 2018 | 77.74
+IQB | 55.17
+IDM | 100.0
+Córrego do Bom Jesus | 3119906 | 2019 | 77.58500000000001
+IQB | 48.81
+IDM | 100.0
+Córrego do Bom Jesus | 3119906 | 2020 | 74.405
+IQB | 60.95
+IDM | 100.0
+Crisólita | 3120151 | 2015 | 80.475
+IQB | 58.82
+IDM | 100.0
+Crisólita | 3120151 | 2016 | 79.41
+IQB | 55.7
+IDM | 100.0
+Crisólita | 3120151 | 2017 | 77.85
+IQB | 57.13
+IDM | 100.0
+Crisólita | 3120151 | 2018 | 78.565
+IQB | 57.62
+IDM | 100.0
+Crisólita | 3120151 | 2019 | 78.81
+IQB | 58.48
+IDM | 100.0
+Crisólita | 3120151 | 2020 | 79.24
+IQB | 56.81
+IDM | 100.0
+Cristais | 3120201 | 2015 | 78.405
+IQB | 54.6
+IDM | 100.0
+Cristais | 3120201 | 2016 | 77.3
+IQB | 55.75
+IDM | 100.0
+Cristais | 3120201 | 2017 | 77.875
+IQB | 56.17
+IDM | 100.0
+Cristais | 3120201 | 2018 | 78.08500000000001
+IQB | 55.05
+IDM | 100.0
+Cristais | 3120201 | 2019 | 77.525
+IQB | 54.06
+IDM | 100.0
+Cristais | 3120201 | 2020 | 77.03
+IQB | 56.81
+IDM | 100.0
+Cristina | 3120508 | 2015 | 78.405
+IQB | 58.61
+IDM | 50.0
+Cristina | 3120508 | 2016 | 54.305
+IQB | 56.38
+IDM | 50.0
+Cristina | 3120508 | 2017 | 53.19
+IQB | 56.24
+IDM | 50.0
+Cristina | 3120508 | 2018 | 53.120000000000005
+IQB | 56.47
+IDM | 50.0
+Cristina | 3120508 | 2019 | 53.235
+IQB | 55.29
+IDM | 100.0
+Cristina | 3120508 | 2020 | 77.645
+IQB | 55.86
+IDM | 100.0
+Crucilândia | 3120607 | 2015 | 77.93
+IQB | 54.09
+IDM | 100.0
+Crucilândia | 3120607 | 2016 | 77.045
+IQB | 53.97
+IDM | 100.0
+Crucilândia | 3120607 | 2017 | 76.985
+IQB | 55.06
+IDM | 100.0
+Crucilândia | 3120607 | 2018 | 77.53
+IQB | 54.27
+IDM | 100.0
+Crucilândia | 3120607 | 2019 | 77.135
+IQB | 54.23
+IDM | 100.0
+Crucilândia | 3120607 | 2020 | 77.115
+IQB | 56.81
+IDM | 100.0
+Cruzília | 3120805 | 2015 | 78.405
+IQB | 60.89
+IDM | 100.0
+Cruzília | 3120805 | 2016 | 80.445
+IQB | 58.95
+IDM | 100.0
+Cruzília | 3120805 | 2017 | 79.475
+IQB | 59.31
+IDM | 100.0
+Cruzília | 3120805 | 2018 | 79.655
+IQB | 58.36
+IDM | 100.0
+Cruzília | 3120805 | 2019 | 79.18
+IQB | 57.09
+IDM | 100.0
+Cruzília | 3120805 | 2020 | 78.545
+IQB | 59.97
+IDM | 100.0
+Curral de Dentro | 3120870 | 2015 | 79.985
+IQB | 56.81
+IDM | 100.0
+Curral de Dentro | 3120870 | 2016 | 78.405
+IQB | 57.97
+IDM | 100.0
+Curral de Dentro | 3120870 | 2017 | 78.985
+IQB | 53.22
+IDM | 100.0
+Curral de Dentro | 3120870 | 2018 | 76.61
+IQB | 56.76
+IDM | 100.0
+Curral de Dentro | 3120870 | 2019 | 78.38
+IQB | 58.11
+IDM | 100.0
+Curral de Dentro | 3120870 | 2020 | 79.055
+IQB | 54.37
+IDM | 100.0
+Datas | 3121001 | 2015 | 77.185
+IQB | 54.62
+IDM | 100.0
+Datas | 3121001 | 2016 | 77.31
+IQB | 53.26
+IDM | 100.0
+Datas | 3121001 | 2017 | 76.63
+IQB | 53.47
+IDM | 100.0
+Datas | 3121001 | 2018 | 76.735
+IQB | 54.87
+IDM | 100.0
+Datas | 3121001 | 2019 | 77.435
+IQB | 53.2
+IDM | 100.0
+Datas | 3121001 | 2020 | 76.6
+IQB | 56.81
+IDM | 100.0
+Delfim Moreira | 3121100 | 2015 | 78.405
+IQB | 56.89
+IDM | 100.0
+Delfim Moreira | 3121100 | 2016 | 78.445
+IQB | 55.99
+IDM | 100.0
+Delfim Moreira | 3121100 | 2017 | 77.995
+IQB | 55.48
+IDM | 100.0
+Delfim Moreira | 3121100 | 2018 | 77.74
+IQB | 55.17
+IDM | 100.0
+Delfim Moreira | 3121100 | 2019 | 77.58500000000001
+IQB | 48.81
+IDM | 100.0
+Delfim Moreira | 3121100 | 2020 | 74.405
+IQB | 56.81
+IDM | 100.0
+Delfinópolis | 3121209 | 2015 | 78.405
+IQB | 55.59
+IDM | 100.0
+Delfinópolis | 3121209 | 2016 | 77.795
+IQB | 55.48
+IDM | 100.0
+Delfinópolis | 3121209 | 2017 | 77.74
+IQB | 54.6
+IDM | 100.0
+Delfinópolis | 3121209 | 2018 | 77.3
+IQB | 54.94
+IDM | 100.0
+Delfinópolis | 3121209 | 2019 | 77.47
+IQB | 53.11
+IDM | 100.0
+Delfinópolis | 3121209 | 2020 | 76.555
+IQB | 56.81
+IDM | 100.0
+Delta | 3121258 | 2015 | 78.405
+IQB | 54.61
+IDM | 50.0
+Delta | 3121258 | 2016 | 52.305
+IQB | 53.54
+IDM | 50.0
+Delta | 3121258 | 2017 | 51.769999999999996
+IQB | 53.46
+IDM | 50.0
+Delta | 3121258 | 2018 | 51.730000000000004
+IQB | 56.26
+IDM | 0.0
+Delta | 3121258 | 2019 | 28.13
+IQB | 56.23
+IDM | 100.0
+Delta | 3121258 | 2020 | 78.115
+IQB | 56.81
+IDM | 100.0
+Dom Viçoso | 3122801 | 2015 | 78.405
+IQB | 58.61
+IDM | 50.0
+Dom Viçoso | 3122801 | 2016 | 54.305
+IQB | 56.38
+IDM | 50.0
+Dom Viçoso | 3122801 | 2017 | 53.19
+IQB | 56.24
+IDM | 50.0
+Dom Viçoso | 3122801 | 2018 | 53.120000000000005
+IQB | 56.47
+IDM | 100.0
+Dom Viçoso | 3122801 | 2019 | 78.235
+IQB | 55.29
+IDM | 100.0
+Dom Viçoso | 3122801 | 2020 | 77.645
+IQB | 55.59
+IDM | 100.0
+Dona Eusébia | 3122900 | 2015 | 77.795
+IQB | 55.71
+IDM | 0.0
+Dona Eusébia | 3122900 | 2016 | 27.855
+IQB | 53.74
+IDM | 0.0
+Dona Eusébia | 3122900 | 2017 | 26.87
+IQB | 54.05
+IDM | 0.0
+Dona Eusébia | 3122900 | 2018 | 27.025
+IQB | 55.16
+IDM | 0.0
+Dona Eusébia | 3122900 | 2019 | 27.58
+IQB | 53.52
+IDM | 100.0
+Dona Eusébia | 3122900 | 2020 | 76.76
+IQB | 58.74
+IDM | 100.0
+Douradoquara | 3123502 | 2015 | 79.37
+IQB | 57.76
+IDM | 100.0
+Douradoquara | 3123502 | 2016 | 78.88
+IQB | 55.35
+IDM | 100.0
+Douradoquara | 3123502 | 2017 | 77.675
+IQB | 56.58
+IDM | 100.0
+Douradoquara | 3123502 | 2018 | 78.28999999999999
+IQB | 57.67
+IDM | 100.0
+Douradoquara | 3123502 | 2019 | 78.83500000000001
+IQB | 57.61
+IDM | 100.0
+Douradoquara | 3123502 | 2020 | 78.805
+IQB | 55.86
+IDM | 100.0
+Entre Rios de Minas | 3123908 | 2015 | 77.93
+IQB | 54.09
+IDM | 100.0
+Entre Rios de Minas | 3123908 | 2016 | 77.045
+IQB | 53.97
+IDM | 100.0
+Entre Rios de Minas | 3123908 | 2017 | 76.985
+IQB | 55.06
+IDM | 100.0
+Entre Rios de Minas | 3123908 | 2018 | 77.53
+IQB | 54.27
+IDM | 100.0
+Entre Rios de Minas | 3123908 | 2019 | 77.135
+IQB | 54.23
+IDM | 100.0
+Entre Rios de Minas | 3123908 | 2020 | 77.115
+IQB | 56.81
+IDM | 100.0
+Estiva | 3124500 | 2015 | 78.405
+IQB | 56.89
+IDM | 100.0
+Estiva | 3124500 | 2016 | 78.445
+IQB | 55.99
+IDM | 100.0
+Estiva | 3124500 | 2017 | 77.995
+IQB | 55.48
+IDM | 100.0
+Estiva | 3124500 | 2018 | 77.74
+IQB | 55.17
+IDM | 100.0
+Estiva | 3124500 | 2019 | 77.58500000000001
+IQB | 48.81
+IDM | 100.0
+Estiva | 3124500 | 2020 | 74.405
+IQB | 60.98
+IDM | 100.0
+Estrela do Indaiá | 3124708 | 2015 | 80.49
+IQB | 60.2
+IDM | 100.0
+Estrela do Indaiá | 3124708 | 2016 | 80.1
+IQB | 58.57
+IDM | 100.0
+Estrela do Indaiá | 3124708 | 2017 | 79.285
+IQB | 57.84
+IDM | 100.0
+Estrela do Indaiá | 3124708 | 2018 | 78.92
+IQB | 58.82
+IDM | 100.0
+Estrela do Indaiá | 3124708 | 2019 | 79.41
+IQB | 57.76
+IDM | 100.0
+Estrela do Indaiá | 3124708 | 2020 | 78.88
+IQB | 61.3
+IDM | 100.0
+Felício dos Santos | 3125408 | 2015 | 80.65
+IQB | 58.54
+IDM | 0.0
+Felício dos Santos | 3125408 | 2016 | 29.27
+IQB | 58.96
+IDM | 0.0
+Felício dos Santos | 3125408 | 2017 | 29.48
+IQB | 59.28
+IDM | 0.0
+Felício dos Santos | 3125408 | 2018 | 29.64
+IQB | 57.02
+IDM | 100.0
+Felício dos Santos | 3125408 | 2019 | 78.51
+IQB | 56.62
+IDM | 100.0
+Felício dos Santos | 3125408 | 2020 | 78.31
+IQB | 61.3
+IDM | 100.0
+São Gonçalo do Rio Preto | 3125507 | 2015 | 80.65
+IQB | 58.54
+IDM | 100.0
+São Gonçalo do Rio Preto | 3125507 | 2016 | 79.27
+IQB | 58.96
+IDM | 100.0
+São Gonçalo do Rio Preto | 3125507 | 2017 | 79.48
+IQB | 59.28
+IDM | 100.0
+São Gonçalo do Rio Preto | 3125507 | 2018 | 79.64
+IQB | 57.02
+IDM | 50.0
+São Gonçalo do Rio Preto | 3125507 | 2019 | 53.510000000000005
+IQB | 56.62
+IDM | 100.0
+São Gonçalo do Rio Preto | 3125507 | 2020 | 78.31
+IQB | 61.3
+IDM | 100.0
+Francisco Badaró | 3126505 | 2015 | 80.65
+IQB | 58.54
+IDM | 100.0
+Francisco Badaró | 3126505 | 2016 | 79.27
+IQB | 58.96
+IDM | 100.0
+Francisco Badaró | 3126505 | 2017 | 79.48
+IQB | 59.28
+IDM | 100.0
+Francisco Badaró | 3126505 | 2018 | 79.64
+IQB | 57.02
+IDM | 100.0
+Francisco Badaró | 3126505 | 2019 | 78.51
+IQB | 56.62
+IDM | 100.0
+Francisco Badaró | 3126505 | 2020 | 78.31
+IQB | 56.32
+IDM | 100.0
+Glaucilândia | 3127354 | 2015 | 78.16
+IQB | 54.71
+IDM | 100.0
+Glaucilândia | 3127354 | 2016 | 77.355
+IQB | 52.7
+IDM | 100.0
+Glaucilândia | 3127354 | 2017 | 76.35
+IQB | 55.12
+IDM | 100.0
+Glaucilândia | 3127354 | 2018 | 77.56
+IQB | 54.83
+IDM | 100.0
+Glaucilândia | 3127354 | 2019 | 77.41499999999999
+IQB | 54.69
+IDM | 100.0
+Glaucilândia | 3127354 | 2020 | 77.345
+IQB | 56.81
+IDM | 100.0
+Gonçalves | 3127404 | 2015 | 78.405
+IQB | 56.89
+IDM | 100.0
+Gonçalves | 3127404 | 2016 | 78.445
+IQB | 55.99
+IDM | 100.0
+Gonçalves | 3127404 | 2017 | 77.995
+IQB | 55.48
+IDM | 100.0
+Gonçalves | 3127404 | 2018 | 77.74
+IQB | 55.17
+IDM | 100.0
+Gonçalves | 3127404 | 2019 | 77.58500000000001
+IQB | 48.81
+IDM | 100.0
+Gonçalves | 3127404 | 2020 | 74.405
+IQB | 63.72
+IDM | 100.0
+Grão Mogol | 3127800 | 2015 | 81.86
+IQB | 62.58
+IDM | 100.0
+Grão Mogol | 3127800 | 2016 | 81.28999999999999
+IQB | 63.12
+IDM | 100.0
+Grão Mogol | 3127800 | 2017 | 81.56
+IQB | 61.39
+IDM | 100.0
+Grão Mogol | 3127800 | 2018 | 80.695
+IQB | 61.83
+IDM | 100.0
+Grão Mogol | 3127800 | 2019 | 80.91499999999999
+IQB | 59.8
+IDM | 100.0
+Grão Mogol | 3127800 | 2020 | 79.9
+IQB | 56.81
+IDM | 100.0
+Guapé | 3128105 | 2015 | 78.405
+IQB | 54.6
+IDM | 100.0
+Guapé | 3128105 | 2016 | 77.3
+IQB | 55.75
+IDM | 100.0
+Guapé | 3128105 | 2017 | 77.875
+IQB | 56.17
+IDM | 100.0
+Guapé | 3128105 | 2018 | 78.08500000000001
+IQB | 55.05
+IDM | 100.0
+Guapé | 3128105 | 2019 | 77.525
+IQB | 54.06
+IDM | 100.0
+Guapé | 3128105 | 2020 | 77.03
+IQB | 56.81
+IDM | 100.0
+Guaranésia | 3128303 | 2015 | 78.405
+IQB | 54.52
+IDM | 100.0
+Guaranésia | 3128303 | 2016 | 77.26
+IQB | 54.65
+IDM | 100.0
+Guaranésia | 3128303 | 2017 | 77.325
+IQB | 53.94
+IDM | 100.0
+Guaranésia | 3128303 | 2018 | 76.97
+IQB | 54.38
+IDM | 100.0
+Guaranésia | 3128303 | 2019 | 77.19
+IQB | 52.28
+IDM | 100.0
+Guaranésia | 3128303 | 2020 | 76.14
+IQB | 58.68
+IDM | 100.0
+Guarará | 3128501 | 2015 | 79.34
+IQB | 58.79
+IDM | 100.0
+Guarará | 3128501 | 2016 | 79.395
+IQB | 58.33
+IDM | 100.0
+Guarará | 3128501 | 2017 | 79.16499999999999
+IQB | 57.15
+IDM | 100.0
+Guarará | 3128501 | 2018 | 78.575
+IQB | 57.16
+IDM | 100.0
+Guarará | 3128501 | 2019 | 78.58
+IQB | 56.02
+IDM | 100.0
+Guarará | 3128501 | 2020 | 78.01
+IQB | 60.37
+IDM | 100.0
+Guarda-Mor | 3128600 | 2015 | 80.185
+IQB | 59.52
+IDM | 100.0
+Guarda-Mor | 3128600 | 2016 | 79.76
+IQB | 59.82
+IDM | 100.0
+Guarda-Mor | 3128600 | 2017 | 79.91
+IQB | 59.13
+IDM | 100.0
+Guarda-Mor | 3128600 | 2018 | 79.565
+IQB | 58.44
+IDM | 100.0
+Guarda-Mor | 3128600 | 2019 | 79.22
+IQB | 58.4
+IDM | 100.0
+Guarda-Mor | 3128600 | 2020 | 79.2
+IQB | 58.74
+IDM | 100.0
+Guimarânia | 3128907 | 2015 | 79.37
+IQB | 57.76
+IDM | 100.0
+Guimarânia | 3128907 | 2016 | 78.88
+IQB | 55.35
+IDM | 100.0
+Guimarânia | 3128907 | 2017 | 77.675
+IQB | 56.58
+IDM | 100.0
+Guimarânia | 3128907 | 2018 | 78.28999999999999
+IQB | 57.67
+IDM | 100.0
+Guimarânia | 3128907 | 2019 | 78.83500000000001
+IQB | 57.61
+IDM | 100.0
+Guimarânia | 3128907 | 2020 | 78.805
+IQB | 55.59
+IDM | 100.0
+Guiricema | 3129004 | 2015 | 77.795
+IQB | 55.71
+IDM | 0.0
+Guiricema | 3129004 | 2016 | 27.855
+IQB | 53.74
+IDM | 0.0
+Guiricema | 3129004 | 2017 | 26.87
+IQB | 54.05
+IDM | 0.0
+Guiricema | 3129004 | 2018 | 27.025
+IQB | 55.16
+IDM | 0.0
+Guiricema | 3129004 | 2019 | 27.58
+IQB | 53.52
+IDM | 100.0
+Guiricema | 3129004 | 2020 | 76.76
+IQB | 56.81
+IDM | 100.0
+Heliodora | 3129202 | 2015 | 78.405
+IQB | 56.89
+IDM | 100.0
+Heliodora | 3129202 | 2016 | 78.445
+IQB | 55.99
+IDM | 100.0
+Heliodora | 3129202 | 2017 | 77.995
+IQB | 55.48
+IDM | 100.0
+Heliodora | 3129202 | 2018 | 77.74
+IQB | 55.17
+IDM | 100.0
+Heliodora | 3129202 | 2019 | 77.58500000000001
+IQB | 48.81
+IDM | 100.0
+Heliodora | 3129202 | 2020 | 74.405
+IQB | 56.81
+IDM | 100.0
+Ibertioga | 3129400 | 2015 | 78.405
+IQB | 58.51
+IDM | 100.0
+Ibertioga | 3129400 | 2016 | 79.255
+IQB | 55.25
+IDM | 100.0
+Ibertioga | 3129400 | 2017 | 77.625
+IQB | 56.82
+IDM | 100.0
+Ibertioga | 3129400 | 2018 | 78.41
+IQB | 56.48
+IDM | 100.0
+Ibertioga | 3129400 | 2019 | 78.24
+IQB | 54.69
+IDM | 100.0
+Ibertioga | 3129400 | 2020 | 77.345
+IQB | 62.17
+IDM | 100.0
+Ibiracatu | 3129657 | 2015 | 81.08500000000001
+IQB | 60.9
+IDM | 100.0
+Ibiracatu | 3129657 | 2016 | 80.45
+IQB | 60.25
+IDM | 100.0
+Ibiracatu | 3129657 | 2017 | 80.125
+IQB | 59.62
+IDM | 100.0
+Ibiracatu | 3129657 | 2018 | 79.81
+IQB | 60.38
+IDM | 100.0
+Ibiracatu | 3129657 | 2019 | 80.19
+IQB | 60.3
+IDM | 100.0
+Ibiracatu | 3129657 | 2020 | 80.15
+IQB | 56.81
+IDM | 100.0
+Ibiraci | 3129707 | 2015 | 78.405
+IQB | 55.59
+IDM | 100.0
+Ibiraci | 3129707 | 2016 | 77.795
+IQB | 55.48
+IDM | 100.0
+Ibiraci | 3129707 | 2017 | 77.74
+IQB | 54.6
+IDM | 100.0
+Ibiraci | 3129707 | 2018 | 77.3
+IQB | 54.94
+IDM | 100.0
+Ibiraci | 3129707 | 2019 | 77.47
+IQB | 53.11
+IDM | 100.0
+Ibiraci | 3129707 | 2020 | 76.555
+IQB | 56.81
+IDM | 100.0
+Ibitiúra de Minas | 3129905 | 2015 | 78.405
+IQB | 54.52
+IDM | 100.0
+Ibitiúra de Minas | 3129905 | 2016 | 77.26
+IQB | 54.65
+IDM | 100.0
+Ibitiúra de Minas | 3129905 | 2017 | 77.325
+IQB | 53.94
+IDM | 100.0
+Ibitiúra de Minas | 3129905 | 2018 | 76.97
+IQB | 54.38
+IDM | 100.0
+Ibitiúra de Minas | 3129905 | 2019 | 77.19
+IQB | 52.28
+IDM | 100.0
+Ibitiúra de Minas | 3129905 | 2020 | 76.14
+IQB | 57.96
+IDM | 100.0
+Icaraí de Minas | 3130051 | 2015 | 78.98
+IQB | 56.54
+IDM | 100.0
+Icaraí de Minas | 3130051 | 2016 | 78.27
+IQB | 56.6
+IDM | 100.0
+Icaraí de Minas | 3130051 | 2017 | 78.3
+IQB | 57.54
+IDM | 100.0
+Icaraí de Minas | 3130051 | 2018 | 78.77
+IQB | 56.23
+IDM | 100.0
+Icaraí de Minas | 3130051 | 2019 | 78.115
+IQB | 56.66
+IDM | 100.0
+Icaraí de Minas | 3130051 | 2020 | 78.33
+IQB | 56.81
+IDM | 100.0
+Ilicínea | 3130507 | 2015 | 78.405
+IQB | 54.6
+IDM | 100.0
+Ilicínea | 3130507 | 2016 | 77.3
+IQB | 55.75
+IDM | 100.0
+Ilicínea | 3130507 | 2017 | 77.875
+IQB | 56.17
+IDM | 100.0
+Ilicínea | 3130507 | 2018 | 78.08500000000001
+IQB | 55.05
+IDM | 100.0
+Ilicínea | 3130507 | 2019 | 77.525
+IQB | 54.06
+IDM | 100.0
+Ilicínea | 3130507 | 2020 | 77.03
+IQB | 56.81
+IDM | 100.0
+Ingaí | 3130804 | 2015 | 78.405
+IQB | 60.89
+IDM | 100.0
+Ingaí | 3130804 | 2016 | 80.445
+IQB | 58.95
+IDM | 100.0
+Ingaí | 3130804 | 2017 | 79.475
+IQB | 59.31
+IDM | 100.0
+Ingaí | 3130804 | 2018 | 79.655
+IQB | 58.36
+IDM | 100.0
+Ingaí | 3130804 | 2019 | 79.18
+IQB | 57.09
+IDM | 100.0
+Ingaí | 3130804 | 2020 | 78.545
+IQB | 60.72
+IDM | 100.0
+Ipiaçu | 3131406 | 2015 | 80.36
+IQB | 59.57
+IDM | 100.0
+Ipiaçu | 3131406 | 2016 | 79.785
+IQB | 59.26
+IDM | 100.0
+Ipiaçu | 3131406 | 2017 | 79.63
+IQB | 59.6
+IDM | 100.0
+Ipiaçu | 3131406 | 2018 | 79.8
+IQB | 59.83
+IDM | 100.0
+Ipiaçu | 3131406 | 2019 | 79.91499999999999
+IQB | 60.51
+IDM | 100.0
+Ipiaçu | 3131406 | 2020 | 80.255
+IQB | 63.72
+IDM | 100.0
+Itacambira | 3132008 | 2015 | 81.86
+IQB | 62.58
+IDM | 100.0
+Itacambira | 3132008 | 2016 | 81.28999999999999
+IQB | 63.12
+IDM | 100.0
+Itacambira | 3132008 | 2017 | 81.56
+IQB | 61.39
+IDM | 100.0
+Itacambira | 3132008 | 2018 | 80.695
+IQB | 61.83
+IDM | 100.0
+Itacambira | 3132008 | 2019 | 80.91499999999999
+IQB | 59.8
+IDM | 100.0
+Itacambira | 3132008 | 2020 | 79.9
+IQB | 62.17
+IDM | 100.0
+Itacarambi | 3132107 | 2015 | 81.08500000000001
+IQB | 60.9
+IDM | 100.0
+Itacarambi | 3132107 | 2016 | 80.45
+IQB | 60.25
+IDM | 100.0
+Itacarambi | 3132107 | 2017 | 80.125
+IQB | 59.62
+IDM | 100.0
+Itacarambi | 3132107 | 2018 | 79.81
+IQB | 60.38
+IDM | 100.0
+Itacarambi | 3132107 | 2019 | 80.19
+IQB | 60.3
+IDM | 100.0
+Itacarambi | 3132107 | 2020 | 80.15
+IQB | 56.81
+IDM | 100.0
+Itamogi | 3132909 | 2015 | 78.405
+IQB | 55.59
+IDM | 100.0
+Itamogi | 3132909 | 2016 | 77.795
+IQB | 55.48
+IDM | 100.0
+Itamogi | 3132909 | 2017 | 77.74
+IQB | 54.6
+IDM | 100.0
+Itamogi | 3132909 | 2018 | 77.3
+IQB | 54.94
+IDM | 100.0
+Itamogi | 3132909 | 2019 | 77.47
+IQB | 53.11
+IDM | 100.0
+Itamogi | 3132909 | 2020 | 76.555
+IQB | 56.81
+IDM | 100.0
+Itanhandu | 3133105 | 2015 | 78.405
+IQB | 58.61
+IDM | 100.0
+Itanhandu | 3133105 | 2016 | 79.305
+IQB | 56.38
+IDM | 50.0
+Itanhandu | 3133105 | 2017 | 53.19
+IQB | 56.24
+IDM | 50.0
+Itanhandu | 3133105 | 2018 | 53.120000000000005
+IQB | 56.47
+IDM | 50.0
+Itanhandu | 3133105 | 2019 | 53.235
+IQB | 55.29
+IDM | 100.0
+Itanhandu | 3133105 | 2020 | 77.645
+IQB | 55.86
+IDM | 100.0
+Itatiaiuçu | 3133709 | 2015 | 77.93
+IQB | 54.09
+IDM | 100.0
+Itatiaiuçu | 3133709 | 2016 | 77.045
+IQB | 53.97
+IDM | 100.0
+Itatiaiuçu | 3133709 | 2017 | 76.985
+IQB | 55.06
+IDM | 100.0
+Itatiaiuçu | 3133709 | 2018 | 77.53
+IQB | 54.27
+IDM | 100.0
+Itatiaiuçu | 3133709 | 2019 | 77.135
+IQB | 54.23
+IDM | 100.0
+Itatiaiuçu | 3133709 | 2020 | 77.115
+IQB | 56.81
+IDM | 100.0
+Itaú de Minas | 3133758 | 2015 | 78.405
+IQB | 55.59
+IDM | 100.0
+Itaú de Minas | 3133758 | 2016 | 77.795
+IQB | 55.48
+IDM | 100.0
+Itaú de Minas | 3133758 | 2017 | 77.74
+IQB | 54.6
+IDM | 100.0
+Itaú de Minas | 3133758 | 2018 | 77.3
+IQB | 54.94
+IDM | 100.0
+Itaú de Minas | 3133758 | 2019 | 77.47
+IQB | 53.11
+IDM | 100.0
+Itaú de Minas | 3133758 | 2020 | 76.555
+IQB | 56.81
+IDM | 100.0
+Itumirim | 3134301 | 2015 | 78.405
+IQB | 60.89
+IDM | 100.0
+Itumirim | 3134301 | 2016 | 80.445
+IQB | 58.95
+IDM | 100.0
+Itumirim | 3134301 | 2017 | 79.475
+IQB | 59.31
+IDM | 100.0
+Itumirim | 3134301 | 2018 | 79.655
+IQB | 58.36
+IDM | 100.0
+Itumirim | 3134301 | 2019 | 79.18
+IQB | 57.09
+IDM | 100.0
+Itumirim | 3134301 | 2020 | 78.545
+IQB | 56.81
+IDM | 100.0
+Jacuí | 3134806 | 2015 | 78.405
+IQB | 55.59
+IDM | 100.0
+Jacuí | 3134806 | 2016 | 77.795
+IQB | 55.48
+IDM | 100.0
+Jacuí | 3134806 | 2017 | 77.74
+IQB | 54.6
+IDM | 100.0
+Jacuí | 3134806 | 2018 | 77.3
+IQB | 54.94
+IDM | 100.0
+Jacuí | 3134806 | 2019 | 77.47
+IQB | 53.11
+IDM | 100.0
+Jacuí | 3134806 | 2020 | 76.555
+IQB | 60.98
+IDM | 100.0
+Japaraíba | 3135308 | 2015 | 80.49
+IQB | 60.2
+IDM | 100.0
+Japaraíba | 3135308 | 2016 | 80.1
+IQB | 58.57
+IDM | 100.0
+Japaraíba | 3135308 | 2017 | 79.285
+IQB | 57.84
+IDM | 100.0
+Japaraíba | 3135308 | 2018 | 78.92
+IQB | 58.82
+IDM | 100.0
+Japaraíba | 3135308 | 2019 | 79.41
+IQB | 57.76
+IDM | 100.0
+Japaraíba | 3135308 | 2020 | 78.88
+IQB | 57.96
+IDM | 100.0
+Jequitaí | 3135605 | 2015 | 78.98
+IQB | 56.54
+IDM | 100.0
+Jequitaí | 3135605 | 2016 | 78.27
+IQB | 56.6
+IDM | 100.0
+Jequitaí | 3135605 | 2017 | 78.3
+IQB | 57.54
+IDM | 100.0
+Jequitaí | 3135605 | 2018 | 78.77
+IQB | 56.23
+IDM | 100.0
+Jequitaí | 3135605 | 2019 | 78.115
+IQB | 56.66
+IDM | 100.0
+Jequitaí | 3135605 | 2020 | 78.33
+IQB | 54.37
+IDM | 100.0
+Jequitibá | 3135704 | 2015 | 77.185
+IQB | 54.62
+IDM | 100.0
+Jequitibá | 3135704 | 2016 | 77.31
+IQB | 53.26
+IDM | 100.0
+Jequitibá | 3135704 | 2017 | 76.63
+IQB | 53.47
+IDM | 100.0
+Jequitibá | 3135704 | 2018 | 76.735
+IQB | 54.87
+IDM | 100.0
+Jequitibá | 3135704 | 2019 | 77.435
+IQB | 53.2
+IDM | 100.0
+Jequitibá | 3135704 | 2020 | 76.6
+IQB | 56.81
+IDM | 100.0
+Jesuânia | 3135902 | 2015 | 78.405
+IQB | 58.61
+IDM | 100.0
+Jesuânia | 3135902 | 2016 | 79.305
+IQB | 56.38
+IDM | 100.0
+Jesuânia | 3135902 | 2017 | 78.19
+IQB | 56.24
+IDM | 100.0
+Jesuânia | 3135902 | 2018 | 78.12
+IQB | 56.47
+IDM | 100.0
+Jesuânia | 3135902 | 2019 | 78.235
+IQB | 55.29
+IDM | 100.0
+Jesuânia | 3135902 | 2020 | 77.645
+IQB | 60.57
+IDM | 100.0
+Joaíma | 3136009 | 2015 | 80.285
+IQB | 57.98
+IDM | 100.0
+Joaíma | 3136009 | 2016 | 78.99
+IQB | 58.27
+IDM | 100.0
+Joaíma | 3136009 | 2017 | 79.135
+IQB | 57.19
+IDM | 100.0
+Joaíma | 3136009 | 2018 | 78.595
+IQB | 58.47
+IDM | 100.0
+Joaíma | 3136009 | 2019 | 79.235
+IQB | 55.28
+IDM | 100.0
+Joaíma | 3136009 | 2020 | 77.64
+IQB | 54.37
+IDM | 100.0
+Nova União | 3136603 | 2015 | 77.185
+IQB | 54.62
+IDM | 100.0
+Nova União | 3136603 | 2016 | 77.31
+IQB | 53.26
+IDM | 100.0
+Nova União | 3136603 | 2017 | 76.63
+IQB | 53.47
+IDM | 100.0
+Nova União | 3136603 | 2018 | 76.735
+IQB | 54.87
+IDM | 100.0
+Nova União | 3136603 | 2019 | 77.435
+IQB | 53.2
+IDM | 100.0
+Nova União | 3136603 | 2020 | 76.6
+IQB | 56.81
+IDM | 100.0
+Liberdade | 3138500 | 2015 | 78.405
+IQB | 60.89
+IDM | 100.0
+Liberdade | 3138500 | 2016 | 80.445
+IQB | 58.95
+IDM | 100.0
+Liberdade | 3138500 | 2017 | 79.475
+IQB | 59.31
+IDM | 100.0
+Liberdade | 3138500 | 2018 | 79.655
+IQB | 58.36
+IDM | 100.0
+Liberdade | 3138500 | 2019 | 79.18
+IQB | 57.09
+IDM | 100.0
+Liberdade | 3138500 | 2020 | 78.545
+IQB | 62.17
+IDM | 100.0
+Lontra | 3138658 | 2015 | 81.08500000000001
+IQB | 60.9
+IDM | 100.0
+Lontra | 3138658 | 2016 | 80.45
+IQB | 60.25
+IDM | 100.0
+Lontra | 3138658 | 2017 | 80.125
+IQB | 59.62
+IDM | 100.0
+Lontra | 3138658 | 2018 | 79.81
+IQB | 60.38
+IDM | 100.0
+Lontra | 3138658 | 2019 | 80.19
+IQB | 60.3
+IDM | 100.0
+Lontra | 3138658 | 2020 | 80.15
+IQB | 61.57
+IDM | 100.0
+Luisburgo | 3138674 | 2015 | 80.785
+IQB | 59.77
+IDM | 100.0
+Luisburgo | 3138674 | 2016 | 79.885
+IQB | 59.89
+IDM | 100.0
+Luisburgo | 3138674 | 2017 | 79.945
+IQB | 59.35
+IDM | 100.0
+Luisburgo | 3138674 | 2018 | 79.675
+IQB | 60.41
+IDM | 100.0
+Luisburgo | 3138674 | 2019 | 80.205
+IQB | 57.3
+IDM | 100.0
+Luisburgo | 3138674 | 2020 | 78.65
+IQB | 57.96
+IDM | 100.0
+Luislândia | 3138682 | 2015 | 78.98
+IQB | 56.54
+IDM | 100.0
+Luislândia | 3138682 | 2016 | 78.27
+IQB | 56.6
+IDM | 100.0
+Luislândia | 3138682 | 2017 | 78.3
+IQB | 57.54
+IDM | 100.0
+Luislândia | 3138682 | 2018 | 78.77
+IQB | 56.23
+IDM | 100.0
+Luislândia | 3138682 | 2019 | 78.115
+IQB | 56.66
+IDM | 100.0
+Luislândia | 3138682 | 2020 | 78.33
+IQB | 60.98
+IDM | 100.0
+Luz | 3138807 | 2015 | 80.49
+IQB | 60.2
+IDM | 100.0
+Luz | 3138807 | 2016 | 80.1
+IQB | 58.57
+IDM | 100.0
+Luz | 3138807 | 2017 | 79.285
+IQB | 57.84
+IDM | 100.0
+Luz | 3138807 | 2018 | 78.92
+IQB | 58.82
+IDM | 100.0
+Luz | 3138807 | 2019 | 79.41
+IQB | 57.76
+IDM | 100.0
+Luz | 3138807 | 2020 | 78.88
+IQB | 56.81
+IDM | 100.0
+Madre de Deus de Minas | 3139102 | 2015 | 78.405
+IQB | 60.89
+IDM | 100.0
+Madre de Deus de Minas | 3139102 | 2016 | 80.445
+IQB | 58.95
+IDM | 100.0
+Madre de Deus de Minas | 3139102 | 2017 | 79.475
+IQB | 59.31
+IDM | 100.0
+Madre de Deus de Minas | 3139102 | 2018 | 79.655
+IQB | 58.36
+IDM | 100.0
+Madre de Deus de Minas | 3139102 | 2019 | 79.18
+IQB | 57.09
+IDM | 100.0
+Madre de Deus de Minas | 3139102 | 2020 | 78.545
+IQB | 56.32
+IDM | 100.0
+Mamonas | 3139250 | 2015 | 78.16
+IQB | 54.71
+IDM | 100.0
+Mamonas | 3139250 | 2016 | 77.355
+IQB | 52.7
+IDM | 100.0
+Mamonas | 3139250 | 2017 | 76.35
+IQB | 55.12
+IDM | 100.0
+Mamonas | 3139250 | 2018 | 77.56
+IQB | 54.83
+IDM | 100.0
+Mamonas | 3139250 | 2019 | 77.41499999999999
+IQB | 54.69
+IDM | 100.0
+Mamonas | 3139250 | 2020 | 77.345
+IQB | 62.17
+IDM | 100.0
+Manga | 3139300 | 2015 | 81.08500000000001
+IQB | 60.9
+IDM | 100.0
+Manga | 3139300 | 2016 | 80.45
+IQB | 60.25
+IDM | 100.0
+Manga | 3139300 | 2017 | 80.125
+IQB | 59.62
+IDM | 100.0
+Manga | 3139300 | 2018 | 79.81
+IQB | 60.38
+IDM | 100.0
+Manga | 3139300 | 2019 | 80.19
+IQB | 60.3
+IDM | 100.0
+Manga | 3139300 | 2020 | 80.15
+IQB | 56.81
+IDM | 100.0
+Maria da Fé | 3139904 | 2015 | 78.405
+IQB | 56.89
+IDM | 100.0
+Maria da Fé | 3139904 | 2016 | 78.445
+IQB | 55.99
+IDM | 100.0
+Maria da Fé | 3139904 | 2017 | 77.995
+IQB | 55.48
+IDM | 100.0
+Maria da Fé | 3139904 | 2018 | 77.74
+IQB | 55.17
+IDM | 100.0
+Maria da Fé | 3139904 | 2019 | 77.58500000000001
+IQB | 48.81
+IDM | 100.0
+Maria da Fé | 3139904 | 2020 | 74.405
+IQB | 56.81
+IDM | 100.0
+Marmelópolis | 3140407 | 2015 | 78.405
+IQB | 56.89
+IDM | 0.0
+Marmelópolis | 3140407 | 2016 | 28.445
+IQB | 55.99
+IDM | 0.0
+Marmelópolis | 3140407 | 2017 | 27.995
+IQB | 55.48
+IDM | 0.0
+Marmelópolis | 3140407 | 2018 | 27.74
+IQB | 55.17
+IDM | 0.0
+Marmelópolis | 3140407 | 2019 | 27.585
+IQB | 48.81
+IDM | 100.0
+Marmelópolis | 3140407 | 2020 | 74.405
+IQB | 56.47
+IDM | 100.0
+Martinho Campos | 3140506 | 2015 | 78.235
+IQB | 57.19
+IDM | 100.0
+Martinho Campos | 3140506 | 2016 | 78.595
+IQB | 53.79
+IDM | 100.0
+Martinho Campos | 3140506 | 2017 | 76.895
+IQB | 55.71
+IDM | 100.0
+Martinho Campos | 3140506 | 2018 | 77.855
+IQB | 55.55
+IDM | 100.0
+Martinho Campos | 3140506 | 2019 | 77.775
+IQB | 54.29
+IDM | 100.0
+Martinho Campos | 3140506 | 2020 | 77.145
+IQB | 60.57
+IDM | 100.0
+Mata Verde | 3140555 | 2015 | 80.285
+IQB | 57.98
+IDM | 100.0
+Mata Verde | 3140555 | 2016 | 78.99
+IQB | 58.27
+IDM | 100.0
+Mata Verde | 3140555 | 2017 | 79.135
+IQB | 57.19
+IDM | 100.0
+Mata Verde | 3140555 | 2018 | 78.595
+IQB | 58.47
+IDM | 100.0
+Mata Verde | 3140555 | 2019 | 79.235
+IQB | 55.28
+IDM | 100.0
+Mata Verde | 3140555 | 2020 | 77.64
+IQB | 56.32
+IDM | 100.0
+Matias Cardoso | 3140852 | 2015 | 78.16
+IQB | 54.71
+IDM | 100.0
+Matias Cardoso | 3140852 | 2016 | 77.355
+IQB | 52.7
+IDM | 100.0
+Matias Cardoso | 3140852 | 2017 | 76.35
+IQB | 55.12
+IDM | 100.0
+Matias Cardoso | 3140852 | 2018 | 77.56
+IQB | 54.83
+IDM | 100.0
+Matias Cardoso | 3140852 | 2019 | 77.41499999999999
+IQB | 54.69
+IDM | 100.0
+Matias Cardoso | 3140852 | 2020 | 77.345
+IQB | 60.98
+IDM | 100.0
+Medeiros | 3141306 | 2015 | 80.49
+IQB | 60.2
+IDM | 100.0
+Medeiros | 3141306 | 2016 | 80.1
+IQB | 58.57
+IDM | 100.0
+Medeiros | 3141306 | 2017 | 79.285
+IQB | 57.84
+IDM | 100.0
+Medeiros | 3141306 | 2018 | 78.92
+IQB | 58.82
+IDM | 100.0
+Medeiros | 3141306 | 2019 | 79.41
+IQB | 57.76
+IDM | 100.0
+Medeiros | 3141306 | 2020 | 78.88
+IQB | 60.98
+IDM | 100.0
+Moema | 3142403 | 2015 | 80.49
+IQB | 60.2
+IDM | 100.0
+Moema | 3142403 | 2016 | 80.1
+IQB | 58.57
+IDM | 100.0
+Moema | 3142403 | 2017 | 79.285
+IQB | 57.84
+IDM | 100.0
+Moema | 3142403 | 2018 | 78.92
+IQB | 58.82
+IDM | 100.0
+Moema | 3142403 | 2019 | 79.41
+IQB | 57.76
+IDM | 100.0
+Moema | 3142403 | 2020 | 78.88
+IQB | 62.17
+IDM | 100.0
+Montalvânia | 3142700 | 2015 | 81.08500000000001
+IQB | 60.9
+IDM | 100.0
+Montalvânia | 3142700 | 2016 | 80.45
+IQB | 60.25
+IDM | 100.0
+Montalvânia | 3142700 | 2017 | 80.125
+IQB | 59.62
+IDM | 100.0
+Montalvânia | 3142700 | 2018 | 79.81
+IQB | 60.38
+IDM | 100.0
+Montalvânia | 3142700 | 2019 | 80.19
+IQB | 60.3
+IDM | 100.0
+Montalvânia | 3142700 | 2020 | 80.15
+IQB | 59.24
+IDM | 100.0
+Morada Nova de Minas | 3143500 | 2015 | 79.62
+IQB | 58.21
+IDM | 100.0
+Morada Nova de Minas | 3143500 | 2016 | 79.105
+IQB | 57.66
+IDM | 100.0
+Morada Nova de Minas | 3143500 | 2017 | 78.83
+IQB | 55.72
+IDM | 100.0
+Morada Nova de Minas | 3143500 | 2018 | 77.86
+IQB | 57.37
+IDM | 100.0
+Morada Nova de Minas | 3143500 | 2019 | 78.685
+IQB | 57.34
+IDM | 100.0
+Morada Nova de Minas | 3143500 | 2020 | 78.67
+IQB | 56.81
+IDM | 100.0
+Munhoz | 3143807 | 2015 | 78.405
+IQB | 54.52
+IDM | 100.0
+Munhoz | 3143807 | 2016 | 77.26
+IQB | 54.65
+IDM | 100.0
+Munhoz | 3143807 | 2017 | 77.325
+IQB | 53.94
+IDM | 100.0
+Munhoz | 3143807 | 2018 | 76.97
+IQB | 54.38
+IDM | 100.0
+Munhoz | 3143807 | 2019 | 77.19
+IQB | 52.28
+IDM | 100.0
+Munhoz | 3143807 | 2020 | 76.14
+IQB | 59.97
+IDM | 100.0
+Ninheira | 3144656 | 2015 | 79.985
+IQB | 56.81
+IDM | 100.0
+Ninheira | 3144656 | 2016 | 78.405
+IQB | 57.97
+IDM | 100.0
+Ninheira | 3144656 | 2017 | 78.985
+IQB | 53.22
+IDM | 100.0
+Ninheira | 3144656 | 2018 | 76.61
+IQB | 56.76
+IDM | 100.0
+Ninheira | 3144656 | 2019 | 78.38
+IQB | 58.11
+IDM | 100.0
+Ninheira | 3144656 | 2020 | 79.055
+IQB | 59.62
+IDM | 100.0
+Nova Belém | 3144672 | 2015 | 79.81
+IQB | 58.17
+IDM | 100.0
+Nova Belém | 3144672 | 2016 | 79.08500000000001
+IQB | 54.53
+IDM | 100.0
+Nova Belém | 3144672 | 2017 | 77.265
+IQB | 57.92
+IDM | 100.0
+Nova Belém | 3144672 | 2018 | 78.96000000000001
+IQB | 57.97
+IDM | 100.0
+Nova Belém | 3144672 | 2019 | 78.985
+IQB | 57.63
+IDM | 100.0
+Nova Belém | 3144672 | 2020 | 78.815
+IQB | 60.0
+IDM | 100.0
+Nova Era | 3144706 | 2015 | 80.0
+IQB | 58.87
+IDM | 100.0
+Nova Era | 3144706 | 2016 | 79.435
+IQB | 57.12
+IDM | 100.0
+Nova Era | 3144706 | 2017 | 78.56
+IQB | 58.22
+IDM | 100.0
+Nova Era | 3144706 | 2018 | 79.11
+IQB | 58.67
+IDM | 100.0
+Nova Era | 3144706 | 2019 | 79.33500000000001
+IQB | 56.69
+IDM | 100.0
+Nova Era | 3144706 | 2020 | 78.345
+IQB | 56.81
+IDM | 100.0
+Nova Resende | 3145109 | 2015 | 78.405
+IQB | 55.59
+IDM | 100.0
+Nova Resende | 3145109 | 2016 | 77.795
+IQB | 55.48
+IDM | 100.0
+Nova Resende | 3145109 | 2017 | 77.74
+IQB | 54.6
+IDM | 100.0
+Nova Resende | 3145109 | 2018 | 77.3
+IQB | 54.94
+IDM | 100.0
+Nova Resende | 3145109 | 2019 | 77.47
+IQB | 53.11
+IDM | 100.0
+Nova Resende | 3145109 | 2020 | 76.555
+IQB | 60.95
+IDM | 100.0
+Novo Oriente de Minas | 3145356 | 2015 | 80.475
+IQB | 58.82
+IDM | 100.0
+Novo Oriente de Minas | 3145356 | 2016 | 79.41
+IQB | 55.7
+IDM | 100.0
+Novo Oriente de Minas | 3145356 | 2017 | 77.85
+IQB | 57.13
+IDM | 100.0
+Novo Oriente de Minas | 3145356 | 2018 | 78.565
+IQB | 57.62
+IDM | 100.0
+Novo Oriente de Minas | 3145356 | 2019 | 78.81
+IQB | 58.48
+IDM | 100.0
+Novo Oriente de Minas | 3145356 | 2020 | 79.24
+IQB | 60.57
+IDM | 100.0
+Novorizonte | 3145372 | 2015 | 80.285
+IQB | 57.98
+IDM | 100.0
+Novorizonte | 3145372 | 2016 | 78.99
+IQB | 58.27
+IDM | 100.0
+Novorizonte | 3145372 | 2017 | 79.135
+IQB | 57.19
+IDM | 100.0
+Novorizonte | 3145372 | 2018 | 78.595
+IQB | 58.47
+IDM | 50.0
+Novorizonte | 3145372 | 2019 | 54.235
+IQB | 55.28
+IDM | 100.0
+Novorizonte | 3145372 | 2020 | 77.64
+IQB | 58.68
+IDM | 100.0
+Olaria | 3145406 | 2015 | 79.34
+IQB | 58.79
+IDM | 0.0
+Olaria | 3145406 | 2016 | 29.395
+IQB | 58.33
+IDM | 0.0
+Olaria | 3145406 | 2017 | 29.165
+IQB | 57.15
+IDM | 0.0
+Olaria | 3145406 | 2018 | 28.575
+IQB | 57.16
+IDM | 0.0
+Olaria | 3145406 | 2019 | 28.58
+IQB | 56.02
+IDM | 100.0
+Olaria | 3145406 | 2020 | 78.01
+IQB | 63.72
+IDM | 100.0
+Olhos-d Água | 3145455 | 2015 | 81.86
+IQB | 62.58
+IDM | 100.0
+Olhos-d Água | 3145455 | 2016 | 81.28999999999999
+IQB | 63.12
+IDM | 50.0
+Olhos-d Água | 3145455 | 2017 | 56.56
+IQB | 61.39
+IDM | 100.0
+Olhos-d Água | 3145455 | 2018 | 80.695
+IQB | 61.83
+IDM | 100.0
+Olhos-d Água | 3145455 | 2019 | 80.91499999999999
+IQB | 59.8
+IDM | 100.0
+Olhos-d Água | 3145455 | 2020 | 79.9
+IQB | 63.72
+IDM | 100.0
+Olhos-D ÁGUA | 3145455 | 2015 | 81.86
+IQB | 62.58
+IDM | 100.0
+Olhos-D ÁGUA | 3145455 | 2016 | 81.28999999999999
+IQB | 63.12
+IDM | 50.0
+Olhos-D ÁGUA | 3145455 | 2017 | 56.56
+IQB | 61.39
+IDM | 100.0
+Olhos-D ÁGUA | 3145455 | 2018 | 80.695
+IQB | 61.83
+IDM | 100.0
+Olhos-D ÁGUA | 3145455 | 2019 | 80.91499999999999
+IQB | 59.8
+IDM | 100.0
+Olhos-D ÁGUA | 3145455 | 2020 | 79.9
+IQB | 56.81
+IDM | 100.0
+Olímpio Noronha | 3145505 | 2015 | 78.405
+IQB | 58.61
+IDM | 100.0
+Olímpio Noronha | 3145505 | 2016 | 79.305
+IQB | 56.38
+IDM | 100.0
+Olímpio Noronha | 3145505 | 2017 | 78.19
+IQB | 56.24
+IDM | 100.0
+Olímpio Noronha | 3145505 | 2018 | 78.12
+IQB | 56.47
+IDM | 100.0
+Olímpio Noronha | 3145505 | 2019 | 78.235
+IQB | 55.29
+IDM | 100.0
+Olímpio Noronha | 3145505 | 2020 | 77.645
+IQB | 55.59
+IDM | 100.0
+Oliveira Fortes | 3145703 | 2015 | 77.795
+IQB | 55.71
+IDM | 100.0
+Oliveira Fortes | 3145703 | 2016 | 77.855
+IQB | 53.74
+IDM | 100.0
+Oliveira Fortes | 3145703 | 2017 | 76.87
+IQB | 54.05
+IDM | 100.0
+Oliveira Fortes | 3145703 | 2018 | 77.025
+IQB | 55.16
+IDM | 100.0
+Oliveira Fortes | 3145703 | 2019 | 77.58
+IQB | 53.52
+IDM | 100.0
+Oliveira Fortes | 3145703 | 2020 | 76.76
+IQB | 55.59
+IDM | 100.0
+Orizânia | 3145877 | 2015 | 77.795
+IQB | 55.71
+IDM | 50.0
+Orizânia | 3145877 | 2016 | 52.855000000000004
+IQB | 53.74
+IDM | 50.0
+Orizânia | 3145877 | 2017 | 51.870000000000005
+IQB | 54.05
+IDM | 50.0
+Orizânia | 3145877 | 2018 | 52.025
+IQB | 55.16
+IDM | 50.0
+Orizânia | 3145877 | 2019 | 52.58
+IQB | 53.52
+IDM | 100.0
+Orizânia | 3145877 | 2020 | 76.76
+IQB | 60.98
+IDM | 100.0
+Pains | 3146503 | 2015 | 80.49
+IQB | 60.2
+IDM | 0.0
+Pains | 3146503 | 2016 | 30.1
+IQB | 58.57
+IDM | 0.0
+Pains | 3146503 | 2017 | 29.285
+IQB | 57.84
+IDM | 0.0
+Pains | 3146503 | 2018 | 28.92
+IQB | 58.82
+IDM | 0.0
+Pains | 3146503 | 2019 | 29.41
+IQB | 57.76
+IDM | 100.0
+Pains | 3146503 | 2020 | 78.88
+IQB | 55.59
+IDM | 100.0
+Palma | 3146701 | 2015 | 77.795
+IQB | 55.71
+IDM | 0.0
+Palma | 3146701 | 2016 | 27.855
+IQB | 53.74
+IDM | 0.0
+Palma | 3146701 | 2017 | 26.87
+IQB | 54.05
+IDM | 0.0
+Palma | 3146701 | 2018 | 27.025
+IQB | 55.16
+IDM | 0.0
+Palma | 3146701 | 2019 | 27.58
+IQB | 53.52
+IDM | 100.0
+Palma | 3146701 | 2020 | 76.76
+IQB | 56.47
+IDM | 100.0
+Passa Tempo | 3147709 | 2015 | 78.235
+IQB | 57.19
+IDM | 100.0
+Passa Tempo | 3147709 | 2016 | 78.595
+IQB | 53.79
+IDM | 100.0
+Passa Tempo | 3147709 | 2017 | 76.895
+IQB | 55.71
+IDM | 100.0
+Passa Tempo | 3147709 | 2018 | 77.855
+IQB | 55.55
+IDM | 100.0
+Passa Tempo | 3147709 | 2019 | 77.775
+IQB | 54.29
+IDM | 100.0
+Passa Tempo | 3147709 | 2020 | 77.145
+IQB | 58.68
+IDM | 100.0
+Passa-Vinte | 3147808 | 2015 | 79.34
+IQB | 58.79
+IDM | 100.0
+Passa-Vinte | 3147808 | 2016 | 79.395
+IQB | 58.33
+IDM | 100.0
+Passa-Vinte | 3147808 | 2017 | 79.16499999999999
+IQB | 57.15
+IDM | 100.0
+Passa-Vinte | 3147808 | 2018 | 78.575
+IQB | 57.16
+IDM | 100.0
+Passa-Vinte | 3147808 | 2019 | 78.58
+IQB | 56.02
+IDM | 100.0
+Passa-Vinte | 3147808 | 2020 | 78.01
+IQB | 59.94
+IDM | 100.0
+Paula Cândido | 3148301 | 2015 | 79.97
+IQB | 57.65
+IDM | 100.0
+Paula Cândido | 3148301 | 2016 | 78.825
+IQB | 57.32
+IDM | 100.0
+Paula Cândido | 3148301 | 2017 | 78.66
+IQB | 57.14
+IDM | 100.0
+Paula Cândido | 3148301 | 2018 | 78.57
+IQB | 58.43
+IDM | 100.0
+Paula Cândido | 3148301 | 2019 | 79.215
+IQB | 57.09
+IDM | 100.0
+Paula Cândido | 3148301 | 2020 | 78.545
+IQB | 62.17
+IDM | 100.0
+Pedras de Maria da Cruz | 3149150 | 2015 | 81.08500000000001
+IQB | 60.9
+IDM | 100.0
+Pedras de Maria da Cruz | 3149150 | 2016 | 80.45
+IQB | 60.25
+IDM | 100.0
+Pedras de Maria da Cruz | 3149150 | 2017 | 80.125
+IQB | 59.62
+IDM | 100.0
+Pedras de Maria da Cruz | 3149150 | 2018 | 79.81
+IQB | 60.38
+IDM | 100.0
+Pedras de Maria da Cruz | 3149150 | 2019 | 80.19
+IQB | 60.3
+IDM | 100.0
+Pedras de Maria da Cruz | 3149150 | 2020 | 80.15
+IQB | 55.86
+IDM | 100.0
+Pequi | 3149606 | 2015 | 77.93
+IQB | 54.09
+IDM | 100.0
+Pequi | 3149606 | 2016 | 77.045
+IQB | 53.97
+IDM | 100.0
+Pequi | 3149606 | 2017 | 76.985
+IQB | 55.06
+IDM | 100.0
+Pequi | 3149606 | 2018 | 77.53
+IQB | 54.27
+IDM | 100.0
+Pequi | 3149606 | 2019 | 77.135
+IQB | 54.23
+IDM | 100.0
+Pequi | 3149606 | 2020 | 77.115
+IQB | 56.81
+IDM | 100.0
+Piedade do Rio Grande | 3150307 | 2015 | 78.405
+IQB | 60.89
+IDM | 100.0
+Piedade do Rio Grande | 3150307 | 2016 | 80.445
+IQB | 58.95
+IDM | 100.0
+Piedade do Rio Grande | 3150307 | 2017 | 79.475
+IQB | 59.31
+IDM | 100.0
+Piedade do Rio Grande | 3150307 | 2018 | 79.655
+IQB | 58.36
+IDM | 100.0
+Piedade do Rio Grande | 3150307 | 2019 | 79.18
+IQB | 57.09
+IDM | 100.0
+Piedade do Rio Grande | 3150307 | 2020 | 78.545
+IQB | 55.86
+IDM | 100.0
+Piedade dos Gerais | 3150406 | 2015 | 77.93
+IQB | 54.09
+IDM | 100.0
+Piedade dos Gerais | 3150406 | 2016 | 77.045
+IQB | 53.97
+IDM | 100.0
+Piedade dos Gerais | 3150406 | 2017 | 76.985
+IQB | 55.06
+IDM | 100.0
+Piedade dos Gerais | 3150406 | 2018 | 77.53
+IQB | 54.27
+IDM | 100.0
+Piedade dos Gerais | 3150406 | 2019 | 77.135
+IQB | 54.23
+IDM | 100.0
+Piedade dos Gerais | 3150406 | 2020 | 77.115
+IQB | 56.47
+IDM | 100.0
+Piracema | 3150604 | 2015 | 78.235
+IQB | 57.19
+IDM | 100.0
+Piracema | 3150604 | 2016 | 78.595
+IQB | 53.79
+IDM | 100.0
+Piracema | 3150604 | 2017 | 76.895
+IQB | 55.71
+IDM | 50.0
+Piracema | 3150604 | 2018 | 52.855000000000004
+IQB | 55.55
+IDM | 100.0
+Piracema | 3150604 | 2019 | 77.775
+IQB | 54.29
+IDM | 100.0
+Piracema | 3150604 | 2020 | 77.145
+IQB | 55.59
+IDM | 100.0
+Piraúba | 3151305 | 2015 | 77.795
+IQB | 55.71
+IDM | 0.0
+Piraúba | 3151305 | 2016 | 27.855
+IQB | 53.74
+IDM | 0.0
+Piraúba | 3151305 | 2017 | 26.87
+IQB | 54.05
+IDM | 0.0
+Piraúba | 3151305 | 2018 | 27.025
+IQB | 55.16
+IDM | 0.0
+Piraúba | 3151305 | 2019 | 27.58
+IQB | 53.52
+IDM | 100.0
+Piraúba | 3151305 | 2020 | 76.76
+IQB | 57.96
+IDM | 100.0
+Ponto Chique | 3152131 | 2015 | 78.98
+IQB | 56.54
+IDM | 100.0
+Ponto Chique | 3152131 | 2016 | 78.27
+IQB | 56.6
+IDM | 100.0
+Ponto Chique | 3152131 | 2017 | 78.3
+IQB | 57.54
+IDM | 100.0
+Ponto Chique | 3152131 | 2018 | 78.77
+IQB | 56.23
+IDM | 100.0
+Ponto Chique | 3152131 | 2019 | 78.115
+IQB | 56.66
+IDM | 100.0
+Ponto Chique | 3152131 | 2020 | 78.33
+IQB | 60.57
+IDM | 100.0
+Ponto dos Volantes | 3152170 | 2015 | 80.285
+IQB | 57.98
+IDM | 100.0
+Ponto dos Volantes | 3152170 | 2016 | 78.99
+IQB | 58.27
+IDM | 100.0
+Ponto dos Volantes | 3152170 | 2017 | 79.135
+IQB | 57.19
+IDM | 100.0
+Ponto dos Volantes | 3152170 | 2018 | 78.595
+IQB | 58.47
+IDM | 100.0
+Ponto dos Volantes | 3152170 | 2019 | 79.235
+IQB | 55.28
+IDM | 100.0
+Ponto dos Volantes | 3152170 | 2020 | 77.64
+IQB | 56.81
+IDM | 100.0
+Pouso Alto | 3152600 | 2015 | 78.405
+IQB | 58.61
+IDM | 100.0
+Pouso Alto | 3152600 | 2016 | 79.305
+IQB | 56.38
+IDM | 100.0
+Pouso Alto | 3152600 | 2017 | 78.19
+IQB | 56.24
+IDM | 100.0
+Pouso Alto | 3152600 | 2018 | 78.12
+IQB | 56.47
+IDM | 100.0
+Pouso Alto | 3152600 | 2019 | 78.235
+IQB | 55.29
+IDM | 100.0
+Pouso Alto | 3152600 | 2020 | 77.645
+IQB | 60.69
+IDM | 100.0
+Pratinha | 3153004 | 2015 | 80.345
+IQB | 59.8
+IDM | 100.0
+Pratinha | 3153004 | 2016 | 79.9
+IQB | 58.95
+IDM | 100.0
+Pratinha | 3153004 | 2017 | 79.475
+IQB | 59.82
+IDM | 100.0
+Pratinha | 3153004 | 2018 | 79.91
+IQB | 58.98
+IDM | 100.0
+Pratinha | 3153004 | 2019 | 79.49
+IQB | 58.32
+IDM | 100.0
+Pratinha | 3153004 | 2020 | 79.16
+IQB | 60.98
+IDM | 100.0
+Quartel Geral | 3153707 | 2015 | 80.49
+IQB | 60.2
+IDM | 100.0
+Quartel Geral | 3153707 | 2016 | 80.1
+IQB | 58.57
+IDM | 100.0
+Quartel Geral | 3153707 | 2017 | 79.285
+IQB | 57.84
+IDM | 100.0
+Quartel Geral | 3153707 | 2018 | 78.92
+IQB | 58.82
+IDM | 100.0
+Quartel Geral | 3153707 | 2019 | 79.41
+IQB | 57.76
+IDM | 100.0
+Quartel Geral | 3153707 | 2020 | 78.88
+IQB | 56.81
+IDM | 100.0
+Resende Costa | 3154200 | 2015 | 78.405
+IQB | 58.51
+IDM | 100.0
+Resende Costa | 3154200 | 2016 | 79.255
+IQB | 55.25
+IDM | 100.0
+Resende Costa | 3154200 | 2017 | 77.625
+IQB | 56.82
+IDM | 100.0
+Resende Costa | 3154200 | 2018 | 78.41
+IQB | 56.48
+IDM | 100.0
+Resende Costa | 3154200 | 2019 | 78.24
+IQB | 54.69
+IDM | 100.0
+Resende Costa | 3154200 | 2020 | 77.345
+IQB | 56.32
+IDM | 100.0
+Riacho dos Machados | 3154507 | 2015 | 78.16
+IQB | 54.71
+IDM | 100.0
+Riacho dos Machados | 3154507 | 2016 | 77.355
+IQB | 52.7
+IDM | 100.0
+Riacho dos Machados | 3154507 | 2017 | 76.35
+IQB | 55.12
+IDM | 100.0
+Riacho dos Machados | 3154507 | 2018 | 77.56
+IQB | 54.83
+IDM | 100.0
+Riacho dos Machados | 3154507 | 2019 | 77.41499999999999
+IQB | 54.69
+IDM | 100.0
+Riacho dos Machados | 3154507 | 2020 | 77.345
+IQB | 54.37
+IDM | 100.0
+Rio Acima | 3154804 | 2015 | 77.185
+IQB | 54.62
+IDM | 100.0
+Rio Acima | 3154804 | 2016 | 77.31
+IQB | 53.26
+IDM | 100.0
+Rio Acima | 3154804 | 2017 | 76.63
+IQB | 53.47
+IDM | 100.0
+Rio Acima | 3154804 | 2018 | 76.735
+IQB | 54.87
+IDM | 100.0
+Rio Acima | 3154804 | 2019 | 77.435
+IQB | 53.2
+IDM | 100.0
+Rio Acima | 3154804 | 2020 | 76.6
+IQB | 60.57
+IDM | 100.0
+Rio do Prado | 3155108 | 2015 | 80.285
+IQB | 57.98
+IDM | 100.0
+Rio do Prado | 3155108 | 2016 | 78.99
+IQB | 58.27
+IDM | 100.0
+Rio do Prado | 3155108 | 2017 | 79.135
+IQB | 57.19
+IDM | 100.0
+Rio do Prado | 3155108 | 2018 | 78.595
+IQB | 58.47
+IDM | 100.0
+Rio do Prado | 3155108 | 2019 | 79.235
+IQB | 55.28
+IDM | 100.0
+Rio do Prado | 3155108 | 2020 | 77.64
+IQB | 58.68
+IDM | 100.0
+Rio Preto | 3155900 | 2015 | 79.34
+IQB | 58.79
+IDM | 100.0
+Rio Preto | 3155900 | 2016 | 79.395
+IQB | 58.33
+IDM | 0.0
+Rio Preto | 3155900 | 2017 | 29.165
+IQB | 57.15
+IDM | 0.0
+Rio Preto | 3155900 | 2018 | 28.575
+IQB | 57.16
+IDM | 0.0
+Rio Preto | 3155900 | 2019 | 28.58
+IQB | 56.02
+IDM | 100.0
+Rio Preto | 3155900 | 2020 | 78.01
+IQB | 56.81
+IDM | 100.0
+Ritápolis | 3156106 | 2015 | 78.405
+IQB | 58.51
+IDM | 100.0
+Ritápolis | 3156106 | 2016 | 79.255
+IQB | 55.25
+IDM | 100.0
+Ritápolis | 3156106 | 2017 | 77.625
+IQB | 56.82
+IDM | 100.0
+Ritápolis | 3156106 | 2018 | 78.41
+IQB | 56.48
+IDM | 100.0
+Ritápolis | 3156106 | 2019 | 78.24
+IQB | 54.69
+IDM | 100.0
+Ritápolis | 3156106 | 2020 | 77.345
+IQB | 55.59
+IDM | 100.0
+Rochedo de Minas | 3156205 | 2015 | 77.795
+IQB | 55.71
+IDM | 0.0
+Rochedo de Minas | 3156205 | 2016 | 27.855
+IQB | 53.74
+IDM | 100.0
+Rochedo de Minas | 3156205 | 2017 | 76.87
+IQB | 54.05
+IDM | 0.0
+Rochedo de Minas | 3156205 | 2018 | 27.025
+IQB | 55.16
+IDM | 0.0
+Rochedo de Minas | 3156205 | 2019 | 27.58
+IQB | 53.52
+IDM | 100.0
+Rochedo de Minas | 3156205 | 2020 | 76.76
+IQB | 59.94
+IDM | 100.0
+Santa Cruz do Escalvado | 3157401 | 2015 | 79.97
+IQB | 57.65
+IDM | 100.0
+Santa Cruz do Escalvado | 3157401 | 2016 | 78.825
+IQB | 57.32
+IDM | 100.0
+Santa Cruz do Escalvado | 3157401 | 2017 | 78.66
+IQB | 57.14
+IDM | 100.0
+Santa Cruz do Escalvado | 3157401 | 2018 | 78.57
+IQB | 58.43
+IDM | 100.0
+Santa Cruz do Escalvado | 3157401 | 2019 | 79.215
+IQB | 57.09
+IDM | 100.0
+Santa Cruz do Escalvado | 3157401 | 2020 | 78.545
+IQB | 60.57
+IDM | 100.0
+Santa Maria do Salto | 3158102 | 2015 | 80.285
+IQB | 57.98
+IDM | 100.0
+Santa Maria do Salto | 3158102 | 2016 | 78.99
+IQB | 58.27
+IDM | 100.0
+Santa Maria do Salto | 3158102 | 2017 | 79.135
+IQB | 57.19
+IDM | 100.0
+Santa Maria do Salto | 3158102 | 2018 | 78.595
+IQB | 58.47
+IDM | 100.0
+Santa Maria do Salto | 3158102 | 2019 | 79.235
+IQB | 55.28
+IDM | 100.0
+Santa Maria do Salto | 3158102 | 2020 | 77.64
+IQB | 56.81
+IDM | 100.0
+Santana da Vargem | 3158300 | 2015 | 78.405
+IQB | 54.6
+IDM | 100.0
+Santana da Vargem | 3158300 | 2016 | 77.3
+IQB | 55.75
+IDM | 100.0
+Santana da Vargem | 3158300 | 2017 | 77.875
+IQB | 56.17
+IDM | 100.0
+Santana da Vargem | 3158300 | 2018 | 78.08500000000001
+IQB | 55.05
+IDM | 100.0
+Santana da Vargem | 3158300 | 2019 | 77.525
+IQB | 54.06
+IDM | 100.0
+Santana da Vargem | 3158300 | 2020 | 77.03
+IQB | 58.68
+IDM | 100.0
+Santana do Deserto | 3158607 | 2015 | 79.34
+IQB | 58.79
+IDM | 0.0
+Santana do Deserto | 3158607 | 2016 | 29.395
+IQB | 58.33
+IDM | 100.0
+Santana do Deserto | 3158607 | 2017 | 79.16499999999999
+IQB | 57.15
+IDM | 50.0
+Santana do Deserto | 3158607 | 2018 | 53.575
+IQB | 57.16
+IDM | 0.0
+Santana do Deserto | 3158607 | 2019 | 28.58
+IQB | 56.02
+IDM | 100.0
+Santana do Deserto | 3158607 | 2020 | 78.01
+IQB | 56.81
+IDM | 100.0
+Santana do Garambéu | 3158706 | 2015 | 78.405
+IQB | 60.89
+IDM | 100.0
+Santana do Garambéu | 3158706 | 2016 | 80.445
+IQB | 58.95
+IDM | 100.0
+Santana do Garambéu | 3158706 | 2017 | 79.475
+IQB | 59.31
+IDM | 100.0
+Santana do Garambéu | 3158706 | 2018 | 79.655
+IQB | 58.36
+IDM | 100.0
+Santana do Garambéu | 3158706 | 2019 | 79.18
+IQB | 57.09
+IDM | 100.0
+Santana do Garambéu | 3158706 | 2020 | 78.545
+IQB | 58.68
+IDM | 100.0
+Santa Rita de Jacutinga | 3159308 | 2015 | 79.34
+IQB | 58.79
+IDM | 0.0
+Santa Rita de Jacutinga | 3159308 | 2016 | 29.395
+IQB | 58.33
+IDM | 0.0
+Santa Rita de Jacutinga | 3159308 | 2017 | 29.165
+IQB | 57.15
+IDM | 0.0
+Santa Rita de Jacutinga | 3159308 | 2018 | 28.575
+IQB | 57.16
+IDM | 0.0
+Santa Rita de Jacutinga | 3159308 | 2019 | 28.58
+IQB | 56.02
+IDM | 100.0
+Santa Rita de Jacutinga | 3159308 | 2020 | 78.01
+IQB | 59.24
+IDM | 100.0
+Santa Rosa da Serra | 3159704 | 2015 | 79.62
+IQB | 58.21
+IDM | 100.0
+Santa Rosa da Serra | 3159704 | 2016 | 79.105
+IQB | 57.66
+IDM | 100.0
+Santa Rosa da Serra | 3159704 | 2017 | 78.83
+IQB | 55.72
+IDM | 100.0
+Santa Rosa da Serra | 3159704 | 2018 | 77.86
+IQB | 57.37
+IDM | 100.0
+Santa Rosa da Serra | 3159704 | 2019 | 78.685
+IQB | 57.34
+IDM | 100.0
+Santa Rosa da Serra | 3159704 | 2020 | 78.67
+IQB | 59.94
+IDM | 100.0
+Santo Antônio do Grama | 3160108 | 2015 | 79.97
+IQB | 57.65
+IDM | 100.0
+Santo Antônio do Grama | 3160108 | 2016 | 78.825
+IQB | 57.32
+IDM | 100.0
+Santo Antônio do Grama | 3160108 | 2017 | 78.66
+IQB | 57.14
+IDM | 100.0
+Santo Antônio do Grama | 3160108 | 2018 | 78.57
+IQB | 58.43
+IDM | 100.0
+Santo Antônio do Grama | 3160108 | 2019 | 79.215
+IQB | 57.09
+IDM | 100.0
+Santo Antônio do Grama | 3160108 | 2020 | 78.545
+IQB | 57.98
+IDM | 100.0
+Santo Antônio do Jacinto | 3160306 | 2015 | 78.99
+IQB | 53.72
+IDM | 0.0
+Santo Antônio do Jacinto | 3160306 | 2016 | 26.86
+IQB | 54.53
+IDM | 0.0
+Santo Antônio do Jacinto | 3160306 | 2017 | 27.265
+IQB | 59.9
+IDM | 0.0
+Santo Antônio do Jacinto | 3160306 | 2018 | 29.95
+IQB | 56.62
+IDM | 0.0
+Santo Antônio do Jacinto | 3160306 | 2019 | 28.31
+IQB | 56.7
+IDM | 100.0
+Santo Antônio do Jacinto | 3160306 | 2020 | 78.35
+IQB | 59.97
+IDM | 100.0
+Santo Antônio do Retiro | 3160454 | 2015 | 79.985
+IQB | 56.81
+IDM | 100.0
+Santo Antônio do Retiro | 3160454 | 2016 | 78.405
+IQB | 57.97
+IDM | 100.0
+Santo Antônio do Retiro | 3160454 | 2017 | 78.985
+IQB | 53.22
+IDM | 100.0
+Santo Antônio do Retiro | 3160454 | 2018 | 76.61
+IQB | 56.76
+IDM | 100.0
+Santo Antônio do Retiro | 3160454 | 2019 | 78.38
+IQB | 58.11
+IDM | 100.0
+Santo Antônio do Retiro | 3160454 | 2020 | 79.055
+IQB | 56.81
+IDM | 100.0
+São Bento Abade | 3160801 | 2015 | 78.405
+IQB | 58.51
+IDM | 100.0
+São Bento Abade | 3160801 | 2016 | 79.255
+IQB | 55.25
+IDM | 100.0
+São Bento Abade | 3160801 | 2017 | 77.625
+IQB | 56.82
+IDM | 100.0
+São Bento Abade | 3160801 | 2018 | 78.41
+IQB | 56.48
+IDM | 100.0
+São Bento Abade | 3160801 | 2019 | 78.24
+IQB | 54.69
+IDM | 100.0
+São Bento Abade | 3160801 | 2020 | 77.345
+IQB | 56.47
+IDM | 100.0
+São Gonçalo do Pará | 3161809 | 2015 | 78.235
+IQB | 57.19
+IDM | 100.0
+São Gonçalo do Pará | 3161809 | 2016 | 78.595
+IQB | 53.79
+IDM | 100.0
+São Gonçalo do Pará | 3161809 | 2017 | 76.895
+IQB | 55.71
+IDM | 100.0
+São Gonçalo do Pará | 3161809 | 2018 | 77.855
+IQB | 55.55
+IDM | 100.0
+São Gonçalo do Pará | 3161809 | 2019 | 77.775
+IQB | 54.29
+IDM | 100.0
+São Gonçalo do Pará | 3161809 | 2020 | 77.145
+IQB | 60.0
+IDM | 100.0
+São Gonçalo do Rio Abaixo | 3161908 | 2015 | 80.0
+IQB | 58.87
+IDM | 0.0
+São Gonçalo do Rio Abaixo | 3161908 | 2016 | 29.435
+IQB | 57.12
+IDM | 0.0
+São Gonçalo do Rio Abaixo | 3161908 | 2017 | 28.56
+IQB | 58.22
+IDM | 0.0
+São Gonçalo do Rio Abaixo | 3161908 | 2018 | 29.11
+IQB | 58.67
+IDM | 0.0
+São Gonçalo do Rio Abaixo | 3161908 | 2019 | 29.335
+IQB | 56.69
+IDM | 100.0
+São Gonçalo do Rio Abaixo | 3161908 | 2020 | 78.345
+IQB | 57.96
+IDM | 100.0
+São João da Lagoa | 3162252 | 2015 | 78.98
+IQB | 56.54
+IDM | 100.0
+São João da Lagoa | 3162252 | 2016 | 78.27
+IQB | 56.6
+IDM | 100.0
+São João da Lagoa | 3162252 | 2017 | 78.3
+IQB | 57.54
+IDM | 100.0
+São João da Lagoa | 3162252 | 2018 | 78.77
+IQB | 56.23
+IDM | 100.0
+São João da Lagoa | 3162252 | 2019 | 78.115
+IQB | 56.66
+IDM | 100.0
+São João da Lagoa | 3162252 | 2020 | 78.33
+IQB | 56.81
+IDM | 100.0
+São João da Mata | 3162302 | 2015 | 78.405
+IQB | 56.89
+IDM | 100.0
+São João da Mata | 3162302 | 2016 | 78.445
+IQB | 55.99
+IDM | 100.0
+São João da Mata | 3162302 | 2017 | 77.995
+IQB | 55.48
+IDM | 100.0
+São João da Mata | 3162302 | 2018 | 77.74
+IQB | 55.17
+IDM | 100.0
+São João da Mata | 3162302 | 2019 | 77.58500000000001
+IQB | 48.81
+IDM | 100.0
+São João da Mata | 3162302 | 2020 | 74.405
+IQB | 62.17
+IDM | 100.0
+São João das Missões | 3162450 | 2015 | 81.08500000000001
+IQB | 60.9
+IDM | 100.0
+São João das Missões | 3162450 | 2016 | 80.45
+IQB | 60.25
+IDM | 100.0
+São João das Missões | 3162450 | 2017 | 80.125
+IQB | 59.62
+IDM | 100.0
+São João das Missões | 3162450 | 2018 | 79.81
+IQB | 60.38
+IDM | 100.0
+São João das Missões | 3162450 | 2019 | 80.19
+IQB | 60.3
+IDM | 100.0
+São João das Missões | 3162450 | 2020 | 80.15
+IQB | 56.81
+IDM | 100.0
+São José da Barra | 3162948 | 2015 | 78.405
+IQB | 55.59
+IDM | 100.0
+São José da Barra | 3162948 | 2016 | 77.795
+IQB | 55.48
+IDM | 100.0
+São José da Barra | 3162948 | 2017 | 77.74
+IQB | 54.6
+IDM | 100.0
+São José da Barra | 3162948 | 2018 | 77.3
+IQB | 54.94
+IDM | 100.0
+São José da Barra | 3162948 | 2019 | 77.47
+IQB | 53.11
+IDM | 100.0
+São José da Barra | 3162948 | 2020 | 76.555
+IQB | 59.62
+IDM | 100.0
+São José do Divino | 3163300 | 2015 | 79.81
+IQB | 58.17
+IDM | 100.0
+São José do Divino | 3163300 | 2016 | 79.08500000000001
+IQB | 54.53
+IDM | 100.0
+São José do Divino | 3163300 | 2017 | 77.265
+IQB | 57.92
+IDM | 100.0
+São José do Divino | 3163300 | 2018 | 78.96000000000001
+IQB | 57.97
+IDM | 100.0
+São José do Divino | 3163300 | 2019 | 78.985
+IQB | 57.63
+IDM | 100.0
+São José do Divino | 3163300 | 2020 | 78.815
+IQB | 56.81
+IDM | 100.0
+São Pedro da União | 3163904 | 2015 | 78.405
+IQB | 55.59
+IDM | 100.0
+São Pedro da União | 3163904 | 2016 | 77.795
+IQB | 55.48
+IDM | 100.0
+São Pedro da União | 3163904 | 2017 | 77.74
+IQB | 54.6
+IDM | 100.0
+São Pedro da União | 3163904 | 2018 | 77.3
+IQB | 54.94
+IDM | 100.0
+São Pedro da União | 3163904 | 2019 | 77.47
+IQB | 53.11
+IDM | 100.0
+São Pedro da União | 3163904 | 2020 | 76.555
+IQB | 60.98
+IDM | 100.0
+São Roque de Minas | 3164308 | 2015 | 80.49
+IQB | 60.2
+IDM | 100.0
+São Roque de Minas | 3164308 | 2016 | 80.1
+IQB | 58.57
+IDM | 100.0
+São Roque de Minas | 3164308 | 2017 | 79.285
+IQB | 57.84
+IDM | 100.0
+São Roque de Minas | 3164308 | 2018 | 78.92
+IQB | 58.82
+IDM | 100.0
+São Roque de Minas | 3164308 | 2019 | 79.41
+IQB | 57.76
+IDM | 100.0
+São Roque de Minas | 3164308 | 2020 | 78.88
+IQB | 56.81
+IDM | 100.0
+São Sebastião da Bela Vista | 3164407 | 2015 | 78.405
+IQB | 56.89
+IDM | 100.0
+São Sebastião da Bela Vista | 3164407 | 2016 | 78.445
+IQB | 55.99
+IDM | 100.0
+São Sebastião da Bela Vista | 3164407 | 2017 | 77.995
+IQB | 55.48
+IDM | 100.0
+São Sebastião da Bela Vista | 3164407 | 2018 | 77.74
+IQB | 55.17
+IDM | 0.0
+São Sebastião da Bela Vista | 3164407 | 2019 | 27.585
+IQB | 48.81
+IDM | 100.0
+São Sebastião da Bela Vista | 3164407 | 2020 | 74.405
+IQB | 56.47
+IDM | 100.0
+São Sebastião do Oeste | 3164605 | 2015 | 78.235
+IQB | 57.19
+IDM | 100.0
+São Sebastião do Oeste | 3164605 | 2016 | 78.595
+IQB | 53.79
+IDM | 100.0
+São Sebastião do Oeste | 3164605 | 2017 | 76.895
+IQB | 55.71
+IDM | 100.0
+São Sebastião do Oeste | 3164605 | 2018 | 77.855
+IQB | 55.55
+IDM | 100.0
+São Sebastião do Oeste | 3164605 | 2019 | 77.775
+IQB | 54.29
+IDM | 100.0
+São Sebastião do Oeste | 3164605 | 2020 | 77.145
+IQB | 56.81
+IDM | 100.0
+São Sebastião do Rio Verde | 3164902 | 2015 | 78.405
+IQB | 58.61
+IDM | 100.0
+São Sebastião do Rio Verde | 3164902 | 2016 | 79.305
+IQB | 56.38
+IDM | 100.0
+São Sebastião do Rio Verde | 3164902 | 2017 | 78.19
+IQB | 56.24
+IDM | 100.0
+São Sebastião do Rio Verde | 3164902 | 2018 | 78.12
+IQB | 56.47
+IDM | 100.0
+São Sebastião do Rio Verde | 3164902 | 2019 | 78.235
+IQB | 55.29
+IDM | 100.0
+São Sebastião do Rio Verde | 3164902 | 2020 | 77.645
+IQB | 56.81
+IDM | 100.0
+São Tomás de Aquino | 3165107 | 2015 | 78.405
+IQB | 55.59
+IDM | 100.0
+São Tomás de Aquino | 3165107 | 2016 | 77.795
+IQB | 55.48
+IDM | 100.0
+São Tomás de Aquino | 3165107 | 2017 | 77.74
+IQB | 54.6
+IDM | 100.0
+São Tomás de Aquino | 3165107 | 2018 | 77.3
+IQB | 54.94
+IDM | 100.0
+São Tomás de Aquino | 3165107 | 2019 | 77.47
+IQB | 53.11
+IDM | 100.0
+São Tomás de Aquino | 3165107 | 2020 | 76.555
+IQB | 56.81
+IDM | 100.0
+São Thomé das Letras | 3165206 | 2015 | 78.405
+IQB | 58.61
+IDM | 100.0
+São Thomé das Letras | 3165206 | 2016 | 79.305
+IQB | 56.38
+IDM | 100.0
+São Thomé das Letras | 3165206 | 2017 | 78.19
+IQB | 56.24
+IDM | 100.0
+São Thomé das Letras | 3165206 | 2018 | 78.12
+IQB | 56.47
+IDM | 100.0
+São Thomé das Letras | 3165206 | 2019 | 78.235
+IQB | 55.29
+IDM | 100.0
+São Thomé das Letras | 3165206 | 2020 | 77.645
+IQB | 61.3
+IDM | 100.0
+Setubinha | 3165552 | 2015 | 80.65
+IQB | 58.54
+IDM | 100.0
+Setubinha | 3165552 | 2016 | 79.27
+IQB | 58.96
+IDM | 100.0
+Setubinha | 3165552 | 2017 | 79.48
+IQB | 59.28
+IDM | 100.0
+Setubinha | 3165552 | 2018 | 79.64
+IQB | 57.02
+IDM | 100.0
+Setubinha | 3165552 | 2019 | 78.51
+IQB | 56.62
+IDM | 100.0
+Setubinha | 3165552 | 2020 | 78.31
+IQB | 56.81
+IDM | 100.0
+Senador Amaral | 3165578 | 2015 | 78.405
+IQB | 54.52
+IDM | 100.0
+Senador Amaral | 3165578 | 2016 | 77.26
+IQB | 54.65
+IDM | 100.0
+Senador Amaral | 3165578 | 2017 | 77.325
+IQB | 53.94
+IDM | 100.0
+Senador Amaral | 3165578 | 2018 | 76.97
+IQB | 54.38
+IDM | 100.0
+Senador Amaral | 3165578 | 2019 | 77.19
+IQB | 52.28
+IDM | 100.0
+Senador Amaral | 3165578 | 2020 | 76.14
+IQB | 58.68
+IDM | 100.0
+Senador Cortes | 3165602 | 2015 | 79.34
+IQB | 58.79
+IDM | 0.0
+Senador Cortes | 3165602 | 2016 | 29.395
+IQB | 58.33
+IDM | 0.0
+Senador Cortes | 3165602 | 2017 | 29.165
+IQB | 57.15
+IDM | 0.0
+Senador Cortes | 3165602 | 2018 | 28.575
+IQB | 57.16
+IDM | 0.0
+Senador Cortes | 3165602 | 2019 | 28.58
+IQB | 56.02
+IDM | 100.0
+Senador Cortes | 3165602 | 2020 | 78.01
+IQB | 61.3
+IDM | 100.0
+Senador Modestino Gonçalves | 3165909 | 2015 | 80.65
+IQB | 58.54
+IDM | 100.0
+Senador Modestino Gonçalves | 3165909 | 2016 | 79.27
+IQB | 58.96
+IDM | 100.0
+Senador Modestino Gonçalves | 3165909 | 2017 | 79.48
+IQB | 59.28
+IDM | 100.0
+Senador Modestino Gonçalves | 3165909 | 2018 | 79.64
+IQB | 57.02
+IDM | 100.0
+Senador Modestino Gonçalves | 3165909 | 2019 | 78.51
+IQB | 56.62
+IDM | 100.0
+Senador Modestino Gonçalves | 3165909 | 2020 | 78.31
+IQB | 56.81
+IDM | 100.0
+Seritinga | 3166402 | 2015 | 78.405
+IQB | 60.89
+IDM | 100.0
+Seritinga | 3166402 | 2016 | 80.445
+IQB | 58.95
+IDM | 100.0
+Seritinga | 3166402 | 2017 | 79.475
+IQB | 59.31
+IDM | 100.0
+Seritinga | 3166402 | 2018 | 79.655
+IQB | 58.36
+IDM | 100.0
+Seritinga | 3166402 | 2019 | 79.18
+IQB | 57.09
+IDM | 100.0
+Seritinga | 3166402 | 2020 | 78.545
+IQB | 56.81
+IDM | 100.0
+Silvianópolis | 3167400 | 2015 | 78.405
+IQB | 56.89
+IDM | 0.0
+Silvianópolis | 3167400 | 2016 | 28.445
+IQB | 55.99
+IDM | 0.0
+Silvianópolis | 3167400 | 2017 | 27.995
+IQB | 55.48
+IDM | 0.0
+Silvianópolis | 3167400 | 2018 | 27.74
+IQB | 55.17
+IDM | 100.0
+Silvianópolis | 3167400 | 2019 | 77.58500000000001
+IQB | 48.81
+IDM | 100.0
+Silvianópolis | 3167400 | 2020 | 74.405
+IQB | 56.81
+IDM | 100.0
+Soledade de Minas | 3167806 | 2015 | 78.405
+IQB | 58.61
+IDM | 100.0
+Soledade de Minas | 3167806 | 2016 | 79.305
+IQB | 56.38
+IDM | 100.0
+Soledade de Minas | 3167806 | 2017 | 78.19
+IQB | 56.24
+IDM | 100.0
+Soledade de Minas | 3167806 | 2018 | 78.12
+IQB | 56.47
+IDM | 100.0
+Soledade de Minas | 3167806 | 2019 | 78.235
+IQB | 55.29
+IDM | 100.0
+Soledade de Minas | 3167806 | 2020 | 77.645
+IQB | 60.98
+IDM | 100.0
+Tapiraí | 3168200 | 2015 | 80.49
+IQB | 60.2
+IDM | 100.0
+Tapiraí | 3168200 | 2016 | 80.1
+IQB | 58.57
+IDM | 100.0
+Tapiraí | 3168200 | 2017 | 79.285
+IQB | 57.84
+IDM | 100.0
+Tapiraí | 3168200 | 2018 | 78.92
+IQB | 58.82
+IDM | 100.0
+Tapiraí | 3168200 | 2019 | 79.41
+IQB | 57.76
+IDM | 100.0
+Tapiraí | 3168200 | 2020 | 78.88
+IQB | 59.94
+IDM | 100.0
+Teixeiras | 3168507 | 2015 | 79.97
+IQB | 57.65
+IDM | 100.0
+Teixeiras | 3168507 | 2016 | 78.825
+IQB | 57.32
+IDM | 100.0
+Teixeiras | 3168507 | 2017 | 78.66
+IQB | 57.14
+IDM | 100.0
+Teixeiras | 3168507 | 2018 | 78.57
+IQB | 58.43
+IDM | 100.0
+Teixeiras | 3168507 | 2019 | 79.215
+IQB | 57.09
+IDM | 100.0
+Teixeiras | 3168507 | 2020 | 78.545
+IQB | 55.59
+IDM | 100.0
+Tocantins | 3169000 | 2015 | 77.795
+IQB | 55.71
+IDM | 100.0
+Tocantins | 3169000 | 2016 | 77.855
+IQB | 53.74
+IDM | 100.0
+Tocantins | 3169000 | 2017 | 76.87
+IQB | 54.05
+IDM | 100.0
+Tocantins | 3169000 | 2018 | 77.025
+IQB | 55.16
+IDM | 100.0
+Tocantins | 3169000 | 2019 | 77.58
+IQB | 53.52
+IDM | 100.0
+Tocantins | 3169000 | 2020 | 76.76
+IQB | 57.96
+IDM | 100.0
+Ubaí | 3170008 | 2015 | 78.98
+IQB | 56.54
+IDM | 100.0
+Ubaí | 3170008 | 2016 | 78.27
+IQB | 56.6
+IDM | 100.0
+Ubaí | 3170008 | 2017 | 78.3
+IQB | 57.54
+IDM | 100.0
+Ubaí | 3170008 | 2018 | 78.77
+IQB | 56.23
+IDM | 100.0
+Ubaí | 3170008 | 2019 | 78.115
+IQB | 56.66
+IDM | 100.0
+Ubaí | 3170008 | 2020 | 78.33
+IQB | 60.05
+IDM | 100.0
+Uruana de Minas | 3170479 | 2015 | 80.025
+IQB | 60.29
+IDM | 100.0
+Uruana de Minas | 3170479 | 2016 | 80.145
+IQB | 59.37
+IDM | 100.0
+Uruana de Minas | 3170479 | 2017 | 79.685
+IQB | 58.51
+IDM | 100.0
+Uruana de Minas | 3170479 | 2018 | 79.255
+IQB | 61.05
+IDM | 100.0
+Uruana de Minas | 3170479 | 2019 | 80.525
+IQB | 60.19
+IDM | 100.0
+Uruana de Minas | 3170479 | 2020 | 80.095
+IQB | 60.98
+IDM | 100.0
+Vargem Bonita | 3170602 | 2015 | 80.49
+IQB | 60.2
+IDM | 100.0
+Vargem Bonita | 3170602 | 2016 | 80.1
+IQB | 58.57
+IDM | 100.0
+Vargem Bonita | 3170602 | 2017 | 79.285
+IQB | 57.84
+IDM | 100.0
+Vargem Bonita | 3170602 | 2018 | 78.92
+IQB | 58.82
+IDM | 100.0
+Vargem Bonita | 3170602 | 2019 | 79.41
+IQB | 57.76
+IDM | 100.0
+Vargem Bonita | 3170602 | 2020 | 78.88
+IQB | 61.69
+IDM | 100.0
+Mathias Lobato | 3171501 | 2015 | 80.845
+IQB | 59.18
+IDM | 100.0
+Mathias Lobato | 3171501 | 2016 | 79.59
+IQB | 58.37
+IDM | 100.0
+Mathias Lobato | 3171501 | 2017 | 79.185
+IQB | 58.96
+IDM | 100.0
+Mathias Lobato | 3171501 | 2018 | 79.48
+IQB | 60.49
+IDM | 100.0
+Mathias Lobato | 3171501 | 2019 | 80.245
+IQB | 56.64
+IDM | 100.0
+Mathias Lobato | 3171501 | 2020 | 78.32
+IQB | 61.69
+IDM | 100.0
+Virgolândia | 3171808 | 2015 | 80.845
+IQB | 59.18
+IDM | 100.0
+Virgolândia | 3171808 | 2016 | 79.59
+IQB | 58.37
+IDM | 100.0
+Virgolândia | 3171808 | 2017 | 79.185
+IQB | 58.96
+IDM | 100.0
+Virgolândia | 3171808 | 2018 | 79.48
+IQB | 60.49
+IDM | 100.0
+Virgolândia | 3171808 | 2019 | 80.245
+IQB | 56.64
+IDM | 100.0
+Virgolândia | 3171808 | 2020 | 78.32
+IQB | 56.81
+IDM | 100.0
+Wenceslau Braz | 3172202 | 2015 | 78.405
+IQB | 56.89
+IDM | 100.0
+Wenceslau Braz | 3172202 | 2016 | 78.445
+IQB | 55.99
+IDM | 100.0
+Wenceslau Braz | 3172202 | 2017 | 77.995
+IQB | 55.48
+IDM | 100.0
+Wenceslau Braz | 3172202 | 2018 | 77.74
+IQB | 55.17
+IDM | 100.0
+Wenceslau Braz | 3172202 | 2019 | 77.58500000000001
+IQB | 48.81
+IDM | 100.0
+Wenceslau Braz | 3172202 | 2020 | 74.405

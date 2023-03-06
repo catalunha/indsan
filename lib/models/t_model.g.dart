@@ -7,7 +7,7 @@ part of 't_model.dart';
 // **************************************************************************
 
 // coverage:ignore-file
-// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, avoid_js_rounded_ints, prefer_final_locals
+// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, prefer_final_locals, avoid_js_rounded_ints, avoid_positional_boolean_parameters
 
 extension GetTModelCollection on Isar {
   IsarCollection<TModel> get tModels => this.collection();
@@ -39,12 +39,9 @@ const TModelSchema = CollectionSchema(
     )
   },
   estimateSize: _tModelEstimateSize,
-  serializeNative: _tModelSerializeNative,
-  deserializeNative: _tModelDeserializeNative,
-  deserializePropNative: _tModelDeserializePropNative,
-  serializeWeb: _tModelSerializeWeb,
-  deserializeWeb: _tModelDeserializeWeb,
-  deserializePropWeb: _tModelDeserializePropWeb,
+  serialize: _tModelSerialize,
+  deserialize: _tModelDeserialize,
+  deserializeProp: _tModelDeserializeProp,
   idName: r'id',
   indexes: {},
   links: {},
@@ -52,7 +49,7 @@ const TModelSchema = CollectionSchema(
   getId: _tModelGetId,
   getLinks: _tModelGetLinks,
   attach: _tModelAttach,
-  version: '3.0.0-dev.14',
+  version: '3.0.5',
 );
 
 int _tModelEstimateSize(
@@ -65,9 +62,9 @@ int _tModelEstimateSize(
   return bytesCount;
 }
 
-int _tModelSerializeNative(
+void _tModelSerialize(
   TModel object,
-  IsarBinaryWriter writer,
+  IsarWriter writer,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -75,12 +72,11 @@ int _tModelSerializeNative(
   writer.writeString(offsets[1], object.munCode);
   writer.writeDouble(offsets[2], object.t);
   writer.writeLong(offsets[3], object.year);
-  return writer.usedBytes;
 }
 
-TModel _tModelDeserializeNative(
+TModel _tModelDeserialize(
   Id id,
-  IsarBinaryReader reader,
+  IsarReader reader,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -93,8 +89,8 @@ TModel _tModelDeserializeNative(
   return object;
 }
 
-P _tModelDeserializePropNative<P>(
-  IsarBinaryReader reader,
+P _tModelDeserializeProp<P>(
+  IsarReader reader,
   int propertyId,
   int offset,
   Map<Type, List<int>> allOffsets,
@@ -110,23 +106,6 @@ P _tModelDeserializePropNative<P>(
       return (reader.readLong(offset)) as P;
     default:
       throw IsarError('Unknown property with id $propertyId');
-  }
-}
-
-Object _tModelSerializeWeb(IsarCollection<TModel> collection, TModel object) {
-  /*final jsObj = IsarNative.newJsObject();*/ throw UnimplementedError();
-}
-
-TModel _tModelDeserializeWeb(IsarCollection<TModel> collection, Object jsObj) {
-  /*final object = TModel(munCode: IsarNative.jsObjectGet(jsObj, r'munCode') ?? '',t: IsarNative.jsObjectGet(jsObj, r't') ,year: IsarNative.jsObjectGet(jsObj, r'year') ?? (double.negativeInfinity as int),);object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);*/
-  //return object;
-  throw UnimplementedError();
-}
-
-P _tModelDeserializePropWeb<P>(Object jsObj, String propertyName) {
-  switch (propertyName) {
-    default:
-      throw IsarError('Illegal propertyName');
   }
 }
 
@@ -151,7 +130,7 @@ extension TModelQueryWhereSort on QueryBuilder<TModel, TModel, QWhere> {
 }
 
 extension TModelQueryWhere on QueryBuilder<TModel, TModel, QWhereClause> {
-  QueryBuilder<TModel, TModel, QAfterWhereClause> idEqualTo(int id) {
+  QueryBuilder<TModel, TModel, QAfterWhereClause> idEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(IdWhereClause.between(
         lower: id,
@@ -160,7 +139,7 @@ extension TModelQueryWhere on QueryBuilder<TModel, TModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterWhereClause> idNotEqualTo(int id) {
+  QueryBuilder<TModel, TModel, QAfterWhereClause> idNotEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       if (query.whereSort == Sort.asc) {
         return query
@@ -182,7 +161,7 @@ extension TModelQueryWhere on QueryBuilder<TModel, TModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterWhereClause> idGreaterThan(int id,
+  QueryBuilder<TModel, TModel, QAfterWhereClause> idGreaterThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -191,7 +170,7 @@ extension TModelQueryWhere on QueryBuilder<TModel, TModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterWhereClause> idLessThan(int id,
+  QueryBuilder<TModel, TModel, QAfterWhereClause> idLessThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -201,8 +180,8 @@ extension TModelQueryWhere on QueryBuilder<TModel, TModel, QWhereClause> {
   }
 
   QueryBuilder<TModel, TModel, QAfterWhereClause> idBetween(
-    int lowerId,
-    int upperId, {
+    Id lowerId,
+    Id upperId, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {
@@ -271,7 +250,7 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
     });
   }
 
-  QueryBuilder<TModel, TModel, QAfterFilterCondition> idEqualTo(int value) {
+  QueryBuilder<TModel, TModel, QAfterFilterCondition> idEqualTo(Id value) {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.equalTo(
         property: r'id',
@@ -281,7 +260,7 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
   }
 
   QueryBuilder<TModel, TModel, QAfterFilterCondition> idGreaterThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -294,7 +273,7 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
   }
 
   QueryBuilder<TModel, TModel, QAfterFilterCondition> idLessThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -307,8 +286,8 @@ extension TModelQueryFilter on QueryBuilder<TModel, TModel, QFilterCondition> {
   }
 
   QueryBuilder<TModel, TModel, QAfterFilterCondition> idBetween(
-    int lower,
-    int upper, {
+    Id lower,
+    Id upper, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {

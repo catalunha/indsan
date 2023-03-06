@@ -7,7 +7,7 @@ part of 'snis_model.dart';
 // **************************************************************************
 
 // coverage:ignore-file
-// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, avoid_js_rounded_ints, prefer_final_locals
+// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, prefer_final_locals, avoid_js_rounded_ints, avoid_positional_boolean_parameters
 
 extension GetSNISModelCollection on Isar {
   IsarCollection<SNISModel> get sNISModels => this.collection();
@@ -134,12 +134,9 @@ const SNISModelSchema = CollectionSchema(
     )
   },
   estimateSize: _sNISModelEstimateSize,
-  serializeNative: _sNISModelSerializeNative,
-  deserializeNative: _sNISModelDeserializeNative,
-  deserializePropNative: _sNISModelDeserializePropNative,
-  serializeWeb: _sNISModelSerializeWeb,
-  deserializeWeb: _sNISModelDeserializeWeb,
-  deserializePropWeb: _sNISModelDeserializePropWeb,
+  serialize: _sNISModelSerialize,
+  deserialize: _sNISModelDeserialize,
+  deserializeProp: _sNISModelDeserializeProp,
   idName: r'id',
   indexes: {},
   links: {},
@@ -147,7 +144,7 @@ const SNISModelSchema = CollectionSchema(
   getId: _sNISModelGetId,
   getLinks: _sNISModelGetLinks,
   attach: _sNISModelAttach,
-  version: '3.0.0-dev.14',
+  version: '3.0.5',
 );
 
 int _sNISModelEstimateSize(
@@ -160,9 +157,9 @@ int _sNISModelEstimateSize(
   return bytesCount;
 }
 
-int _sNISModelSerializeNative(
+void _sNISModelSerialize(
   SNISModel object,
-  IsarBinaryWriter writer,
+  IsarWriter writer,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -189,12 +186,11 @@ int _sNISModelSerializeNative(
   writer.writeLong(offsets[20], object.hashCode);
   writer.writeString(offsets[21], object.munCode);
   writer.writeLong(offsets[22], object.year);
-  return writer.usedBytes;
 }
 
-SNISModel _sNISModelDeserializeNative(
+SNISModel _sNISModelDeserialize(
   Id id,
-  IsarBinaryReader reader,
+  IsarReader reader,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -226,8 +222,8 @@ SNISModel _sNISModelDeserializeNative(
   return object;
 }
 
-P _sNISModelDeserializePropNative<P>(
-  IsarBinaryReader reader,
+P _sNISModelDeserializeProp<P>(
+  IsarReader reader,
   int propertyId,
   int offset,
   Map<Type, List<int>> allOffsets,
@@ -284,25 +280,6 @@ P _sNISModelDeserializePropNative<P>(
   }
 }
 
-Object _sNISModelSerializeWeb(
-    IsarCollection<SNISModel> collection, SNISModel object) {
-  /*final jsObj = IsarNative.newJsObject();*/ throw UnimplementedError();
-}
-
-SNISModel _sNISModelDeserializeWeb(
-    IsarCollection<SNISModel> collection, Object jsObj) {
-  /*final object = SNISModel(AG006: IsarNative.jsObjectGet(jsObj, r'AG006') ,AG012: IsarNative.jsObjectGet(jsObj, r'AG012') ,AG024: IsarNative.jsObjectGet(jsObj, r'AG024') ,ES005: IsarNative.jsObjectGet(jsObj, r'ES005') ,ES006: IsarNative.jsObjectGet(jsObj, r'ES006') ,IN014_RS: IsarNative.jsObjectGet(jsObj, r'IN014_RS') ,IN022_AE: IsarNative.jsObjectGet(jsObj, r'IN022_AE') ,IN023_AE: IsarNative.jsObjectGet(jsObj, r'IN023_AE') ,IN024_AE: IsarNative.jsObjectGet(jsObj, r'IN024_AE') ,IN049_AE: IsarNative.jsObjectGet(jsObj, r'IN049_AE') ,POP: IsarNative.jsObjectGet(jsObj, r'POP') ,QD006: IsarNative.jsObjectGet(jsObj, r'QD006') ,QD007: IsarNative.jsObjectGet(jsObj, r'QD007') ,QD008: IsarNative.jsObjectGet(jsObj, r'QD008') ,QD009: IsarNative.jsObjectGet(jsObj, r'QD009') ,QD019: IsarNative.jsObjectGet(jsObj, r'QD019') ,QD020: IsarNative.jsObjectGet(jsObj, r'QD020') ,QD026: IsarNative.jsObjectGet(jsObj, r'QD026') ,QD027: IsarNative.jsObjectGet(jsObj, r'QD027') ,QD028: IsarNative.jsObjectGet(jsObj, r'QD028') ,munCode: IsarNative.jsObjectGet(jsObj, r'munCode') ?? '',year: IsarNative.jsObjectGet(jsObj, r'year') ?? (double.negativeInfinity as int),);object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);*/
-  //return object;
-  throw UnimplementedError();
-}
-
-P _sNISModelDeserializePropWeb<P>(Object jsObj, String propertyName) {
-  switch (propertyName) {
-    default:
-      throw IsarError('Illegal propertyName');
-  }
-}
-
 Id _sNISModelGetId(SNISModel object) {
   return object.id;
 }
@@ -326,7 +303,7 @@ extension SNISModelQueryWhereSort
 
 extension SNISModelQueryWhere
     on QueryBuilder<SNISModel, SNISModel, QWhereClause> {
-  QueryBuilder<SNISModel, SNISModel, QAfterWhereClause> idEqualTo(int id) {
+  QueryBuilder<SNISModel, SNISModel, QAfterWhereClause> idEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(IdWhereClause.between(
         lower: id,
@@ -335,7 +312,7 @@ extension SNISModelQueryWhere
     });
   }
 
-  QueryBuilder<SNISModel, SNISModel, QAfterWhereClause> idNotEqualTo(int id) {
+  QueryBuilder<SNISModel, SNISModel, QAfterWhereClause> idNotEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       if (query.whereSort == Sort.asc) {
         return query
@@ -357,7 +334,7 @@ extension SNISModelQueryWhere
     });
   }
 
-  QueryBuilder<SNISModel, SNISModel, QAfterWhereClause> idGreaterThan(int id,
+  QueryBuilder<SNISModel, SNISModel, QAfterWhereClause> idGreaterThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -366,7 +343,7 @@ extension SNISModelQueryWhere
     });
   }
 
-  QueryBuilder<SNISModel, SNISModel, QAfterWhereClause> idLessThan(int id,
+  QueryBuilder<SNISModel, SNISModel, QAfterWhereClause> idLessThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -376,8 +353,8 @@ extension SNISModelQueryWhere
   }
 
   QueryBuilder<SNISModel, SNISModel, QAfterWhereClause> idBetween(
-    int lowerId,
-    int upperId, {
+    Id lowerId,
+    Id upperId, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {
@@ -2013,7 +1990,7 @@ extension SNISModelQueryFilter
   }
 
   QueryBuilder<SNISModel, SNISModel, QAfterFilterCondition> idEqualTo(
-      int value) {
+      Id value) {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.equalTo(
         property: r'id',
@@ -2023,7 +2000,7 @@ extension SNISModelQueryFilter
   }
 
   QueryBuilder<SNISModel, SNISModel, QAfterFilterCondition> idGreaterThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -2036,7 +2013,7 @@ extension SNISModelQueryFilter
   }
 
   QueryBuilder<SNISModel, SNISModel, QAfterFilterCondition> idLessThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -2049,8 +2026,8 @@ extension SNISModelQueryFilter
   }
 
   QueryBuilder<SNISModel, SNISModel, QAfterFilterCondition> idBetween(
-    int lower,
-    int upper, {
+    Id lower,
+    Id upper, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {

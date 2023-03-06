@@ -26,206 +26,170 @@ void app() async {
   // await indStore.updateEsquis(update: true);
   // await indStore.updateIrh(update: true);
   // await indStore.updateIse(update: true);
-  // indIAB();
-  // indIES();
-  // indIRS();
-  // indICV();
-  // indIRH();
-  indISE();
+  Isar isar = Isar.getInstance()!;
+
+  List<MunModel> munList = await isar.munModels.where().findAll();
+  List<int> yearList = [2015, 2016, 2017, 2018, 2019, 2020];
+
+  // List<MunModel> munList = [
+  //   MunModel(munCode: '3100302', munName: '', munUF: '')
+  // ];
+  // List<int> yearList = [2015];
+
+  indIAB(munList, yearList, true);
+  indIES(munList, yearList, true);
+  indIRS(munList, yearList, true);
+  indICV(munList, yearList, true);
+  indIRH(munList, yearList, true);
+  indISE(munList, yearList, true);
 }
 
-indISE() async {
-  Isar isar = Isar.getInstance()!;
+indISE(List<MunModel> munList, List<int> yearList,
+    [bool allCalcs = false]) async {
+  print('Calculando indISE');
+
   IndISE indISE = IndISE();
-  // List<MunModel> munList = await isar.munModels.where().findAll();
-  // List<int> yearList = [2015, 2016, 2017, 2018, 2019, 2020];
-
-  List<MunModel> munList = [
-    MunModel(munCode: '3100302', munName: '', munUF: '')
-  ];
-  List<int> yearList = [2015];
-
   var pathFileName = 'lib/calcs/ise.txt';
   if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
   var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
   fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | ISE');
   for (var mun in munList) {
     for (var year in yearList) {
-      // double? ies = await indISE.calculate(mun.munCode, year, null);
-      double? ies = await indISE.calculate(mun.munCode, year, fileOpen);
-      print('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
-      fileOpen
-          .writeln('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
+      double? result;
+      if (allCalcs) {
+        result = await indISE.calculate(mun.munCode, year, fileOpen);
+      } else {
+        result = await indISE.calculate(mun.munCode, year, null);
+      }
+      fileOpen.writeln(
+          '${mun.munName} | ${mun.munCode} | $year | ${result ?? "?"}');
     }
   }
 
   fileOpen.close();
-  isar.close();
 }
 
-indIRH() async {
-  Isar isar = Isar.getInstance()!;
+indIRH(List<MunModel> munList, List<int> yearList,
+    [bool allCalcs = false]) async {
+  print('Calculando indIRH');
+
   IndIRH indIRH = IndIRH();
-  List<MunModel> list = await isar.munModels.where().findAll();
 
   var pathFileName = 'lib/calcs/irh.txt';
   if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
   var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
   fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | IRH');
-  //+++ calculo de tudo
-  for (var mun in list) {
-    for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
-      double? ies = await indIRH.calculate(mun.munCode, year, null);
-      // double? ies = await indIRH.calculate(mun.munCode, year, fileOpen);
-      print('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
-      fileOpen
-          .writeln('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
+
+  for (var mun in munList) {
+    for (var year in yearList) {
+      double? result;
+      if (allCalcs) {
+        result = await indIRH.calculate(mun.munCode, year, fileOpen);
+      } else {
+        result = await indIRH.calculate(mun.munCode, year, null);
+      }
+      fileOpen.writeln(
+          '${mun.munName} | ${mun.munCode} | $year | ${result ?? "?"}');
     }
   }
-  //--- calculo de tudo
-
-  // +++ teste unitario
-  // String munCode = '3100302';
-  // int year = 2020;
-  // double? ies = await indIES.calculate(munCode, year, fileOpen);
-  // print('Mun.:$munCode Ano:$year. IES: ${ies ?? "?"}');
-  // --- teste unitario
-
   fileOpen.close();
-  isar.close();
 }
 
-indICV() async {
-  Isar isar = Isar.getInstance()!;
+indICV(List<MunModel> munList, List<int> yearList,
+    [bool allCalcs = false]) async {
+  print('Calculando indICV');
+
   IndICV indICV = IndICV();
-  List<MunModel> list = await isar.munModels.where().findAll();
 
   var pathFileName = 'lib/calcs/icv.txt';
   if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
   var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
   fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | ICV');
-  //+++ calculo de tudo
-  for (var mun in list) {
-    for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
-      double? ies = await indICV.calculate(mun.munCode, year, null);
-      // double? ies = await indIRS.calculate(mun.munCode, year, fileOpen);
-      print('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
-      fileOpen
-          .writeln('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
+  for (var mun in munList) {
+    for (var year in yearList) {
+      double? result;
+      if (allCalcs) {
+        result = await indICV.calculate(mun.munCode, year, fileOpen);
+      } else {
+        result = await indICV.calculate(mun.munCode, year, null);
+      }
+      fileOpen.writeln(
+          '${mun.munName} | ${mun.munCode} | $year | ${result ?? "?"}');
     }
   }
-  //--- calculo de tudo
-
-  // +++ teste unitario
-  // String munCode = '3100302';
-  // int year = 2020;
-  // double? ies = await indIES.calculate(munCode, year, fileOpen);
-  // print('Mun.:$munCode Ano:$year. IES: ${ies ?? "?"}');
-  // --- teste unitario
-
   fileOpen.close();
-  isar.close();
 }
 
-indIRS() async {
-  Isar isar = Isar.getInstance()!;
+indIRS(List<MunModel> munList, List<int> yearList,
+    [bool allCalcs = false]) async {
+  print('Calculando indIRS');
+
   IndIRS indIRS = IndIRS();
-  List<MunModel> list = await isar.munModels.where().findAll();
 
   var pathFileName = 'lib/calcs/irs.txt';
   if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
   var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
   fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | IRS');
-  //+++ calculo de tudo
-  for (var mun in list) {
-    for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
-      double? ies = await indIRS.calculate(mun.munCode, year, null);
-      // double? ies = await indIRS.calculate(mun.munCode, year, fileOpen);
-      print('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
-      fileOpen
-          .writeln('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
+  for (var mun in munList) {
+    for (var year in yearList) {
+      double? result;
+      if (allCalcs) {
+        result = await indIRS.calculate(mun.munCode, year, fileOpen);
+      } else {
+        result = await indIRS.calculate(mun.munCode, year, null);
+      }
+      fileOpen.writeln(
+          '${mun.munName} | ${mun.munCode} | $year | ${result ?? "?"}');
     }
   }
-  //--- calculo de tudo
-
-  // +++ teste unitario
-  // String munCode = '3100302';
-  // int year = 2020;
-  // double? ies = await indIES.calculate(munCode, year, fileOpen);
-  // print('Mun.:$munCode Ano:$year. IES: ${ies ?? "?"}');
-  // --- teste unitario
-
   fileOpen.close();
-  isar.close();
 }
 
-indIES() async {
-  Isar isar = Isar.getInstance()!;
+indIES(List<MunModel> munList, List<int> yearList,
+    [bool allCalcs = false]) async {
+  print('Calculando indIES');
   IndIES indIES = IndIES();
-  List<MunModel> list = await isar.munModels.where().findAll();
 
   var pathFileName = 'lib/calcs/ies.txt';
   if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
   var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
   fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | ICE');
-  //+++ calculo de tudo
-  for (var mun in list) {
-    for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
-      double? ies = await indIES.calculate(mun.munCode, year, null);
-      // double? ies = await indIES.calculate(mun.munCode, year, fileOpen);
-      print('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
-      fileOpen
-          .writeln('${mun.munName} | ${mun.munCode} | $year | ${ies ?? "?"}');
+  for (var mun in munList) {
+    for (var year in yearList) {
+      double? result;
+      if (allCalcs) {
+        result = await indIES.calculate(mun.munCode, year, fileOpen);
+      } else {
+        result = await indIES.calculate(mun.munCode, year, null);
+      }
+      fileOpen.writeln(
+          '${mun.munName} | ${mun.munCode} | $year | ${result ?? "?"}');
     }
   }
-  //--- calculo de tudo
-
-  // +++ teste unitario
-  // String munCode = '3100302';
-  // int year = 2020;
-  // double? ies = await indIES.calculate(munCode, year, fileOpen);
-  // print('Mun.:$munCode Ano:$year. IES: ${ies ?? "?"}');
-  // --- teste unitario
-
   fileOpen.close();
-  isar.close();
 }
 
-indIAB() async {
-  Isar isar = Isar.getInstance()!;
-  // +++ Indicador IAB
+indIAB(List<MunModel> munList, List<int> yearList,
+    [bool allCalcs = false]) async {
+  print('Calculando indIAB');
   IndIAB indIAB = IndIAB();
-  List<MunModel> list = await isar.munModels.where().findAll();
 
   var pathFileName = 'lib/calcs/iab.txt';
   if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
   var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
-  //+++ calculo de tudo
   fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | IAB');
 
-  for (var mun in list) {
-    for (var year in [2015, 2016, 2017, 2018, 2019, 2020]) {
-      double? iab = await indIAB.calculate(mun.munCode, year, null);
-      // double? iab = await indIAB.calculate(mun.munCode, year, fileOpen);
-      print('${mun.munName} | ${mun.munCode} | $year | ${iab ?? "?"}');
-      fileOpen
-          .writeln('${mun.munName} | ${mun.munCode} | $year | ${iab ?? "?"}');
+  for (var mun in munList) {
+    for (var year in yearList) {
+      double? result;
+      if (allCalcs) {
+        result = await indIAB.calculate(mun.munCode, year, fileOpen);
+      } else {
+        result = await indIAB.calculate(mun.munCode, year, null);
+      }
+      fileOpen.writeln(
+          '${mun.munName} | ${mun.munCode} | $year | ${result ?? "?"}');
     }
   }
-  //--- calculo de tudo
-
-  // +++ teste unitario
-  // String munCode = '3144706';
-  // int year = 2016;
-  // double? iab = await indIAB.calculate(munCode, year, fileOpen);
-  // print('Mun.:$munCode Ano:$year. IAB: ${iab ?? "?"}');
-  // --- teste unitario
-  // +++ Indicador IAB
-
-  // +++ Indicador IES
-
-  // --- Indicador IES
-
   fileOpen.close();
-  isar.close();
 }

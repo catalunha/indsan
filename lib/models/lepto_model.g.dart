@@ -7,7 +7,7 @@ part of 'lepto_model.dart';
 // **************************************************************************
 
 // coverage:ignore-file
-// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, avoid_js_rounded_ints, prefer_final_locals
+// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, prefer_final_locals, avoid_js_rounded_ints, avoid_positional_boolean_parameters
 
 extension GetLeptoModelCollection on Isar {
   IsarCollection<LeptoModel> get leptoModels => this.collection();
@@ -39,12 +39,9 @@ const LeptoModelSchema = CollectionSchema(
     )
   },
   estimateSize: _leptoModelEstimateSize,
-  serializeNative: _leptoModelSerializeNative,
-  deserializeNative: _leptoModelDeserializeNative,
-  deserializePropNative: _leptoModelDeserializePropNative,
-  serializeWeb: _leptoModelSerializeWeb,
-  deserializeWeb: _leptoModelDeserializeWeb,
-  deserializePropWeb: _leptoModelDeserializePropWeb,
+  serialize: _leptoModelSerialize,
+  deserialize: _leptoModelDeserialize,
+  deserializeProp: _leptoModelDeserializeProp,
   idName: r'id',
   indexes: {},
   links: {},
@@ -52,7 +49,7 @@ const LeptoModelSchema = CollectionSchema(
   getId: _leptoModelGetId,
   getLinks: _leptoModelGetLinks,
   attach: _leptoModelAttach,
-  version: '3.0.0-dev.14',
+  version: '3.0.5',
 );
 
 int _leptoModelEstimateSize(
@@ -65,9 +62,9 @@ int _leptoModelEstimateSize(
   return bytesCount;
 }
 
-int _leptoModelSerializeNative(
+void _leptoModelSerialize(
   LeptoModel object,
-  IsarBinaryWriter writer,
+  IsarWriter writer,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -75,12 +72,11 @@ int _leptoModelSerializeNative(
   writer.writeDouble(offsets[1], object.lepto);
   writer.writeString(offsets[2], object.munCode);
   writer.writeLong(offsets[3], object.year);
-  return writer.usedBytes;
 }
 
-LeptoModel _leptoModelDeserializeNative(
+LeptoModel _leptoModelDeserialize(
   Id id,
-  IsarBinaryReader reader,
+  IsarReader reader,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -93,8 +89,8 @@ LeptoModel _leptoModelDeserializeNative(
   return object;
 }
 
-P _leptoModelDeserializePropNative<P>(
-  IsarBinaryReader reader,
+P _leptoModelDeserializeProp<P>(
+  IsarReader reader,
   int propertyId,
   int offset,
   Map<Type, List<int>> allOffsets,
@@ -110,25 +106,6 @@ P _leptoModelDeserializePropNative<P>(
       return (reader.readLong(offset)) as P;
     default:
       throw IsarError('Unknown property with id $propertyId');
-  }
-}
-
-Object _leptoModelSerializeWeb(
-    IsarCollection<LeptoModel> collection, LeptoModel object) {
-  /*final jsObj = IsarNative.newJsObject();*/ throw UnimplementedError();
-}
-
-LeptoModel _leptoModelDeserializeWeb(
-    IsarCollection<LeptoModel> collection, Object jsObj) {
-  /*final object = LeptoModel(lepto: IsarNative.jsObjectGet(jsObj, r'lepto') ,munCode: IsarNative.jsObjectGet(jsObj, r'munCode') ?? '',year: IsarNative.jsObjectGet(jsObj, r'year') ?? (double.negativeInfinity as int),);object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);*/
-  //return object;
-  throw UnimplementedError();
-}
-
-P _leptoModelDeserializePropWeb<P>(Object jsObj, String propertyName) {
-  switch (propertyName) {
-    default:
-      throw IsarError('Illegal propertyName');
   }
 }
 
@@ -155,7 +132,7 @@ extension LeptoModelQueryWhereSort
 
 extension LeptoModelQueryWhere
     on QueryBuilder<LeptoModel, LeptoModel, QWhereClause> {
-  QueryBuilder<LeptoModel, LeptoModel, QAfterWhereClause> idEqualTo(int id) {
+  QueryBuilder<LeptoModel, LeptoModel, QAfterWhereClause> idEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(IdWhereClause.between(
         lower: id,
@@ -164,7 +141,7 @@ extension LeptoModelQueryWhere
     });
   }
 
-  QueryBuilder<LeptoModel, LeptoModel, QAfterWhereClause> idNotEqualTo(int id) {
+  QueryBuilder<LeptoModel, LeptoModel, QAfterWhereClause> idNotEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       if (query.whereSort == Sort.asc) {
         return query
@@ -186,7 +163,7 @@ extension LeptoModelQueryWhere
     });
   }
 
-  QueryBuilder<LeptoModel, LeptoModel, QAfterWhereClause> idGreaterThan(int id,
+  QueryBuilder<LeptoModel, LeptoModel, QAfterWhereClause> idGreaterThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -195,7 +172,7 @@ extension LeptoModelQueryWhere
     });
   }
 
-  QueryBuilder<LeptoModel, LeptoModel, QAfterWhereClause> idLessThan(int id,
+  QueryBuilder<LeptoModel, LeptoModel, QAfterWhereClause> idLessThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -205,8 +182,8 @@ extension LeptoModelQueryWhere
   }
 
   QueryBuilder<LeptoModel, LeptoModel, QAfterWhereClause> idBetween(
-    int lowerId,
-    int upperId, {
+    Id lowerId,
+    Id upperId, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {
@@ -278,7 +255,7 @@ extension LeptoModelQueryFilter
   }
 
   QueryBuilder<LeptoModel, LeptoModel, QAfterFilterCondition> idEqualTo(
-      int value) {
+      Id value) {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.equalTo(
         property: r'id',
@@ -288,7 +265,7 @@ extension LeptoModelQueryFilter
   }
 
   QueryBuilder<LeptoModel, LeptoModel, QAfterFilterCondition> idGreaterThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -301,7 +278,7 @@ extension LeptoModelQueryFilter
   }
 
   QueryBuilder<LeptoModel, LeptoModel, QAfterFilterCondition> idLessThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -314,8 +291,8 @@ extension LeptoModelQueryFilter
   }
 
   QueryBuilder<LeptoModel, LeptoModel, QAfterFilterCondition> idBetween(
-    int lower,
-    int upper, {
+    Id lower,
+    Id upper, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {

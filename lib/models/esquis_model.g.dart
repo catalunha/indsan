@@ -7,7 +7,7 @@ part of 'esquis_model.dart';
 // **************************************************************************
 
 // coverage:ignore-file
-// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, avoid_js_rounded_ints, prefer_final_locals
+// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, prefer_final_locals, avoid_js_rounded_ints, avoid_positional_boolean_parameters
 
 extension GetEsquisModelCollection on Isar {
   IsarCollection<EsquisModel> get esquisModels => this.collection();
@@ -39,12 +39,9 @@ const EsquisModelSchema = CollectionSchema(
     )
   },
   estimateSize: _esquisModelEstimateSize,
-  serializeNative: _esquisModelSerializeNative,
-  deserializeNative: _esquisModelDeserializeNative,
-  deserializePropNative: _esquisModelDeserializePropNative,
-  serializeWeb: _esquisModelSerializeWeb,
-  deserializeWeb: _esquisModelDeserializeWeb,
-  deserializePropWeb: _esquisModelDeserializePropWeb,
+  serialize: _esquisModelSerialize,
+  deserialize: _esquisModelDeserialize,
+  deserializeProp: _esquisModelDeserializeProp,
   idName: r'id',
   indexes: {},
   links: {},
@@ -52,7 +49,7 @@ const EsquisModelSchema = CollectionSchema(
   getId: _esquisModelGetId,
   getLinks: _esquisModelGetLinks,
   attach: _esquisModelAttach,
-  version: '3.0.0-dev.14',
+  version: '3.0.5',
 );
 
 int _esquisModelEstimateSize(
@@ -65,9 +62,9 @@ int _esquisModelEstimateSize(
   return bytesCount;
 }
 
-int _esquisModelSerializeNative(
+void _esquisModelSerialize(
   EsquisModel object,
-  IsarBinaryWriter writer,
+  IsarWriter writer,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -75,12 +72,11 @@ int _esquisModelSerializeNative(
   writer.writeLong(offsets[1], object.hashCode);
   writer.writeString(offsets[2], object.munCode);
   writer.writeLong(offsets[3], object.year);
-  return writer.usedBytes;
 }
 
-EsquisModel _esquisModelDeserializeNative(
+EsquisModel _esquisModelDeserialize(
   Id id,
-  IsarBinaryReader reader,
+  IsarReader reader,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -93,8 +89,8 @@ EsquisModel _esquisModelDeserializeNative(
   return object;
 }
 
-P _esquisModelDeserializePropNative<P>(
-  IsarBinaryReader reader,
+P _esquisModelDeserializeProp<P>(
+  IsarReader reader,
   int propertyId,
   int offset,
   Map<Type, List<int>> allOffsets,
@@ -110,25 +106,6 @@ P _esquisModelDeserializePropNative<P>(
       return (reader.readLong(offset)) as P;
     default:
       throw IsarError('Unknown property with id $propertyId');
-  }
-}
-
-Object _esquisModelSerializeWeb(
-    IsarCollection<EsquisModel> collection, EsquisModel object) {
-  /*final jsObj = IsarNative.newJsObject();*/ throw UnimplementedError();
-}
-
-EsquisModel _esquisModelDeserializeWeb(
-    IsarCollection<EsquisModel> collection, Object jsObj) {
-  /*final object = EsquisModel(esquis: IsarNative.jsObjectGet(jsObj, r'esquis') ,munCode: IsarNative.jsObjectGet(jsObj, r'munCode') ?? '',year: IsarNative.jsObjectGet(jsObj, r'year') ?? (double.negativeInfinity as int),);object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);*/
-  //return object;
-  throw UnimplementedError();
-}
-
-P _esquisModelDeserializePropWeb<P>(Object jsObj, String propertyName) {
-  switch (propertyName) {
-    default:
-      throw IsarError('Illegal propertyName');
   }
 }
 
@@ -156,7 +133,7 @@ extension EsquisModelQueryWhereSort
 
 extension EsquisModelQueryWhere
     on QueryBuilder<EsquisModel, EsquisModel, QWhereClause> {
-  QueryBuilder<EsquisModel, EsquisModel, QAfterWhereClause> idEqualTo(int id) {
+  QueryBuilder<EsquisModel, EsquisModel, QAfterWhereClause> idEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(IdWhereClause.between(
         lower: id,
@@ -166,7 +143,7 @@ extension EsquisModelQueryWhere
   }
 
   QueryBuilder<EsquisModel, EsquisModel, QAfterWhereClause> idNotEqualTo(
-      int id) {
+      Id id) {
     return QueryBuilder.apply(this, (query) {
       if (query.whereSort == Sort.asc) {
         return query
@@ -188,8 +165,7 @@ extension EsquisModelQueryWhere
     });
   }
 
-  QueryBuilder<EsquisModel, EsquisModel, QAfterWhereClause> idGreaterThan(
-      int id,
+  QueryBuilder<EsquisModel, EsquisModel, QAfterWhereClause> idGreaterThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -198,7 +174,7 @@ extension EsquisModelQueryWhere
     });
   }
 
-  QueryBuilder<EsquisModel, EsquisModel, QAfterWhereClause> idLessThan(int id,
+  QueryBuilder<EsquisModel, EsquisModel, QAfterWhereClause> idLessThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -208,8 +184,8 @@ extension EsquisModelQueryWhere
   }
 
   QueryBuilder<EsquisModel, EsquisModel, QAfterWhereClause> idBetween(
-    int lowerId,
-    int upperId, {
+    Id lowerId,
+    Id upperId, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {
@@ -362,7 +338,7 @@ extension EsquisModelQueryFilter
   }
 
   QueryBuilder<EsquisModel, EsquisModel, QAfterFilterCondition> idEqualTo(
-      int value) {
+      Id value) {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.equalTo(
         property: r'id',
@@ -372,7 +348,7 @@ extension EsquisModelQueryFilter
   }
 
   QueryBuilder<EsquisModel, EsquisModel, QAfterFilterCondition> idGreaterThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -385,7 +361,7 @@ extension EsquisModelQueryFilter
   }
 
   QueryBuilder<EsquisModel, EsquisModel, QAfterFilterCondition> idLessThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -398,8 +374,8 @@ extension EsquisModelQueryFilter
   }
 
   QueryBuilder<EsquisModel, EsquisModel, QAfterFilterCondition> idBetween(
-    int lower,
-    int upper, {
+    Id lower,
+    Id upper, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {

@@ -7,7 +7,7 @@ part of 'email.dart';
 // **************************************************************************
 
 // coverage:ignore-file
-// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, avoid_js_rounded_ints, prefer_final_locals
+// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, prefer_final_locals, avoid_js_rounded_ints, avoid_positional_boolean_parameters
 
 extension GetEmailCollection on Isar {
   IsarCollection<Email> get emails => this.collection();
@@ -36,12 +36,9 @@ const EmailSchema = CollectionSchema(
     )
   },
   estimateSize: _emailEstimateSize,
-  serializeNative: _emailSerializeNative,
-  deserializeNative: _emailDeserializeNative,
-  deserializePropNative: _emailDeserializePropNative,
-  serializeWeb: _emailSerializeWeb,
-  deserializeWeb: _emailDeserializeWeb,
-  deserializePropWeb: _emailDeserializePropWeb,
+  serialize: _emailSerialize,
+  deserialize: _emailDeserialize,
+  deserializeProp: _emailDeserializeProp,
   idName: r'id',
   indexes: {
     r'title': IndexSchema(
@@ -63,7 +60,7 @@ const EmailSchema = CollectionSchema(
   getId: _emailGetId,
   getLinks: _emailGetLinks,
   attach: _emailAttach,
-  version: '3.0.0-dev.14',
+  version: '3.0.5',
 );
 
 int _emailEstimateSize(
@@ -95,26 +92,25 @@ int _emailEstimateSize(
   return bytesCount;
 }
 
-int _emailSerializeNative(
+void _emailSerialize(
   Email object,
-  IsarBinaryWriter writer,
+  IsarWriter writer,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
   writer.writeObjectList<Recipient>(
     offsets[0],
     allOffsets,
-    RecipientSchema.serializeNative,
+    RecipientSchema.serialize,
     object.recipients,
   );
   writer.writeByte(offsets[1], object.status.index);
   writer.writeString(offsets[2], object.title);
-  return writer.usedBytes;
 }
 
-Email _emailDeserializeNative(
+Email _emailDeserialize(
   Id id,
-  IsarBinaryReader reader,
+  IsarReader reader,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -122,7 +118,7 @@ Email _emailDeserializeNative(
   object.id = id;
   object.recipients = reader.readObjectList<Recipient>(
     offsets[0],
-    RecipientSchema.deserializeNative,
+    RecipientSchema.deserialize,
     allOffsets,
     Recipient(),
   );
@@ -132,8 +128,8 @@ Email _emailDeserializeNative(
   return object;
 }
 
-P _emailDeserializePropNative<P>(
-  IsarBinaryReader reader,
+P _emailDeserializeProp<P>(
+  IsarReader reader,
   int propertyId,
   int offset,
   Map<Type, List<int>> allOffsets,
@@ -142,7 +138,7 @@ P _emailDeserializePropNative<P>(
     case 0:
       return (reader.readObjectList<Recipient>(
         offset,
-        RecipientSchema.deserializeNative,
+        RecipientSchema.deserialize,
         allOffsets,
         Recipient(),
       )) as P;
@@ -156,27 +152,10 @@ P _emailDeserializePropNative<P>(
   }
 }
 
-Object _emailSerializeWeb(IsarCollection<Email> collection, Email object) {
-  /*final jsObj = IsarNative.newJsObject();*/ throw UnimplementedError();
-}
-
-Email _emailDeserializeWeb(IsarCollection<Email> collection, Object jsObj) {
-  /*final object = Email();object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);object.recipients = (IsarNative.jsObjectGet(jsObj, r'recipients') as List?)?.map((e) => e ?? Recipient()).toList().cast<Recipient>() ;object.status = IsarNative.jsObjectGet(jsObj, r'status') ;object.title = IsarNative.jsObjectGet(jsObj, r'title') ;*/
-  //return object;
-  throw UnimplementedError();
-}
-
-P _emailDeserializePropWeb<P>(Object jsObj, String propertyName) {
-  switch (propertyName) {
-    default:
-      throw IsarError('Illegal propertyName');
-  }
-}
-
 const _EmailstatusEnumValueMap = {
-  Status.draft: 0,
-  Status.sending: 1,
-  Status.sent: 2,
+  'draft': 0,
+  'sending': 1,
+  'sent': 2,
 };
 const _EmailstatusValueEnumMap = {
   0: Status.draft,
@@ -213,7 +192,7 @@ extension EmailQueryWhereSort on QueryBuilder<Email, Email, QWhere> {
 }
 
 extension EmailQueryWhere on QueryBuilder<Email, Email, QWhereClause> {
-  QueryBuilder<Email, Email, QAfterWhereClause> idEqualTo(int id) {
+  QueryBuilder<Email, Email, QAfterWhereClause> idEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(IdWhereClause.between(
         lower: id,
@@ -222,7 +201,7 @@ extension EmailQueryWhere on QueryBuilder<Email, Email, QWhereClause> {
     });
   }
 
-  QueryBuilder<Email, Email, QAfterWhereClause> idNotEqualTo(int id) {
+  QueryBuilder<Email, Email, QAfterWhereClause> idNotEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       if (query.whereSort == Sort.asc) {
         return query
@@ -244,7 +223,7 @@ extension EmailQueryWhere on QueryBuilder<Email, Email, QWhereClause> {
     });
   }
 
-  QueryBuilder<Email, Email, QAfterWhereClause> idGreaterThan(int id,
+  QueryBuilder<Email, Email, QAfterWhereClause> idGreaterThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -253,7 +232,7 @@ extension EmailQueryWhere on QueryBuilder<Email, Email, QWhereClause> {
     });
   }
 
-  QueryBuilder<Email, Email, QAfterWhereClause> idLessThan(int id,
+  QueryBuilder<Email, Email, QAfterWhereClause> idLessThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -263,8 +242,8 @@ extension EmailQueryWhere on QueryBuilder<Email, Email, QWhereClause> {
   }
 
   QueryBuilder<Email, Email, QAfterWhereClause> idBetween(
-    int lowerId,
-    int upperId, {
+    Id lowerId,
+    Id upperId, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {
@@ -434,7 +413,7 @@ extension EmailQueryWhere on QueryBuilder<Email, Email, QWhereClause> {
 }
 
 extension EmailQueryFilter on QueryBuilder<Email, Email, QFilterCondition> {
-  QueryBuilder<Email, Email, QAfterFilterCondition> idEqualTo(int value) {
+  QueryBuilder<Email, Email, QAfterFilterCondition> idEqualTo(Id value) {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.equalTo(
         property: r'id',
@@ -444,7 +423,7 @@ extension EmailQueryFilter on QueryBuilder<Email, Email, QFilterCondition> {
   }
 
   QueryBuilder<Email, Email, QAfterFilterCondition> idGreaterThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -457,7 +436,7 @@ extension EmailQueryFilter on QueryBuilder<Email, Email, QFilterCondition> {
   }
 
   QueryBuilder<Email, Email, QAfterFilterCondition> idLessThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -470,8 +449,8 @@ extension EmailQueryFilter on QueryBuilder<Email, Email, QFilterCondition> {
   }
 
   QueryBuilder<Email, Email, QAfterFilterCondition> idBetween(
-    int lower,
-    int upper, {
+    Id lower,
+    Id upper, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {
@@ -905,7 +884,7 @@ extension EmailQueryProperty on QueryBuilder<Email, Email, QQueryProperty> {
 // **************************************************************************
 
 // coverage:ignore-file
-// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, avoid_js_rounded_ints, prefer_final_localså
+// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, prefer_final_locals, avoid_js_rounded_ints, avoid_positional_boolean_parameters
 
 const RecipientSchema = Schema(
   name: r'Recipient',
@@ -923,12 +902,9 @@ const RecipientSchema = Schema(
     )
   },
   estimateSize: _recipientEstimateSize,
-  serializeNative: _recipientSerializeNative,
-  deserializeNative: _recipientDeserializeNative,
-  deserializePropNative: _recipientDeserializePropNative,
-  serializeWeb: _recipientSerializeWeb,
-  deserializeWeb: _recipientDeserializeWeb,
-  deserializePropWeb: _recipientDeserializePropWeb,
+  serialize: _recipientSerialize,
+  deserialize: _recipientDeserialize,
+  deserializeProp: _recipientDeserializeProp,
 );
 
 int _recipientEstimateSize(
@@ -952,20 +928,19 @@ int _recipientEstimateSize(
   return bytesCount;
 }
 
-int _recipientSerializeNative(
+void _recipientSerialize(
   Recipient object,
-  IsarBinaryWriter writer,
+  IsarWriter writer,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
   writer.writeString(offsets[0], object.address);
   writer.writeString(offsets[1], object.name);
-  return writer.usedBytes;
 }
 
-Recipient _recipientDeserializeNative(
+Recipient _recipientDeserialize(
   Id id,
-  IsarBinaryReader reader,
+  IsarReader reader,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -975,8 +950,8 @@ Recipient _recipientDeserializeNative(
   return object;
 }
 
-P _recipientDeserializePropNative<P>(
-  IsarBinaryReader reader,
+P _recipientDeserializeProp<P>(
+  IsarReader reader,
   int propertyId,
   int offset,
   Map<Type, List<int>> allOffsets,
@@ -988,25 +963,6 @@ P _recipientDeserializePropNative<P>(
       return (reader.readStringOrNull(offset)) as P;
     default:
       throw IsarError('Unknown property with id $propertyId');
-  }
-}
-
-Object _recipientSerializeWeb(
-    IsarCollection<Recipient> collection, Recipient object) {
-  /*final jsObj = IsarNative.newJsObject();*/ throw UnimplementedError();
-}
-
-Recipient _recipientDeserializeWeb(
-    IsarCollection<Recipient> collection, Object jsObj) {
-  /*final object = Recipient();object.address = IsarNative.jsObjectGet(jsObj, r'address') ;object.name = IsarNative.jsObjectGet(jsObj, r'name') ;*/
-  //return object;
-  throw UnimplementedError();
-}
-
-P _recipientDeserializePropWeb<P>(Object jsObj, String propertyName) {
-  switch (propertyName) {
-    default:
-      throw IsarError('Illegal propertyName');
   }
 }
 

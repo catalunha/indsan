@@ -27,7 +27,7 @@ class IndISE {
 
   double indIRF(IOSink? logs) {
     double i2s = _indIseData.i2s;
-    print('i2s_original:$i2s');
+    // print('i2s_original:$i2s');
     if (i2s < 56.91) {
       i2s = 100;
     } else if (i2s > 63.43) {
@@ -35,10 +35,10 @@ class IndISE {
     } else {
       i2s = ((63.43 - i2s) / (63.43 - 56.91)) * 100;
     }
-    print('i2s_interpolado=:$i2s');
+    // print('i2s_interpolado=:$i2s');
 
     double irm = _indIseData.irm;
-    print('irm_original:$irm');
+    // print('irm_original:$irm');
 
     if (irm < 606.72) {
       irm = 0;
@@ -47,7 +47,7 @@ class IndISE {
     } else {
       irm = ((irm - 606.72) / (833.30 - 606.72)) * 100;
     }
-    print('irm_interpolado=:$irm');
+    // print('irm_interpolado=:$irm');
 
     double result = 0.7 * i2s + 0.3 * irm;
     if (logs != null) {
@@ -59,7 +59,7 @@ class IndISE {
 
   double indIED(IOSink? logs) {
     double ine = _indIseData.ine;
-    print('ine_original:$ine');
+    // print('ine_original:$ine');
 
     if (ine < 38.78) {
       ine = 100;
@@ -68,10 +68,10 @@ class IndISE {
     } else {
       ine = ((44.68 - ine) / (44.68 - 38.78)) * 100;
     }
-    print('ine_interpolado=:$ine');
+    // print('ine_interpolado=:$ine');
 
     double ie1 = _indIseData.ie1;
-    print('ie1_original:$ie1');
+    // print('ie1_original:$ie1');
 
     if (ie1 < 5.10) {
       ie1 = 100;
@@ -80,7 +80,7 @@ class IndISE {
     } else {
       ie1 = ((7.86 - ie1) / (7.86 - 5.10)) * 100;
     }
-    print('ie1_interpolado=:$ie1');
+    // print('ie1_interpolado=:$ie1');
 
     double result = 0.6 * ine + 0.4 * ie1;
     if (logs != null) {

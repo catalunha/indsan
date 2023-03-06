@@ -7,7 +7,7 @@ part of 'ana_model.dart';
 // **************************************************************************
 
 // coverage:ignore-file
-// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, avoid_js_rounded_ints, prefer_final_locals
+// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, prefer_final_locals, avoid_js_rounded_ints, avoid_positional_boolean_parameters
 
 extension GetANAModelCollection on Isar {
   IsarCollection<ANAModel> get aNAModels => this.collection();
@@ -29,12 +29,9 @@ const ANAModelSchema = CollectionSchema(
     )
   },
   estimateSize: _aNAModelEstimateSize,
-  serializeNative: _aNAModelSerializeNative,
-  deserializeNative: _aNAModelDeserializeNative,
-  deserializePropNative: _aNAModelDeserializePropNative,
-  serializeWeb: _aNAModelSerializeWeb,
-  deserializeWeb: _aNAModelDeserializeWeb,
-  deserializePropWeb: _aNAModelDeserializePropWeb,
+  serialize: _aNAModelSerialize,
+  deserialize: _aNAModelDeserialize,
+  deserializeProp: _aNAModelDeserializeProp,
   idName: r'id',
   indexes: {},
   links: {},
@@ -42,7 +39,7 @@ const ANAModelSchema = CollectionSchema(
   getId: _aNAModelGetId,
   getLinks: _aNAModelGetLinks,
   attach: _aNAModelAttach,
-  version: '3.0.0-dev.14',
+  version: '3.0.5',
 );
 
 int _aNAModelEstimateSize(
@@ -55,20 +52,19 @@ int _aNAModelEstimateSize(
   return bytesCount;
 }
 
-int _aNAModelSerializeNative(
+void _aNAModelSerialize(
   ANAModel object,
-  IsarBinaryWriter writer,
+  IsarWriter writer,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
   writer.writeLong(offsets[0], object.font);
   writer.writeString(offsets[1], object.munCode);
-  return writer.usedBytes;
 }
 
-ANAModel _aNAModelDeserializeNative(
+ANAModel _aNAModelDeserialize(
   Id id,
-  IsarBinaryReader reader,
+  IsarReader reader,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -80,8 +76,8 @@ ANAModel _aNAModelDeserializeNative(
   return object;
 }
 
-P _aNAModelDeserializePropNative<P>(
-  IsarBinaryReader reader,
+P _aNAModelDeserializeProp<P>(
+  IsarReader reader,
   int propertyId,
   int offset,
   Map<Type, List<int>> allOffsets,
@@ -93,25 +89,6 @@ P _aNAModelDeserializePropNative<P>(
       return (reader.readString(offset)) as P;
     default:
       throw IsarError('Unknown property with id $propertyId');
-  }
-}
-
-Object _aNAModelSerializeWeb(
-    IsarCollection<ANAModel> collection, ANAModel object) {
-  /*final jsObj = IsarNative.newJsObject();*/ throw UnimplementedError();
-}
-
-ANAModel _aNAModelDeserializeWeb(
-    IsarCollection<ANAModel> collection, Object jsObj) {
-  /*final object = ANAModel(font: IsarNative.jsObjectGet(jsObj, r'font') ,munCode: IsarNative.jsObjectGet(jsObj, r'munCode') ?? '',);object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);*/
-  //return object;
-  throw UnimplementedError();
-}
-
-P _aNAModelDeserializePropWeb<P>(Object jsObj, String propertyName) {
-  switch (propertyName) {
-    default:
-      throw IsarError('Illegal propertyName');
   }
 }
 
@@ -136,7 +113,7 @@ extension ANAModelQueryWhereSort on QueryBuilder<ANAModel, ANAModel, QWhere> {
 }
 
 extension ANAModelQueryWhere on QueryBuilder<ANAModel, ANAModel, QWhereClause> {
-  QueryBuilder<ANAModel, ANAModel, QAfterWhereClause> idEqualTo(int id) {
+  QueryBuilder<ANAModel, ANAModel, QAfterWhereClause> idEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(IdWhereClause.between(
         lower: id,
@@ -145,7 +122,7 @@ extension ANAModelQueryWhere on QueryBuilder<ANAModel, ANAModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<ANAModel, ANAModel, QAfterWhereClause> idNotEqualTo(int id) {
+  QueryBuilder<ANAModel, ANAModel, QAfterWhereClause> idNotEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       if (query.whereSort == Sort.asc) {
         return query
@@ -167,7 +144,7 @@ extension ANAModelQueryWhere on QueryBuilder<ANAModel, ANAModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<ANAModel, ANAModel, QAfterWhereClause> idGreaterThan(int id,
+  QueryBuilder<ANAModel, ANAModel, QAfterWhereClause> idGreaterThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -176,7 +153,7 @@ extension ANAModelQueryWhere on QueryBuilder<ANAModel, ANAModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<ANAModel, ANAModel, QAfterWhereClause> idLessThan(int id,
+  QueryBuilder<ANAModel, ANAModel, QAfterWhereClause> idLessThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -186,8 +163,8 @@ extension ANAModelQueryWhere on QueryBuilder<ANAModel, ANAModel, QWhereClause> {
   }
 
   QueryBuilder<ANAModel, ANAModel, QAfterWhereClause> idBetween(
-    int lowerId,
-    int upperId, {
+    Id lowerId,
+    Id upperId, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {
@@ -273,7 +250,7 @@ extension ANAModelQueryFilter
     });
   }
 
-  QueryBuilder<ANAModel, ANAModel, QAfterFilterCondition> idEqualTo(int value) {
+  QueryBuilder<ANAModel, ANAModel, QAfterFilterCondition> idEqualTo(Id value) {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.equalTo(
         property: r'id',
@@ -283,7 +260,7 @@ extension ANAModelQueryFilter
   }
 
   QueryBuilder<ANAModel, ANAModel, QAfterFilterCondition> idGreaterThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -296,7 +273,7 @@ extension ANAModelQueryFilter
   }
 
   QueryBuilder<ANAModel, ANAModel, QAfterFilterCondition> idLessThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -309,8 +286,8 @@ extension ANAModelQueryFilter
   }
 
   QueryBuilder<ANAModel, ANAModel, QAfterFilterCondition> idBetween(
-    int lower,
-    int upper, {
+    Id lower,
+    Id upper, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {

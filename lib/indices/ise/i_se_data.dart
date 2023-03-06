@@ -73,8 +73,6 @@ class IndISEData {
     }
 
     if (faltaDados.isNotEmpty) {
-      print('--- Faltam estes dados');
-      print(faltaDados);
       if (logs != null) {
         logs.writeln('Erros | $munCode | $year | $faltaDados');
       }

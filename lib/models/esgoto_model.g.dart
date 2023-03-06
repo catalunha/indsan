@@ -7,7 +7,7 @@ part of 'esgoto_model.dart';
 // **************************************************************************
 
 // coverage:ignore-file
-// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, avoid_js_rounded_ints, prefer_final_locals
+// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, prefer_final_locals, avoid_js_rounded_ints, avoid_positional_boolean_parameters
 
 extension GetEsgotoModelCollection on Isar {
   IsarCollection<EsgotoModel> get esgotoModels => this.collection();
@@ -39,12 +39,9 @@ const EsgotoModelSchema = CollectionSchema(
     )
   },
   estimateSize: _esgotoModelEstimateSize,
-  serializeNative: _esgotoModelSerializeNative,
-  deserializeNative: _esgotoModelDeserializeNative,
-  deserializePropNative: _esgotoModelDeserializePropNative,
-  serializeWeb: _esgotoModelSerializeWeb,
-  deserializeWeb: _esgotoModelDeserializeWeb,
-  deserializePropWeb: _esgotoModelDeserializePropWeb,
+  serialize: _esgotoModelSerialize,
+  deserialize: _esgotoModelDeserialize,
+  deserializeProp: _esgotoModelDeserializeProp,
   idName: r'id',
   indexes: {},
   links: {},
@@ -52,7 +49,7 @@ const EsgotoModelSchema = CollectionSchema(
   getId: _esgotoModelGetId,
   getLinks: _esgotoModelGetLinks,
   attach: _esgotoModelAttach,
-  version: '3.0.0-dev.14',
+  version: '3.0.5',
 );
 
 int _esgotoModelEstimateSize(
@@ -65,9 +62,9 @@ int _esgotoModelEstimateSize(
   return bytesCount;
 }
 
-int _esgotoModelSerializeNative(
+void _esgotoModelSerialize(
   EsgotoModel object,
-  IsarBinaryWriter writer,
+  IsarWriter writer,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -75,12 +72,11 @@ int _esgotoModelSerializeNative(
   writer.writeLong(offsets[1], object.hashCode);
   writer.writeString(offsets[2], object.munCode);
   writer.writeLong(offsets[3], object.year);
-  return writer.usedBytes;
 }
 
-EsgotoModel _esgotoModelDeserializeNative(
+EsgotoModel _esgotoModelDeserialize(
   Id id,
-  IsarBinaryReader reader,
+  IsarReader reader,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -93,8 +89,8 @@ EsgotoModel _esgotoModelDeserializeNative(
   return object;
 }
 
-P _esgotoModelDeserializePropNative<P>(
-  IsarBinaryReader reader,
+P _esgotoModelDeserializeProp<P>(
+  IsarReader reader,
   int propertyId,
   int offset,
   Map<Type, List<int>> allOffsets,
@@ -110,25 +106,6 @@ P _esgotoModelDeserializePropNative<P>(
       return (reader.readLong(offset)) as P;
     default:
       throw IsarError('Unknown property with id $propertyId');
-  }
-}
-
-Object _esgotoModelSerializeWeb(
-    IsarCollection<EsgotoModel> collection, EsgotoModel object) {
-  /*final jsObj = IsarNative.newJsObject();*/ throw UnimplementedError();
-}
-
-EsgotoModel _esgotoModelDeserializeWeb(
-    IsarCollection<EsgotoModel> collection, Object jsObj) {
-  /*final object = EsgotoModel(CT: IsarNative.jsObjectGet(jsObj, r'CT') ,munCode: IsarNative.jsObjectGet(jsObj, r'munCode') ?? '',year: IsarNative.jsObjectGet(jsObj, r'year') ?? (double.negativeInfinity as int),);object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);*/
-  //return object;
-  throw UnimplementedError();
-}
-
-P _esgotoModelDeserializePropWeb<P>(Object jsObj, String propertyName) {
-  switch (propertyName) {
-    default:
-      throw IsarError('Illegal propertyName');
   }
 }
 
@@ -156,7 +133,7 @@ extension EsgotoModelQueryWhereSort
 
 extension EsgotoModelQueryWhere
     on QueryBuilder<EsgotoModel, EsgotoModel, QWhereClause> {
-  QueryBuilder<EsgotoModel, EsgotoModel, QAfterWhereClause> idEqualTo(int id) {
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterWhereClause> idEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(IdWhereClause.between(
         lower: id,
@@ -166,7 +143,7 @@ extension EsgotoModelQueryWhere
   }
 
   QueryBuilder<EsgotoModel, EsgotoModel, QAfterWhereClause> idNotEqualTo(
-      int id) {
+      Id id) {
     return QueryBuilder.apply(this, (query) {
       if (query.whereSort == Sort.asc) {
         return query
@@ -188,8 +165,7 @@ extension EsgotoModelQueryWhere
     });
   }
 
-  QueryBuilder<EsgotoModel, EsgotoModel, QAfterWhereClause> idGreaterThan(
-      int id,
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterWhereClause> idGreaterThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -198,7 +174,7 @@ extension EsgotoModelQueryWhere
     });
   }
 
-  QueryBuilder<EsgotoModel, EsgotoModel, QAfterWhereClause> idLessThan(int id,
+  QueryBuilder<EsgotoModel, EsgotoModel, QAfterWhereClause> idLessThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -208,8 +184,8 @@ extension EsgotoModelQueryWhere
   }
 
   QueryBuilder<EsgotoModel, EsgotoModel, QAfterWhereClause> idBetween(
-    int lowerId,
-    int upperId, {
+    Id lowerId,
+    Id upperId, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {
@@ -360,7 +336,7 @@ extension EsgotoModelQueryFilter
   }
 
   QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> idEqualTo(
-      int value) {
+      Id value) {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.equalTo(
         property: r'id',
@@ -370,7 +346,7 @@ extension EsgotoModelQueryFilter
   }
 
   QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> idGreaterThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -383,7 +359,7 @@ extension EsgotoModelQueryFilter
   }
 
   QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> idLessThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -396,8 +372,8 @@ extension EsgotoModelQueryFilter
   }
 
   QueryBuilder<EsgotoModel, EsgotoModel, QAfterFilterCondition> idBetween(
-    int lower,
-    int upper, {
+    Id lower,
+    Id upper, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {

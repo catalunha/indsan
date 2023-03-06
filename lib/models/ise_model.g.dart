@@ -7,7 +7,7 @@ part of 'ise_model.dart';
 // **************************************************************************
 
 // coverage:ignore-file
-// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, avoid_js_rounded_ints, prefer_final_locals
+// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, prefer_final_locals, avoid_js_rounded_ints, avoid_positional_boolean_parameters
 
 extension GetIseModelCollection on Isar {
   IsarCollection<IseModel> get iseModels => this.collection();
@@ -59,12 +59,9 @@ const IseModelSchema = CollectionSchema(
     )
   },
   estimateSize: _iseModelEstimateSize,
-  serializeNative: _iseModelSerializeNative,
-  deserializeNative: _iseModelDeserializeNative,
-  deserializePropNative: _iseModelDeserializePropNative,
-  serializeWeb: _iseModelSerializeWeb,
-  deserializeWeb: _iseModelDeserializeWeb,
-  deserializePropWeb: _iseModelDeserializePropWeb,
+  serialize: _iseModelSerialize,
+  deserialize: _iseModelDeserialize,
+  deserializeProp: _iseModelDeserializeProp,
   idName: r'id',
   indexes: {},
   links: {},
@@ -72,7 +69,7 @@ const IseModelSchema = CollectionSchema(
   getId: _iseModelGetId,
   getLinks: _iseModelGetLinks,
   attach: _iseModelAttach,
-  version: '3.0.0-dev.14',
+  version: '3.0.5',
 );
 
 int _iseModelEstimateSize(
@@ -85,9 +82,9 @@ int _iseModelEstimateSize(
   return bytesCount;
 }
 
-int _iseModelSerializeNative(
+void _iseModelSerialize(
   IseModel object,
-  IsarBinaryWriter writer,
+  IsarWriter writer,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -99,12 +96,11 @@ int _iseModelSerializeNative(
   writer.writeDouble(offsets[5], object.isp);
   writer.writeString(offsets[6], object.munCode);
   writer.writeLong(offsets[7], object.year);
-  return writer.usedBytes;
 }
 
-IseModel _iseModelDeserializeNative(
+IseModel _iseModelDeserialize(
   Id id,
-  IsarBinaryReader reader,
+  IsarReader reader,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -121,8 +117,8 @@ IseModel _iseModelDeserializeNative(
   return object;
 }
 
-P _iseModelDeserializePropNative<P>(
-  IsarBinaryReader reader,
+P _iseModelDeserializeProp<P>(
+  IsarReader reader,
   int propertyId,
   int offset,
   Map<Type, List<int>> allOffsets,
@@ -149,25 +145,6 @@ P _iseModelDeserializePropNative<P>(
   }
 }
 
-Object _iseModelSerializeWeb(
-    IsarCollection<IseModel> collection, IseModel object) {
-  /*final jsObj = IsarNative.newJsObject();*/ throw UnimplementedError();
-}
-
-IseModel _iseModelDeserializeWeb(
-    IsarCollection<IseModel> collection, Object jsObj) {
-  /*final object = IseModel(i2s: IsarNative.jsObjectGet(jsObj, r'i2s') ,ie1: IsarNative.jsObjectGet(jsObj, r'ie1') ,ine: IsarNative.jsObjectGet(jsObj, r'ine') ,irm: IsarNative.jsObjectGet(jsObj, r'irm') ,isp: IsarNative.jsObjectGet(jsObj, r'isp') ,munCode: IsarNative.jsObjectGet(jsObj, r'munCode') ?? '',year: IsarNative.jsObjectGet(jsObj, r'year') ?? (double.negativeInfinity as int),);object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);*/
-  //return object;
-  throw UnimplementedError();
-}
-
-P _iseModelDeserializePropWeb<P>(Object jsObj, String propertyName) {
-  switch (propertyName) {
-    default:
-      throw IsarError('Illegal propertyName');
-  }
-}
-
 Id _iseModelGetId(IseModel object) {
   return object.id;
 }
@@ -189,7 +166,7 @@ extension IseModelQueryWhereSort on QueryBuilder<IseModel, IseModel, QWhere> {
 }
 
 extension IseModelQueryWhere on QueryBuilder<IseModel, IseModel, QWhereClause> {
-  QueryBuilder<IseModel, IseModel, QAfterWhereClause> idEqualTo(int id) {
+  QueryBuilder<IseModel, IseModel, QAfterWhereClause> idEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(IdWhereClause.between(
         lower: id,
@@ -198,7 +175,7 @@ extension IseModelQueryWhere on QueryBuilder<IseModel, IseModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<IseModel, IseModel, QAfterWhereClause> idNotEqualTo(int id) {
+  QueryBuilder<IseModel, IseModel, QAfterWhereClause> idNotEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       if (query.whereSort == Sort.asc) {
         return query
@@ -220,7 +197,7 @@ extension IseModelQueryWhere on QueryBuilder<IseModel, IseModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<IseModel, IseModel, QAfterWhereClause> idGreaterThan(int id,
+  QueryBuilder<IseModel, IseModel, QAfterWhereClause> idGreaterThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -229,7 +206,7 @@ extension IseModelQueryWhere on QueryBuilder<IseModel, IseModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<IseModel, IseModel, QAfterWhereClause> idLessThan(int id,
+  QueryBuilder<IseModel, IseModel, QAfterWhereClause> idLessThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -239,8 +216,8 @@ extension IseModelQueryWhere on QueryBuilder<IseModel, IseModel, QWhereClause> {
   }
 
   QueryBuilder<IseModel, IseModel, QAfterWhereClause> idBetween(
-    int lowerId,
-    int upperId, {
+    Id lowerId,
+    Id upperId, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {
@@ -388,7 +365,7 @@ extension IseModelQueryFilter
     });
   }
 
-  QueryBuilder<IseModel, IseModel, QAfterFilterCondition> idEqualTo(int value) {
+  QueryBuilder<IseModel, IseModel, QAfterFilterCondition> idEqualTo(Id value) {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.equalTo(
         property: r'id',
@@ -398,7 +375,7 @@ extension IseModelQueryFilter
   }
 
   QueryBuilder<IseModel, IseModel, QAfterFilterCondition> idGreaterThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -411,7 +388,7 @@ extension IseModelQueryFilter
   }
 
   QueryBuilder<IseModel, IseModel, QAfterFilterCondition> idLessThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -424,8 +401,8 @@ extension IseModelQueryFilter
   }
 
   QueryBuilder<IseModel, IseModel, QAfterFilterCondition> idBetween(
-    int lower,
-    int upper, {
+    Id lower,
+    Id upper, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {

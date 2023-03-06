@@ -7,7 +7,7 @@ part of 'user.dart';
 // **************************************************************************
 
 // coverage:ignore-file
-// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, avoid_js_rounded_ints, prefer_final_locals
+// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, prefer_final_locals, avoid_js_rounded_ints, avoid_positional_boolean_parameters
 
 extension GetUserCollection on Isar {
   IsarCollection<User> get users => this.collection();
@@ -29,12 +29,9 @@ const UserSchema = CollectionSchema(
     )
   },
   estimateSize: _userEstimateSize,
-  serializeNative: _userSerializeNative,
-  deserializeNative: _userDeserializeNative,
-  deserializePropNative: _userDeserializePropNative,
-  serializeWeb: _userSerializeWeb,
-  deserializeWeb: _userDeserializeWeb,
-  deserializePropWeb: _userDeserializePropWeb,
+  serialize: _userSerialize,
+  deserialize: _userDeserialize,
+  deserializeProp: _userDeserializeProp,
   idName: r'id',
   indexes: {},
   links: {},
@@ -42,7 +39,7 @@ const UserSchema = CollectionSchema(
   getId: _userGetId,
   getLinks: _userGetLinks,
   attach: _userAttach,
-  version: '3.0.0-dev.14',
+  version: '3.0.5',
 );
 
 int _userEstimateSize(
@@ -60,20 +57,19 @@ int _userEstimateSize(
   return bytesCount;
 }
 
-int _userSerializeNative(
+void _userSerialize(
   User object,
-  IsarBinaryWriter writer,
+  IsarWriter writer,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
   writer.writeLong(offsets[0], object.age);
   writer.writeString(offsets[1], object.name);
-  return writer.usedBytes;
 }
 
-User _userDeserializeNative(
+User _userDeserialize(
   Id id,
-  IsarBinaryReader reader,
+  IsarReader reader,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -84,8 +80,8 @@ User _userDeserializeNative(
   return object;
 }
 
-P _userDeserializePropNative<P>(
-  IsarBinaryReader reader,
+P _userDeserializeProp<P>(
+  IsarReader reader,
   int propertyId,
   int offset,
   Map<Type, List<int>> allOffsets,
@@ -97,23 +93,6 @@ P _userDeserializePropNative<P>(
       return (reader.readStringOrNull(offset)) as P;
     default:
       throw IsarError('Unknown property with id $propertyId');
-  }
-}
-
-Object _userSerializeWeb(IsarCollection<User> collection, User object) {
-  /*final jsObj = IsarNative.newJsObject();*/ throw UnimplementedError();
-}
-
-User _userDeserializeWeb(IsarCollection<User> collection, Object jsObj) {
-  /*final object = User();object.age = IsarNative.jsObjectGet(jsObj, r'age') ;object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);object.name = IsarNative.jsObjectGet(jsObj, r'name') ;*/
-  //return object;
-  throw UnimplementedError();
-}
-
-P _userDeserializePropWeb<P>(Object jsObj, String propertyName) {
-  switch (propertyName) {
-    default:
-      throw IsarError('Illegal propertyName');
   }
 }
 
@@ -138,7 +117,7 @@ extension UserQueryWhereSort on QueryBuilder<User, User, QWhere> {
 }
 
 extension UserQueryWhere on QueryBuilder<User, User, QWhereClause> {
-  QueryBuilder<User, User, QAfterWhereClause> idEqualTo(int id) {
+  QueryBuilder<User, User, QAfterWhereClause> idEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(IdWhereClause.between(
         lower: id,
@@ -147,7 +126,7 @@ extension UserQueryWhere on QueryBuilder<User, User, QWhereClause> {
     });
   }
 
-  QueryBuilder<User, User, QAfterWhereClause> idNotEqualTo(int id) {
+  QueryBuilder<User, User, QAfterWhereClause> idNotEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       if (query.whereSort == Sort.asc) {
         return query
@@ -169,7 +148,7 @@ extension UserQueryWhere on QueryBuilder<User, User, QWhereClause> {
     });
   }
 
-  QueryBuilder<User, User, QAfterWhereClause> idGreaterThan(int id,
+  QueryBuilder<User, User, QAfterWhereClause> idGreaterThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -178,7 +157,7 @@ extension UserQueryWhere on QueryBuilder<User, User, QWhereClause> {
     });
   }
 
-  QueryBuilder<User, User, QAfterWhereClause> idLessThan(int id,
+  QueryBuilder<User, User, QAfterWhereClause> idLessThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -188,8 +167,8 @@ extension UserQueryWhere on QueryBuilder<User, User, QWhereClause> {
   }
 
   QueryBuilder<User, User, QAfterWhereClause> idBetween(
-    int lowerId,
-    int upperId, {
+    Id lowerId,
+    Id upperId, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {
@@ -273,7 +252,7 @@ extension UserQueryFilter on QueryBuilder<User, User, QFilterCondition> {
     });
   }
 
-  QueryBuilder<User, User, QAfterFilterCondition> idEqualTo(int value) {
+  QueryBuilder<User, User, QAfterFilterCondition> idEqualTo(Id value) {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.equalTo(
         property: r'id',
@@ -283,7 +262,7 @@ extension UserQueryFilter on QueryBuilder<User, User, QFilterCondition> {
   }
 
   QueryBuilder<User, User, QAfterFilterCondition> idGreaterThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -296,7 +275,7 @@ extension UserQueryFilter on QueryBuilder<User, User, QFilterCondition> {
   }
 
   QueryBuilder<User, User, QAfterFilterCondition> idLessThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -309,8 +288,8 @@ extension UserQueryFilter on QueryBuilder<User, User, QFilterCondition> {
   }
 
   QueryBuilder<User, User, QAfterFilterCondition> idBetween(
-    int lower,
-    int upper, {
+    Id lower,
+    Id upper, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {

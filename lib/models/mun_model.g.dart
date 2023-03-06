@@ -7,7 +7,7 @@ part of 'mun_model.dart';
 // **************************************************************************
 
 // coverage:ignore-file
-// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, avoid_js_rounded_ints, prefer_final_locals
+// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, prefer_final_locals, avoid_js_rounded_ints, avoid_positional_boolean_parameters
 
 extension GetMunModelCollection on Isar {
   IsarCollection<MunModel> get munModels => this.collection();
@@ -34,12 +34,9 @@ const MunModelSchema = CollectionSchema(
     )
   },
   estimateSize: _munModelEstimateSize,
-  serializeNative: _munModelSerializeNative,
-  deserializeNative: _munModelDeserializeNative,
-  deserializePropNative: _munModelDeserializePropNative,
-  serializeWeb: _munModelSerializeWeb,
-  deserializeWeb: _munModelDeserializeWeb,
-  deserializePropWeb: _munModelDeserializePropWeb,
+  serialize: _munModelSerialize,
+  deserialize: _munModelDeserialize,
+  deserializeProp: _munModelDeserializeProp,
   idName: r'id',
   indexes: {},
   links: {},
@@ -47,7 +44,7 @@ const MunModelSchema = CollectionSchema(
   getId: _munModelGetId,
   getLinks: _munModelGetLinks,
   attach: _munModelAttach,
-  version: '3.0.0-dev.14',
+  version: '3.0.5',
 );
 
 int _munModelEstimateSize(
@@ -62,21 +59,20 @@ int _munModelEstimateSize(
   return bytesCount;
 }
 
-int _munModelSerializeNative(
+void _munModelSerialize(
   MunModel object,
-  IsarBinaryWriter writer,
+  IsarWriter writer,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
   writer.writeString(offsets[0], object.munCode);
   writer.writeString(offsets[1], object.munName);
   writer.writeString(offsets[2], object.munUF);
-  return writer.usedBytes;
 }
 
-MunModel _munModelDeserializeNative(
+MunModel _munModelDeserialize(
   Id id,
-  IsarBinaryReader reader,
+  IsarReader reader,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -89,8 +85,8 @@ MunModel _munModelDeserializeNative(
   return object;
 }
 
-P _munModelDeserializePropNative<P>(
-  IsarBinaryReader reader,
+P _munModelDeserializeProp<P>(
+  IsarReader reader,
   int propertyId,
   int offset,
   Map<Type, List<int>> allOffsets,
@@ -104,25 +100,6 @@ P _munModelDeserializePropNative<P>(
       return (reader.readString(offset)) as P;
     default:
       throw IsarError('Unknown property with id $propertyId');
-  }
-}
-
-Object _munModelSerializeWeb(
-    IsarCollection<MunModel> collection, MunModel object) {
-  /*final jsObj = IsarNative.newJsObject();*/ throw UnimplementedError();
-}
-
-MunModel _munModelDeserializeWeb(
-    IsarCollection<MunModel> collection, Object jsObj) {
-  /*final object = MunModel(munCode: IsarNative.jsObjectGet(jsObj, r'munCode') ?? '',munName: IsarNative.jsObjectGet(jsObj, r'munName') ?? '',munUF: IsarNative.jsObjectGet(jsObj, r'munUF') ?? '',);object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);*/
-  //return object;
-  throw UnimplementedError();
-}
-
-P _munModelDeserializePropWeb<P>(Object jsObj, String propertyName) {
-  switch (propertyName) {
-    default:
-      throw IsarError('Illegal propertyName');
   }
 }
 
@@ -147,7 +124,7 @@ extension MunModelQueryWhereSort on QueryBuilder<MunModel, MunModel, QWhere> {
 }
 
 extension MunModelQueryWhere on QueryBuilder<MunModel, MunModel, QWhereClause> {
-  QueryBuilder<MunModel, MunModel, QAfterWhereClause> idEqualTo(int id) {
+  QueryBuilder<MunModel, MunModel, QAfterWhereClause> idEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(IdWhereClause.between(
         lower: id,
@@ -156,7 +133,7 @@ extension MunModelQueryWhere on QueryBuilder<MunModel, MunModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<MunModel, MunModel, QAfterWhereClause> idNotEqualTo(int id) {
+  QueryBuilder<MunModel, MunModel, QAfterWhereClause> idNotEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       if (query.whereSort == Sort.asc) {
         return query
@@ -178,7 +155,7 @@ extension MunModelQueryWhere on QueryBuilder<MunModel, MunModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<MunModel, MunModel, QAfterWhereClause> idGreaterThan(int id,
+  QueryBuilder<MunModel, MunModel, QAfterWhereClause> idGreaterThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -187,7 +164,7 @@ extension MunModelQueryWhere on QueryBuilder<MunModel, MunModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<MunModel, MunModel, QAfterWhereClause> idLessThan(int id,
+  QueryBuilder<MunModel, MunModel, QAfterWhereClause> idLessThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -197,8 +174,8 @@ extension MunModelQueryWhere on QueryBuilder<MunModel, MunModel, QWhereClause> {
   }
 
   QueryBuilder<MunModel, MunModel, QAfterWhereClause> idBetween(
-    int lowerId,
-    int upperId, {
+    Id lowerId,
+    Id upperId, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {
@@ -215,7 +192,7 @@ extension MunModelQueryWhere on QueryBuilder<MunModel, MunModel, QWhereClause> {
 
 extension MunModelQueryFilter
     on QueryBuilder<MunModel, MunModel, QFilterCondition> {
-  QueryBuilder<MunModel, MunModel, QAfterFilterCondition> idEqualTo(int value) {
+  QueryBuilder<MunModel, MunModel, QAfterFilterCondition> idEqualTo(Id value) {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.equalTo(
         property: r'id',
@@ -225,7 +202,7 @@ extension MunModelQueryFilter
   }
 
   QueryBuilder<MunModel, MunModel, QAfterFilterCondition> idGreaterThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -238,7 +215,7 @@ extension MunModelQueryFilter
   }
 
   QueryBuilder<MunModel, MunModel, QAfterFilterCondition> idLessThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -251,8 +228,8 @@ extension MunModelQueryFilter
   }
 
   QueryBuilder<MunModel, MunModel, QAfterFilterCondition> idBetween(
-    int lower,
-    int upper, {
+    Id lower,
+    Id upper, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {

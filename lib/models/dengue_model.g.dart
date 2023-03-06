@@ -7,7 +7,7 @@ part of 'dengue_model.dart';
 // **************************************************************************
 
 // coverage:ignore-file
-// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, avoid_js_rounded_ints, prefer_final_locals
+// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, prefer_final_locals, avoid_js_rounded_ints, avoid_positional_boolean_parameters
 
 extension GetDengueModelCollection on Isar {
   IsarCollection<DengueModel> get dengueModels => this.collection();
@@ -39,12 +39,9 @@ const DengueModelSchema = CollectionSchema(
     )
   },
   estimateSize: _dengueModelEstimateSize,
-  serializeNative: _dengueModelSerializeNative,
-  deserializeNative: _dengueModelDeserializeNative,
-  deserializePropNative: _dengueModelDeserializePropNative,
-  serializeWeb: _dengueModelSerializeWeb,
-  deserializeWeb: _dengueModelDeserializeWeb,
-  deserializePropWeb: _dengueModelDeserializePropWeb,
+  serialize: _dengueModelSerialize,
+  deserialize: _dengueModelDeserialize,
+  deserializeProp: _dengueModelDeserializeProp,
   idName: r'id',
   indexes: {},
   links: {},
@@ -52,7 +49,7 @@ const DengueModelSchema = CollectionSchema(
   getId: _dengueModelGetId,
   getLinks: _dengueModelGetLinks,
   attach: _dengueModelAttach,
-  version: '3.0.0-dev.14',
+  version: '3.0.5',
 );
 
 int _dengueModelEstimateSize(
@@ -65,9 +62,9 @@ int _dengueModelEstimateSize(
   return bytesCount;
 }
 
-int _dengueModelSerializeNative(
+void _dengueModelSerialize(
   DengueModel object,
-  IsarBinaryWriter writer,
+  IsarWriter writer,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -75,12 +72,11 @@ int _dengueModelSerializeNative(
   writer.writeLong(offsets[1], object.hashCode);
   writer.writeString(offsets[2], object.munCode);
   writer.writeLong(offsets[3], object.year);
-  return writer.usedBytes;
 }
 
-DengueModel _dengueModelDeserializeNative(
+DengueModel _dengueModelDeserialize(
   Id id,
-  IsarBinaryReader reader,
+  IsarReader reader,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -93,8 +89,8 @@ DengueModel _dengueModelDeserializeNative(
   return object;
 }
 
-P _dengueModelDeserializePropNative<P>(
-  IsarBinaryReader reader,
+P _dengueModelDeserializeProp<P>(
+  IsarReader reader,
   int propertyId,
   int offset,
   Map<Type, List<int>> allOffsets,
@@ -110,25 +106,6 @@ P _dengueModelDeserializePropNative<P>(
       return (reader.readLong(offset)) as P;
     default:
       throw IsarError('Unknown property with id $propertyId');
-  }
-}
-
-Object _dengueModelSerializeWeb(
-    IsarCollection<DengueModel> collection, DengueModel object) {
-  /*final jsObj = IsarNative.newJsObject();*/ throw UnimplementedError();
-}
-
-DengueModel _dengueModelDeserializeWeb(
-    IsarCollection<DengueModel> collection, Object jsObj) {
-  /*final object = DengueModel(dengue: IsarNative.jsObjectGet(jsObj, r'dengue') ,munCode: IsarNative.jsObjectGet(jsObj, r'munCode') ?? '',year: IsarNative.jsObjectGet(jsObj, r'year') ?? (double.negativeInfinity as int),);object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);*/
-  //return object;
-  throw UnimplementedError();
-}
-
-P _dengueModelDeserializePropWeb<P>(Object jsObj, String propertyName) {
-  switch (propertyName) {
-    default:
-      throw IsarError('Illegal propertyName');
   }
 }
 
@@ -156,7 +133,7 @@ extension DengueModelQueryWhereSort
 
 extension DengueModelQueryWhere
     on QueryBuilder<DengueModel, DengueModel, QWhereClause> {
-  QueryBuilder<DengueModel, DengueModel, QAfterWhereClause> idEqualTo(int id) {
+  QueryBuilder<DengueModel, DengueModel, QAfterWhereClause> idEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(IdWhereClause.between(
         lower: id,
@@ -166,7 +143,7 @@ extension DengueModelQueryWhere
   }
 
   QueryBuilder<DengueModel, DengueModel, QAfterWhereClause> idNotEqualTo(
-      int id) {
+      Id id) {
     return QueryBuilder.apply(this, (query) {
       if (query.whereSort == Sort.asc) {
         return query
@@ -188,8 +165,7 @@ extension DengueModelQueryWhere
     });
   }
 
-  QueryBuilder<DengueModel, DengueModel, QAfterWhereClause> idGreaterThan(
-      int id,
+  QueryBuilder<DengueModel, DengueModel, QAfterWhereClause> idGreaterThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -198,7 +174,7 @@ extension DengueModelQueryWhere
     });
   }
 
-  QueryBuilder<DengueModel, DengueModel, QAfterWhereClause> idLessThan(int id,
+  QueryBuilder<DengueModel, DengueModel, QAfterWhereClause> idLessThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -208,8 +184,8 @@ extension DengueModelQueryWhere
   }
 
   QueryBuilder<DengueModel, DengueModel, QAfterWhereClause> idBetween(
-    int lowerId,
-    int upperId, {
+    Id lowerId,
+    Id upperId, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {
@@ -362,7 +338,7 @@ extension DengueModelQueryFilter
   }
 
   QueryBuilder<DengueModel, DengueModel, QAfterFilterCondition> idEqualTo(
-      int value) {
+      Id value) {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.equalTo(
         property: r'id',
@@ -372,7 +348,7 @@ extension DengueModelQueryFilter
   }
 
   QueryBuilder<DengueModel, DengueModel, QAfterFilterCondition> idGreaterThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -385,7 +361,7 @@ extension DengueModelQueryFilter
   }
 
   QueryBuilder<DengueModel, DengueModel, QAfterFilterCondition> idLessThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -398,8 +374,8 @@ extension DengueModelQueryFilter
   }
 
   QueryBuilder<DengueModel, DengueModel, QAfterFilterCondition> idBetween(
-    int lower,
-    int upper, {
+    Id lower,
+    Id upper, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {

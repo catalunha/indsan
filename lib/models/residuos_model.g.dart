@@ -7,7 +7,7 @@ part of 'residuos_model.dart';
 // **************************************************************************
 
 // coverage:ignore-file
-// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, avoid_js_rounded_ints, prefer_final_locals
+// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, prefer_final_locals, avoid_js_rounded_ints, avoid_positional_boolean_parameters
 
 extension GetResiduosModelCollection on Isar {
   IsarCollection<ResiduosModel> get residuosModels => this.collection();
@@ -44,12 +44,9 @@ const ResiduosModelSchema = CollectionSchema(
     )
   },
   estimateSize: _residuosModelEstimateSize,
-  serializeNative: _residuosModelSerializeNative,
-  deserializeNative: _residuosModelDeserializeNative,
-  deserializePropNative: _residuosModelDeserializePropNative,
-  serializeWeb: _residuosModelSerializeWeb,
-  deserializeWeb: _residuosModelDeserializeWeb,
-  deserializePropWeb: _residuosModelDeserializePropWeb,
+  serialize: _residuosModelSerialize,
+  deserialize: _residuosModelDeserialize,
+  deserializeProp: _residuosModelDeserializeProp,
   idName: r'id',
   indexes: {},
   links: {},
@@ -57,7 +54,7 @@ const ResiduosModelSchema = CollectionSchema(
   getId: _residuosModelGetId,
   getLinks: _residuosModelGetLinks,
   attach: _residuosModelAttach,
-  version: '3.0.0-dev.14',
+  version: '3.0.5',
 );
 
 int _residuosModelEstimateSize(
@@ -70,9 +67,9 @@ int _residuosModelEstimateSize(
   return bytesCount;
 }
 
-int _residuosModelSerializeNative(
+void _residuosModelSerialize(
   ResiduosModel object,
-  IsarBinaryWriter writer,
+  IsarWriter writer,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -81,12 +78,11 @@ int _residuosModelSerializeNative(
   writer.writeLong(offsets[2], object.hashCode);
   writer.writeString(offsets[3], object.munCode);
   writer.writeLong(offsets[4], object.year);
-  return writer.usedBytes;
 }
 
-ResiduosModel _residuosModelDeserializeNative(
+ResiduosModel _residuosModelDeserialize(
   Id id,
-  IsarBinaryReader reader,
+  IsarReader reader,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -100,8 +96,8 @@ ResiduosModel _residuosModelDeserializeNative(
   return object;
 }
 
-P _residuosModelDeserializePropNative<P>(
-  IsarBinaryReader reader,
+P _residuosModelDeserializeProp<P>(
+  IsarReader reader,
   int propertyId,
   int offset,
   Map<Type, List<int>> allOffsets,
@@ -119,25 +115,6 @@ P _residuosModelDeserializePropNative<P>(
       return (reader.readLong(offset)) as P;
     default:
       throw IsarError('Unknown property with id $propertyId');
-  }
-}
-
-Object _residuosModelSerializeWeb(
-    IsarCollection<ResiduosModel> collection, ResiduosModel object) {
-  /*final jsObj = IsarNative.newJsObject();*/ throw UnimplementedError();
-}
-
-ResiduosModel _residuosModelDeserializeWeb(
-    IsarCollection<ResiduosModel> collection, Object jsObj) {
-  /*final object = ResiduosModel(IQR: IsarNative.jsObjectGet(jsObj, r'IQR') ,ISR: IsarNative.jsObjectGet(jsObj, r'ISR') ,munCode: IsarNative.jsObjectGet(jsObj, r'munCode') ?? '',year: IsarNative.jsObjectGet(jsObj, r'year') ?? (double.negativeInfinity as int),);object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);*/
-  //return object;
-  throw UnimplementedError();
-}
-
-P _residuosModelDeserializePropWeb<P>(Object jsObj, String propertyName) {
-  switch (propertyName) {
-    default:
-      throw IsarError('Illegal propertyName');
   }
 }
 
@@ -166,7 +143,7 @@ extension ResiduosModelQueryWhereSort
 extension ResiduosModelQueryWhere
     on QueryBuilder<ResiduosModel, ResiduosModel, QWhereClause> {
   QueryBuilder<ResiduosModel, ResiduosModel, QAfterWhereClause> idEqualTo(
-      int id) {
+      Id id) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(IdWhereClause.between(
         lower: id,
@@ -176,7 +153,7 @@ extension ResiduosModelQueryWhere
   }
 
   QueryBuilder<ResiduosModel, ResiduosModel, QAfterWhereClause> idNotEqualTo(
-      int id) {
+      Id id) {
     return QueryBuilder.apply(this, (query) {
       if (query.whereSort == Sort.asc) {
         return query
@@ -199,7 +176,7 @@ extension ResiduosModelQueryWhere
   }
 
   QueryBuilder<ResiduosModel, ResiduosModel, QAfterWhereClause> idGreaterThan(
-      int id,
+      Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -209,7 +186,7 @@ extension ResiduosModelQueryWhere
   }
 
   QueryBuilder<ResiduosModel, ResiduosModel, QAfterWhereClause> idLessThan(
-      int id,
+      Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -219,8 +196,8 @@ extension ResiduosModelQueryWhere
   }
 
   QueryBuilder<ResiduosModel, ResiduosModel, QAfterWhereClause> idBetween(
-    int lowerId,
-    int upperId, {
+    Id lowerId,
+    Id upperId, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {
@@ -456,7 +433,7 @@ extension ResiduosModelQueryFilter
   }
 
   QueryBuilder<ResiduosModel, ResiduosModel, QAfterFilterCondition> idEqualTo(
-      int value) {
+      Id value) {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.equalTo(
         property: r'id',
@@ -467,7 +444,7 @@ extension ResiduosModelQueryFilter
 
   QueryBuilder<ResiduosModel, ResiduosModel, QAfterFilterCondition>
       idGreaterThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -480,7 +457,7 @@ extension ResiduosModelQueryFilter
   }
 
   QueryBuilder<ResiduosModel, ResiduosModel, QAfterFilterCondition> idLessThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -493,8 +470,8 @@ extension ResiduosModelQueryFilter
   }
 
   QueryBuilder<ResiduosModel, ResiduosModel, QAfterFilterCondition> idBetween(
-    int lower,
-    int upper, {
+    Id lower,
+    Id upper, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {

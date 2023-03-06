@@ -7,7 +7,7 @@ part of 'irh_model.dart';
 // **************************************************************************
 
 // coverage:ignore-file
-// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, avoid_js_rounded_ints, prefer_final_locals
+// ignore_for_file: duplicate_ignore, non_constant_identifier_names, constant_identifier_names, invalid_use_of_protected_member, unnecessary_cast, prefer_const_constructors, lines_longer_than_80_chars, require_trailing_commas, inference_failure_on_function_invocation, unnecessary_parenthesis, unnecessary_raw_strings, unnecessary_null_checks, join_return_with_assignment, prefer_final_locals, avoid_js_rounded_ints, avoid_positional_boolean_parameters
 
 extension GetIrhModelCollection on Isar {
   IsarCollection<IrhModel> get irhModels => this.collection();
@@ -49,12 +49,9 @@ const IrhModelSchema = CollectionSchema(
     )
   },
   estimateSize: _irhModelEstimateSize,
-  serializeNative: _irhModelSerializeNative,
-  deserializeNative: _irhModelDeserializeNative,
-  deserializePropNative: _irhModelDeserializePropNative,
-  serializeWeb: _irhModelSerializeWeb,
-  deserializeWeb: _irhModelDeserializeWeb,
-  deserializePropWeb: _irhModelDeserializePropWeb,
+  serialize: _irhModelSerialize,
+  deserialize: _irhModelDeserialize,
+  deserializeProp: _irhModelDeserializeProp,
   idName: r'id',
   indexes: {},
   links: {},
@@ -62,7 +59,7 @@ const IrhModelSchema = CollectionSchema(
   getId: _irhModelGetId,
   getLinks: _irhModelGetLinks,
   attach: _irhModelAttach,
-  version: '3.0.0-dev.14',
+  version: '3.0.5',
 );
 
 int _irhModelEstimateSize(
@@ -75,9 +72,9 @@ int _irhModelEstimateSize(
   return bytesCount;
 }
 
-int _irhModelSerializeNative(
+void _irhModelSerialize(
   IrhModel object,
-  IsarBinaryWriter writer,
+  IsarWriter writer,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -87,12 +84,11 @@ int _irhModelSerializeNative(
   writer.writeDouble(offsets[3], object.iqb);
   writer.writeString(offsets[4], object.munCode);
   writer.writeLong(offsets[5], object.year);
-  return writer.usedBytes;
 }
 
-IrhModel _irhModelDeserializeNative(
+IrhModel _irhModelDeserialize(
   Id id,
-  IsarBinaryReader reader,
+  IsarReader reader,
   List<int> offsets,
   Map<Type, List<int>> allOffsets,
 ) {
@@ -107,8 +103,8 @@ IrhModel _irhModelDeserializeNative(
   return object;
 }
 
-P _irhModelDeserializePropNative<P>(
-  IsarBinaryReader reader,
+P _irhModelDeserializeProp<P>(
+  IsarReader reader,
   int propertyId,
   int offset,
   Map<Type, List<int>> allOffsets,
@@ -128,25 +124,6 @@ P _irhModelDeserializePropNative<P>(
       return (reader.readLong(offset)) as P;
     default:
       throw IsarError('Unknown property with id $propertyId');
-  }
-}
-
-Object _irhModelSerializeWeb(
-    IsarCollection<IrhModel> collection, IrhModel object) {
-  /*final jsObj = IsarNative.newJsObject();*/ throw UnimplementedError();
-}
-
-IrhModel _irhModelDeserializeWeb(
-    IsarCollection<IrhModel> collection, Object jsObj) {
-  /*final object = IrhModel(dem: IsarNative.jsObjectGet(jsObj, r'dem') ,disp: IsarNative.jsObjectGet(jsObj, r'disp') ,iqb: IsarNative.jsObjectGet(jsObj, r'iqb') ,munCode: IsarNative.jsObjectGet(jsObj, r'munCode') ?? '',year: IsarNative.jsObjectGet(jsObj, r'year') ?? (double.negativeInfinity as int),);object.id = IsarNative.jsObjectGet(jsObj, r'id') ?? (double.negativeInfinity as int);*/
-  //return object;
-  throw UnimplementedError();
-}
-
-P _irhModelDeserializePropWeb<P>(Object jsObj, String propertyName) {
-  switch (propertyName) {
-    default:
-      throw IsarError('Illegal propertyName');
   }
 }
 
@@ -171,7 +148,7 @@ extension IrhModelQueryWhereSort on QueryBuilder<IrhModel, IrhModel, QWhere> {
 }
 
 extension IrhModelQueryWhere on QueryBuilder<IrhModel, IrhModel, QWhereClause> {
-  QueryBuilder<IrhModel, IrhModel, QAfterWhereClause> idEqualTo(int id) {
+  QueryBuilder<IrhModel, IrhModel, QAfterWhereClause> idEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(IdWhereClause.between(
         lower: id,
@@ -180,7 +157,7 @@ extension IrhModelQueryWhere on QueryBuilder<IrhModel, IrhModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<IrhModel, IrhModel, QAfterWhereClause> idNotEqualTo(int id) {
+  QueryBuilder<IrhModel, IrhModel, QAfterWhereClause> idNotEqualTo(Id id) {
     return QueryBuilder.apply(this, (query) {
       if (query.whereSort == Sort.asc) {
         return query
@@ -202,7 +179,7 @@ extension IrhModelQueryWhere on QueryBuilder<IrhModel, IrhModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<IrhModel, IrhModel, QAfterWhereClause> idGreaterThan(int id,
+  QueryBuilder<IrhModel, IrhModel, QAfterWhereClause> idGreaterThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -211,7 +188,7 @@ extension IrhModelQueryWhere on QueryBuilder<IrhModel, IrhModel, QWhereClause> {
     });
   }
 
-  QueryBuilder<IrhModel, IrhModel, QAfterWhereClause> idLessThan(int id,
+  QueryBuilder<IrhModel, IrhModel, QAfterWhereClause> idLessThan(Id id,
       {bool include = false}) {
     return QueryBuilder.apply(this, (query) {
       return query.addWhereClause(
@@ -221,8 +198,8 @@ extension IrhModelQueryWhere on QueryBuilder<IrhModel, IrhModel, QWhereClause> {
   }
 
   QueryBuilder<IrhModel, IrhModel, QAfterWhereClause> idBetween(
-    int lowerId,
-    int upperId, {
+    Id lowerId,
+    Id upperId, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {
@@ -448,7 +425,7 @@ extension IrhModelQueryFilter
     });
   }
 
-  QueryBuilder<IrhModel, IrhModel, QAfterFilterCondition> idEqualTo(int value) {
+  QueryBuilder<IrhModel, IrhModel, QAfterFilterCondition> idEqualTo(Id value) {
     return QueryBuilder.apply(this, (query) {
       return query.addFilterCondition(FilterCondition.equalTo(
         property: r'id',
@@ -458,7 +435,7 @@ extension IrhModelQueryFilter
   }
 
   QueryBuilder<IrhModel, IrhModel, QAfterFilterCondition> idGreaterThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -471,7 +448,7 @@ extension IrhModelQueryFilter
   }
 
   QueryBuilder<IrhModel, IrhModel, QAfterFilterCondition> idLessThan(
-    int value, {
+    Id value, {
     bool include = false,
   }) {
     return QueryBuilder.apply(this, (query) {
@@ -484,8 +461,8 @@ extension IrhModelQueryFilter
   }
 
   QueryBuilder<IrhModel, IrhModel, QAfterFilterCondition> idBetween(
-    int lower,
-    int upper, {
+    Id lower,
+    Id upper, {
     bool includeLower = true,
     bool includeUpper = true,
   }) {
