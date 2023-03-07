@@ -26,22 +26,22 @@ void app() async {
   // await indStore.updateLepto(update: true);
   // await indStore.updateEsquis(update: true);
   // await indStore.updateIrh(update: true);
-  // await indStore.updateIse(update: true);
+  await indStore.updateIse(update: true);
   Isar isar = Isar.getInstance()!;
 
   List<MunModel> munList = await isar.munModels.where().findAll();
   List<int> yearList = [2015, 2016, 2017, 2018, 2019, 2020];
 
   // List<MunModel> munList = [
-  //   MunModel(munCode: '3100302', munName: '', munUF: '')
+  //   MunModel(munCode: '3105301', munName: '', munUF: '')
   // ];
   // List<int> yearList = [2015];
 
-  indIAB(munList, yearList, true);
-  indIES(munList, yearList, true);
-  indIRS(munList, yearList, true);
-  indICV(munList, yearList, true);
-  indIRH(munList, yearList, true);
+  // indIAB(munList, yearList, true);
+  // indIES(munList, yearList, true);
+  // indIRS(munList, yearList, true);
+  // indICV(munList, yearList, true);
+  // indIRH(munList, yearList, true);
   indISE(munList, yearList, true);
 }
 
@@ -156,7 +156,7 @@ indIES(List<MunModel> munList, List<int> yearList,
 }
 
 IOSink createFile(String ind) {
-  final dateFormat = DateFormat('yMMddHHMM');
+  final dateFormat = DateFormat('yMMddHHmm');
 
   var pathFileName =
       'lib/calcs/${ind}_${dateFormat.format(DateTime.now())}.txt';
