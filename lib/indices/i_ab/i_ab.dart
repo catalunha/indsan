@@ -47,6 +47,13 @@ class IndIAB {
   }
 
   double indISA(IOSink? logs) {
+    logs?.writeln('_iabData.AG012 | ${_iabData.AG012}');
+    logs?.writeln('_iabData.POP | ${_iabData.POP}');
+    logs?.writeln('_iabData.IN022_AE | ${_iabData.IN022_AE}');
+    logs?.writeln('_iabData.IN049_AE | ${_iabData.IN049_AE}');
+    logs?.writeln('_iabData.IN049_5 | ${_iabData.IN049_5}');
+    logs?.writeln('_iabData.T | ${_iabData.T}');
+
     double part1 = _iabData.AG012 * 1000;
     //logs?.writeln('part1: $part1');
     double part2a = 0.365;
@@ -61,14 +68,15 @@ class IndIAB {
     //logs?.writeln('part3: $part3');
 
     double n = log((part1) / (part2a * part2b * part2c * part2d)) / log(part3);
-    // Fonte Subterrânea = 0
-    // Fonte Superficial = 1
-    // Fonte Integrado = 2
-    //print('n: $n');
+
+    logs?.writeln('n_antes | $n');
     if (n <= 0 || n.isInfinite || n.isNaN || n.isNegative) {
       n = 0;
     }
-    logs?.writeln('n | $n');
+    logs?.writeln('n_pos | $n');
+    // Fonte Subterrânea = 0
+    // Fonte Superficial = 1
+    // Fonte Integrado = 2
     if (_iabData.font == 0) {
       //subterraneo
       if (n <= 0) {

@@ -38,11 +38,11 @@ void app() async {
   // List<int> yearList = [2015];
 
   indIAB(munList, yearList, true);
-  // indIES(munList, yearList, true);
-  // indIRS(munList, yearList, true);
-  // indICV(munList, yearList, true);
-  // indIRH(munList, yearList, true);
-  // indISE(munList, yearList, true);
+  indIES(munList, yearList, true);
+  indIRS(munList, yearList, true);
+  indICV(munList, yearList, true);
+  indIRH(munList, yearList, true);
+  indISE(munList, yearList, true);
 }
 
 indISE(List<MunModel> munList, List<int> yearList,

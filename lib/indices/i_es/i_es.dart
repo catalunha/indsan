@@ -8,10 +8,10 @@ class IndIES {
   Future<double?> calculate(String munCode, int year, IOSink? logs) async {
     if (await _iesData.existData(munCode, year, logs)) {
       // if (await _iesData.existData(munCode, year, logs)) {
-      return indICE(logs);
-      // return indITE(logs);
-      // return indISE(logs);
-      // return indIES(logs);
+      // return indICE(logs);
+      // // return indITE(logs);
+      // // return indISE(logs);
+      return indIES(logs);
     } else {
       return null;
     }
