@@ -5,6 +5,7 @@ import 'package:indsan/indices/i_ab/i_ab.dart';
 import 'package:indsan/indices/i_es/i_es.dart';
 import 'package:indsan/indices/i_rs/i_rs.dart';
 import 'package:indsan/indices/icv/i_cv.dart';
+import 'package:intl/intl.dart';
 import 'package:isar/isar.dart';
 import 'package:indsan/models/mun_model.dart';
 
@@ -37,11 +38,11 @@ void app() async {
   // List<int> yearList = [2015];
 
   indIAB(munList, yearList, true);
-  indIES(munList, yearList, true);
-  indIRS(munList, yearList, true);
-  indICV(munList, yearList, true);
-  indIRH(munList, yearList, true);
-  indISE(munList, yearList, true);
+  // indIES(munList, yearList, true);
+  // indIRS(munList, yearList, true);
+  // indICV(munList, yearList, true);
+  // indIRH(munList, yearList, true);
+  // indISE(munList, yearList, true);
 }
 
 indISE(List<MunModel> munList, List<int> yearList,
@@ -49,10 +50,7 @@ indISE(List<MunModel> munList, List<int> yearList,
   print('Calculando indISE');
 
   IndISE indISE = IndISE();
-  var pathFileName = 'lib/calcs/ise.txt';
-  if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
-  var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
-  fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | ISE');
+  var fileOpen = createFile('ise');
   for (var mun in munList) {
     for (var year in yearList) {
       double? result;
@@ -75,10 +73,7 @@ indIRH(List<MunModel> munList, List<int> yearList,
 
   IndIRH indIRH = IndIRH();
 
-  var pathFileName = 'lib/calcs/irh.txt';
-  if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
-  var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
-  fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | IRH');
+  var fileOpen = createFile('irh');
 
   for (var mun in munList) {
     for (var year in yearList) {
@@ -101,10 +96,7 @@ indICV(List<MunModel> munList, List<int> yearList,
 
   IndICV indICV = IndICV();
 
-  var pathFileName = 'lib/calcs/icv.txt';
-  if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
-  var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
-  fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | ICV');
+  var fileOpen = createFile('icv');
   for (var mun in munList) {
     for (var year in yearList) {
       double? result;
@@ -126,10 +118,7 @@ indIRS(List<MunModel> munList, List<int> yearList,
 
   IndIRS indIRS = IndIRS();
 
-  var pathFileName = 'lib/calcs/irs.txt';
-  if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
-  var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
-  fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | IRS');
+  var fileOpen = createFile('irs');
   for (var mun in munList) {
     for (var year in yearList) {
       double? result;
@@ -150,10 +139,7 @@ indIES(List<MunModel> munList, List<int> yearList,
   print('Calculando indIES');
   IndIES indIES = IndIES();
 
-  var pathFileName = 'lib/calcs/ies.txt';
-  if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
-  var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
-  fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | ICE');
+  var fileOpen = createFile('ies');
   for (var mun in munList) {
     for (var year in yearList) {
       double? result;
@@ -169,16 +155,22 @@ indIES(List<MunModel> munList, List<int> yearList,
   fileOpen.close();
 }
 
+IOSink createFile(String ind) {
+  final dateFormat = DateFormat('yMMddHHMM');
+
+  var pathFileName =
+      'lib/calcs/${ind}_${dateFormat.format(DateTime.now())}.txt';
+  if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
+  var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
+  fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | $ind');
+  return fileOpen;
+}
+
 indIAB(List<MunModel> munList, List<int> yearList,
     [bool allCalcs = false]) async {
   print('Calculando indIAB');
   IndIAB indIAB = IndIAB();
-
-  var pathFileName = 'lib/calcs/iab.txt';
-  if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
-  var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
-  fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | IAB');
-
+  var fileOpen = createFile('iab');
   for (var mun in munList) {
     for (var year in yearList) {
       double? result;

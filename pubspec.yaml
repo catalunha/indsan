@@ -7,6 +7,7 @@ environment:
   sdk: '>=2.18.1 <3.0.0'
 
 dependencies:
+  intl: ^0.18.0
   isar: ^3.0.5
   path: ^1.8.0
   isar_flutter_libs: ^3.0.5

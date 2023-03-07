@@ -68,6 +68,7 @@ class IndIAB {
     if (n <= 0 || n.isInfinite || n.isNaN || n.isNegative) {
       n = 0;
     }
+    logs?.writeln('n | $n');
     if (_iabData.font == 0) {
       //subterraneo
       if (n <= 0) {

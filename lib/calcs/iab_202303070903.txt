@@ -1,4 +1,4 @@
-MunicipioNome | MunicipioCodigo | Ano | IAB
+MunicipioNome | MunicipioCodigo | Ano | iab
 indICA | 79.7
 indIQA | 100.0
 n | 0.0
