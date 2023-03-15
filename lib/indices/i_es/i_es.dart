@@ -7,10 +7,6 @@ class IndIES {
   final IndIESData _iesData = IndIESData();
   Future<double?> calculate(String munCode, int year, IOSink? logs) async {
     if (await _iesData.existData(munCode, year, logs)) {
-      // if (await _iesData.existData(munCode, year, logs)) {
-      // return indICE(logs);
-      // // return indITE(logs);
-      // // return indISE(logs);
       return indIES(logs);
     } else {
       return null;
@@ -24,6 +20,9 @@ class IndIES {
   double indICE(IOSink? logs) {
     double POP = _iesData.POP;
     double result = _iesData.IN024_AE;
+    logs?.writeln('_iesData.POP | ${_iesData.POP}');
+    logs?.writeln('_iesData.IN024_AE | ${_iesData.IN024_AE}');
+
     if (POP < 5000) {
       if (result < 50.0) {
         result = 0;
@@ -53,6 +52,11 @@ class IndIES {
     double ES005 = _iesData.ES005;
     double ES006 = _iesData.ES006;
     double POP = _iesData.POP;
+    logs?.writeln('_iesData.IN024_AE | ${_iesData.IN024_AE}');
+    logs?.writeln('_iesData.ES005 | ${_iesData.ES005}');
+    logs?.writeln('_iesData.ES006 | ${_iesData.ES006}');
+    logs?.writeln('_iesData.POP | ${_iesData.POP}');
+
     double result = (IN024AE) * (ES006 / ES005) * 100;
     if (POP < 5000) {
       if (result < 15.0) {
@@ -85,6 +89,11 @@ class IndIES {
     double t = _iesData.T;
     double POP = _iesData.POP;
     double result = log(CT / ES005) / log(1 + t);
+    logs?.writeln('_iesData.CT | ${_iesData.CT}');
+    logs?.writeln('_iesData.ES005 | ${_iesData.ES005}');
+    logs?.writeln('t | $t');
+    logs?.writeln('result | $result');
+
     if (POP < 50000) {
       if (result <= 0) {
         result = 0;

@@ -1,0 +1,15 @@
+MunicipioNome | MunicipioCodigo | Ano | ies
+_iesData.POP | 5271.0
+_iesData.IN024_AE | 99.34
+indICE | 100.0
+_iesData.IN024_AE | 99.34
+_iesData.ES005 | 202.0
+_iesData.ES006 | 0.0
+_iesData.POP | 5271.0
+indITE | 0.0
+_iesData.CT | 0.0
+_iesData.ES005 | 202.0
+t | 0.00571485344529199
+result | -Infinity
+indISE | 0.0
+ | 3105301 | 2020 | 33.333333333333336
