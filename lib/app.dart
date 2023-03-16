@@ -29,13 +29,13 @@ void app() async {
   // await indStore.updateIse(update: true);
   Isar isar = Isar.getInstance()!;
 
-  // List<MunModel> munList = await isar.munModels.where().findAll();
-  // List<int> yearList = [2015, 2016, 2017, 2018, 2019, 2020];
+  List<MunModel> munList = await isar.munModels.where().findAll();
+  List<int> yearList = [2015, 2016, 2017, 2018, 2019, 2020];
 
-  List<MunModel> munList = [
-    MunModel(munCode: '3105301', munName: '', munUF: '')
-  ];
-  List<int> yearList = [2020];
+  // List<MunModel> munList = [
+  //   MunModel(munCode: '3105301', munName: '', munUF: '')
+  // ];
+  // List<int> yearList = [2020];
 
   // indIAB(munList, yearList, true);
   indIES(munList, yearList, true);
@@ -139,15 +139,18 @@ indIES(List<MunModel> munList, List<int> yearList,
   print('Calculando indIES');
   IndIES indIES = IndIES();
 
+  var fileOpenAllCalcs = createFile('ies_allCalcs');
   var fileOpen = createFile('ies');
   for (var mun in munList) {
     for (var year in yearList) {
       double? result;
-      if (allCalcs) {
-        result = await indIES.calculate(mun.munCode, year, fileOpen);
-      } else {
-        result = await indIES.calculate(mun.munCode, year, null);
-      }
+      // if (allCalcs) {
+      result = await indIES.calculate(mun.munCode, year, fileOpenAllCalcs);
+      fileOpenAllCalcs.writeln(
+          '${mun.munName} | ${mun.munCode} | $year | ${result ?? "?"}');
+      // } else {
+      // result = await indIES.calculate(mun.munCode, year, null);
+      // }
       fileOpen.writeln(
           '${mun.munName} | ${mun.munCode} | $year | ${result ?? "?"}');
     }
