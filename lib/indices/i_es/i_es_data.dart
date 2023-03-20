@@ -103,9 +103,9 @@ class IndIESData {
         if (esgotoModel.CT != null) {
           CT = esgotoModel.CT!;
         } else {
-          // faltaDados.add('esgotoModel.CT');
-          CT = 0;
-          // result = false;
+          faltaDados.add('esgotoModel.CT');
+          // CT = 0;
+          result = false;
         }
       }
     } else {
