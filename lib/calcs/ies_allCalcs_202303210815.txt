@@ -1,0 +1,3541 @@
+MunicipioNome | MunicipioCodigo | Ano | ies_allCalcs
+Erros | 3100302 | 2015 | [esgotoModel.CT]
+Abre Campo | 3100302 | 2015 | ?
+Erros | 3100302 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Abre Campo | 3100302 | 2016 | ?
+Erros | 3100302 | 2017 | [esgotoModel.CT]
+Abre Campo | 3100302 | 2017 | ?
+Erros | 3100302 | 2018 | [esgotoModel.CT]
+Abre Campo | 3100302 | 2018 | ?
+Erros | 3100302 | 2019 | [esgotoModel.CT]
+Abre Campo | 3100302 | 2019 | ?
+Erros | 3100302 | 2020 | [esgotoModel.CT]
+Abre Campo | 3100302 | 2020 | ?
+Erros | 3100807 | 2015 | [esgotoModel.CT]
+Aguanil | 3100807 | 2015 | ?
+Erros | 3100807 | 2016 | [esgotoModel.CT]
+Aguanil | 3100807 | 2016 | ?
+Erros | 3100807 | 2017 | [esgotoModel.CT]
+Aguanil | 3100807 | 2017 | ?
+Erros | 3100807 | 2018 | [esgotoModel.CT]
+Aguanil | 3100807 | 2018 | ?
+Erros | 3100807 | 2019 | [esgotoModel.CT]
+Aguanil | 3100807 | 2019 | ?
+Erros | 3100807 | 2020 | [esgotoModel.CT]
+Aguanil | 3100807 | 2020 | ?
+Erros | 3100906 | 2015 | [esgotoModel.CT]
+Águas Formosas | 3100906 | 2015 | ?
+Erros | 3100906 | 2016 | [esgotoModel.CT]
+Águas Formosas | 3100906 | 2016 | ?
+Erros | 3100906 | 2017 | [esgotoModel.CT]
+Águas Formosas | 3100906 | 2017 | ?
+Erros | 3100906 | 2018 | [esgotoModel.CT]
+Águas Formosas | 3100906 | 2018 | ?
+Erros | 3100906 | 2019 | [esgotoModel.CT]
+Águas Formosas | 3100906 | 2019 | ?
+Erros | 3100906 | 2020 | [esgotoModel.CT]
+Águas Formosas | 3100906 | 2020 | ?
+Erros | 3101003 | 2015 | [esgotoModel.CT]
+Águas Vermelhas | 3101003 | 2015 | ?
+Erros | 3101003 | 2016 | [esgotoModel.CT]
+Águas Vermelhas | 3101003 | 2016 | ?
+Erros | 3101003 | 2017 | [esgotoModel.CT]
+Águas Vermelhas | 3101003 | 2017 | ?
+Erros | 3101003 | 2018 | [esgotoModel.CT]
+Águas Vermelhas | 3101003 | 2018 | ?
+Erros | 3101003 | 2019 | [esgotoModel.CT]
+Águas Vermelhas | 3101003 | 2019 | ?
+Erros | 3101003 | 2020 | [esgotoModel.CT]
+Águas Vermelhas | 3101003 | 2020 | ?
+Erros | 3101201 | 2015 | [esgotoModel.CT]
+Aiuruoca | 3101201 | 2015 | ?
+Erros | 3101201 | 2016 | [esgotoModel.CT]
+Aiuruoca | 3101201 | 2016 | ?
+Erros | 3101201 | 2017 | [esgotoModel.CT]
+Aiuruoca | 3101201 | 2017 | ?
+Erros | 3101201 | 2018 | [esgotoModel.CT]
+Aiuruoca | 3101201 | 2018 | ?
+Erros | 3101201 | 2019 | [esgotoModel.CT]
+Aiuruoca | 3101201 | 2019 | ?
+Erros | 3101201 | 2020 | [esgotoModel.CT]
+Aiuruoca | 3101201 | 2020 | ?
+Erros | 3101409 | 2015 | [esgotoModel.CT]
+Albertina | 3101409 | 2015 | ?
+Erros | 3101409 | 2016 | [esgotoModel.CT]
+Albertina | 3101409 | 2016 | ?
+Erros | 3101409 | 2017 | [esgotoModel.CT]
+Albertina | 3101409 | 2017 | ?
+Erros | 3101409 | 2018 | [esgotoModel.CT]
+Albertina | 3101409 | 2018 | ?
+Erros | 3101409 | 2019 | [esgotoModel.CT]
+Albertina | 3101409 | 2019 | ?
+Erros | 3101409 | 2020 | [esgotoModel.CT]
+Albertina | 3101409 | 2020 | ?
+Erros | 3101631 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Alfredo Vasconcelos | 3101631 | 2015 | ?
+Erros | 3101631 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Alfredo Vasconcelos | 3101631 | 2016 | ?
+Erros | 3101631 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Alfredo Vasconcelos | 3101631 | 2017 | ?
+Erros | 3101631 | 2018 | [esgotoModel.CT]
+Alfredo Vasconcelos | 3101631 | 2018 | ?
+Erros | 3101631 | 2019 | [esgotoModel.CT]
+Alfredo Vasconcelos | 3101631 | 2019 | ?
+Erros | 3101631 | 2020 | [esgotoModel.CT]
+Alfredo Vasconcelos | 3101631 | 2020 | ?
+Erros | 3102050 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Alto Caparaó | 3102050 | 2015 | ?
+Erros | 3102050 | 2016 | [esgotoModel.CT]
+Alto Caparaó | 3102050 | 2016 | ?
+Erros | 3102050 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Alto Caparaó | 3102050 | 2017 | ?
+Erros | 3102050 | 2018 | [esgotoModel.CT]
+Alto Caparaó | 3102050 | 2018 | ?
+Erros | 3102050 | 2019 | [esgotoModel.CT]
+Alto Caparaó | 3102050 | 2019 | ?
+Erros | 3102050 | 2020 | [esgotoModel.CT]
+Alto Caparaó | 3102050 | 2020 | ?
+Erros | 3102506 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Amparo do Serra | 3102506 | 2015 | ?
+Erros | 3102506 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Amparo do Serra | 3102506 | 2016 | ?
+Erros | 3102506 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Amparo do Serra | 3102506 | 2017 | ?
+Erros | 3102506 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Amparo do Serra | 3102506 | 2018 | ?
+Erros | 3102506 | 2019 | [esgotoModel.CT]
+Amparo do Serra | 3102506 | 2019 | ?
+Erros | 3102506 | 2020 | [esgotoModel.CT]
+Amparo do Serra | 3102506 | 2020 | ?
+Erros | 3102803 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Andrelândia | 3102803 | 2015 | ?
+Erros | 3102803 | 2016 | [esgotoModel.CT]
+Andrelândia | 3102803 | 2016 | ?
+Erros | 3102803 | 2017 | [esgotoModel.CT]
+Andrelândia | 3102803 | 2017 | ?
+Erros | 3102803 | 2018 | [esgotoModel.CT]
+Andrelândia | 3102803 | 2018 | ?
+Erros | 3102803 | 2019 | [esgotoModel.CT]
+Andrelândia | 3102803 | 2019 | ?
+Erros | 3102803 | 2020 | [esgotoModel.CT]
+Andrelândia | 3102803 | 2020 | ?
+_iesData.POP | 1819.0
+_iesData.IN024_AE | 66.68
+indICE | 66.68
+_iesData.IN024_AE | 66.68
+_iesData.ES005 | 46.34
+_iesData.ES006 | 0.0
+_iesData.POP | 1819.0
+indITE | 0.0
+_iesData.CT | 189.18
+_iesData.ES005 | 46.34
+t | 0.00796836101745146
+result | 177.23726718381008
+indISE | 100.0
+Aricanduva | 3104452 | 2015 | 55.56
+_iesData.POP | 1832.0
+_iesData.IN024_AE | 54.64
+indICE | 54.64
+_iesData.IN024_AE | 54.64
+_iesData.ES005 | 77.34
+_iesData.ES006 | 77.34
+_iesData.POP | 1832.0
+indITE | 100.0
+_iesData.CT | 189.18
+_iesData.ES005 | 77.34
+t | 0.00779445382223609
+result | 115.20616933646541
+indISE | 100.0
+Aricanduva | 3104452 | 2016 | 84.88
+_iesData.POP | 1845.0
+_iesData.IN024_AE | 56.31
+indICE | 56.31
+_iesData.IN024_AE | 56.31
+_iesData.ES005 | 78.02
+_iesData.ES006 | 0.0
+_iesData.POP | 1845.0
+indITE | 0.0
+_iesData.CT | 189.18
+_iesData.ES005 | 78.02
+t | 0.00801399493424437
+result | 110.96564912934896
+indISE | 100.0
+Aricanduva | 3104452 | 2017 | 52.10333333333333
+_iesData.POP | 1845.0
+_iesData.IN024_AE | 100.0
+indICE | 100.0
+_iesData.IN024_AE | 100.0
+_iesData.ES005 | 76.39
+_iesData.ES006 | 0.0
+_iesData.POP | 1845.0
+indITE | 0.0
+_iesData.CT | 189.18
+_iesData.ES005 | 76.39
+t | 0.00725499020127218
+result | 125.44920672146819
+indISE | 100.0
+Aricanduva | 3104452 | 2018 | 66.66666666666667
+_iesData.POP | 1859.0
+_iesData.IN024_AE | 98.98
+indICE | 100.0
+_iesData.IN024_AE | 98.98
+_iesData.ES005 | 79.52
+_iesData.ES006 | 0.0
+_iesData.POP | 1859.0
+indITE | 0.0
+_iesData.CT | 189.18
+_iesData.ES005 | 79.52
+t | 0.00780934420329249
+result | 111.41398201895689
+indISE | 100.0
+Aricanduva | 3104452 | 2019 | 66.66666666666667
+_iesData.POP | 1872.0
+_iesData.IN024_AE | 98.88
+indICE | 100.0
+_iesData.IN024_AE | 98.88
+_iesData.ES005 | 61.48
+_iesData.ES006 | 61.48
+_iesData.POP | 1872.0
+indITE | 100.0
+_iesData.CT | 189.18
+_iesData.ES005 | 61.48
+t | 0.00799414493789885
+result | 141.16252938242562
+indISE | 100.0
+Aricanduva | 3104452 | 2020 | 100.0
+Erros | 3104502 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Arinos | 3104502 | 2015 | ?
+Erros | 3104502 | 2016 | [esgotoModel.CT]
+Arinos | 3104502 | 2016 | ?
+Erros | 3104502 | 2017 | [esgotoModel.CT]
+Arinos | 3104502 | 2017 | ?
+Erros | 3104502 | 2018 | [esgotoModel.CT]
+Arinos | 3104502 | 2018 | ?
+Erros | 3104502 | 2019 | [esgotoModel.CT]
+Arinos | 3104502 | 2019 | ?
+Erros | 3104502 | 2020 | [esgotoModel.CT]
+Arinos | 3104502 | 2020 | ?
+Erros | 3104700 | 2015 | [esgotoModel.CT]
+Ataléia | 3104700 | 2015 | ?
+Erros | 3104700 | 2016 | [esgotoModel.CT]
+Ataléia | 3104700 | 2016 | ?
+Erros | 3104700 | 2017 | [esgotoModel.CT]
+Ataléia | 3104700 | 2017 | ?
+Erros | 3104700 | 2018 | [esgotoModel.CT]
+Ataléia | 3104700 | 2018 | ?
+Erros | 3104700 | 2019 | [esgotoModel.CT]
+Ataléia | 3104700 | 2019 | ?
+Erros | 3104700 | 2020 | [esgotoModel.CT]
+Ataléia | 3104700 | 2020 | ?
+Erros | 3105202 | 2015 | [esgotoModel.CT]
+Bandeira | 3105202 | 2015 | ?
+Erros | 3105202 | 2016 | [esgotoModel.CT]
+Bandeira | 3105202 | 2016 | ?
+Erros | 3105202 | 2017 | [esgotoModel.CT]
+Bandeira | 3105202 | 2017 | ?
+Erros | 3105202 | 2018 | [esgotoModel.CT]
+Bandeira | 3105202 | 2018 | ?
+Erros | 3105202 | 2019 | [esgotoModel.CT]
+Bandeira | 3105202 | 2019 | ?
+Erros | 3105202 | 2020 | [esgotoModel.CT]
+Bandeira | 3105202 | 2020 | ?
+Erros | 3105301 | 2015 | [esgotoModel.CT]
+Bandeira do Sul | 3105301 | 2015 | ?
+Erros | 3105301 | 2016 | [esgotoModel.CT]
+Bandeira do Sul | 3105301 | 2016 | ?
+Erros | 3105301 | 2017 | [esgotoModel.CT]
+Bandeira do Sul | 3105301 | 2017 | ?
+Erros | 3105301 | 2018 | [esgotoModel.CT]
+Bandeira do Sul | 3105301 | 2018 | ?
+Erros | 3105301 | 2019 | [esgotoModel.CT]
+Bandeira do Sul | 3105301 | 2019 | ?
+Erros | 3105301 | 2020 | [esgotoModel.CT]
+Bandeira do Sul | 3105301 | 2020 | ?
+Erros | 3106606 | 2015 | [esgotoModel.CT]
+Bertópolis | 3106606 | 2015 | ?
+Erros | 3106606 | 2016 | [esgotoModel.CT]
+Bertópolis | 3106606 | 2016 | ?
+Erros | 3106606 | 2017 | [esgotoModel.CT]
+Bertópolis | 3106606 | 2017 | ?
+Erros | 3106606 | 2018 | [esgotoModel.CT]
+Bertópolis | 3106606 | 2018 | ?
+Erros | 3106606 | 2019 | [esgotoModel.CT]
+Bertópolis | 3106606 | 2019 | ?
+Erros | 3106606 | 2020 | [esgotoModel.CT]
+Bertópolis | 3106606 | 2020 | ?
+Erros | 3106804 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Bias Fortes | 3106804 | 2015 | ?
+Erros | 3106804 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Bias Fortes | 3106804 | 2016 | ?
+Erros | 3106804 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Bias Fortes | 3106804 | 2017 | ?
+Erros | 3106804 | 2018 | [esgotoModel.CT]
+Bias Fortes | 3106804 | 2018 | ?
+Erros | 3106804 | 2019 | [esgotoModel.CT]
+Bias Fortes | 3106804 | 2019 | ?
+Erros | 3106804 | 2020 | [esgotoModel.CT]
+Bias Fortes | 3106804 | 2020 | ?
+Erros | 3107208 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Bocaina de Minas | 3107208 | 2015 | ?
+Erros | 3107208 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Bocaina de Minas | 3107208 | 2016 | ?
+Erros | 3107208 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Bocaina de Minas | 3107208 | 2017 | ?
+Erros | 3107208 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Bocaina de Minas | 3107208 | 2018 | ?
+Erros | 3107208 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Bocaina de Minas | 3107208 | 2019 | ?
+Erros | 3107208 | 2020 | [esgotoModel.CT]
+Bocaina de Minas | 3107208 | 2020 | ?
+Erros | 3107604 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Bom Jesus da Penha | 3107604 | 2015 | ?
+Erros | 3107604 | 2016 | [esgotoModel.CT]
+Bom Jesus da Penha | 3107604 | 2016 | ?
+Erros | 3107604 | 2017 | [esgotoModel.CT]
+Bom Jesus da Penha | 3107604 | 2017 | ?
+Erros | 3107604 | 2018 | [esgotoModel.CT]
+Bom Jesus da Penha | 3107604 | 2018 | ?
+Erros | 3107604 | 2019 | [esgotoModel.CT]
+Bom Jesus da Penha | 3107604 | 2019 | ?
+Erros | 3107604 | 2020 | [esgotoModel.CT]
+Bom Jesus da Penha | 3107604 | 2020 | ?
+Erros | 3107901 | 2015 | [esgotoModel.CT]
+Bom Repouso | 3107901 | 2015 | ?
+Erros | 3107901 | 2016 | [esgotoModel.CT]
+Bom Repouso | 3107901 | 2016 | ?
+Erros | 3107901 | 2017 | [esgotoModel.CT]
+Bom Repouso | 3107901 | 2017 | ?
+Erros | 3107901 | 2018 | [esgotoModel.CT]
+Bom Repouso | 3107901 | 2018 | ?
+Erros | 3107901 | 2019 | [esgotoModel.CT]
+Bom Repouso | 3107901 | 2019 | ?
+Erros | 3107901 | 2020 | [esgotoModel.CT]
+Bom Repouso | 3107901 | 2020 | ?
+Erros | 3108255 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Bonito de Minas | 3108255 | 2015 | ?
+Erros | 3108255 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Bonito de Minas | 3108255 | 2016 | ?
+Erros | 3108255 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Bonito de Minas | 3108255 | 2017 | ?
+Erros | 3108255 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Bonito de Minas | 3108255 | 2018 | ?
+Erros | 3108255 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Bonito de Minas | 3108255 | 2019 | ?
+Erros | 3108255 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Bonito de Minas | 3108255 | 2020 | ?
+_iesData.POP | 14971.0
+_iesData.IN024_AE | 82.53
+indICE | 82.53
+_iesData.IN024_AE | 82.53
+_iesData.ES005 | 408.45
+_iesData.ES006 | 400.05
+_iesData.POP | 14971.0
+indITE | 100.0
+_iesData.CT | 460.338
+_iesData.ES005 | 408.45
+t | 0.0119273714179513
+result | 10.086320528407223
+indISE | 100.0
+Borda da Mata | 3108305 | 2015 | 94.17666666666666
+_iesData.POP | 15124.0
+_iesData.IN024_AE | 82.91
+indICE | 82.91
+_iesData.IN024_AE | 82.91
+_iesData.ES005 | 417.47
+_iesData.ES006 | 406.74
+_iesData.POP | 15124.0
+indITE | 100.0
+_iesData.CT | 460.338
+_iesData.ES005 | 417.47
+t | 0.0118274008892867
+result | 8.313342825134784
+indISE | 100.0
+Borda da Mata | 3108305 | 2016 | 94.30333333333333
+_iesData.POP | 15270.0
+_iesData.IN024_AE | 82.94
+indICE | 82.94
+_iesData.IN024_AE | 82.94
+_iesData.ES005 | 422.26
+_iesData.ES006 | 422.26
+_iesData.POP | 15270.0
+indITE | 100.0
+_iesData.CT | 460.338
+_iesData.ES005 | 422.26
+t | 0.0115531430322431
+result | 7.516357838561913
+indISE | 100.0
+Borda da Mata | 3108305 | 2017 | 94.31333333333333
+_iesData.POP | 15388.0
+_iesData.IN024_AE | 83.25
+indICE | 83.25
+_iesData.IN024_AE | 83.25
+_iesData.ES005 | 415.73
+_iesData.ES006 | 379.81
+_iesData.POP | 15388.0
+indITE | 100.0
+_iesData.CT | 460.338
+_iesData.ES005 | 415.73
+t | 0.0101126495953661
+result | 10.129837074607893
+indISE | 100.0
+Borda da Mata | 3108305 | 2018 | 94.41666666666667
+_iesData.POP | 15556.0
+_iesData.IN024_AE | 83.84
+indICE | 83.84
+_iesData.IN024_AE | 83.84
+_iesData.ES005 | 419.72
+_iesData.ES006 | 396.86
+_iesData.POP | 15556.0
+indITE | 100.0
+_iesData.CT | 460.338
+_iesData.ES005 | 419.72
+t | 0.00920463294641416
+result | 10.08162540741365
+indISE | 100.0
+Borda da Mata | 3108305 | 2019 | 94.61333333333334
+_iesData.POP | 15718.0
+_iesData.IN024_AE | 84.75
+indICE | 84.75
+_iesData.IN024_AE | 84.75
+_iesData.ES005 | 434.21
+_iesData.ES006 | 434.21
+_iesData.POP | 15718.0
+indITE | 100.0
+_iesData.CT | 460.338
+_iesData.ES005 | 434.21
+t | 0.00880650458276056
+result | 6.66435038696762
+indISE | 100.0
+Borda da Mata | 3108305 | 2020 | 94.91666666666667
+Erros | 3108404 | 2015 | [esgotoModel.CT]
+Botelhos | 3108404 | 2015 | ?
+Erros | 3108404 | 2016 | [esgotoModel.CT]
+Botelhos | 3108404 | 2016 | ?
+Erros | 3108404 | 2017 | [esgotoModel.CT]
+Botelhos | 3108404 | 2017 | ?
+Erros | 3108404 | 2018 | [esgotoModel.CT]
+Botelhos | 3108404 | 2018 | ?
+Erros | 3108404 | 2019 | [esgotoModel.CT]
+Botelhos | 3108404 | 2019 | ?
+Erros | 3108404 | 2020 | [esgotoModel.CT]
+Botelhos | 3108404 | 2020 | ?
+Erros | 3108503 | 2015 | [esgotoModel.CT]
+Botumirim | 3108503 | 2015 | ?
+Erros | 3108503 | 2016 | [esgotoModel.CT]
+Botumirim | 3108503 | 2016 | ?
+Erros | 3108503 | 2017 | [esgotoModel.CT]
+Botumirim | 3108503 | 2017 | ?
+Erros | 3108503 | 2018 | [esgotoModel.CT]
+Botumirim | 3108503 | 2018 | ?
+Erros | 3108503 | 2019 | [esgotoModel.CT]
+Botumirim | 3108503 | 2019 | ?
+Erros | 3108503 | 2020 | [esgotoModel.CT]
+Botumirim | 3108503 | 2020 | ?
+Erros | 3109600 | 2015 | [esgotoModel.CT]
+Cachoeira da Prata | 3109600 | 2015 | ?
+Erros | 3109600 | 2016 | [esgotoModel.CT]
+Cachoeira da Prata | 3109600 | 2016 | ?
+Erros | 3109600 | 2017 | [esgotoModel.CT]
+Cachoeira da Prata | 3109600 | 2017 | ?
+Erros | 3109600 | 2018 | [esgotoModel.CT]
+Cachoeira da Prata | 3109600 | 2018 | ?
+Erros | 3109600 | 2019 | [esgotoModel.CT]
+Cachoeira da Prata | 3109600 | 2019 | ?
+Erros | 3109600 | 2020 | [esgotoModel.CT]
+Cachoeira da Prata | 3109600 | 2020 | ?
+Erros | 3109709 | 2015 | [esgotoModel.CT]
+Cachoeira de Minas | 3109709 | 2015 | ?
+Erros | 3109709 | 2016 | [esgotoModel.CT]
+Cachoeira de Minas | 3109709 | 2016 | ?
+Erros | 3109709 | 2017 | [esgotoModel.CT]
+Cachoeira de Minas | 3109709 | 2017 | ?
+Erros | 3109709 | 2018 | [esgotoModel.CT]
+Cachoeira de Minas | 3109709 | 2018 | ?
+Erros | 3109709 | 2019 | [esgotoModel.CT]
+Cachoeira de Minas | 3109709 | 2019 | ?
+Erros | 3109709 | 2020 | [esgotoModel.CT]
+Cachoeira de Minas | 3109709 | 2020 | ?
+Erros | 3110103 | 2015 | [esgotoModel.CT]
+Caiana | 3110103 | 2015 | ?
+Erros | 3110103 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Caiana | 3110103 | 2016 | ?
+Erros | 3110103 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Caiana | 3110103 | 2017 | ?
+Erros | 3110103 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Caiana | 3110103 | 2018 | ?
+Erros | 3110103 | 2019 | [esgotoModel.CT]
+Caiana | 3110103 | 2019 | ?
+Erros | 3110103 | 2020 | [esgotoModel.CT]
+Caiana | 3110103 | 2020 | ?
+Erros | 3110301 | 2015 | [esgotoModel.CT]
+Caldas | 3110301 | 2015 | ?
+Erros | 3110301 | 2016 | [esgotoModel.CT]
+Caldas | 3110301 | 2016 | ?
+Erros | 3110301 | 2017 | [esgotoModel.CT]
+Caldas | 3110301 | 2017 | ?
+Erros | 3110301 | 2018 | [esgotoModel.CT]
+Caldas | 3110301 | 2018 | ?
+Erros | 3110301 | 2019 | [esgotoModel.CT]
+Caldas | 3110301 | 2019 | ?
+Erros | 3110301 | 2020 | [esgotoModel.CT]
+Caldas | 3110301 | 2020 | ?
+Erros | 3110400 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Camacho | 3110400 | 2015 | ?
+Erros | 3110400 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Camacho | 3110400 | 2016 | ?
+Erros | 3110400 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Camacho | 3110400 | 2017 | ?
+Erros | 3110400 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Camacho | 3110400 | 2018 | ?
+Erros | 3110400 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Camacho | 3110400 | 2019 | ?
+Erros | 3110400 | 2020 | [esgotoModel.CT]
+Camacho | 3110400 | 2020 | ?
+Erros | 3110707 | 2015 | [esgotoModel.CT]
+Cambuquira | 3110707 | 2015 | ?
+Erros | 3110707 | 2016 | [esgotoModel.CT]
+Cambuquira | 3110707 | 2016 | ?
+Erros | 3110707 | 2017 | [esgotoModel.CT]
+Cambuquira | 3110707 | 2017 | ?
+Erros | 3110707 | 2018 | [snisModel.ES005, esgotoModel.CT]
+Cambuquira | 3110707 | 2018 | ?
+Erros | 3110707 | 2019 | [esgotoModel.CT]
+Cambuquira | 3110707 | 2019 | ?
+Erros | 3110707 | 2020 | [esgotoModel.CT]
+Cambuquira | 3110707 | 2020 | ?
+Erros | 3110905 | 2015 | [esgotoModel.CT]
+Campanha | 3110905 | 2015 | ?
+Erros | 3110905 | 2016 | [esgotoModel.CT]
+Campanha | 3110905 | 2016 | ?
+Erros | 3110905 | 2017 | [esgotoModel.CT]
+Campanha | 3110905 | 2017 | ?
+Erros | 3110905 | 2018 | [esgotoModel.CT]
+Campanha | 3110905 | 2018 | ?
+Erros | 3110905 | 2019 | [esgotoModel.CT]
+Campanha | 3110905 | 2019 | ?
+Erros | 3110905 | 2020 | [esgotoModel.CT]
+Campanha | 3110905 | 2020 | ?
+_iesData.POP | 14954.0
+_iesData.IN024_AE | 86.59
+indICE | 100.0
+_iesData.IN024_AE | 86.59
+_iesData.ES005 | 565.24
+_iesData.ES006 | 565.24
+_iesData.POP | 14954.0
+indITE | 100.0
+_iesData.CT | 851.31
+_iesData.ES005 | 565.24
+t | -0.0005963395087355
+result | -686.5280489833582
+indISE | 0.0
+Campina Verde | 3111101 | 2015 | 66.66666666666667
+_iesData.POP | 14977.0
+_iesData.IN024_AE | 86.05
+indICE | 100.0
+_iesData.IN024_AE | 86.05
+_iesData.ES005 | 568.97
+_iesData.ES006 | 505.44
+_iesData.POP | 14977.0
+indITE | 100.0
+_iesData.CT | 851.31
+_iesData.ES005 | 568.97
+t | -0.000868223372456289
+result | -463.90559577988233
+indISE | 0.0
+Campina Verde | 3111101 | 2016 | 66.66666666666667
+_iesData.POP | 14997.0
+_iesData.IN024_AE | 85.71
+indICE | 100.0
+_iesData.IN024_AE | 85.71
+_iesData.ES005 | 554.84
+_iesData.ES006 | 554.84
+_iesData.POP | 14997.0
+indITE | 100.0
+_iesData.CT | 851.31
+_iesData.ES005 | 554.84
+t | 0.000124417370671814
+result | 3441.0242245612935
+indISE | 100.0
+Campina Verde | 3111101 | 2017 | 100.0
+_iesData.POP | 14742.0
+_iesData.IN024_AE | 86.58
+indICE | 100.0
+_iesData.IN024_AE | 86.58
+_iesData.ES005 | 533.28
+_iesData.ES006 | 533.28
+_iesData.POP | 14742.0
+indITE | 100.0
+_iesData.CT | 851.31
+_iesData.ES005 | 533.28
+t | 0.000857247423679208
+result | 545.8519483362264
+indISE | 100.0
+Campina Verde | 3111101 | 2018 | 100.0
+_iesData.POP | 14747.0
+_iesData.IN024_AE | 86.77
+indICE | 100.0
+_iesData.IN024_AE | 86.77
+_iesData.ES005 | 538.2
+_iesData.ES006 | 538.2
+_iesData.POP | 14747.0
+indITE | 100.0
+_iesData.CT | 851.31
+_iesData.ES005 | 538.2
+t | 0.00411724861851814
+result | 111.60108887283529
+indISE | 100.0
+Campina Verde | 3111101 | 2019 | 100.0
+_iesData.POP | 14753.0
+_iesData.IN024_AE | 87.93
+indICE | 100.0
+_iesData.IN024_AE | 87.93
+_iesData.ES005 | 548.29
+_iesData.ES006 | 548.29
+_iesData.POP | 14753.0
+indITE | 100.0
+_iesData.CT | 851.31
+_iesData.ES005 | 548.29
+t | 0.00535941752525893
+result | 82.3130386708528
+indISE | 100.0
+Campina Verde | 3111101 | 2020 | 100.0
+Erros | 3111309 | 2015 | [esgotoModel.CT]
+Campo do Meio | 3111309 | 2015 | ?
+Erros | 3111309 | 2016 | [esgotoModel.CT]
+Campo do Meio | 3111309 | 2016 | ?
+Erros | 3111309 | 2017 | [esgotoModel.CT]
+Campo do Meio | 3111309 | 2017 | ?
+Erros | 3111309 | 2018 | [esgotoModel.CT]
+Campo do Meio | 3111309 | 2018 | ?
+Erros | 3111309 | 2019 | [esgotoModel.CT]
+Campo do Meio | 3111309 | 2019 | ?
+Erros | 3111309 | 2020 | [esgotoModel.CT]
+Campo do Meio | 3111309 | 2020 | ?
+Erros | 3111408 | 2015 | [esgotoModel.CT]
+Campo Florido | 3111408 | 2015 | ?
+Erros | 3111408 | 2016 | [esgotoModel.CT]
+Campo Florido | 3111408 | 2016 | ?
+Erros | 3111408 | 2017 | [esgotoModel.CT]
+Campo Florido | 3111408 | 2017 | ?
+Erros | 3111408 | 2018 | [esgotoModel.CT]
+Campo Florido | 3111408 | 2018 | ?
+Erros | 3111408 | 2019 | [esgotoModel.CT]
+Campo Florido | 3111408 | 2019 | ?
+Erros | 3111408 | 2020 | [esgotoModel.CT]
+Campo Florido | 3111408 | 2020 | ?
+Erros | 3111705 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Canaã | 3111705 | 2015 | ?
+Erros | 3111705 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Canaã | 3111705 | 2016 | ?
+Erros | 3111705 | 2017 | [esgotoModel.CT]
+Canaã | 3111705 | 2017 | ?
+Erros | 3111705 | 2018 | [esgotoModel.CT]
+Canaã | 3111705 | 2018 | ?
+Erros | 3111705 | 2019 | [esgotoModel.CT]
+Canaã | 3111705 | 2019 | ?
+Erros | 3111705 | 2020 | [esgotoModel.CT]
+Canaã | 3111705 | 2020 | ?
+Erros | 3111903 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cana Verde | 3111903 | 2015 | ?
+Erros | 3111903 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cana Verde | 3111903 | 2016 | ?
+Erros | 3111903 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cana Verde | 3111903 | 2017 | ?
+Erros | 3111903 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cana Verde | 3111903 | 2018 | ?
+Erros | 3111903 | 2019 | [esgotoModel.CT]
+Cana Verde | 3111903 | 2019 | ?
+Erros | 3111903 | 2020 | [esgotoModel.CT]
+Cana Verde | 3111903 | 2020 | ?
+Erros | 3112109 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Caparaó | 3112109 | 2015 | ?
+Erros | 3112109 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Caparaó | 3112109 | 2016 | ?
+Erros | 3112109 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Caparaó | 3112109 | 2017 | ?
+Erros | 3112109 | 2018 | [esgotoModel.CT]
+Caparaó | 3112109 | 2018 | ?
+Erros | 3112109 | 2019 | [esgotoModel.CT]
+Caparaó | 3112109 | 2019 | ?
+Erros | 3112109 | 2020 | [esgotoModel.CT]
+Caparaó | 3112109 | 2020 | ?
+Erros | 3112406 | 2015 | [esgotoModel.CT]
+Capetinga | 3112406 | 2015 | ?
+Erros | 3112406 | 2016 | [esgotoModel.CT]
+Capetinga | 3112406 | 2016 | ?
+Erros | 3112406 | 2017 | [esgotoModel.CT]
+Capetinga | 3112406 | 2017 | ?
+Erros | 3112406 | 2018 | [esgotoModel.CT]
+Capetinga | 3112406 | 2018 | ?
+Erros | 3112406 | 2019 | [esgotoModel.CT]
+Capetinga | 3112406 | 2019 | ?
+Erros | 3112406 | 2020 | [esgotoModel.CT]
+Capetinga | 3112406 | 2020 | ?
+Erros | 3112505 | 2015 | [esgotoModel.CT]
+Capim Branco | 3112505 | 2015 | ?
+Erros | 3112505 | 2016 | [esgotoModel.CT]
+Capim Branco | 3112505 | 2016 | ?
+Erros | 3112505 | 2017 | [esgotoModel.CT]
+Capim Branco | 3112505 | 2017 | ?
+Erros | 3112505 | 2018 | [esgotoModel.CT]
+Capim Branco | 3112505 | 2018 | ?
+Erros | 3112505 | 2019 | [esgotoModel.CT]
+Capim Branco | 3112505 | 2019 | ?
+Erros | 3112505 | 2020 | [esgotoModel.CT]
+Capim Branco | 3112505 | 2020 | ?
+Erros | 3112901 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Caputira | 3112901 | 2015 | ?
+Erros | 3112901 | 2016 | [esgotoModel.CT]
+Caputira | 3112901 | 2016 | ?
+Erros | 3112901 | 2017 | [esgotoModel.CT]
+Caputira | 3112901 | 2017 | ?
+Erros | 3112901 | 2018 | [esgotoModel.CT]
+Caputira | 3112901 | 2018 | ?
+Erros | 3112901 | 2019 | [esgotoModel.CT]
+Caputira | 3112901 | 2019 | ?
+Erros | 3112901 | 2020 | [esgotoModel.CT]
+Caputira | 3112901 | 2020 | ?
+Erros | 3113107 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Caranaíba | 3113107 | 2015 | ?
+Erros | 3113107 | 2016 | [esgotoModel.CT]
+Caranaíba | 3113107 | 2016 | ?
+Erros | 3113107 | 2017 | [esgotoModel.CT]
+Caranaíba | 3113107 | 2017 | ?
+Erros | 3113107 | 2018 | [esgotoModel.CT]
+Caranaíba | 3113107 | 2018 | ?
+Erros | 3113107 | 2019 | [esgotoModel.CT]
+Caranaíba | 3113107 | 2019 | ?
+Erros | 3113107 | 2020 | [esgotoModel.CT]
+Caranaíba | 3113107 | 2020 | ?
+Erros | 3113602 | 2015 | [esgotoModel.CT]
+Careaçu | 3113602 | 2015 | ?
+Erros | 3113602 | 2016 | [esgotoModel.CT]
+Careaçu | 3113602 | 2016 | ?
+Erros | 3113602 | 2017 | [esgotoModel.CT]
+Careaçu | 3113602 | 2017 | ?
+Erros | 3113602 | 2018 | [esgotoModel.CT]
+Careaçu | 3113602 | 2018 | ?
+Erros | 3113602 | 2019 | [esgotoModel.CT]
+Careaçu | 3113602 | 2019 | ?
+Erros | 3113602 | 2020 | [esgotoModel.CT]
+Careaçu | 3113602 | 2020 | ?
+_iesData.POP | 12901.0
+_iesData.IN024_AE | 73.79
+indICE | 73.79
+_iesData.IN024_AE | 73.79
+_iesData.ES005 | 400.1
+_iesData.ES006 | 353.99
+_iesData.POP | 12901.0
+indITE | 100.0
+_iesData.CT | 945.9
+_iesData.ES005 | 400.1
+t | -0.0112418350184091
+result | -76.10651304374005
+indISE | 0.0
+Carlos Chagas | 3113701 | 2015 | 57.93000000000001
+_iesData.POP | 12827.0
+_iesData.IN024_AE | 73.81
+indICE | 73.81
+_iesData.IN024_AE | 73.81
+_iesData.ES005 | 396.0
+_iesData.ES006 | 347.3
+_iesData.POP | 12827.0
+indITE | 100.0
+_iesData.CT | 945.9
+_iesData.ES005 | 396.0
+t | -0.0118381493738401
+result | -73.11603485534252
+indISE | 0.0
+Carlos Chagas | 3113701 | 2016 | 57.93666666666667
+_iesData.POP | 12758.0
+_iesData.IN024_AE | 73.34
+indICE | 73.34
+_iesData.IN024_AE | 73.34
+_iesData.ES005 | 379.29
+_iesData.ES006 | 334.63
+_iesData.POP | 12758.0
+indITE | 100.0
+_iesData.CT | 945.9
+_iesData.ES005 | 379.29
+t | -0.00931620004180811
+result | -97.63341151029547
+indISE | 0.0
+Carlos Chagas | 3113701 | 2017 | 57.78
+_iesData.POP | 12278.0
+_iesData.IN024_AE | 84.22
+indICE | 84.22
+_iesData.IN024_AE | 84.22
+_iesData.ES005 | 380.36
+_iesData.ES006 | 336.99
+_iesData.POP | 12278.0
+indITE | 100.0
+_iesData.CT | 945.9
+_iesData.ES005 | 380.36
+t | -0.00759202877737697
+result | -119.5406493572448
+indISE | 0.0
+Carlos Chagas | 3113701 | 2018 | 61.406666666666666
+_iesData.POP | 12168.0
+_iesData.IN024_AE | 76.96
+indICE | 76.96
+_iesData.IN024_AE | 76.96
+_iesData.ES005 | 433.13
+_iesData.ES006 | 341.68
+_iesData.POP | 12168.0
+indITE | 100.0
+_iesData.CT | 945.9
+_iesData.ES005 | 433.13
+t | 0.00113900096455621
+result | 686.165962521017
+indISE | 100.0
+Carlos Chagas | 3113701 | 2019 | 92.32
+_iesData.POP | 12063.0
+_iesData.IN024_AE | 77.67
+indICE | 77.67
+_iesData.IN024_AE | 77.67
+_iesData.ES005 | 377.15
+_iesData.ES006 | 345.75
+_iesData.POP | 12063.0
+indITE | 100.0
+_iesData.CT | 945.9
+_iesData.ES005 | 377.15
+t | 0.00438464313861453
+result | 210.1672122762137
+indISE | 100.0
+Carlos Chagas | 3113701 | 2020 | 92.55666666666667
+Erros | 3113909 | 2015 | [esgotoModel.CT]
+Carmo da Cachoeira | 3113909 | 2015 | ?
+Erros | 3113909 | 2016 | [esgotoModel.CT]
+Carmo da Cachoeira | 3113909 | 2016 | ?
+Erros | 3113909 | 2017 | [esgotoModel.CT]
+Carmo da Cachoeira | 3113909 | 2017 | ?
+Erros | 3113909 | 2018 | [esgotoModel.CT]
+Carmo da Cachoeira | 3113909 | 2018 | ?
+Erros | 3113909 | 2019 | [esgotoModel.CT]
+Carmo da Cachoeira | 3113909 | 2019 | ?
+Erros | 3113909 | 2020 | [esgotoModel.CT]
+Carmo da Cachoeira | 3113909 | 2020 | ?
+Erros | 3114105 | 2015 | [esgotoModel.CT]
+Carmo de Minas | 3114105 | 2015 | ?
+Erros | 3114105 | 2016 | [esgotoModel.CT]
+Carmo de Minas | 3114105 | 2016 | ?
+Erros | 3114105 | 2017 | [esgotoModel.CT]
+Carmo de Minas | 3114105 | 2017 | ?
+Erros | 3114105 | 2018 | [esgotoModel.CT]
+Carmo de Minas | 3114105 | 2018 | ?
+Erros | 3114105 | 2019 | [esgotoModel.CT]
+Carmo de Minas | 3114105 | 2019 | ?
+Erros | 3114105 | 2020 | [esgotoModel.CT]
+Carmo de Minas | 3114105 | 2020 | ?
+Erros | 3114550 | 2015 | [esgotoModel.CT]
+Carneirinho | 3114550 | 2015 | ?
+Erros | 3114550 | 2016 | [esgotoModel.CT]
+Carneirinho | 3114550 | 2016 | ?
+Erros | 3114550 | 2017 | [esgotoModel.CT]
+Carneirinho | 3114550 | 2017 | ?
+Erros | 3114550 | 2018 | [esgotoModel.CT]
+Carneirinho | 3114550 | 2018 | ?
+Erros | 3114550 | 2019 | [esgotoModel.CT]
+Carneirinho | 3114550 | 2019 | ?
+Erros | 3114550 | 2020 | [esgotoModel.CT]
+Carneirinho | 3114550 | 2020 | ?
+Erros | 3114600 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Carrancas | 3114600 | 2015 | ?
+Erros | 3114600 | 2016 | [esgotoModel.CT]
+Carrancas | 3114600 | 2016 | ?
+Erros | 3114600 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Carrancas | 3114600 | 2017 | ?
+Erros | 3114600 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Carrancas | 3114600 | 2018 | ?
+Erros | 3114600 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Carrancas | 3114600 | 2019 | ?
+Erros | 3114600 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Carrancas | 3114600 | 2020 | ?
+Erros | 3114709 | 2015 | [esgotoModel.CT]
+Carvalhópolis | 3114709 | 2015 | ?
+Erros | 3114709 | 2016 | [esgotoModel.CT]
+Carvalhópolis | 3114709 | 2016 | ?
+Erros | 3114709 | 2017 | [esgotoModel.CT]
+Carvalhópolis | 3114709 | 2017 | ?
+Erros | 3114709 | 2018 | [esgotoModel.CT]
+Carvalhópolis | 3114709 | 2018 | ?
+Erros | 3114709 | 2019 | [esgotoModel.CT]
+Carvalhópolis | 3114709 | 2019 | ?
+Erros | 3114709 | 2020 | [esgotoModel.CT]
+Carvalhópolis | 3114709 | 2020 | ?
+Erros | 3114808 | 2015 | [esgotoModel.CT]
+Carvalhos | 3114808 | 2015 | ?
+Erros | 3114808 | 2016 | [esgotoModel.CT]
+Carvalhos | 3114808 | 2016 | ?
+Erros | 3114808 | 2017 | [esgotoModel.CT]
+Carvalhos | 3114808 | 2017 | ?
+Erros | 3114808 | 2018 | [esgotoModel.CT]
+Carvalhos | 3114808 | 2018 | ?
+Erros | 3114808 | 2019 | [esgotoModel.CT]
+Carvalhos | 3114808 | 2019 | ?
+Erros | 3114808 | 2020 | [esgotoModel.CT]
+Carvalhos | 3114808 | 2020 | ?
+Erros | 3115003 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cascalho Rico | 3115003 | 2015 | ?
+Erros | 3115003 | 2016 | [esgotoModel.CT]
+Cascalho Rico | 3115003 | 2016 | ?
+Erros | 3115003 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cascalho Rico | 3115003 | 2017 | ?
+Erros | 3115003 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cascalho Rico | 3115003 | 2018 | ?
+Erros | 3115003 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cascalho Rico | 3115003 | 2019 | ?
+Erros | 3115003 | 2020 | [esgotoModel.CT]
+Cascalho Rico | 3115003 | 2020 | ?
+_iesData.POP | 2863.0
+_iesData.IN024_AE | 53.3
+indICE | 53.3
+_iesData.IN024_AE | 53.3
+_iesData.ES005 | 47.12
+_iesData.ES006 | 47.12
+_iesData.POP | 2863.0
+indITE | 100.0
+_iesData.CT | 302.0574
+_iesData.ES005 | 47.12
+t | -0.00321259528054374
+result | -577.394097905155
+indISE | 0.0
+Conceição da Barra de Minas | 3115201 | 2015 | 51.1
+_iesData.POP | 2862.0
+_iesData.IN024_AE | 53.39
+indICE | 53.39
+_iesData.IN024_AE | 53.39
+_iesData.ES005 | 48.39
+_iesData.ES006 | 48.39
+_iesData.POP | 2862.0
+indITE | 100.0
+_iesData.CT | 302.0574
+_iesData.ES005 | 48.39
+t | -0.00356649635542927
+result | -512.5636066652538
+indISE | 0.0
+Conceição da Barra de Minas | 3115201 | 2016 | 51.129999999999995
+_iesData.POP | 2861.0
+_iesData.IN024_AE | 55.54
+indICE | 55.54
+_iesData.IN024_AE | 55.54
+_iesData.ES005 | 50.28
+_iesData.ES006 | 47.17
+_iesData.POP | 2861.0
+indITE | 100.0
+_iesData.CT | 302.0574
+_iesData.ES005 | 50.28
+t | -0.00149173598433472
+result | -1201.0650807904437
+indISE | 0.0
+Conceição da Barra de Minas | 3115201 | 2017 | 51.846666666666664
+_iesData.POP | 2799.0
+_iesData.IN024_AE | 59.99
+indICE | 59.99
+_iesData.IN024_AE | 59.99
+_iesData.ES005 | 52.8
+_iesData.ES006 | 46.97
+_iesData.POP | 2799.0
+indITE | 100.0
+_iesData.CT | 302.0574
+_iesData.ES005 | 52.8
+t | -0.000292196710393711
+result | -5968.072156141863
+indISE | 0.0
+Conceição da Barra de Minas | 3115201 | 2018 | 53.330000000000005
+_iesData.POP | 2793.0
+_iesData.IN024_AE | 60.54
+indICE | 60.54
+_iesData.IN024_AE | 60.54
+_iesData.ES005 | 55.6
+_iesData.ES006 | 28.75
+_iesData.POP | 2793.0
+indITE | 100.0
+_iesData.CT | 302.0574
+_iesData.ES005 | 55.6
+t | 0.00537053817487387
+result | 315.97847224815536
+indISE | 100.0
+Conceição da Barra de Minas | 3115201 | 2019 | 86.84666666666665
+_iesData.POP | 2787.0
+_iesData.IN024_AE | 60.75
+indICE | 60.75
+_iesData.IN024_AE | 60.75
+_iesData.ES005 | 56.82
+_iesData.ES006 | 40.77
+_iesData.POP | 2787.0
+indITE | 100.0
+_iesData.CT | 302.0574
+_iesData.ES005 | 56.82
+t | 0.00778459402588272
+result | 215.45417157730182
+indISE | 100.0
+Conceição da Barra de Minas | 3115201 | 2020 | 86.91666666666667
+Erros | 3115607 | 2015 | [esgotoModel.CT]
+Cedro do Abaeté | 3115607 | 2015 | ?
+Erros | 3115607 | 2016 | [esgotoModel.CT]
+Cedro do Abaeté | 3115607 | 2016 | ?
+Erros | 3115607 | 2017 | [esgotoModel.CT]
+Cedro do Abaeté | 3115607 | 2017 | ?
+Erros | 3115607 | 2018 | [esgotoModel.CT]
+Cedro do Abaeté | 3115607 | 2018 | ?
+Erros | 3115607 | 2019 | [esgotoModel.CT]
+Cedro do Abaeté | 3115607 | 2019 | ?
+Erros | 3115607 | 2020 | [esgotoModel.CT]
+Cedro do Abaeté | 3115607 | 2020 | ?
+Erros | 3116209 | 2015 | [esgotoModel.CT]
+Chiador | 3116209 | 2015 | ?
+Erros | 3116209 | 2016 | [esgotoModel.CT]
+Chiador | 3116209 | 2016 | ?
+Erros | 3116209 | 2017 | [esgotoModel.CT]
+Chiador | 3116209 | 2017 | ?
+Erros | 3116209 | 2018 | [esgotoModel.CT]
+Chiador | 3116209 | 2018 | ?
+Erros | 3116209 | 2019 | [esgotoModel.CT]
+Chiador | 3116209 | 2019 | ?
+Erros | 3116209 | 2020 | [esgotoModel.CT]
+Chiador | 3116209 | 2020 | ?
+Erros | 3116407 | 2015 | [esgotoModel.CT]
+Claraval | 3116407 | 2015 | ?
+Erros | 3116407 | 2016 | [esgotoModel.CT]
+Claraval | 3116407 | 2016 | ?
+Erros | 3116407 | 2017 | [esgotoModel.CT]
+Claraval | 3116407 | 2017 | ?
+Erros | 3116407 | 2018 | [esgotoModel.CT]
+Claraval | 3116407 | 2018 | ?
+Erros | 3116407 | 2019 | [esgotoModel.CT]
+Claraval | 3116407 | 2019 | ?
+Erros | 3116407 | 2020 | [esgotoModel.CT]
+Claraval | 3116407 | 2020 | ?
+_iesData.POP | 5310.0
+_iesData.IN024_AE | 35.88
+indICE | 0.0
+_iesData.IN024_AE | 35.88
+_iesData.ES005 | 61.02
+_iesData.ES006 | 61.02
+_iesData.POP | 5310.0
+indITE | 100.0
+_iesData.CT | 397.278
+_iesData.ES005 | 61.02
+t | -0.00690799893319583
+result | -270.2600721572198
+indISE | 0.0
+Claro dos Poções | 3116506 | 2015 | 33.333333333333336
+_iesData.POP | 5295.0
+_iesData.IN024_AE | 35.98
+indICE | 0.0
+_iesData.IN024_AE | 35.98
+_iesData.ES005 | 59.85
+_iesData.ES006 | 59.85
+_iesData.POP | 5295.0
+indITE | 100.0
+_iesData.CT | 397.278
+_iesData.ES005 | 59.85
+t | -0.00735046886057555
+result | -256.55912197954643
+indISE | 0.0
+Claro dos Poções | 3116506 | 2016 | 33.333333333333336
+_iesData.POP | 5281.0
+_iesData.IN024_AE | 35.52
+indICE | 0.0
+_iesData.IN024_AE | 35.52
+_iesData.ES005 | 57.8
+_iesData.ES006 | 57.8
+_iesData.POP | 5281.0
+indITE | 100.0
+_iesData.CT | 397.278
+_iesData.ES005 | 57.8
+t | -0.00522798433724225
+result | -367.7524893515523
+indISE | 0.0
+Claro dos Poções | 3116506 | 2017 | 33.333333333333336
+_iesData.POP | 5126.0
+_iesData.IN024_AE | 37.46
+indICE | 0.0
+_iesData.IN024_AE | 37.46
+_iesData.ES005 | 56.06
+_iesData.ES006 | 56.06
+_iesData.POP | 5126.0
+indITE | 100.0
+_iesData.CT | 397.278
+_iesData.ES005 | 56.06
+t | -0.00334416314863351
+result | -584.5820116284382
+indISE | 0.0
+Claro dos Poções | 3116506 | 2018 | 33.333333333333336
+_iesData.POP | 5100.0
+_iesData.IN024_AE | 40.06
+indICE | 0.0
+_iesData.IN024_AE | 40.06
+_iesData.ES005 | 63.63
+_iesData.ES006 | 63.63
+_iesData.POP | 5100.0
+indITE | 100.0
+_iesData.CT | 397.278
+_iesData.ES005 | 63.63
+t | 0.00303077615660063
+result | 605.232866604938
+indISE | 100.0
+Claro dos Poções | 3116506 | 2019 | 66.66666666666667
+_iesData.POP | 5075.0
+_iesData.IN024_AE | 40.1
+indICE | 0.0
+_iesData.IN024_AE | 40.1
+_iesData.ES005 | 65.97
+_iesData.ES006 | 65.97
+_iesData.POP | 5075.0
+indITE | 100.0
+_iesData.CT | 397.278
+_iesData.ES005 | 65.97
+t | 0.00565825599550029
+result | 318.20952212442364
+indISE | 100.0
+Claro dos Poções | 3116506 | 2020 | 66.66666666666667
+Erros | 3117009 | 2015 | [esgotoModel.CT]
+Comercinho | 3117009 | 2015 | ?
+Erros | 3117009 | 2016 | [esgotoModel.CT]
+Comercinho | 3117009 | 2016 | ?
+Erros | 3117009 | 2017 | [esgotoModel.CT]
+Comercinho | 3117009 | 2017 | ?
+Erros | 3117009 | 2018 | [esgotoModel.CT]
+Comercinho | 3117009 | 2018 | ?
+Erros | 3117009 | 2019 | [esgotoModel.CT]
+Comercinho | 3117009 | 2019 | ?
+Erros | 3117009 | 2020 | [esgotoModel.CT]
+Comercinho | 3117009 | 2020 | ?
+Erros | 3117207 | 2015 | [esgotoModel.CT]
+Conceição das Pedras | 3117207 | 2015 | ?
+Erros | 3117207 | 2016 | [esgotoModel.CT]
+Conceição das Pedras | 3117207 | 2016 | ?
+Erros | 3117207 | 2017 | [esgotoModel.CT]
+Conceição das Pedras | 3117207 | 2017 | ?
+Erros | 3117207 | 2018 | [esgotoModel.CT]
+Conceição das Pedras | 3117207 | 2018 | ?
+Erros | 3117207 | 2019 | [esgotoModel.CT]
+Conceição das Pedras | 3117207 | 2019 | ?
+Erros | 3117207 | 2020 | [esgotoModel.CT]
+Conceição das Pedras | 3117207 | 2020 | ?
+Erros | 3117702 | 2015 | [esgotoModel.CT]
+Conceição do Rio Verde | 3117702 | 2015 | ?
+Erros | 3117702 | 2016 | [esgotoModel.CT]
+Conceição do Rio Verde | 3117702 | 2016 | ?
+Erros | 3117702 | 2017 | [esgotoModel.CT]
+Conceição do Rio Verde | 3117702 | 2017 | ?
+Erros | 3117702 | 2018 | [esgotoModel.CT]
+Conceição do Rio Verde | 3117702 | 2018 | ?
+Erros | 3117702 | 2019 | [esgotoModel.CT]
+Conceição do Rio Verde | 3117702 | 2019 | ?
+Erros | 3117702 | 2020 | [esgotoModel.CT]
+Conceição do Rio Verde | 3117702 | 2020 | ?
+Erros | 3117836 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cônego Marinho | 3117836 | 2015 | ?
+Erros | 3117836 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cônego Marinho | 3117836 | 2016 | ?
+Erros | 3117836 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cônego Marinho | 3117836 | 2017 | ?
+Erros | 3117836 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cônego Marinho | 3117836 | 2018 | ?
+Erros | 3117836 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cônego Marinho | 3117836 | 2019 | ?
+Erros | 3117836 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cônego Marinho | 3117836 | 2020 | ?
+Erros | 3117900 | 2015 | [esgotoModel.CT]
+Congonhal | 3117900 | 2015 | ?
+Erros | 3117900 | 2016 | [esgotoModel.CT]
+Congonhal | 3117900 | 2016 | ?
+Erros | 3117900 | 2017 | [esgotoModel.CT]
+Congonhal | 3117900 | 2017 | ?
+Erros | 3117900 | 2018 | [esgotoModel.CT]
+Congonhal | 3117900 | 2018 | ?
+Erros | 3117900 | 2019 | [esgotoModel.CT]
+Congonhal | 3117900 | 2019 | ?
+Erros | 3117900 | 2020 | [esgotoModel.CT]
+Congonhal | 3117900 | 2020 | ?
+Erros | 3119005 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cordislândia | 3119005 | 2015 | ?
+Erros | 3119005 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cordislândia | 3119005 | 2016 | ?
+Erros | 3119005 | 2017 | [esgotoModel.CT]
+Cordislândia | 3119005 | 2017 | ?
+Erros | 3119005 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cordislândia | 3119005 | 2018 | ?
+Erros | 3119005 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cordislândia | 3119005 | 2019 | ?
+Erros | 3119005 | 2020 | [esgotoModel.CT]
+Cordislândia | 3119005 | 2020 | ?
+Erros | 3119500 | 2015 | [esgotoModel.CT]
+Coronel Murta | 3119500 | 2015 | ?
+Erros | 3119500 | 2016 | [esgotoModel.CT]
+Coronel Murta | 3119500 | 2016 | ?
+Erros | 3119500 | 2017 | [esgotoModel.CT]
+Coronel Murta | 3119500 | 2017 | ?
+Erros | 3119500 | 2018 | [esgotoModel.CT]
+Coronel Murta | 3119500 | 2018 | ?
+Erros | 3119500 | 2019 | [esgotoModel.CT]
+Coronel Murta | 3119500 | 2019 | ?
+Erros | 3119500 | 2020 | [esgotoModel.CT]
+Coronel Murta | 3119500 | 2020 | ?
+Erros | 3119807 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Córrego Danta | 3119807 | 2015 | ?
+Erros | 3119807 | 2016 | [esgotoModel.CT]
+Córrego Danta | 3119807 | 2016 | ?
+Erros | 3119807 | 2017 | [esgotoModel.CT]
+Córrego Danta | 3119807 | 2017 | ?
+Erros | 3119807 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Córrego Danta | 3119807 | 2018 | ?
+Erros | 3119807 | 2019 | [esgotoModel.CT]
+Córrego Danta | 3119807 | 2019 | ?
+Erros | 3119807 | 2020 | [esgotoModel.CT]
+Córrego Danta | 3119807 | 2020 | ?
+Erros | 3119906 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Córrego do Bom Jesus | 3119906 | 2015 | ?
+Erros | 3119906 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Córrego do Bom Jesus | 3119906 | 2016 | ?
+Erros | 3119906 | 2017 | [esgotoModel.CT]
+Córrego do Bom Jesus | 3119906 | 2017 | ?
+Erros | 3119906 | 2018 | [esgotoModel.CT]
+Córrego do Bom Jesus | 3119906 | 2018 | ?
+Erros | 3119906 | 2019 | [esgotoModel.CT]
+Córrego do Bom Jesus | 3119906 | 2019 | ?
+Erros | 3119906 | 2020 | [esgotoModel.CT]
+Córrego do Bom Jesus | 3119906 | 2020 | ?
+Erros | 3120151 | 2015 | [esgotoModel.CT]
+Crisólita | 3120151 | 2015 | ?
+Erros | 3120151 | 2016 | [esgotoModel.CT]
+Crisólita | 3120151 | 2016 | ?
+Erros | 3120151 | 2017 | [esgotoModel.CT]
+Crisólita | 3120151 | 2017 | ?
+Erros | 3120151 | 2018 | [esgotoModel.CT]
+Crisólita | 3120151 | 2018 | ?
+Erros | 3120151 | 2019 | [esgotoModel.CT]
+Crisólita | 3120151 | 2019 | ?
+Erros | 3120151 | 2020 | [esgotoModel.CT]
+Crisólita | 3120151 | 2020 | ?
+Erros | 3120201 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cristais | 3120201 | 2015 | ?
+Erros | 3120201 | 2016 | [esgotoModel.CT]
+Cristais | 3120201 | 2016 | ?
+Erros | 3120201 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cristais | 3120201 | 2017 | ?
+Erros | 3120201 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Cristais | 3120201 | 2018 | ?
+Erros | 3120201 | 2019 | [esgotoModel.CT]
+Cristais | 3120201 | 2019 | ?
+Erros | 3120201 | 2020 | [esgotoModel.CT]
+Cristais | 3120201 | 2020 | ?
+Erros | 3120508 | 2015 | [esgotoModel.CT]
+Cristina | 3120508 | 2015 | ?
+Erros | 3120508 | 2016 | [esgotoModel.CT]
+Cristina | 3120508 | 2016 | ?
+Erros | 3120508 | 2017 | [esgotoModel.CT]
+Cristina | 3120508 | 2017 | ?
+Erros | 3120508 | 2018 | [esgotoModel.CT]
+Cristina | 3120508 | 2018 | ?
+Erros | 3120508 | 2019 | [esgotoModel.CT]
+Cristina | 3120508 | 2019 | ?
+Erros | 3120508 | 2020 | [esgotoModel.CT]
+Cristina | 3120508 | 2020 | ?
+Erros | 3120607 | 2015 | [esgotoModel.CT]
+Crucilândia | 3120607 | 2015 | ?
+Erros | 3120607 | 2016 | [esgotoModel.CT]
+Crucilândia | 3120607 | 2016 | ?
+Erros | 3120607 | 2017 | [esgotoModel.CT]
+Crucilândia | 3120607 | 2017 | ?
+Erros | 3120607 | 2018 | [esgotoModel.CT]
+Crucilândia | 3120607 | 2018 | ?
+Erros | 3120607 | 2019 | [esgotoModel.CT]
+Crucilândia | 3120607 | 2019 | ?
+Erros | 3120607 | 2020 | [esgotoModel.CT]
+Crucilândia | 3120607 | 2020 | ?
+Erros | 3120805 | 2015 | [esgotoModel.CT]
+Cruzília | 3120805 | 2015 | ?
+Erros | 3120805 | 2016 | [esgotoModel.CT]
+Cruzília | 3120805 | 2016 | ?
+Erros | 3120805 | 2017 | [esgotoModel.CT]
+Cruzília | 3120805 | 2017 | ?
+Erros | 3120805 | 2018 | [esgotoModel.CT]
+Cruzília | 3120805 | 2018 | ?
+Erros | 3120805 | 2019 | [esgotoModel.CT]
+Cruzília | 3120805 | 2019 | ?
+Erros | 3120805 | 2020 | [esgotoModel.CT]
+Cruzília | 3120805 | 2020 | ?
+Erros | 3120870 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Curral de Dentro | 3120870 | 2015 | ?
+Erros | 3120870 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Curral de Dentro | 3120870 | 2016 | ?
+Erros | 3120870 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Curral de Dentro | 3120870 | 2017 | ?
+Erros | 3120870 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Curral de Dentro | 3120870 | 2018 | ?
+Erros | 3120870 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Curral de Dentro | 3120870 | 2019 | ?
+Erros | 3120870 | 2020 | [esgotoModel.CT]
+Curral de Dentro | 3120870 | 2020 | ?
+Erros | 3121001 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Datas | 3121001 | 2015 | ?
+Erros | 3121001 | 2016 | [esgotoModel.CT]
+Datas | 3121001 | 2016 | ?
+Erros | 3121001 | 2017 | [esgotoModel.CT]
+Datas | 3121001 | 2017 | ?
+Erros | 3121001 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Datas | 3121001 | 2018 | ?
+Erros | 3121001 | 2019 | [esgotoModel.CT]
+Datas | 3121001 | 2019 | ?
+Erros | 3121001 | 2020 | [esgotoModel.CT]
+Datas | 3121001 | 2020 | ?
+Erros | 3121100 | 2015 | [esgotoModel.CT]
+Delfim Moreira | 3121100 | 2015 | ?
+Erros | 3121100 | 2016 | [esgotoModel.CT]
+Delfim Moreira | 3121100 | 2016 | ?
+Erros | 3121100 | 2017 | [esgotoModel.CT]
+Delfim Moreira | 3121100 | 2017 | ?
+Erros | 3121100 | 2018 | [esgotoModel.CT]
+Delfim Moreira | 3121100 | 2018 | ?
+Erros | 3121100 | 2019 | [esgotoModel.CT]
+Delfim Moreira | 3121100 | 2019 | ?
+Erros | 3121100 | 2020 | [esgotoModel.CT]
+Delfim Moreira | 3121100 | 2020 | ?
+Erros | 3121209 | 2015 | [esgotoModel.CT]
+Delfinópolis | 3121209 | 2015 | ?
+Erros | 3121209 | 2016 | [esgotoModel.CT]
+Delfinópolis | 3121209 | 2016 | ?
+Erros | 3121209 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Delfinópolis | 3121209 | 2017 | ?
+Erros | 3121209 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Delfinópolis | 3121209 | 2018 | ?
+_iesData.POP | 5048.0
+_iesData.IN024_AE | 70.23
+indICE | 70.23
+_iesData.IN024_AE | 70.23
+_iesData.ES005 | 149.97
+_iesData.ES006 | 132.55
+_iesData.POP | 5048.0
+indITE | 100.0
+_iesData.CT | 376.2
+_iesData.ES005 | 149.97
+t | 0.0030753649629649
+result | 299.5088760598823
+indISE | 100.0
+Delfinópolis | 3121209 | 2019 | 90.07666666666667
+_iesData.POP | 5060.0
+_iesData.IN024_AE | 70.71
+indICE | 70.71
+_iesData.IN024_AE | 70.71
+_iesData.ES005 | 181.52
+_iesData.ES006 | 176.88
+_iesData.POP | 5060.0
+indITE | 100.0
+_iesData.CT | 376.2
+_iesData.ES005 | 181.52
+t | 0.00331548245777946
+result | 220.16780561073315
+indISE | 100.0
+Delfinópolis | 3121209 | 2020 | 90.23666666666666
+Erros | 3121258 | 2015 | [esgotoModel.CT]
+Delta | 3121258 | 2015 | ?
+Erros | 3121258 | 2016 | [esgotoModel.CT]
+Delta | 3121258 | 2016 | ?
+Erros | 3121258 | 2017 | [esgotoModel.CT]
+Delta | 3121258 | 2017 | ?
+Erros | 3121258 | 2018 | [esgotoModel.CT]
+Delta | 3121258 | 2018 | ?
+Erros | 3121258 | 2019 | [esgotoModel.CT]
+Delta | 3121258 | 2019 | ?
+Erros | 3121258 | 2020 | [esgotoModel.CT]
+Delta | 3121258 | 2020 | ?
+Erros | 3122801 | 2015 | [esgotoModel.CT]
+Dom Viçoso | 3122801 | 2015 | ?
+Erros | 3122801 | 2016 | [esgotoModel.CT]
+Dom Viçoso | 3122801 | 2016 | ?
+Erros | 3122801 | 2017 | [esgotoModel.CT]
+Dom Viçoso | 3122801 | 2017 | ?
+Erros | 3122801 | 2018 | [esgotoModel.CT]
+Dom Viçoso | 3122801 | 2018 | ?
+Erros | 3122801 | 2019 | [esgotoModel.CT]
+Dom Viçoso | 3122801 | 2019 | ?
+Erros | 3122801 | 2020 | [esgotoModel.CT]
+Dom Viçoso | 3122801 | 2020 | ?
+Erros | 3122900 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Dona Eusébia | 3122900 | 2015 | ?
+Erros | 3122900 | 2016 | [esgotoModel.CT]
+Dona Eusébia | 3122900 | 2016 | ?
+Erros | 3122900 | 2017 | [esgotoModel.CT]
+Dona Eusébia | 3122900 | 2017 | ?
+Erros | 3122900 | 2018 | [esgotoModel.CT]
+Dona Eusébia | 3122900 | 2018 | ?
+Erros | 3122900 | 2019 | [esgotoModel.CT]
+Dona Eusébia | 3122900 | 2019 | ?
+Erros | 3122900 | 2020 | [esgotoModel.CT]
+Dona Eusébia | 3122900 | 2020 | ?
+Erros | 3123502 | 2015 | [esgotoModel.CT]
+Douradoquara | 3123502 | 2015 | ?
+Erros | 3123502 | 2016 | [esgotoModel.CT]
+Douradoquara | 3123502 | 2016 | ?
+Erros | 3123502 | 2017 | [esgotoModel.CT]
+Douradoquara | 3123502 | 2017 | ?
+Erros | 3123502 | 2018 | [esgotoModel.CT]
+Douradoquara | 3123502 | 2018 | ?
+Erros | 3123502 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Douradoquara | 3123502 | 2019 | ?
+Erros | 3123502 | 2020 | [esgotoModel.CT]
+Douradoquara | 3123502 | 2020 | ?
+Erros | 3123908 | 2015 | [esgotoModel.CT]
+Entre Rios de Minas | 3123908 | 2015 | ?
+Erros | 3123908 | 2016 | [esgotoModel.CT]
+Entre Rios de Minas | 3123908 | 2016 | ?
+Erros | 3123908 | 2017 | [esgotoModel.CT]
+Entre Rios de Minas | 3123908 | 2017 | ?
+Erros | 3123908 | 2018 | [esgotoModel.CT]
+Entre Rios de Minas | 3123908 | 2018 | ?
+Erros | 3123908 | 2019 | [esgotoModel.CT]
+Entre Rios de Minas | 3123908 | 2019 | ?
+Erros | 3123908 | 2020 | [esgotoModel.CT]
+Entre Rios de Minas | 3123908 | 2020 | ?
+Erros | 3124500 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Estiva | 3124500 | 2015 | ?
+Erros | 3124500 | 2016 | [esgotoModel.CT]
+Estiva | 3124500 | 2016 | ?
+Erros | 3124500 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Estiva | 3124500 | 2017 | ?
+Erros | 3124500 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Estiva | 3124500 | 2018 | ?
+Erros | 3124500 | 2019 | [esgotoModel.CT]
+Estiva | 3124500 | 2019 | ?
+Erros | 3124500 | 2020 | [esgotoModel.CT]
+Estiva | 3124500 | 2020 | ?
+Erros | 3124708 | 2015 | [esgotoModel.CT]
+Estrela do Indaiá | 3124708 | 2015 | ?
+Erros | 3124708 | 2016 | [esgotoModel.CT]
+Estrela do Indaiá | 3124708 | 2016 | ?
+Erros | 3124708 | 2017 | [esgotoModel.CT]
+Estrela do Indaiá | 3124708 | 2017 | ?
+Erros | 3124708 | 2018 | [esgotoModel.CT]
+Estrela do Indaiá | 3124708 | 2018 | ?
+Erros | 3124708 | 2019 | [esgotoModel.CT]
+Estrela do Indaiá | 3124708 | 2019 | ?
+Erros | 3124708 | 2020 | [esgotoModel.CT]
+Estrela do Indaiá | 3124708 | 2020 | ?
+Erros | 3125408 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Felício dos Santos | 3125408 | 2015 | ?
+Erros | 3125408 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Felício dos Santos | 3125408 | 2016 | ?
+Erros | 3125408 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Felício dos Santos | 3125408 | 2017 | ?
+Erros | 3125408 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Felício dos Santos | 3125408 | 2018 | ?
+Erros | 3125408 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Felício dos Santos | 3125408 | 2019 | ?
+Erros | 3125408 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Felício dos Santos | 3125408 | 2020 | ?
+Erros | 3125507 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São Gonçalo do Rio Preto | 3125507 | 2015 | ?
+Erros | 3125507 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São Gonçalo do Rio Preto | 3125507 | 2016 | ?
+Erros | 3125507 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São Gonçalo do Rio Preto | 3125507 | 2017 | ?
+Erros | 3125507 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São Gonçalo do Rio Preto | 3125507 | 2018 | ?
+Erros | 3125507 | 2019 | [esgotoModel.CT]
+São Gonçalo do Rio Preto | 3125507 | 2019 | ?
+Erros | 3125507 | 2020 | [esgotoModel.CT]
+São Gonçalo do Rio Preto | 3125507 | 2020 | ?
+Erros | 3126505 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Francisco Badaró | 3126505 | 2015 | ?
+Erros | 3126505 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Francisco Badaró | 3126505 | 2016 | ?
+Erros | 3126505 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Francisco Badaró | 3126505 | 2017 | ?
+Erros | 3126505 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Francisco Badaró | 3126505 | 2018 | ?
+Erros | 3126505 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Francisco Badaró | 3126505 | 2019 | ?
+Erros | 3126505 | 2020 | [esgotoModel.CT]
+Francisco Badaró | 3126505 | 2020 | ?
+Erros | 3127354 | 2015 | [esgotoModel.CT]
+Glaucilândia | 3127354 | 2015 | ?
+Erros | 3127354 | 2016 | [esgotoModel.CT]
+Glaucilândia | 3127354 | 2016 | ?
+Erros | 3127354 | 2017 | [esgotoModel.CT]
+Glaucilândia | 3127354 | 2017 | ?
+Erros | 3127354 | 2018 | [esgotoModel.CT]
+Glaucilândia | 3127354 | 2018 | ?
+Erros | 3127354 | 2019 | [esgotoModel.CT]
+Glaucilândia | 3127354 | 2019 | ?
+Erros | 3127354 | 2020 | [esgotoModel.CT]
+Glaucilândia | 3127354 | 2020 | ?
+Erros | 3127404 | 2015 | [esgotoModel.CT]
+Gonçalves | 3127404 | 2015 | ?
+Erros | 3127404 | 2016 | [esgotoModel.CT]
+Gonçalves | 3127404 | 2016 | ?
+Erros | 3127404 | 2017 | [esgotoModel.CT]
+Gonçalves | 3127404 | 2017 | ?
+Erros | 3127404 | 2018 | [esgotoModel.CT]
+Gonçalves | 3127404 | 2018 | ?
+Erros | 3127404 | 2019 | [esgotoModel.CT]
+Gonçalves | 3127404 | 2019 | ?
+Erros | 3127404 | 2020 | [esgotoModel.CT]
+Gonçalves | 3127404 | 2020 | ?
+Erros | 3127800 | 2015 | [esgotoModel.CT]
+Grão Mogol | 3127800 | 2015 | ?
+Erros | 3127800 | 2016 | [esgotoModel.CT]
+Grão Mogol | 3127800 | 2016 | ?
+Erros | 3127800 | 2017 | [esgotoModel.CT]
+Grão Mogol | 3127800 | 2017 | ?
+Erros | 3127800 | 2018 | [esgotoModel.CT]
+Grão Mogol | 3127800 | 2018 | ?
+Erros | 3127800 | 2019 | [esgotoModel.CT]
+Grão Mogol | 3127800 | 2019 | ?
+Erros | 3127800 | 2020 | [esgotoModel.CT]
+Grão Mogol | 3127800 | 2020 | ?
+Erros | 3128105 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Guapé | 3128105 | 2015 | ?
+Erros | 3128105 | 2016 | [esgotoModel.CT]
+Guapé | 3128105 | 2016 | ?
+Erros | 3128105 | 2017 | [esgotoModel.CT]
+Guapé | 3128105 | 2017 | ?
+Erros | 3128105 | 2018 | [esgotoModel.CT]
+Guapé | 3128105 | 2018 | ?
+Erros | 3128105 | 2019 | [esgotoModel.CT]
+Guapé | 3128105 | 2019 | ?
+Erros | 3128105 | 2020 | [esgotoModel.CT]
+Guapé | 3128105 | 2020 | ?
+Erros | 3128303 | 2015 | [esgotoModel.CT]
+Guaranésia | 3128303 | 2015 | ?
+Erros | 3128303 | 2016 | [esgotoModel.CT]
+Guaranésia | 3128303 | 2016 | ?
+Erros | 3128303 | 2017 | [esgotoModel.CT]
+Guaranésia | 3128303 | 2017 | ?
+Erros | 3128303 | 2018 | [esgotoModel.CT]
+Guaranésia | 3128303 | 2018 | ?
+Erros | 3128303 | 2019 | [esgotoModel.CT]
+Guaranésia | 3128303 | 2019 | ?
+Erros | 3128303 | 2020 | [esgotoModel.CT]
+Guaranésia | 3128303 | 2020 | ?
+Erros | 3128501 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Guarará | 3128501 | 2015 | ?
+Erros | 3128501 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Guarará | 3128501 | 2016 | ?
+Erros | 3128501 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Guarará | 3128501 | 2017 | ?
+Erros | 3128501 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Guarará | 3128501 | 2018 | ?
+Erros | 3128501 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Guarará | 3128501 | 2019 | ?
+Erros | 3128501 | 2020 | [esgotoModel.CT]
+Guarará | 3128501 | 2020 | ?
+_iesData.POP | 3785.0
+_iesData.IN024_AE | 85.89
+indICE | 100.0
+_iesData.IN024_AE | 85.89
+_iesData.ES005 | 147.64
+_iesData.ES006 | 139.35
+_iesData.POP | 3785.0
+indITE | 100.0
+_iesData.CT | 313.5
+_iesData.ES005 | 147.64
+t | -0.00295729251536159
+result | -254.2556999404369
+indISE | 0.0
+Guarda-Mor | 3128600 | 2015 | 66.66666666666667
+_iesData.POP | 3785.0
+_iesData.IN024_AE | 86.79
+indICE | 100.0
+_iesData.IN024_AE | 86.79
+_iesData.ES005 | 157.31
+_iesData.ES006 | 157.31
+_iesData.POP | 3785.0
+indITE | 100.0
+_iesData.CT | 313.5
+_iesData.ES005 | 157.31
+t | -0.00329143236383123
+result | -209.16288867158843
+indISE | 0.0
+Guarda-Mor | 3128600 | 2016 | 66.66666666666667
+_iesData.POP | 3784.0
+_iesData.IN024_AE | 86.71
+indICE | 100.0
+_iesData.IN024_AE | 86.71
+_iesData.ES005 | 158.09
+_iesData.ES006 | 158.09
+_iesData.POP | 3784.0
+indITE | 100.0
+_iesData.CT | 313.5
+_iesData.ES005 | 158.09
+t | -0.00334773675027489
+result | -204.16427300298486
+indISE | 0.0
+Guarda-Mor | 3128600 | 2017 | 66.66666666666667
+_iesData.POP | 3703.0
+_iesData.IN024_AE | 88.68
+indICE | 100.0
+_iesData.IN024_AE | 88.68
+_iesData.ES005 | 154.9
+_iesData.ES006 | 153.45
+_iesData.POP | 3703.0
+indITE | 100.0
+_iesData.CT | 313.5
+_iesData.ES005 | 154.9
+t | -0.00303682345153011
+result | -231.804242554641
+indISE | 0.0
+Guarda-Mor | 3128600 | 2018 | 66.66666666666667
+_iesData.POP | 3696.0
+_iesData.IN024_AE | 87.88
+indICE | 100.0
+_iesData.IN024_AE | 87.88
+_iesData.ES005 | 159.33
+_iesData.ES006 | 159.33
+_iesData.POP | 3696.0
+indITE | 100.0
+_iesData.CT | 313.5
+_iesData.ES005 | 159.33
+t | -0.000679539387065775
+result | -995.6624446600467
+indISE | 0.0
+Guarda-Mor | 3128600 | 2019 | 66.66666666666667
+_iesData.POP | 3690.0
+_iesData.IN024_AE | 88.16
+indICE | 100.0
+_iesData.IN024_AE | 88.16
+_iesData.ES005 | 159.36
+_iesData.ES006 | 159.36
+_iesData.POP | 3690.0
+indITE | 100.0
+_iesData.CT | 313.5
+_iesData.ES005 | 159.36
+t | -0.000335130928656557
+result | -2018.6742602272236
+indISE | 0.0
+Guarda-Mor | 3128600 | 2020 | 66.66666666666667
+Erros | 3128907 | 2015 | [esgotoModel.CT]
+Guimarânia | 3128907 | 2015 | ?
+Erros | 3128907 | 2016 | [esgotoModel.CT]
+Guimarânia | 3128907 | 2016 | ?
+Erros | 3128907 | 2017 | [esgotoModel.CT]
+Guimarânia | 3128907 | 2017 | ?
+Erros | 3128907 | 2018 | [esgotoModel.CT]
+Guimarânia | 3128907 | 2018 | ?
+Erros | 3128907 | 2019 | [esgotoModel.CT]
+Guimarânia | 3128907 | 2019 | ?
+Erros | 3128907 | 2020 | [esgotoModel.CT]
+Guimarânia | 3128907 | 2020 | ?
+Erros | 3129004 | 2015 | [esgotoModel.CT]
+Guiricema | 3129004 | 2015 | ?
+Erros | 3129004 | 2016 | [esgotoModel.CT]
+Guiricema | 3129004 | 2016 | ?
+Erros | 3129004 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Guiricema | 3129004 | 2017 | ?
+Erros | 3129004 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Guiricema | 3129004 | 2018 | ?
+Erros | 3129004 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Guiricema | 3129004 | 2019 | ?
+Erros | 3129004 | 2020 | [esgotoModel.CT]
+Guiricema | 3129004 | 2020 | ?
+Erros | 3129202 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Heliodora | 3129202 | 2015 | ?
+Erros | 3129202 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Heliodora | 3129202 | 2016 | ?
+Erros | 3129202 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Heliodora | 3129202 | 2017 | ?
+Erros | 3129202 | 2018 | [esgotoModel.CT]
+Heliodora | 3129202 | 2018 | ?
+Erros | 3129202 | 2019 | [esgotoModel.CT]
+Heliodora | 3129202 | 2019 | ?
+Erros | 3129202 | 2020 | [esgotoModel.CT]
+Heliodora | 3129202 | 2020 | ?
+Erros | 3129400 | 2015 | [esgotoModel.CT]
+Ibertioga | 3129400 | 2015 | ?
+Erros | 3129400 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ibertioga | 3129400 | 2016 | ?
+Erros | 3129400 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ibertioga | 3129400 | 2017 | ?
+Erros | 3129400 | 2018 | [esgotoModel.CT]
+Ibertioga | 3129400 | 2018 | ?
+Erros | 3129400 | 2019 | [esgotoModel.CT]
+Ibertioga | 3129400 | 2019 | ?
+Erros | 3129400 | 2020 | [esgotoModel.CT]
+Ibertioga | 3129400 | 2020 | ?
+Erros | 3129657 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ibiracatu | 3129657 | 2015 | ?
+Erros | 3129657 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ibiracatu | 3129657 | 2016 | ?
+Erros | 3129657 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ibiracatu | 3129657 | 2017 | ?
+Erros | 3129657 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ibiracatu | 3129657 | 2018 | ?
+Erros | 3129657 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ibiracatu | 3129657 | 2019 | ?
+Erros | 3129657 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ibiracatu | 3129657 | 2020 | ?
+Erros | 3129707 | 2015 | [esgotoModel.CT]
+Ibiraci | 3129707 | 2015 | ?
+Erros | 3129707 | 2016 | [esgotoModel.CT]
+Ibiraci | 3129707 | 2016 | ?
+Erros | 3129707 | 2017 | [esgotoModel.CT]
+Ibiraci | 3129707 | 2017 | ?
+Erros | 3129707 | 2018 | [esgotoModel.CT]
+Ibiraci | 3129707 | 2018 | ?
+Erros | 3129707 | 2019 | [esgotoModel.CT]
+Ibiraci | 3129707 | 2019 | ?
+Erros | 3129707 | 2020 | [esgotoModel.CT]
+Ibiraci | 3129707 | 2020 | ?
+Erros | 3129905 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ibitiúra de Minas | 3129905 | 2015 | ?
+Erros | 3129905 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ibitiúra de Minas | 3129905 | 2016 | ?
+Erros | 3129905 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ibitiúra de Minas | 3129905 | 2017 | ?
+Erros | 3129905 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ibitiúra de Minas | 3129905 | 2018 | ?
+Erros | 3129905 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ibitiúra de Minas | 3129905 | 2019 | ?
+Erros | 3129905 | 2020 | [esgotoModel.CT]
+Ibitiúra de Minas | 3129905 | 2020 | ?
+_iesData.POP | 3232.0
+_iesData.IN024_AE | 34.37
+indICE | 0.0
+_iesData.IN024_AE | 34.37
+_iesData.ES005 | 36.81
+_iesData.ES006 | 36.81
+_iesData.POP | 3232.0
+indITE | 100.0
+_iesData.CT | 283.77
+_iesData.ES005 | 36.81
+t | 0.00999790141975221
+result | 205.30182470096332
+indISE | 100.0
+Icaraí de Minas | 3130051 | 2015 | 66.66666666666667
+_iesData.POP | 3261.0
+_iesData.IN024_AE | 36.8
+indICE | 0.0
+_iesData.IN024_AE | 36.8
+_iesData.ES005 | 37.95
+_iesData.ES006 | 37.95
+_iesData.POP | 3261.0
+indITE | 100.0
+_iesData.CT | 283.77
+_iesData.ES005 | 37.95
+t | 0.00987616770462774
+result | 204.71636758470984
+indISE | 100.0
+Icaraí de Minas | 3130051 | 2016 | 66.66666666666667
+_iesData.POP | 3289.0
+_iesData.IN024_AE | 38.07
+indICE | 0.0
+_iesData.IN024_AE | 38.07
+_iesData.ES005 | 38.78
+_iesData.ES006 | 38.78
+_iesData.POP | 3289.0
+indITE | 100.0
+_iesData.CT | 283.77
+_iesData.ES005 | 38.78
+t | 0.00874194209407331
+result | 228.66156352788263
+indISE | 100.0
+Icaraí de Minas | 3130051 | 2017 | 66.66666666666667
+_iesData.POP | 3301.0
+_iesData.IN024_AE | 39.23
+indICE | 0.0
+_iesData.IN024_AE | 39.23
+_iesData.ES005 | 38.93
+_iesData.ES006 | 38.93
+_iesData.POP | 3301.0
+indITE | 100.0
+_iesData.CT | 283.77
+_iesData.ES005 | 38.93
+t | 0.00655687499415913
+result | 303.9411430259188
+indISE | 100.0
+Icaraí de Minas | 3130051 | 2018 | 66.66666666666667
+_iesData.POP | 3332.0
+_iesData.IN024_AE | 40.1
+indICE | 0.0
+_iesData.IN024_AE | 40.1
+_iesData.ES005 | 40.69
+_iesData.ES006 | 40.69
+_iesData.POP | 3332.0
+indITE | 100.0
+_iesData.CT | 283.77
+_iesData.ES005 | 40.69
+t | 0.00534890621631234
+result | 364.0690761269681
+indISE | 100.0
+Icaraí de Minas | 3130051 | 2019 | 66.66666666666667
+_iesData.POP | 3361.0
+_iesData.IN024_AE | 42.73
+indICE | 0.0
+_iesData.IN024_AE | 42.73
+_iesData.ES005 | 42.92
+_iesData.ES006 | 42.92
+_iesData.POP | 3361.0
+indITE | 100.0
+_iesData.CT | 283.77
+_iesData.ES005 | 42.92
+t | 0.00418081639077039
+result | 452.7277996243618
+indISE | 100.0
+Icaraí de Minas | 3130051 | 2020 | 66.66666666666667
+Erros | 3130507 | 2015 | [esgotoModel.CT]
+Ilicínea | 3130507 | 2015 | ?
+Erros | 3130507 | 2016 | [esgotoModel.CT]
+Ilicínea | 3130507 | 2016 | ?
+Erros | 3130507 | 2017 | [esgotoModel.CT]
+Ilicínea | 3130507 | 2017 | ?
+Erros | 3130507 | 2018 | [esgotoModel.CT]
+Ilicínea | 3130507 | 2018 | ?
+Erros | 3130507 | 2019 | [esgotoModel.CT]
+Ilicínea | 3130507 | 2019 | ?
+Erros | 3130507 | 2020 | [esgotoModel.CT]
+Ilicínea | 3130507 | 2020 | ?
+Erros | 3130804 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ingaí | 3130804 | 2015 | ?
+Erros | 3130804 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ingaí | 3130804 | 2016 | ?
+Erros | 3130804 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ingaí | 3130804 | 2017 | ?
+Erros | 3130804 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ingaí | 3130804 | 2018 | ?
+Erros | 3130804 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ingaí | 3130804 | 2019 | ?
+Erros | 3130804 | 2020 | [esgotoModel.CT]
+Ingaí | 3130804 | 2020 | ?
+Erros | 3131406 | 2015 | [esgotoModel.CT]
+Ipiaçu | 3131406 | 2015 | ?
+Erros | 3131406 | 2016 | [esgotoModel.CT]
+Ipiaçu | 3131406 | 2016 | ?
+Erros | 3131406 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ipiaçu | 3131406 | 2017 | ?
+Erros | 3131406 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ipiaçu | 3131406 | 2018 | ?
+Erros | 3131406 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ipiaçu | 3131406 | 2019 | ?
+Erros | 3131406 | 2020 | [esgotoModel.CT]
+Ipiaçu | 3131406 | 2020 | ?
+Erros | 3132008 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Itacambira | 3132008 | 2015 | ?
+Erros | 3132008 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Itacambira | 3132008 | 2016 | ?
+Erros | 3132008 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Itacambira | 3132008 | 2017 | ?
+Erros | 3132008 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Itacambira | 3132008 | 2018 | ?
+Erros | 3132008 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Itacambira | 3132008 | 2019 | ?
+Erros | 3132008 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Itacambira | 3132008 | 2020 | ?
+_iesData.POP | 14315.0
+_iesData.IN024_AE | 29.17
+indICE | 0.0
+_iesData.IN024_AE | 29.17
+_iesData.ES005 | 138.21
+_iesData.ES006 | 138.21
+_iesData.POP | 14315.0
+indITE | 100.0
+_iesData.CT | 945.9
+_iesData.ES005 | 138.21
+t | -0.000275042673226755
+result | -6991.998912464236
+indISE | 0.0
+Itacarambi | 3132107 | 2015 | 33.333333333333336
+_iesData.POP | 14339.0
+_iesData.IN024_AE | 31.54
+indICE | 0.0
+_iesData.IN024_AE | 31.54
+_iesData.ES005 | 143.26
+_iesData.ES006 | 143.26
+_iesData.POP | 14339.0
+indITE | 100.0
+_iesData.CT | 945.9
+_iesData.ES005 | 143.26
+t | -0.000538331704512562
+result | -3505.213586003861
+indISE | 0.0
+Itacarambi | 3132107 | 2016 | 33.333333333333336
+_iesData.POP | 14362.0
+_iesData.IN024_AE | 34.5
+indICE | 0.0
+_iesData.IN024_AE | 34.5
+_iesData.ES005 | 154.07
+_iesData.ES006 | 154.07
+_iesData.POP | 14362.0
+indITE | 100.0
+_iesData.CT | 945.9
+_iesData.ES005 | 154.07
+t | 0.000162417876037546
+result | 11174.122105239308
+indISE | 100.0
+Itacarambi | 3132107 | 2017 | 66.66666666666667
+_iesData.POP | 14128.0
+_iesData.IN024_AE | 35.52
+indICE | 0.0
+_iesData.IN024_AE | 35.52
+_iesData.ES005 | 159.62
+_iesData.ES006 | 159.62
+_iesData.POP | 14128.0
+indITE | 100.0
+_iesData.CT | 945.9
+_iesData.ES005 | 159.62
+t | 0.000510534320657952
+result | 3486.141795774183
+indISE | 100.0
+Itacarambi | 3132107 | 2018 | 66.66666666666667
+_iesData.POP | 14136.0
+_iesData.IN024_AE | 37.92
+indICE | 0.0
+_iesData.IN024_AE | 37.92
+_iesData.ES005 | 174.36
+_iesData.ES006 | 174.36
+_iesData.POP | 14136.0
+indITE | 100.0
+_iesData.CT | 945.9
+_iesData.ES005 | 174.36
+t | 0.00348138123919717
+result | 486.5759995746227
+indISE | 100.0
+Itacarambi | 3132107 | 2019 | 66.66666666666667
+_iesData.POP | 14145.0
+_iesData.IN024_AE | 40.02
+indICE | 0.0
+_iesData.IN024_AE | 40.02
+_iesData.ES005 | 184.32
+_iesData.ES006 | 184.32
+_iesData.POP | 14145.0
+indITE | 100.0
+_iesData.CT | 945.9
+_iesData.ES005 | 184.32
+t | 0.00443094013917622
+result | 369.917912844268
+indISE | 100.0
+Itacarambi | 3132107 | 2020 | 66.66666666666667
+Erros | 3132909 | 2015 | [esgotoModel.CT]
+Itamogi | 3132909 | 2015 | ?
+Erros | 3132909 | 2016 | [esgotoModel.CT]
+Itamogi | 3132909 | 2016 | ?
+Erros | 3132909 | 2017 | [esgotoModel.CT]
+Itamogi | 3132909 | 2017 | ?
+Erros | 3132909 | 2018 | [esgotoModel.CT]
+Itamogi | 3132909 | 2018 | ?
+Erros | 3132909 | 2019 | [esgotoModel.CT]
+Itamogi | 3132909 | 2019 | ?
+Erros | 3132909 | 2020 | [esgotoModel.CT]
+Itamogi | 3132909 | 2020 | ?
+Erros | 3133105 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Itanhandu | 3133105 | 2015 | ?
+Erros | 3133105 | 2016 | [esgotoModel.CT]
+Itanhandu | 3133105 | 2016 | ?
+Erros | 3133105 | 2017 | [esgotoModel.CT]
+Itanhandu | 3133105 | 2017 | ?
+Erros | 3133105 | 2018 | [esgotoModel.CT]
+Itanhandu | 3133105 | 2018 | ?
+Erros | 3133105 | 2019 | [esgotoModel.CT]
+Itanhandu | 3133105 | 2019 | ?
+Erros | 3133105 | 2020 | [esgotoModel.CT]
+Itanhandu | 3133105 | 2020 | ?
+Erros | 3133709 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Itatiaiuçu | 3133709 | 2015 | ?
+Erros | 3133709 | 2016 | [esgotoModel.CT]
+Itatiaiuçu | 3133709 | 2016 | ?
+Erros | 3133709 | 2017 | [esgotoModel.CT]
+Itatiaiuçu | 3133709 | 2017 | ?
+Erros | 3133709 | 2018 | [esgotoModel.CT]
+Itatiaiuçu | 3133709 | 2018 | ?
+Erros | 3133709 | 2019 | [esgotoModel.CT]
+Itatiaiuçu | 3133709 | 2019 | ?
+Erros | 3133709 | 2020 | [esgotoModel.CT]
+Itatiaiuçu | 3133709 | 2020 | ?
+Erros | 3133758 | 2015 | [esgotoModel.CT]
+Itaú de Minas | 3133758 | 2015 | ?
+Erros | 3133758 | 2016 | [esgotoModel.CT]
+Itaú de Minas | 3133758 | 2016 | ?
+Erros | 3133758 | 2017 | [esgotoModel.CT]
+Itaú de Minas | 3133758 | 2017 | ?
+Erros | 3133758 | 2018 | [esgotoModel.CT]
+Itaú de Minas | 3133758 | 2018 | ?
+Erros | 3133758 | 2019 | [esgotoModel.CT]
+Itaú de Minas | 3133758 | 2019 | ?
+Erros | 3133758 | 2020 | [esgotoModel.CT]
+Itaú de Minas | 3133758 | 2020 | ?
+Erros | 3134301 | 2015 | [esgotoModel.CT]
+Itumirim | 3134301 | 2015 | ?
+Erros | 3134301 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Itumirim | 3134301 | 2016 | ?
+Erros | 3134301 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Itumirim | 3134301 | 2017 | ?
+Erros | 3134301 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Itumirim | 3134301 | 2018 | ?
+Erros | 3134301 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Itumirim | 3134301 | 2019 | ?
+Erros | 3134301 | 2020 | [esgotoModel.CT]
+Itumirim | 3134301 | 2020 | ?
+Erros | 3134806 | 2015 | [esgotoModel.CT]
+Jacuí | 3134806 | 2015 | ?
+Erros | 3134806 | 2016 | [esgotoModel.CT]
+Jacuí | 3134806 | 2016 | ?
+Erros | 3134806 | 2017 | [esgotoModel.CT]
+Jacuí | 3134806 | 2017 | ?
+Erros | 3134806 | 2018 | [esgotoModel.CT]
+Jacuí | 3134806 | 2018 | ?
+Erros | 3134806 | 2019 | [esgotoModel.CT]
+Jacuí | 3134806 | 2019 | ?
+Erros | 3134806 | 2020 | [esgotoModel.CT]
+Jacuí | 3134806 | 2020 | ?
+Erros | 3135308 | 2015 | [esgotoModel.CT]
+Japaraíba | 3135308 | 2015 | ?
+Erros | 3135308 | 2016 | [esgotoModel.CT]
+Japaraíba | 3135308 | 2016 | ?
+Erros | 3135308 | 2017 | [esgotoModel.CT]
+Japaraíba | 3135308 | 2017 | ?
+Erros | 3135308 | 2018 | [esgotoModel.CT]
+Japaraíba | 3135308 | 2018 | ?
+Erros | 3135308 | 2019 | [esgotoModel.CT]
+Japaraíba | 3135308 | 2019 | ?
+Erros | 3135308 | 2020 | [esgotoModel.CT]
+Japaraíba | 3135308 | 2020 | ?
+Erros | 3135605 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Jequitaí | 3135605 | 2015 | ?
+Erros | 3135605 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Jequitaí | 3135605 | 2016 | ?
+Erros | 3135605 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Jequitaí | 3135605 | 2017 | ?
+Erros | 3135605 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Jequitaí | 3135605 | 2018 | ?
+Erros | 3135605 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Jequitaí | 3135605 | 2019 | ?
+Erros | 3135605 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Jequitaí | 3135605 | 2020 | ?
+Erros | 3135704 | 2015 | [esgotoModel.CT]
+Jequitibá | 3135704 | 2015 | ?
+Erros | 3135704 | 2016 | [esgotoModel.CT]
+Jequitibá | 3135704 | 2016 | ?
+Erros | 3135704 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Jequitibá | 3135704 | 2017 | ?
+Erros | 3135704 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Jequitibá | 3135704 | 2018 | ?
+Erros | 3135704 | 2019 | [esgotoModel.CT]
+Jequitibá | 3135704 | 2019 | ?
+Erros | 3135704 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Jequitibá | 3135704 | 2020 | ?
+Erros | 3135902 | 2015 | [esgotoModel.CT]
+Jesuânia | 3135902 | 2015 | ?
+Erros | 3135902 | 2016 | [esgotoModel.CT]
+Jesuânia | 3135902 | 2016 | ?
+Erros | 3135902 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Jesuânia | 3135902 | 2017 | ?
+Erros | 3135902 | 2018 | [esgotoModel.CT]
+Jesuânia | 3135902 | 2018 | ?
+Erros | 3135902 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Jesuânia | 3135902 | 2019 | ?
+Erros | 3135902 | 2020 | [esgotoModel.CT]
+Jesuânia | 3135902 | 2020 | ?
+Erros | 3136009 | 2015 | [esgotoModel.CT]
+Joaíma | 3136009 | 2015 | ?
+Erros | 3136009 | 2016 | [esgotoModel.CT]
+Joaíma | 3136009 | 2016 | ?
+Erros | 3136009 | 2017 | [esgotoModel.CT]
+Joaíma | 3136009 | 2017 | ?
+Erros | 3136009 | 2018 | [esgotoModel.CT]
+Joaíma | 3136009 | 2018 | ?
+Erros | 3136009 | 2019 | [esgotoModel.CT]
+Joaíma | 3136009 | 2019 | ?
+Erros | 3136009 | 2020 | [esgotoModel.CT]
+Joaíma | 3136009 | 2020 | ?
+Erros | 3136603 | 2015 | [esgotoModel.CT]
+Nova União | 3136603 | 2015 | ?
+Erros | 3136603 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Nova União | 3136603 | 2016 | ?
+Erros | 3136603 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Nova União | 3136603 | 2017 | ?
+Erros | 3136603 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Nova União | 3136603 | 2018 | ?
+Erros | 3136603 | 2019 | [esgotoModel.CT]
+Nova União | 3136603 | 2019 | ?
+Erros | 3136603 | 2020 | [esgotoModel.CT]
+Nova União | 3136603 | 2020 | ?
+Erros | 3138500 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Liberdade | 3138500 | 2015 | ?
+Erros | 3138500 | 2016 | [esgotoModel.CT]
+Liberdade | 3138500 | 2016 | ?
+Erros | 3138500 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Liberdade | 3138500 | 2017 | ?
+Erros | 3138500 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Liberdade | 3138500 | 2018 | ?
+Erros | 3138500 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Liberdade | 3138500 | 2019 | ?
+Erros | 3138500 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Liberdade | 3138500 | 2020 | ?
+Erros | 3138658 | 2015 | [esgotoModel.CT]
+Lontra | 3138658 | 2015 | ?
+Erros | 3138658 | 2016 | [esgotoModel.CT]
+Lontra | 3138658 | 2016 | ?
+Erros | 3138658 | 2017 | [esgotoModel.CT]
+Lontra | 3138658 | 2017 | ?
+Erros | 3138658 | 2018 | [esgotoModel.CT]
+Lontra | 3138658 | 2018 | ?
+Erros | 3138658 | 2019 | [esgotoModel.CT]
+Lontra | 3138658 | 2019 | ?
+Erros | 3138658 | 2020 | [esgotoModel.CT]
+Lontra | 3138658 | 2020 | ?
+Erros | 3138674 | 2015 | [esgotoModel.CT]
+Luisburgo | 3138674 | 2015 | ?
+Erros | 3138674 | 2016 | [esgotoModel.CT]
+Luisburgo | 3138674 | 2016 | ?
+Erros | 3138674 | 2017 | [esgotoModel.CT]
+Luisburgo | 3138674 | 2017 | ?
+Erros | 3138674 | 2018 | [esgotoModel.CT]
+Luisburgo | 3138674 | 2018 | ?
+Erros | 3138674 | 2019 | [esgotoModel.CT]
+Luisburgo | 3138674 | 2019 | ?
+Erros | 3138674 | 2020 | [esgotoModel.CT]
+Luisburgo | 3138674 | 2020 | ?
+Erros | 3138682 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Luislândia | 3138682 | 2015 | ?
+Erros | 3138682 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Luislândia | 3138682 | 2016 | ?
+Erros | 3138682 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Luislândia | 3138682 | 2017 | ?
+Erros | 3138682 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Luislândia | 3138682 | 2018 | ?
+Erros | 3138682 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Luislândia | 3138682 | 2019 | ?
+Erros | 3138682 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Luislândia | 3138682 | 2020 | ?
+Erros | 3138807 | 2015 | [esgotoModel.CT]
+Luz | 3138807 | 2015 | ?
+Erros | 3138807 | 2016 | [esgotoModel.CT]
+Luz | 3138807 | 2016 | ?
+Erros | 3138807 | 2017 | [esgotoModel.CT]
+Luz | 3138807 | 2017 | ?
+Erros | 3138807 | 2018 | [esgotoModel.CT]
+Luz | 3138807 | 2018 | ?
+Erros | 3138807 | 2019 | [esgotoModel.CT]
+Luz | 3138807 | 2019 | ?
+Erros | 3138807 | 2020 | [esgotoModel.CT]
+Luz | 3138807 | 2020 | ?
+Erros | 3139102 | 2015 | [esgotoModel.CT]
+Madre de Deus de Minas | 3139102 | 2015 | ?
+Erros | 3139102 | 2016 | [esgotoModel.CT]
+Madre de Deus de Minas | 3139102 | 2016 | ?
+Erros | 3139102 | 2017 | [esgotoModel.CT]
+Madre de Deus de Minas | 3139102 | 2017 | ?
+Erros | 3139102 | 2018 | [esgotoModel.CT]
+Madre de Deus de Minas | 3139102 | 2018 | ?
+Erros | 3139102 | 2019 | [esgotoModel.CT]
+Madre de Deus de Minas | 3139102 | 2019 | ?
+Erros | 3139102 | 2020 | [esgotoModel.CT]
+Madre de Deus de Minas | 3139102 | 2020 | ?
+Erros | 3139250 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Mamonas | 3139250 | 2015 | ?
+Erros | 3139250 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Mamonas | 3139250 | 2016 | ?
+Erros | 3139250 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Mamonas | 3139250 | 2017 | ?
+Erros | 3139250 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Mamonas | 3139250 | 2018 | ?
+Erros | 3139250 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Mamonas | 3139250 | 2019 | ?
+Erros | 3139250 | 2020 | [esgotoModel.CT]
+Mamonas | 3139250 | 2020 | ?
+Erros | 3139300 | 2015 | [esgotoModel.CT]
+Manga | 3139300 | 2015 | ?
+Erros | 3139300 | 2016 | [esgotoModel.CT]
+Manga | 3139300 | 2016 | ?
+Erros | 3139300 | 2017 | [esgotoModel.CT]
+Manga | 3139300 | 2017 | ?
+Erros | 3139300 | 2018 | [esgotoModel.CT]
+Manga | 3139300 | 2018 | ?
+Erros | 3139300 | 2019 | [esgotoModel.CT]
+Manga | 3139300 | 2019 | ?
+Erros | 3139300 | 2020 | [esgotoModel.CT]
+Manga | 3139300 | 2020 | ?
+Erros | 3139904 | 2015 | [esgotoModel.CT]
+Maria da Fé | 3139904 | 2015 | ?
+Erros | 3139904 | 2016 | [esgotoModel.CT]
+Maria da Fé | 3139904 | 2016 | ?
+Erros | 3139904 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Maria da Fé | 3139904 | 2017 | ?
+Erros | 3139904 | 2018 | [esgotoModel.CT]
+Maria da Fé | 3139904 | 2018 | ?
+Erros | 3139904 | 2019 | [esgotoModel.CT]
+Maria da Fé | 3139904 | 2019 | ?
+Erros | 3139904 | 2020 | [esgotoModel.CT]
+Maria da Fé | 3139904 | 2020 | ?
+Erros | 3140407 | 2015 | [esgotoModel.CT]
+Marmelópolis | 3140407 | 2015 | ?
+Erros | 3140407 | 2016 | [esgotoModel.CT]
+Marmelópolis | 3140407 | 2016 | ?
+Erros | 3140407 | 2017 | [esgotoModel.CT]
+Marmelópolis | 3140407 | 2017 | ?
+Erros | 3140407 | 2018 | [esgotoModel.CT]
+Marmelópolis | 3140407 | 2018 | ?
+Erros | 3140407 | 2019 | [esgotoModel.CT]
+Marmelópolis | 3140407 | 2019 | ?
+Erros | 3140407 | 2020 | [esgotoModel.CT]
+Marmelópolis | 3140407 | 2020 | ?
+Erros | 3140506 | 2015 | [esgotoModel.CT]
+Martinho Campos | 3140506 | 2015 | ?
+Erros | 3140506 | 2016 | [esgotoModel.CT]
+Martinho Campos | 3140506 | 2016 | ?
+Erros | 3140506 | 2017 | [esgotoModel.CT]
+Martinho Campos | 3140506 | 2017 | ?
+Erros | 3140506 | 2018 | [esgotoModel.CT]
+Martinho Campos | 3140506 | 2018 | ?
+_iesData.POP | 11688.0
+_iesData.IN024_AE | 52.51
+indICE | 0.0
+_iesData.IN024_AE | 52.51
+_iesData.ES005 | 269.72
+_iesData.ES006 | 200.44
+_iesData.POP | 11688.0
+indITE | 100.0
+_iesData.CT | 378.36
+_iesData.ES005 | 269.72
+t | 0.00361199725553818
+result | 93.87400089512691
+indISE | 100.0
+Martinho Campos | 3140506 | 2019 | 66.66666666666667
+_iesData.POP | 11736.0
+_iesData.IN024_AE | 54.89
+indICE | 0.0
+_iesData.IN024_AE | 54.89
+_iesData.ES005 | 284.21
+_iesData.ES006 | 284.21
+_iesData.POP | 11736.0
+indITE | 100.0
+_iesData.CT | 378.36
+_iesData.ES005 | 284.21
+t | 0.00344270199332342
+result | 83.25581914766548
+indISE | 100.0
+Martinho Campos | 3140506 | 2020 | 66.66666666666667
+Erros | 3140555 | 2015 | [esgotoModel.CT]
+Mata Verde | 3140555 | 2015 | ?
+Erros | 3140555 | 2016 | [esgotoModel.CT]
+Mata Verde | 3140555 | 2016 | ?
+Erros | 3140555 | 2017 | [esgotoModel.CT]
+Mata Verde | 3140555 | 2017 | ?
+Erros | 3140555 | 2018 | [esgotoModel.CT]
+Mata Verde | 3140555 | 2018 | ?
+Erros | 3140555 | 2019 | [esgotoModel.CT]
+Mata Verde | 3140555 | 2019 | ?
+Erros | 3140555 | 2020 | [esgotoModel.CT]
+Mata Verde | 3140555 | 2020 | ?
+Erros | 3140852 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Matias Cardoso | 3140852 | 2015 | ?
+Erros | 3140852 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Matias Cardoso | 3140852 | 2016 | ?
+Erros | 3140852 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Matias Cardoso | 3140852 | 2017 | ?
+Erros | 3140852 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Matias Cardoso | 3140852 | 2018 | ?
+Erros | 3140852 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Matias Cardoso | 3140852 | 2019 | ?
+Erros | 3140852 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Matias Cardoso | 3140852 | 2020 | ?
+Erros | 3141306 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Medeiros | 3141306 | 2015 | ?
+Erros | 3141306 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Medeiros | 3141306 | 2016 | ?
+Erros | 3141306 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Medeiros | 3141306 | 2017 | ?
+Erros | 3141306 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Medeiros | 3141306 | 2018 | ?
+Erros | 3141306 | 2019 | [esgotoModel.CT]
+Medeiros | 3141306 | 2019 | ?
+Erros | 3141306 | 2020 | [esgotoModel.CT]
+Medeiros | 3141306 | 2020 | ?
+Erros | 3142403 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Moema | 3142403 | 2015 | ?
+Erros | 3142403 | 2016 | [esgotoModel.CT]
+Moema | 3142403 | 2016 | ?
+Erros | 3142403 | 2017 | [esgotoModel.CT]
+Moema | 3142403 | 2017 | ?
+Erros | 3142403 | 2018 | [esgotoModel.CT]
+Moema | 3142403 | 2018 | ?
+Erros | 3142403 | 2019 | [esgotoModel.CT]
+Moema | 3142403 | 2019 | ?
+Erros | 3142403 | 2020 | [esgotoModel.CT]
+Moema | 3142403 | 2020 | ?
+Erros | 3142700 | 2015 | [esgotoModel.CT]
+Montalvânia | 3142700 | 2015 | ?
+Erros | 3142700 | 2016 | [esgotoModel.CT]
+Montalvânia | 3142700 | 2016 | ?
+_iesData.POP | 10072.0
+_iesData.IN024_AE | 3.2
+indICE | 0.0
+_iesData.IN024_AE | 3.2
+_iesData.ES005 | 12.91
+_iesData.ES006 | 12.91
+_iesData.POP | 10072.0
+indITE | 100.0
+_iesData.CT | 425.3397
+_iesData.ES005 | 12.91
+t | -0.00690151379479864
+result | -504.64465051993443
+indISE | 0.0
+Montalvânia | 3142700 | 2017 | 33.333333333333336
+_iesData.POP | 9690.0
+_iesData.IN024_AE | 7.13
+indICE | 0.0
+_iesData.IN024_AE | 7.13
+_iesData.ES005 | 19.98
+_iesData.ES006 | 15.55
+_iesData.POP | 9690.0
+indITE | 100.0
+_iesData.CT | 425.3397
+_iesData.ES005 | 19.98
+t | -0.00193338154791267
+result | -1580.2360008956184
+indISE | 0.0
+Montalvânia | 3142700 | 2018 | 33.333333333333336
+_iesData.POP | 9603.0
+_iesData.IN024_AE | 7.99
+indICE | 0.0
+_iesData.IN024_AE | 7.99
+_iesData.ES005 | 30.07
+_iesData.ES006 | 27.89
+_iesData.POP | 9603.0
+indITE | 100.0
+_iesData.CT | 425.3397
+_iesData.ES005 | 30.07
+t | 0.00853163829885717
+result | 311.8563800626317
+indISE | 100.0
+Montalvânia | 3142700 | 2019 | 66.66666666666667
+_iesData.POP | 9519.0
+_iesData.IN024_AE | 8.27
+indICE | 0.0
+_iesData.IN024_AE | 8.27
+_iesData.ES005 | 32.17
+_iesData.ES006 | 32.17
+_iesData.POP | 9519.0
+indITE | 100.0
+_iesData.CT | 425.3397
+_iesData.ES005 | 32.17
+t | 0.0141846417964644
+result | 183.30545034933132
+indISE | 100.0
+Montalvânia | 3142700 | 2020 | 66.66666666666667
+Erros | 3143500 | 2015 | [esgotoModel.CT]
+Morada Nova de Minas | 3143500 | 2015 | ?
+Erros | 3143500 | 2016 | [esgotoModel.CT]
+Morada Nova de Minas | 3143500 | 2016 | ?
+Erros | 3143500 | 2017 | [esgotoModel.CT]
+Morada Nova de Minas | 3143500 | 2017 | ?
+Erros | 3143500 | 2018 | [esgotoModel.CT]
+Morada Nova de Minas | 3143500 | 2018 | ?
+Erros | 3143500 | 2019 | [esgotoModel.CT]
+Morada Nova de Minas | 3143500 | 2019 | ?
+Erros | 3143500 | 2020 | [esgotoModel.CT]
+Morada Nova de Minas | 3143500 | 2020 | ?
+Erros | 3143807 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Munhoz | 3143807 | 2015 | ?
+Erros | 3143807 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Munhoz | 3143807 | 2016 | ?
+Erros | 3143807 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Munhoz | 3143807 | 2017 | ?
+Erros | 3143807 | 2018 | [esgotoModel.CT]
+Munhoz | 3143807 | 2018 | ?
+Erros | 3143807 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Munhoz | 3143807 | 2019 | ?
+Erros | 3143807 | 2020 | [esgotoModel.CT]
+Munhoz | 3143807 | 2020 | ?
+Erros | 3144656 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ninheira | 3144656 | 2015 | ?
+Erros | 3144656 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ninheira | 3144656 | 2016 | ?
+Erros | 3144656 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ninheira | 3144656 | 2017 | ?
+Erros | 3144656 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ninheira | 3144656 | 2018 | ?
+Erros | 3144656 | 2019 | [esgotoModel.CT]
+Ninheira | 3144656 | 2019 | ?
+Erros | 3144656 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ninheira | 3144656 | 2020 | ?
+Erros | 3144672 | 2015 | [esgotoModel.CT]
+Nova Belém | 3144672 | 2015 | ?
+Erros | 3144672 | 2016 | [esgotoModel.CT]
+Nova Belém | 3144672 | 2016 | ?
+Erros | 3144672 | 2017 | [esgotoModel.CT]
+Nova Belém | 3144672 | 2017 | ?
+Erros | 3144672 | 2018 | [esgotoModel.CT]
+Nova Belém | 3144672 | 2018 | ?
+Erros | 3144672 | 2019 | [esgotoModel.CT]
+Nova Belém | 3144672 | 2019 | ?
+Erros | 3144672 | 2020 | [esgotoModel.CT]
+Nova Belém | 3144672 | 2020 | ?
+Erros | 3144706 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Nova Era | 3144706 | 2015 | ?
+Erros | 3144706 | 2016 | [esgotoModel.CT]
+Nova Era | 3144706 | 2016 | ?
+Erros | 3144706 | 2017 | [esgotoModel.CT]
+Nova Era | 3144706 | 2017 | ?
+Erros | 3144706 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Nova Era | 3144706 | 2018 | ?
+Erros | 3144706 | 2019 | [esgotoModel.CT]
+Nova Era | 3144706 | 2019 | ?
+Erros | 3144706 | 2020 | [esgotoModel.CT]
+Nova Era | 3144706 | 2020 | ?
+Erros | 3145109 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Nova Resende | 3145109 | 2015 | ?
+Erros | 3145109 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Nova Resende | 3145109 | 2016 | ?
+Erros | 3145109 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Nova Resende | 3145109 | 2017 | ?
+Erros | 3145109 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Nova Resende | 3145109 | 2018 | ?
+Erros | 3145109 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Nova Resende | 3145109 | 2019 | ?
+Erros | 3145109 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Nova Resende | 3145109 | 2020 | ?
+_iesData.POP | 4621.0
+_iesData.IN024_AE | 99.98
+indICE | 100.0
+_iesData.IN024_AE | 99.98
+_iesData.ES005 | 162.3
+_iesData.ES006 | 134.0
+_iesData.POP | 4621.0
+indITE | 100.0
+_iesData.CT | 567.54
+_iesData.ES005 | 162.3
+t | 0.00158479400818146
+result | 790.548464054447
+indISE | 100.0
+Novo Oriente de Minas | 3145356 | 2015 | 100.0
+_iesData.POP | 4635.0
+_iesData.IN024_AE | 78.19
+indICE | 78.19
+_iesData.IN024_AE | 78.19
+_iesData.ES005 | 182.39
+_iesData.ES006 | 145.23
+_iesData.POP | 4635.0
+indITE | 100.0
+_iesData.CT | 567.54
+_iesData.ES005 | 182.39
+t | 0.00135736168558176
+result | 836.8692234499804
+indISE | 100.0
+Novo Oriente de Minas | 3145356 | 2016 | 92.73
+_iesData.POP | 4648.0
+_iesData.IN024_AE | 88.21
+indICE | 100.0
+_iesData.IN024_AE | 88.21
+_iesData.ES005 | 154.17
+_iesData.ES006 | 100.2
+_iesData.POP | 4648.0
+indITE | 100.0
+_iesData.CT | 567.54
+_iesData.ES005 | 154.17
+t | 0.00235328136165514
+result | 554.4548244657765
+indISE | 100.0
+Novo Oriente de Minas | 3145356 | 2017 | 100.0
+_iesData.POP | 4589.0
+_iesData.IN024_AE | 86.86
+indICE | 100.0
+_iesData.IN024_AE | 86.86
+_iesData.ES005 | 179.67
+_iesData.ES006 | 147.32
+_iesData.POP | 4589.0
+indITE | 100.0
+_iesData.CT | 567.54
+_iesData.ES005 | 179.67
+t | 0.00270188724018827
+result | 426.27335502053296
+indISE | 100.0
+Novo Oriente de Minas | 3145356 | 2018 | 100.0
+_iesData.POP | 4599.0
+_iesData.IN024_AE | 71.58
+indICE | 71.58
+_iesData.IN024_AE | 71.58
+_iesData.ES005 | 182.67
+_iesData.ES006 | 152.21
+_iesData.POP | 4599.0
+indITE | 100.0
+_iesData.CT | 567.54
+_iesData.ES005 | 182.67
+t | 0.00566597360814503
+result | 200.64310185140377
+indISE | 100.0
+Novo Oriente de Minas | 3145356 | 2019 | 90.52666666666666
+_iesData.POP | 4609.0
+_iesData.IN024_AE | 88.96
+indICE | 100.0
+_iesData.IN024_AE | 88.96
+_iesData.ES005 | 139.97
+_iesData.ES006 | 116.63
+_iesData.POP | 4609.0
+indITE | 100.0
+_iesData.CT | 567.54
+_iesData.ES005 | 139.97
+t | 0.0068276348397609
+result | 205.7310732332793
+indISE | 100.0
+Novo Oriente de Minas | 3145356 | 2020 | 100.0
+Erros | 3145372 | 2015 | [esgotoModel.CT]
+Novorizonte | 3145372 | 2015 | ?
+Erros | 3145372 | 2016 | [esgotoModel.CT]
+Novorizonte | 3145372 | 2016 | ?
+Erros | 3145372 | 2017 | [esgotoModel.CT]
+Novorizonte | 3145372 | 2017 | ?
+Erros | 3145372 | 2018 | [esgotoModel.CT]
+Novorizonte | 3145372 | 2018 | ?
+Erros | 3145372 | 2019 | [esgotoModel.CT]
+Novorizonte | 3145372 | 2019 | ?
+Erros | 3145372 | 2020 | [esgotoModel.CT]
+Novorizonte | 3145372 | 2020 | ?
+Erros | 3145406 | 2015 | [esgotoModel.CT]
+Olaria | 3145406 | 2015 | ?
+Erros | 3145406 | 2016 | [esgotoModel.CT]
+Olaria | 3145406 | 2016 | ?
+Erros | 3145406 | 2017 | [esgotoModel.CT]
+Olaria | 3145406 | 2017 | ?
+Erros | 3145406 | 2018 | [esgotoModel.CT]
+Olaria | 3145406 | 2018 | ?
+Erros | 3145406 | 2019 | [esgotoModel.CT]
+Olaria | 3145406 | 2019 | ?
+Erros | 3145406 | 2020 | [esgotoModel.CT]
+Olaria | 3145406 | 2020 | ?
+Erros | 3145455 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Olhos-d Água | 3145455 | 2015 | ?
+Erros | 3145455 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Olhos-d Água | 3145455 | 2016 | ?
+Erros | 3145455 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Olhos-d Água | 3145455 | 2017 | ?
+Erros | 3145455 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Olhos-d Água | 3145455 | 2018 | ?
+Erros | 3145455 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Olhos-d Água | 3145455 | 2019 | ?
+Erros | 3145455 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Olhos-d Água | 3145455 | 2020 | ?
+Erros | 3145455 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Olhos-D ÁGUA | 3145455 | 2015 | ?
+Erros | 3145455 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Olhos-D ÁGUA | 3145455 | 2016 | ?
+Erros | 3145455 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Olhos-D ÁGUA | 3145455 | 2017 | ?
+Erros | 3145455 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Olhos-D ÁGUA | 3145455 | 2018 | ?
+Erros | 3145455 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Olhos-D ÁGUA | 3145455 | 2019 | ?
+Erros | 3145455 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Olhos-D ÁGUA | 3145455 | 2020 | ?
+Erros | 3145505 | 2015 | [esgotoModel.CT]
+Olímpio Noronha | 3145505 | 2015 | ?
+Erros | 3145505 | 2016 | [esgotoModel.CT]
+Olímpio Noronha | 3145505 | 2016 | ?
+Erros | 3145505 | 2017 | [esgotoModel.CT]
+Olímpio Noronha | 3145505 | 2017 | ?
+Erros | 3145505 | 2018 | [esgotoModel.CT]
+Olímpio Noronha | 3145505 | 2018 | ?
+Erros | 3145505 | 2019 | [esgotoModel.CT]
+Olímpio Noronha | 3145505 | 2019 | ?
+Erros | 3145505 | 2020 | [esgotoModel.CT]
+Olímpio Noronha | 3145505 | 2020 | ?
+Erros | 3145703 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Oliveira Fortes | 3145703 | 2015 | ?
+Erros | 3145703 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Oliveira Fortes | 3145703 | 2016 | ?
+Erros | 3145703 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Oliveira Fortes | 3145703 | 2017 | ?
+Erros | 3145703 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Oliveira Fortes | 3145703 | 2018 | ?
+Erros | 3145703 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Oliveira Fortes | 3145703 | 2019 | ?
+Erros | 3145703 | 2020 | [esgotoModel.CT]
+Oliveira Fortes | 3145703 | 2020 | ?
+Erros | 3145877 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Orizânia | 3145877 | 2015 | ?
+Erros | 3145877 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Orizânia | 3145877 | 2016 | ?
+Erros | 3145877 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Orizânia | 3145877 | 2017 | ?
+Erros | 3145877 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Orizânia | 3145877 | 2018 | ?
+Erros | 3145877 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Orizânia | 3145877 | 2019 | ?
+Erros | 3145877 | 2020 | [esgotoModel.CT]
+Orizânia | 3145877 | 2020 | ?
+Erros | 3146503 | 2015 | [esgotoModel.CT]
+Pains | 3146503 | 2015 | ?
+Erros | 3146503 | 2016 | [esgotoModel.CT]
+Pains | 3146503 | 2016 | ?
+Erros | 3146503 | 2017 | [esgotoModel.CT]
+Pains | 3146503 | 2017 | ?
+Erros | 3146503 | 2018 | [esgotoModel.CT]
+Pains | 3146503 | 2018 | ?
+Erros | 3146503 | 2019 | [esgotoModel.CT]
+Pains | 3146503 | 2019 | ?
+Erros | 3146503 | 2020 | [esgotoModel.CT]
+Pains | 3146503 | 2020 | ?
+Erros | 3146701 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Palma | 3146701 | 2015 | ?
+Erros | 3146701 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Palma | 3146701 | 2016 | ?
+Erros | 3146701 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Palma | 3146701 | 2017 | ?
+Erros | 3146701 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Palma | 3146701 | 2018 | ?
+Erros | 3146701 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Palma | 3146701 | 2019 | ?
+Erros | 3146701 | 2020 | [esgotoModel.CT]
+Palma | 3146701 | 2020 | ?
+Erros | 3147709 | 2015 | [esgotoModel.CT]
+Passa Tempo | 3147709 | 2015 | ?
+Erros | 3147709 | 2016 | [esgotoModel.CT]
+Passa Tempo | 3147709 | 2016 | ?
+Erros | 3147709 | 2017 | [esgotoModel.CT]
+Passa Tempo | 3147709 | 2017 | ?
+Erros | 3147709 | 2018 | [esgotoModel.CT]
+Passa Tempo | 3147709 | 2018 | ?
+Erros | 3147709 | 2019 | [esgotoModel.CT]
+Passa Tempo | 3147709 | 2019 | ?
+Erros | 3147709 | 2020 | [esgotoModel.CT]
+Passa Tempo | 3147709 | 2020 | ?
+Erros | 3147808 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Passa-Vinte | 3147808 | 2015 | ?
+Erros | 3147808 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Passa-Vinte | 3147808 | 2016 | ?
+Erros | 3147808 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Passa-Vinte | 3147808 | 2017 | ?
+Erros | 3147808 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Passa-Vinte | 3147808 | 2018 | ?
+Erros | 3147808 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Passa-Vinte | 3147808 | 2019 | ?
+Erros | 3147808 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Passa-Vinte | 3147808 | 2020 | ?
+Erros | 3148301 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Paula Cândido | 3148301 | 2015 | ?
+Erros | 3148301 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Paula Cândido | 3148301 | 2016 | ?
+Erros | 3148301 | 2017 | [esgotoModel.CT]
+Paula Cândido | 3148301 | 2017 | ?
+Erros | 3148301 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Paula Cândido | 3148301 | 2018 | ?
+Erros | 3148301 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Paula Cândido | 3148301 | 2019 | ?
+Erros | 3148301 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Paula Cândido | 3148301 | 2020 | ?
+Erros | 3149150 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Pedras de Maria da Cruz | 3149150 | 2015 | ?
+Erros | 3149150 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Pedras de Maria da Cruz | 3149150 | 2016 | ?
+Erros | 3149150 | 2017 | [esgotoModel.CT]
+Pedras de Maria da Cruz | 3149150 | 2017 | ?
+Erros | 3149150 | 2018 | [esgotoModel.CT]
+Pedras de Maria da Cruz | 3149150 | 2018 | ?
+Erros | 3149150 | 2019 | [esgotoModel.CT]
+Pedras de Maria da Cruz | 3149150 | 2019 | ?
+Erros | 3149150 | 2020 | [esgotoModel.CT]
+Pedras de Maria da Cruz | 3149150 | 2020 | ?
+Erros | 3149606 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Pequi | 3149606 | 2015 | ?
+Erros | 3149606 | 2016 | [esgotoModel.CT]
+Pequi | 3149606 | 2016 | ?
+Erros | 3149606 | 2017 | [esgotoModel.CT]
+Pequi | 3149606 | 2017 | ?
+Erros | 3149606 | 2018 | [esgotoModel.CT]
+Pequi | 3149606 | 2018 | ?
+Erros | 3149606 | 2019 | [esgotoModel.CT]
+Pequi | 3149606 | 2019 | ?
+Erros | 3149606 | 2020 | [esgotoModel.CT]
+Pequi | 3149606 | 2020 | ?
+Erros | 3150307 | 2015 | [esgotoModel.CT]
+Piedade do Rio Grande | 3150307 | 2015 | ?
+Erros | 3150307 | 2016 | [esgotoModel.CT]
+Piedade do Rio Grande | 3150307 | 2016 | ?
+Erros | 3150307 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Piedade do Rio Grande | 3150307 | 2017 | ?
+Erros | 3150307 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Piedade do Rio Grande | 3150307 | 2018 | ?
+Erros | 3150307 | 2019 | [esgotoModel.CT]
+Piedade do Rio Grande | 3150307 | 2019 | ?
+Erros | 3150307 | 2020 | [esgotoModel.CT]
+Piedade do Rio Grande | 3150307 | 2020 | ?
+Erros | 3150406 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Piedade dos Gerais | 3150406 | 2015 | ?
+Erros | 3150406 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Piedade dos Gerais | 3150406 | 2016 | ?
+Erros | 3150406 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Piedade dos Gerais | 3150406 | 2017 | ?
+Erros | 3150406 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Piedade dos Gerais | 3150406 | 2018 | ?
+Erros | 3150406 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Piedade dos Gerais | 3150406 | 2019 | ?
+Erros | 3150406 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Piedade dos Gerais | 3150406 | 2020 | ?
+Erros | 3150604 | 2015 | [esgotoModel.CT]
+Piracema | 3150604 | 2015 | ?
+Erros | 3150604 | 2016 | [esgotoModel.CT]
+Piracema | 3150604 | 2016 | ?
+Erros | 3150604 | 2017 | [esgotoModel.CT]
+Piracema | 3150604 | 2017 | ?
+Erros | 3150604 | 2018 | [esgotoModel.CT]
+Piracema | 3150604 | 2018 | ?
+Erros | 3150604 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Piracema | 3150604 | 2019 | ?
+Erros | 3150604 | 2020 | [esgotoModel.CT]
+Piracema | 3150604 | 2020 | ?
+Erros | 3151305 | 2015 | [esgotoModel.CT]
+Piraúba | 3151305 | 2015 | ?
+Erros | 3151305 | 2016 | [esgotoModel.CT]
+Piraúba | 3151305 | 2016 | ?
+Erros | 3151305 | 2017 | [esgotoModel.CT]
+Piraúba | 3151305 | 2017 | ?
+Erros | 3151305 | 2018 | [esgotoModel.CT]
+Piraúba | 3151305 | 2018 | ?
+Erros | 3151305 | 2019 | [esgotoModel.CT]
+Piraúba | 3151305 | 2019 | ?
+Erros | 3151305 | 2020 | [esgotoModel.CT]
+Piraúba | 3151305 | 2020 | ?
+Erros | 3152131 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ponto Chique | 3152131 | 2015 | ?
+Erros | 3152131 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ponto Chique | 3152131 | 2016 | ?
+Erros | 3152131 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ponto Chique | 3152131 | 2017 | ?
+Erros | 3152131 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ponto Chique | 3152131 | 2018 | ?
+Erros | 3152131 | 2019 | [esgotoModel.CT]
+Ponto Chique | 3152131 | 2019 | ?
+Erros | 3152131 | 2020 | [esgotoModel.CT]
+Ponto Chique | 3152131 | 2020 | ?
+Erros | 3152170 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ponto dos Volantes | 3152170 | 2015 | ?
+Erros | 3152170 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ponto dos Volantes | 3152170 | 2016 | ?
+Erros | 3152170 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ponto dos Volantes | 3152170 | 2017 | ?
+Erros | 3152170 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ponto dos Volantes | 3152170 | 2018 | ?
+Erros | 3152170 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ponto dos Volantes | 3152170 | 2019 | ?
+Erros | 3152170 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ponto dos Volantes | 3152170 | 2020 | ?
+Erros | 3152600 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Pouso Alto | 3152600 | 2015 | ?
+Erros | 3152600 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Pouso Alto | 3152600 | 2016 | ?
+Erros | 3152600 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Pouso Alto | 3152600 | 2017 | ?
+Erros | 3152600 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Pouso Alto | 3152600 | 2018 | ?
+Erros | 3152600 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Pouso Alto | 3152600 | 2019 | ?
+Erros | 3152600 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Pouso Alto | 3152600 | 2020 | ?
+Erros | 3153004 | 2015 | [esgotoModel.CT]
+Pratinha | 3153004 | 2015 | ?
+Erros | 3153004 | 2016 | [esgotoModel.CT]
+Pratinha | 3153004 | 2016 | ?
+Erros | 3153004 | 2017 | [esgotoModel.CT]
+Pratinha | 3153004 | 2017 | ?
+Erros | 3153004 | 2018 | [esgotoModel.CT]
+Pratinha | 3153004 | 2018 | ?
+Erros | 3153004 | 2019 | [esgotoModel.CT]
+Pratinha | 3153004 | 2019 | ?
+Erros | 3153004 | 2020 | [esgotoModel.CT]
+Pratinha | 3153004 | 2020 | ?
+Erros | 3153707 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Quartel Geral | 3153707 | 2015 | ?
+Erros | 3153707 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Quartel Geral | 3153707 | 2016 | ?
+Erros | 3153707 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Quartel Geral | 3153707 | 2017 | ?
+Erros | 3153707 | 2018 | [esgotoModel.CT]
+Quartel Geral | 3153707 | 2018 | ?
+Erros | 3153707 | 2019 | [esgotoModel.CT]
+Quartel Geral | 3153707 | 2019 | ?
+Erros | 3153707 | 2020 | [esgotoModel.CT]
+Quartel Geral | 3153707 | 2020 | ?
+Erros | 3154200 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Resende Costa | 3154200 | 2015 | ?
+Erros | 3154200 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Resende Costa | 3154200 | 2016 | ?
+_iesData.POP | 9304.0
+_iesData.IN024_AE | 30.75
+indICE | 0.0
+_iesData.IN024_AE | 30.75
+_iesData.ES005 | 74.96
+_iesData.ES006 | 74.96
+_iesData.POP | 9304.0
+indITE | 100.0
+_iesData.CT | 599.07
+_iesData.ES005 | 74.96
+t | 0.00296676760047543
+result | 701.6071607563979
+indISE | 100.0
+Resende Costa | 3154200 | 2017 | 66.66666666666667
+_iesData.POP | 9215.0
+_iesData.IN024_AE | 34.77
+indICE | 0.0
+_iesData.IN024_AE | 34.77
+_iesData.ES005 | 118.14
+_iesData.ES006 | 118.14
+_iesData.POP | 9215.0
+indITE | 100.0
+_iesData.CT | 599.07
+_iesData.ES005 | 118.14
+t | 0.00284085306881265
+result | 572.297487801253
+indISE | 100.0
+Resende Costa | 3154200 | 2018 | 66.66666666666667
+_iesData.POP | 9248.0
+_iesData.IN024_AE | 38.38
+indICE | 0.0
+_iesData.IN024_AE | 38.38
+_iesData.ES005 | 136.91
+_iesData.ES006 | 136.91
+_iesData.POP | 9248.0
+indITE | 100.0
+_iesData.CT | 599.07
+_iesData.ES005 | 136.91
+t | 0.00375086658057655
+result | 394.26120873028697
+indISE | 100.0
+Resende Costa | 3154200 | 2019 | 66.66666666666667
+_iesData.POP | 9280.0
+_iesData.IN024_AE | 39.4
+indICE | 0.0
+_iesData.IN024_AE | 39.4
+_iesData.ES005 | 146.6
+_iesData.ES006 | 146.6
+_iesData.POP | 9280.0
+indITE | 100.0
+_iesData.CT | 599.07
+_iesData.ES005 | 146.6
+t | 0.00385235323285582
+result | 366.10878151298084
+indISE | 100.0
+Resende Costa | 3154200 | 2020 | 66.66666666666667
+_iesData.POP | 4642.0
+_iesData.IN024_AE | 52.76
+indICE | 52.76
+_iesData.IN024_AE | 52.76
+_iesData.ES005 | 82.58
+_iesData.ES006 | 81.88
+_iesData.POP | 4642.0
+indITE | 100.0
+_iesData.CT | 216.2958
+_iesData.ES005 | 82.58
+t | -0.00167997589143687
+result | -572.6691472197036
+indISE | 0.0
+Riacho dos Machados | 3154507 | 2015 | 50.919999999999995
+_iesData.POP | 4646.0
+_iesData.IN024_AE | 53.55
+indICE | 53.55
+_iesData.IN024_AE | 53.55
+_iesData.ES005 | 79.29
+_iesData.ES006 | 79.29
+_iesData.POP | 4646.0
+indITE | 100.0
+_iesData.CT | 216.2958
+_iesData.ES005 | 79.29
+t | -0.00197327146454263
+result | -508.0621022925601
+indISE | 0.0
+Riacho dos Machados | 3154507 | 2016 | 51.18333333333334
+_iesData.POP | 4649.0
+_iesData.IN024_AE | 55.43
+indICE | 55.43
+_iesData.IN024_AE | 55.43
+_iesData.ES005 | 82.87
+_iesData.ES006 | 82.87
+_iesData.POP | 4649.0
+indITE | 100.0
+_iesData.CT | 216.2958
+_iesData.ES005 | 82.87
+t | -0.000559219286908719
+result | -1715.0794826132617
+indISE | 0.0
+Riacho dos Machados | 3154507 | 2017 | 51.81
+_iesData.POP | 4560.0
+_iesData.IN024_AE | 57.26
+indICE | 57.26
+_iesData.IN024_AE | 57.26
+_iesData.ES005 | 85.04
+_iesData.ES006 | 85.04
+_iesData.POP | 4560.0
+indITE | 100.0
+_iesData.CT | 216.2958
+_iesData.ES005 | 85.04
+t | 0.000377205920974344
+result | 2475.309065656761
+indISE | 100.0
+Riacho dos Machados | 3154507 | 2018 | 85.75333333333333
+_iesData.POP | 4557.0
+_iesData.IN024_AE | 57.12
+indICE | 57.12
+_iesData.IN024_AE | 57.12
+_iesData.ES005 | 86.99
+_iesData.ES006 | 86.99
+_iesData.POP | 4557.0
+indITE | 100.0
+_iesData.CT | 216.2958
+_iesData.ES005 | 86.99
+t | 0.00466295605557265
+result | 195.79333877968145
+indISE | 100.0
+Riacho dos Machados | 3154507 | 2019 | 85.70666666666666
+_iesData.POP | 4555.0
+_iesData.IN024_AE | 58.68
+indICE | 58.68
+_iesData.IN024_AE | 58.68
+_iesData.ES005 | 87.89
+_iesData.ES006 | 87.89
+_iesData.POP | 4555.0
+indITE | 100.0
+_iesData.CT | 216.2958
+_iesData.ES005 | 87.89
+t | 0.00637657953308612
+result | 141.67926320199513
+indISE | 100.0
+Riacho dos Machados | 3154507 | 2020 | 86.22666666666667
+Erros | 3154804 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Rio Acima | 3154804 | 2015 | ?
+Erros | 3154804 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Rio Acima | 3154804 | 2016 | ?
+Erros | 3154804 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Rio Acima | 3154804 | 2017 | ?
+Erros | 3154804 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Rio Acima | 3154804 | 2018 | ?
+Erros | 3154804 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Rio Acima | 3154804 | 2019 | ?
+Erros | 3154804 | 2020 | [esgotoModel.CT]
+Rio Acima | 3154804 | 2020 | ?
+Erros | 3155108 | 2015 | [esgotoModel.CT]
+Rio do Prado | 3155108 | 2015 | ?
+Erros | 3155108 | 2016 | [esgotoModel.CT]
+Rio do Prado | 3155108 | 2016 | ?
+Erros | 3155108 | 2017 | [esgotoModel.CT]
+Rio do Prado | 3155108 | 2017 | ?
+Erros | 3155108 | 2018 | [esgotoModel.CT]
+Rio do Prado | 3155108 | 2018 | ?
+Erros | 3155108 | 2019 | [esgotoModel.CT]
+Rio do Prado | 3155108 | 2019 | ?
+Erros | 3155108 | 2020 | [esgotoModel.CT]
+Rio do Prado | 3155108 | 2020 | ?
+Erros | 3155900 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Rio Preto | 3155900 | 2015 | ?
+Erros | 3155900 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Rio Preto | 3155900 | 2016 | ?
+Erros | 3155900 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Rio Preto | 3155900 | 2017 | ?
+Erros | 3155900 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Rio Preto | 3155900 | 2018 | ?
+Erros | 3155900 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Rio Preto | 3155900 | 2019 | ?
+Erros | 3155900 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Rio Preto | 3155900 | 2020 | ?
+Erros | 3156106 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ritápolis | 3156106 | 2015 | ?
+Erros | 3156106 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ritápolis | 3156106 | 2016 | ?
+Erros | 3156106 | 2017 | [esgotoModel.CT]
+Ritápolis | 3156106 | 2017 | ?
+Erros | 3156106 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ritápolis | 3156106 | 2018 | ?
+Erros | 3156106 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ritápolis | 3156106 | 2019 | ?
+Erros | 3156106 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ritápolis | 3156106 | 2020 | ?
+Erros | 3156205 | 2015 | [esgotoModel.CT]
+Rochedo de Minas | 3156205 | 2015 | ?
+Erros | 3156205 | 2016 | [esgotoModel.CT]
+Rochedo de Minas | 3156205 | 2016 | ?
+Erros | 3156205 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Rochedo de Minas | 3156205 | 2017 | ?
+Erros | 3156205 | 2018 | [esgotoModel.CT]
+Rochedo de Minas | 3156205 | 2018 | ?
+Erros | 3156205 | 2019 | [esgotoModel.CT]
+Rochedo de Minas | 3156205 | 2019 | ?
+Erros | 3156205 | 2020 | [esgotoModel.CT]
+Rochedo de Minas | 3156205 | 2020 | ?
+Erros | 3157401 | 2015 | [esgotoModel.CT]
+Santa Cruz do Escalvado | 3157401 | 2015 | ?
+Erros | 3157401 | 2016 | [esgotoModel.CT]
+Santa Cruz do Escalvado | 3157401 | 2016 | ?
+Erros | 3157401 | 2017 | [esgotoModel.CT]
+Santa Cruz do Escalvado | 3157401 | 2017 | ?
+Erros | 3157401 | 2018 | [esgotoModel.CT]
+Santa Cruz do Escalvado | 3157401 | 2018 | ?
+Erros | 3157401 | 2019 | [esgotoModel.CT]
+Santa Cruz do Escalvado | 3157401 | 2019 | ?
+Erros | 3157401 | 2020 | [esgotoModel.CT]
+Santa Cruz do Escalvado | 3157401 | 2020 | ?
+Erros | 3158102 | 2015 | [esgotoModel.CT]
+Santa Maria do Salto | 3158102 | 2015 | ?
+Erros | 3158102 | 2016 | [esgotoModel.CT]
+Santa Maria do Salto | 3158102 | 2016 | ?
+Erros | 3158102 | 2017 | [esgotoModel.CT]
+Santa Maria do Salto | 3158102 | 2017 | ?
+Erros | 3158102 | 2018 | [esgotoModel.CT]
+Santa Maria do Salto | 3158102 | 2018 | ?
+Erros | 3158102 | 2019 | [esgotoModel.CT]
+Santa Maria do Salto | 3158102 | 2019 | ?
+Erros | 3158102 | 2020 | [esgotoModel.CT]
+Santa Maria do Salto | 3158102 | 2020 | ?
+Erros | 3158300 | 2015 | [esgotoModel.CT]
+Santana da Vargem | 3158300 | 2015 | ?
+Erros | 3158300 | 2016 | [esgotoModel.CT]
+Santana da Vargem | 3158300 | 2016 | ?
+Erros | 3158300 | 2017 | [esgotoModel.CT]
+Santana da Vargem | 3158300 | 2017 | ?
+Erros | 3158300 | 2018 | [esgotoModel.CT]
+Santana da Vargem | 3158300 | 2018 | ?
+Erros | 3158300 | 2019 | [esgotoModel.CT]
+Santana da Vargem | 3158300 | 2019 | ?
+Erros | 3158300 | 2020 | [esgotoModel.CT]
+Santana da Vargem | 3158300 | 2020 | ?
+Erros | 3158607 | 2015 | [snisModel.IN024_AE, esgotoModel.CT]
+Santana do Deserto | 3158607 | 2015 | ?
+Erros | 3158607 | 2016 | [snisModel.IN024_AE, esgotoModel.CT]
+Santana do Deserto | 3158607 | 2016 | ?
+Erros | 3158607 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santana do Deserto | 3158607 | 2017 | ?
+Erros | 3158607 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santana do Deserto | 3158607 | 2018 | ?
+Erros | 3158607 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santana do Deserto | 3158607 | 2019 | ?
+Erros | 3158607 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santana do Deserto | 3158607 | 2020 | ?
+Erros | 3158706 | 2015 | [esgotoModel.CT]
+Santana do Garambéu | 3158706 | 2015 | ?
+Erros | 3158706 | 2016 | [esgotoModel.CT]
+Santana do Garambéu | 3158706 | 2016 | ?
+Erros | 3158706 | 2017 | [esgotoModel.CT]
+Santana do Garambéu | 3158706 | 2017 | ?
+Erros | 3158706 | 2018 | [esgotoModel.CT]
+Santana do Garambéu | 3158706 | 2018 | ?
+Erros | 3158706 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santana do Garambéu | 3158706 | 2019 | ?
+Erros | 3158706 | 2020 | [esgotoModel.CT]
+Santana do Garambéu | 3158706 | 2020 | ?
+Erros | 3159308 | 2015 | [esgotoModel.CT]
+Santa Rita de Jacutinga | 3159308 | 2015 | ?
+Erros | 3159308 | 2016 | [esgotoModel.CT]
+Santa Rita de Jacutinga | 3159308 | 2016 | ?
+Erros | 3159308 | 2017 | [esgotoModel.CT]
+Santa Rita de Jacutinga | 3159308 | 2017 | ?
+Erros | 3159308 | 2018 | [esgotoModel.CT]
+Santa Rita de Jacutinga | 3159308 | 2018 | ?
+Erros | 3159308 | 2019 | [esgotoModel.CT]
+Santa Rita de Jacutinga | 3159308 | 2019 | ?
+Erros | 3159308 | 2020 | [esgotoModel.CT]
+Santa Rita de Jacutinga | 3159308 | 2020 | ?
+Erros | 3159704 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santa Rosa da Serra | 3159704 | 2015 | ?
+Erros | 3159704 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santa Rosa da Serra | 3159704 | 2016 | ?
+Erros | 3159704 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santa Rosa da Serra | 3159704 | 2017 | ?
+Erros | 3159704 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santa Rosa da Serra | 3159704 | 2018 | ?
+Erros | 3159704 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santa Rosa da Serra | 3159704 | 2019 | ?
+Erros | 3159704 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santa Rosa da Serra | 3159704 | 2020 | ?
+Erros | 3160108 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santo Antônio do Grama | 3160108 | 2015 | ?
+Erros | 3160108 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santo Antônio do Grama | 3160108 | 2016 | ?
+Erros | 3160108 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santo Antônio do Grama | 3160108 | 2017 | ?
+Erros | 3160108 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santo Antônio do Grama | 3160108 | 2018 | ?
+Erros | 3160108 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santo Antônio do Grama | 3160108 | 2019 | ?
+Erros | 3160108 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santo Antônio do Grama | 3160108 | 2020 | ?
+Erros | 3160306 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santo Antônio do Jacinto | 3160306 | 2015 | ?
+Erros | 3160306 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santo Antônio do Jacinto | 3160306 | 2016 | ?
+Erros | 3160306 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Santo Antônio do Jacinto | 3160306 | 2017 | ?
+Erros | 3160306 | 2018 | [esgotoModel.CT]
+Santo Antônio do Jacinto | 3160306 | 2018 | ?
+Erros | 3160306 | 2019 | [esgotoModel.CT]
+Santo Antônio do Jacinto | 3160306 | 2019 | ?
+Erros | 3160306 | 2020 | [esgotoModel.CT]
+Santo Antônio do Jacinto | 3160306 | 2020 | ?
+Erros | 3160454 | 2015 | [esgotoModel.CT]
+Santo Antônio do Retiro | 3160454 | 2015 | ?
+Erros | 3160454 | 2016 | [esgotoModel.CT]
+Santo Antônio do Retiro | 3160454 | 2016 | ?
+Erros | 3160454 | 2017 | [esgotoModel.CT]
+Santo Antônio do Retiro | 3160454 | 2017 | ?
+Erros | 3160454 | 2018 | [esgotoModel.CT]
+Santo Antônio do Retiro | 3160454 | 2018 | ?
+Erros | 3160454 | 2019 | [esgotoModel.CT]
+Santo Antônio do Retiro | 3160454 | 2019 | ?
+Erros | 3160454 | 2020 | [esgotoModel.CT]
+Santo Antônio do Retiro | 3160454 | 2020 | ?
+Erros | 3160801 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São Bento Abade | 3160801 | 2015 | ?
+Erros | 3160801 | 2016 | [esgotoModel.CT]
+São Bento Abade | 3160801 | 2016 | ?
+Erros | 3160801 | 2017 | [esgotoModel.CT]
+São Bento Abade | 3160801 | 2017 | ?
+Erros | 3160801 | 2018 | [esgotoModel.CT]
+São Bento Abade | 3160801 | 2018 | ?
+Erros | 3160801 | 2019 | [esgotoModel.CT]
+São Bento Abade | 3160801 | 2019 | ?
+Erros | 3160801 | 2020 | [esgotoModel.CT]
+São Bento Abade | 3160801 | 2020 | ?
+Erros | 3161809 | 2015 | [esgotoModel.CT]
+São Gonçalo do Pará | 3161809 | 2015 | ?
+Erros | 3161809 | 2016 | [esgotoModel.CT]
+São Gonçalo do Pará | 3161809 | 2016 | ?
+Erros | 3161809 | 2017 | [esgotoModel.CT]
+São Gonçalo do Pará | 3161809 | 2017 | ?
+Erros | 3161809 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São Gonçalo do Pará | 3161809 | 2018 | ?
+Erros | 3161809 | 2019 | [esgotoModel.CT]
+São Gonçalo do Pará | 3161809 | 2019 | ?
+Erros | 3161809 | 2020 | [esgotoModel.CT]
+São Gonçalo do Pará | 3161809 | 2020 | ?
+Erros | 3161908 | 2015 | [esgotoModel.CT]
+São Gonçalo do Rio Abaixo | 3161908 | 2015 | ?
+Erros | 3161908 | 2016 | [esgotoModel.CT]
+São Gonçalo do Rio Abaixo | 3161908 | 2016 | ?
+Erros | 3161908 | 2017 | [esgotoModel.CT]
+São Gonçalo do Rio Abaixo | 3161908 | 2017 | ?
+Erros | 3161908 | 2018 | [esgotoModel.CT]
+São Gonçalo do Rio Abaixo | 3161908 | 2018 | ?
+Erros | 3161908 | 2019 | [esgotoModel.CT]
+São Gonçalo do Rio Abaixo | 3161908 | 2019 | ?
+Erros | 3161908 | 2020 | [esgotoModel.CT]
+São Gonçalo do Rio Abaixo | 3161908 | 2020 | ?
+Erros | 3162252 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São João da Lagoa | 3162252 | 2015 | ?
+Erros | 3162252 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São João da Lagoa | 3162252 | 2016 | ?
+Erros | 3162252 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São João da Lagoa | 3162252 | 2017 | ?
+Erros | 3162252 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São João da Lagoa | 3162252 | 2018 | ?
+Erros | 3162252 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São João da Lagoa | 3162252 | 2019 | ?
+Erros | 3162252 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São João da Lagoa | 3162252 | 2020 | ?
+Erros | 3162302 | 2015 | [esgotoModel.CT]
+São João da Mata | 3162302 | 2015 | ?
+Erros | 3162302 | 2016 | [esgotoModel.CT]
+São João da Mata | 3162302 | 2016 | ?
+Erros | 3162302 | 2017 | [esgotoModel.CT]
+São João da Mata | 3162302 | 2017 | ?
+Erros | 3162302 | 2018 | [esgotoModel.CT]
+São João da Mata | 3162302 | 2018 | ?
+Erros | 3162302 | 2019 | [esgotoModel.CT]
+São João da Mata | 3162302 | 2019 | ?
+Erros | 3162302 | 2020 | [esgotoModel.CT]
+São João da Mata | 3162302 | 2020 | ?
+Erros | 3162450 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São João das Missões | 3162450 | 2015 | ?
+Erros | 3162450 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São João das Missões | 3162450 | 2016 | ?
+Erros | 3162450 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São João das Missões | 3162450 | 2017 | ?
+Erros | 3162450 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São João das Missões | 3162450 | 2018 | ?
+Erros | 3162450 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São João das Missões | 3162450 | 2019 | ?
+Erros | 3162450 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São João das Missões | 3162450 | 2020 | ?
+Erros | 3162948 | 2015 | [esgotoModel.CT]
+São José da Barra | 3162948 | 2015 | ?
+Erros | 3162948 | 2016 | [esgotoModel.CT]
+São José da Barra | 3162948 | 2016 | ?
+Erros | 3162948 | 2017 | [esgotoModel.CT]
+São José da Barra | 3162948 | 2017 | ?
+Erros | 3162948 | 2018 | [esgotoModel.CT]
+São José da Barra | 3162948 | 2018 | ?
+Erros | 3162948 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São José da Barra | 3162948 | 2019 | ?
+Erros | 3162948 | 2020 | [esgotoModel.CT]
+São José da Barra | 3162948 | 2020 | ?
+Erros | 3163300 | 2015 | [esgotoModel.CT]
+São José do Divino | 3163300 | 2015 | ?
+Erros | 3163300 | 2016 | [esgotoModel.CT]
+São José do Divino | 3163300 | 2016 | ?
+Erros | 3163300 | 2017 | [esgotoModel.CT]
+São José do Divino | 3163300 | 2017 | ?
+Erros | 3163300 | 2018 | [esgotoModel.CT]
+São José do Divino | 3163300 | 2018 | ?
+_iesData.POP | 2743.0
+_iesData.IN024_AE | 75.39
+indICE | 75.39
+_iesData.IN024_AE | 75.39
+_iesData.ES005 | 87.76
+_iesData.ES006 | 55.82
+_iesData.POP | 2743.0
+indITE | 100.0
+_iesData.CT | 157.65
+_iesData.ES005 | 87.76
+t | 0.00395122938068782
+result | 148.54315247156498
+indISE | 100.0
+São José do Divino | 3163300 | 2019 | 91.79666666666667
+_iesData.POP | 2741.0
+_iesData.IN024_AE | 78.95
+indICE | 78.95
+_iesData.IN024_AE | 78.95
+_iesData.ES005 | 61.66
+_iesData.ES006 | 39.22
+_iesData.POP | 2741.0
+indITE | 100.0
+_iesData.CT | 157.65
+_iesData.ES005 | 61.66
+t | 0.00559066543441977
+result | 168.3813192608299
+indISE | 100.0
+São José do Divino | 3163300 | 2020 | 92.98333333333333
+Erros | 3163904 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São Pedro da União | 3163904 | 2015 | ?
+Erros | 3163904 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São Pedro da União | 3163904 | 2016 | ?
+Erros | 3163904 | 2017 | [esgotoModel.CT]
+São Pedro da União | 3163904 | 2017 | ?
+Erros | 3163904 | 2018 | [esgotoModel.CT]
+São Pedro da União | 3163904 | 2018 | ?
+Erros | 3163904 | 2019 | [esgotoModel.CT]
+São Pedro da União | 3163904 | 2019 | ?
+Erros | 3163904 | 2020 | [esgotoModel.CT]
+São Pedro da União | 3163904 | 2020 | ?
+_iesData.POP | 4442.0
+_iesData.IN024_AE | 81.81
+indICE | 81.81
+_iesData.IN024_AE | 81.81
+_iesData.ES005 | 175.87
+_iesData.ES006 | 175.87
+_iesData.POP | 4442.0
+indITE | 100.0
+_iesData.CT | 346.83
+_iesData.ES005 | 175.87
+t | 0.00328250247293194
+result | 207.22104985573984
+indISE | 100.0
+São Roque de Minas | 3164308 | 2015 | 93.93666666666667
+_iesData.POP | 4461.0
+_iesData.IN024_AE | 83.86
+indICE | 83.86
+_iesData.IN024_AE | 83.86
+_iesData.ES005 | 183.54
+_iesData.ES006 | 183.54
+_iesData.POP | 4461.0
+indITE | 100.0
+_iesData.CT | 346.83
+_iesData.ES005 | 183.54
+t | 0.00309902739088153
+result | 205.6734722947067
+indISE | 100.0
+São Roque de Minas | 3164308 | 2016 | 94.62
+_iesData.POP | 4478.0
+_iesData.IN024_AE | 81.73
+indICE | 81.73
+_iesData.IN024_AE | 81.73
+_iesData.ES005 | 183.12
+_iesData.ES006 | 183.12
+_iesData.POP | 4478.0
+indITE | 100.0
+_iesData.CT | 346.83
+_iesData.ES005 | 183.12
+t | 0.0029949319348026
+result | 213.57714601985876
+indISE | 100.0
+São Roque de Minas | 3164308 | 2017 | 93.91000000000001
+_iesData.POP | 4437.0
+_iesData.IN024_AE | 82.83
+indICE | 82.83
+_iesData.IN024_AE | 82.83
+_iesData.ES005 | 185.54
+_iesData.ES006 | 182.01
+_iesData.POP | 4437.0
+indITE | 100.0
+_iesData.CT | 346.83
+_iesData.ES005 | 185.54
+t | 0.00297455240125766
+result | 210.61796730485528
+indISE | 100.0
+São Roque de Minas | 3164308 | 2018 | 94.27666666666666
+_iesData.POP | 4452.0
+_iesData.IN024_AE | 83.45
+indICE | 83.45
+_iesData.IN024_AE | 83.45
+_iesData.ES005 | 193.13
+_iesData.ES006 | 188.85
+_iesData.POP | 4452.0
+indITE | 100.0
+_iesData.CT | 346.83
+_iesData.ES005 | 193.13
+t | 0.00365987536319978
+result | 160.26281617992802
+indISE | 100.0
+São Roque de Minas | 3164308 | 2019 | 94.48333333333333
+_iesData.POP | 4468.0
+_iesData.IN024_AE | 82.79
+indICE | 82.79
+_iesData.IN024_AE | 82.79
+_iesData.ES005 | 193.57
+_iesData.ES006 | 189.4
+_iesData.POP | 4468.0
+indITE | 100.0
+_iesData.CT | 346.83
+_iesData.ES005 | 193.57
+t | 0.00370338946457216
+result | 157.7675755098234
+indISE | 100.0
+São Roque de Minas | 3164308 | 2020 | 94.26333333333334
+Erros | 3164407 | 2015 | [esgotoModel.CT]
+São Sebastião da Bela Vista | 3164407 | 2015 | ?
+Erros | 3164407 | 2016 | [esgotoModel.CT]
+São Sebastião da Bela Vista | 3164407 | 2016 | ?
+Erros | 3164407 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São Sebastião da Bela Vista | 3164407 | 2017 | ?
+Erros | 3164407 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São Sebastião da Bela Vista | 3164407 | 2018 | ?
+Erros | 3164407 | 2019 | [esgotoModel.CT]
+São Sebastião da Bela Vista | 3164407 | 2019 | ?
+Erros | 3164407 | 2020 | [esgotoModel.CT]
+São Sebastião da Bela Vista | 3164407 | 2020 | ?
+Erros | 3164605 | 2015 | [esgotoModel.CT]
+São Sebastião do Oeste | 3164605 | 2015 | ?
+Erros | 3164605 | 2016 | [esgotoModel.CT]
+São Sebastião do Oeste | 3164605 | 2016 | ?
+Erros | 3164605 | 2017 | [esgotoModel.CT]
+São Sebastião do Oeste | 3164605 | 2017 | ?
+Erros | 3164605 | 2018 | [esgotoModel.CT]
+São Sebastião do Oeste | 3164605 | 2018 | ?
+Erros | 3164605 | 2019 | [esgotoModel.CT]
+São Sebastião do Oeste | 3164605 | 2019 | ?
+Erros | 3164605 | 2020 | [esgotoModel.CT]
+São Sebastião do Oeste | 3164605 | 2020 | ?
+Erros | 3164902 | 2015 | [esgotoModel.CT]
+São Sebastião do Rio Verde | 3164902 | 2015 | ?
+Erros | 3164902 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São Sebastião do Rio Verde | 3164902 | 2016 | ?
+Erros | 3164902 | 2017 | [esgotoModel.CT]
+São Sebastião do Rio Verde | 3164902 | 2017 | ?
+Erros | 3164902 | 2018 | [esgotoModel.CT]
+São Sebastião do Rio Verde | 3164902 | 2018 | ?
+Erros | 3164902 | 2019 | [esgotoModel.CT]
+São Sebastião do Rio Verde | 3164902 | 2019 | ?
+Erros | 3164902 | 2020 | [esgotoModel.CT]
+São Sebastião do Rio Verde | 3164902 | 2020 | ?
+Erros | 3165107 | 2015 | [esgotoModel.CT]
+São Tomás de Aquino | 3165107 | 2015 | ?
+Erros | 3165107 | 2016 | [esgotoModel.CT]
+São Tomás de Aquino | 3165107 | 2016 | ?
+Erros | 3165107 | 2017 | [esgotoModel.CT]
+São Tomás de Aquino | 3165107 | 2017 | ?
+Erros | 3165107 | 2018 | [esgotoModel.CT]
+São Tomás de Aquino | 3165107 | 2018 | ?
+Erros | 3165107 | 2019 | [esgotoModel.CT]
+São Tomás de Aquino | 3165107 | 2019 | ?
+Erros | 3165107 | 2020 | [esgotoModel.CT]
+São Tomás de Aquino | 3165107 | 2020 | ?
+Erros | 3165206 | 2015 | [esgotoModel.CT]
+São Thomé das Letras | 3165206 | 2015 | ?
+Erros | 3165206 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São Thomé das Letras | 3165206 | 2016 | ?
+Erros | 3165206 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+São Thomé das Letras | 3165206 | 2017 | ?
+Erros | 3165206 | 2018 | [esgotoModel.CT]
+São Thomé das Letras | 3165206 | 2018 | ?
+Erros | 3165206 | 2019 | [esgotoModel.CT]
+São Thomé das Letras | 3165206 | 2019 | ?
+Erros | 3165206 | 2020 | [esgotoModel.CT]
+São Thomé das Letras | 3165206 | 2020 | ?
+Erros | 3165552 | 2015 | [esgotoModel.CT]
+Setubinha | 3165552 | 2015 | ?
+Erros | 3165552 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Setubinha | 3165552 | 2016 | ?
+Erros | 3165552 | 2017 | [esgotoModel.CT]
+Setubinha | 3165552 | 2017 | ?
+Erros | 3165552 | 2018 | [esgotoModel.CT]
+Setubinha | 3165552 | 2018 | ?
+Erros | 3165552 | 2019 | [esgotoModel.CT]
+Setubinha | 3165552 | 2019 | ?
+Erros | 3165552 | 2020 | [esgotoModel.CT]
+Setubinha | 3165552 | 2020 | ?
+Erros | 3165578 | 2015 | [esgotoModel.CT]
+Senador Amaral | 3165578 | 2015 | ?
+Erros | 3165578 | 2016 | [esgotoModel.CT]
+Senador Amaral | 3165578 | 2016 | ?
+Erros | 3165578 | 2017 | [esgotoModel.CT]
+Senador Amaral | 3165578 | 2017 | ?
+Erros | 3165578 | 2018 | [esgotoModel.CT]
+Senador Amaral | 3165578 | 2018 | ?
+Erros | 3165578 | 2019 | [esgotoModel.CT]
+Senador Amaral | 3165578 | 2019 | ?
+Erros | 3165578 | 2020 | [esgotoModel.CT]
+Senador Amaral | 3165578 | 2020 | ?
+Erros | 3165602 | 2015 | [esgotoModel.CT]
+Senador Cortes | 3165602 | 2015 | ?
+Erros | 3165602 | 2016 | [esgotoModel.CT]
+Senador Cortes | 3165602 | 2016 | ?
+Erros | 3165602 | 2017 | [esgotoModel.CT]
+Senador Cortes | 3165602 | 2017 | ?
+Erros | 3165602 | 2018 | [esgotoModel.CT]
+Senador Cortes | 3165602 | 2018 | ?
+Erros | 3165602 | 2019 | [esgotoModel.CT]
+Senador Cortes | 3165602 | 2019 | ?
+Erros | 3165602 | 2020 | [esgotoModel.CT]
+Senador Cortes | 3165602 | 2020 | ?
+Erros | 3165909 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Senador Modestino Gonçalves | 3165909 | 2015 | ?
+Erros | 3165909 | 2016 | [esgotoModel.CT]
+Senador Modestino Gonçalves | 3165909 | 2016 | ?
+Erros | 3165909 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Senador Modestino Gonçalves | 3165909 | 2017 | ?
+Erros | 3165909 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Senador Modestino Gonçalves | 3165909 | 2018 | ?
+Erros | 3165909 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Senador Modestino Gonçalves | 3165909 | 2019 | ?
+Erros | 3165909 | 2020 | [esgotoModel.CT]
+Senador Modestino Gonçalves | 3165909 | 2020 | ?
+Erros | 3166402 | 2015 | [esgotoModel.CT]
+Seritinga | 3166402 | 2015 | ?
+Erros | 3166402 | 2016 | [esgotoModel.CT]
+Seritinga | 3166402 | 2016 | ?
+Erros | 3166402 | 2017 | [esgotoModel.CT]
+Seritinga | 3166402 | 2017 | ?
+Erros | 3166402 | 2018 | [esgotoModel.CT]
+Seritinga | 3166402 | 2018 | ?
+Erros | 3166402 | 2019 | [esgotoModel.CT]
+Seritinga | 3166402 | 2019 | ?
+Erros | 3166402 | 2020 | [esgotoModel.CT]
+Seritinga | 3166402 | 2020 | ?
+Erros | 3167400 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Silvianópolis | 3167400 | 2015 | ?
+Erros | 3167400 | 2016 | [esgotoModel.CT]
+Silvianópolis | 3167400 | 2016 | ?
+Erros | 3167400 | 2017 | [esgotoModel.CT]
+Silvianópolis | 3167400 | 2017 | ?
+Erros | 3167400 | 2018 | [esgotoModel.CT]
+Silvianópolis | 3167400 | 2018 | ?
+Erros | 3167400 | 2019 | [esgotoModel.CT]
+Silvianópolis | 3167400 | 2019 | ?
+Erros | 3167400 | 2020 | [esgotoModel.CT]
+Silvianópolis | 3167400 | 2020 | ?
+Erros | 3167806 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Soledade de Minas | 3167806 | 2015 | ?
+Erros | 3167806 | 2016 | [esgotoModel.CT]
+Soledade de Minas | 3167806 | 2016 | ?
+Erros | 3167806 | 2017 | [esgotoModel.CT]
+Soledade de Minas | 3167806 | 2017 | ?
+Erros | 3167806 | 2018 | [esgotoModel.CT]
+Soledade de Minas | 3167806 | 2018 | ?
+Erros | 3167806 | 2019 | [esgotoModel.CT]
+Soledade de Minas | 3167806 | 2019 | ?
+Erros | 3167806 | 2020 | [esgotoModel.CT]
+Soledade de Minas | 3167806 | 2020 | ?
+Erros | 3168200 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Tapiraí | 3168200 | 2015 | ?
+Erros | 3168200 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Tapiraí | 3168200 | 2016 | ?
+Erros | 3168200 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Tapiraí | 3168200 | 2017 | ?
+Erros | 3168200 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Tapiraí | 3168200 | 2018 | ?
+Erros | 3168200 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Tapiraí | 3168200 | 2019 | ?
+Erros | 3168200 | 2020 | [esgotoModel.CT]
+Tapiraí | 3168200 | 2020 | ?
+Erros | 3168507 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Teixeiras | 3168507 | 2015 | ?
+Erros | 3168507 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Teixeiras | 3168507 | 2016 | ?
+Erros | 3168507 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Teixeiras | 3168507 | 2017 | ?
+Erros | 3168507 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Teixeiras | 3168507 | 2018 | ?
+Erros | 3168507 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Teixeiras | 3168507 | 2019 | ?
+Erros | 3168507 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Teixeiras | 3168507 | 2020 | ?
+Erros | 3169000 | 2015 | [esgotoModel.CT]
+Tocantins | 3169000 | 2015 | ?
+Erros | 3169000 | 2016 | [esgotoModel.CT]
+Tocantins | 3169000 | 2016 | ?
+Erros | 3169000 | 2017 | [esgotoModel.CT]
+Tocantins | 3169000 | 2017 | ?
+Erros | 3169000 | 2018 | [esgotoModel.CT]
+Tocantins | 3169000 | 2018 | ?
+Erros | 3169000 | 2019 | [esgotoModel.CT]
+Tocantins | 3169000 | 2019 | ?
+Erros | 3169000 | 2020 | [esgotoModel.CT]
+Tocantins | 3169000 | 2020 | ?
+Erros | 3170008 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ubaí | 3170008 | 2015 | ?
+Erros | 3170008 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ubaí | 3170008 | 2016 | ?
+Erros | 3170008 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ubaí | 3170008 | 2017 | ?
+Erros | 3170008 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ubaí | 3170008 | 2018 | ?
+Erros | 3170008 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ubaí | 3170008 | 2019 | ?
+Erros | 3170008 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Ubaí | 3170008 | 2020 | ?
+Erros | 3170479 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Uruana de Minas | 3170479 | 2015 | ?
+Erros | 3170479 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Uruana de Minas | 3170479 | 2016 | ?
+Erros | 3170479 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Uruana de Minas | 3170479 | 2017 | ?
+Erros | 3170479 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Uruana de Minas | 3170479 | 2018 | ?
+Erros | 3170479 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Uruana de Minas | 3170479 | 2019 | ?
+Erros | 3170479 | 2020 | [esgotoModel.CT]
+Uruana de Minas | 3170479 | 2020 | ?
+Erros | 3170602 | 2015 | [esgotoModel.CT]
+Vargem Bonita | 3170602 | 2015 | ?
+Erros | 3170602 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Vargem Bonita | 3170602 | 2016 | ?
+Erros | 3170602 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Vargem Bonita | 3170602 | 2017 | ?
+Erros | 3170602 | 2018 | [esgotoModel.CT]
+Vargem Bonita | 3170602 | 2018 | ?
+Erros | 3170602 | 2019 | [esgotoModel.CT]
+Vargem Bonita | 3170602 | 2019 | ?
+Erros | 3170602 | 2020 | [esgotoModel.CT]
+Vargem Bonita | 3170602 | 2020 | ?
+Erros | 3171501 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Mathias Lobato | 3171501 | 2015 | ?
+Erros | 3171501 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Mathias Lobato | 3171501 | 2016 | ?
+Erros | 3171501 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Mathias Lobato | 3171501 | 2017 | ?
+Erros | 3171501 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Mathias Lobato | 3171501 | 2018 | ?
+Erros | 3171501 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Mathias Lobato | 3171501 | 2019 | ?
+Erros | 3171501 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Mathias Lobato | 3171501 | 2020 | ?
+Erros | 3171808 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Virgolândia | 3171808 | 2015 | ?
+Erros | 3171808 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Virgolândia | 3171808 | 2016 | ?
+Erros | 3171808 | 2017 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Virgolândia | 3171808 | 2017 | ?
+Erros | 3171808 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Virgolândia | 3171808 | 2018 | ?
+Erros | 3171808 | 2019 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Virgolândia | 3171808 | 2019 | ?
+Erros | 3171808 | 2020 | [esgotoModel.CT]
+Virgolândia | 3171808 | 2020 | ?
+Erros | 3172202 | 2015 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Wenceslau Braz | 3172202 | 2015 | ?
+Erros | 3172202 | 2016 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Wenceslau Braz | 3172202 | 2016 | ?
+Erros | 3172202 | 2017 | [esgotoModel.CT]
+Wenceslau Braz | 3172202 | 2017 | ?
+Erros | 3172202 | 2018 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Wenceslau Braz | 3172202 | 2018 | ?
+Erros | 3172202 | 2019 | [esgotoModel.CT]
+Wenceslau Braz | 3172202 | 2019 | ?
+Erros | 3172202 | 2020 | [snisModel.IN024_AE, snisModel.ES005, snisModel.ES006, esgotoModel.CT]
+Wenceslau Braz | 3172202 | 2020 | ?

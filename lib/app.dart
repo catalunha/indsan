@@ -139,7 +139,7 @@ indIES(List<MunModel> munList, List<int> yearList,
   print('Calculando indIES');
   IndIES indIES = IndIES();
 
-  var fileOpenAllCalcs = createFile('ies_allCalcs');
+  var fileOpenAllCalcs = createFile('ies', sufix: 'allCalcs');
   var fileOpen = createFile('ies');
   for (var mun in munList) {
     for (var year in yearList) {
@@ -158,11 +158,11 @@ indIES(List<MunModel> munList, List<int> yearList,
   fileOpen.close();
 }
 
-IOSink createFile(String ind) {
-  final dateFormat = DateFormat('yMMddHHmm');
+IOSink createFile(String ind, {String? sufix}) {
+  final dateFormat = DateFormat('yMMdd-HHmm');
 
   var pathFileName =
-      'lib/calcs/${ind}_${dateFormat.format(DateTime.now())}.txt';
+      'lib/calcs/${ind}_${dateFormat.format(DateTime.now())}${sufix != null ? "_$sufix" : ""}.txt';
   if (File(pathFileName).existsSync()) File(pathFileName).deleteSync();
   var fileOpen = File(pathFileName).openWrite(mode: FileMode.append);
   fileOpen.writeln('MunicipioNome | MunicipioCodigo | Ano | $ind');
