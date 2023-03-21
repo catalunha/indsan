@@ -19,7 +19,7 @@ void app() async {
   // await indStore.updateANA(update: true);
   // await indStore.updateMUN(update: true);
   // await indStore.updateSNIS(update: true);
-  // await indStore.updateT(update: true);
+  await indStore.updateT(update: true);
   // await indStore.updateEsgoto(update: true);
   // await indStore.updateResiduos(update: true);
   // await indStore.updateDengue(update: true);
